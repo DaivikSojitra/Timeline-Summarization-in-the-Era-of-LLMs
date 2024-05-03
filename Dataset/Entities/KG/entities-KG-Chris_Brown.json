@@ -1,0 +1,6554 @@
+[
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": " "
+  },
+  {
+    "head": "World War II",
+    "type": "has effect",
+    "tail": "Holocaust",
+    "date": " "
+  },
+  {
+    "head": "World War I",
+    "type": "followed by",
+    "tail": "World War II",
+    "date": " "
+  },
+  {
+    "head": "World War II",
+    "type": "follows",
+    "tail": "World War I",
+    "date": " "
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": " "
+  },
+  {
+    "head": "World War II",
+    "type": "has effect",
+    "tail": "Holocaust",
+    "date": " "
+  },
+  {
+    "head": "World War I",
+    "type": "followed by",
+    "tail": "World War II",
+    "date": " "
+  },
+  {
+    "head": "World War II",
+    "type": "follows",
+    "tail": "World War I",
+    "date": " "
+  },
+  {
+    "head": "Noel Robinson",
+    "type": "record label",
+    "tail": "NU Life",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Steve Sutherland",
+    "type": "occupation",
+    "tail": "DJ",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Noel Robinson",
+    "type": "member of",
+    "tail": "NU Life",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Mawene",
+    "type": "member of sports team",
+    "tail": "Sheffield Wednesday",
+    "date": "2008-01-30"
+  },
+  {
+    "head": "Brown",
+    "type": "member of sports team",
+    "tail": "Sheffield Wednesday",
+    "date": "2008-01-30"
+  },
+  {
+    "head": "Mawene",
+    "type": "member of sports team",
+    "tail": "Preston",
+    "date": "2008-01-30"
+  },
+  {
+    "head": "Brown",
+    "type": "member of sports team",
+    "tail": "Preston",
+    "date": "2008-01-30"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2008-06-22"
+  },
+  {
+    "head": "the couple",
+    "type": "has part",
+    "tail": "Brown",
+    "date": "2008-06-22"
+  },
+  {
+    "head": "the couple",
+    "type": "spouse",
+    "tail": "Brown",
+    "date": "2008-06-22"
+  },
+  {
+    "head": "Rihanna",
+    "type": "spouse",
+    "tail": "Chris Brown",
+    "date": "2008-09-11"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "spouse",
+    "tail": "Rihanna",
+    "date": "2008-09-11"
+  },
+  {
+    "head": "altercation",
+    "type": "participant",
+    "tail": "Rihanna",
+    "date": "2008-09-11"
+  },
+  {
+    "head": "altercation",
+    "type": "participant",
+    "tail": "Chris Brown",
+    "date": "2008-09-11"
+  },
+  {
+    "head": "Shock Value II",
+    "type": "follows",
+    "tail": "Graffiti",
+    "date": "2008-12-08"
+  },
+  {
+    "head": "Graffiti",
+    "type": "followed by",
+    "tail": "Shock Value II",
+    "date": "2008-12-08"
+  },
+  {
+    "head": "NIA",
+    "type": "located in the administrative territorial entity",
+    "tail": "Birmingham",
+    "date": "2009-01-04"
+  },
+  {
+    "head": "O2 Arena",
+    "type": "located in the administrative territorial entity",
+    "tail": "London",
+    "date": "2009-01-04"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "home venue",
+    "tail": "O2 Arena",
+    "date": "2009-01-04"
+  },
+  {
+    "head": "O2 Arena",
+    "type": "occupant",
+    "tail": "Chris Brown",
+    "date": "2009-01-04"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "uses",
+    "tail": "O2 Arena",
+    "date": "2009-01-04"
+  },
+  {
+    "head": "O2 Arena",
+    "type": "located in the administrative territorial entity",
+    "tail": "London",
+    "date": "2009-01-04"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "home venue",
+    "tail": "O2 Arena",
+    "date": "2009-01-04"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "home venue",
+    "tail": "O2 Arena, London",
+    "date": "2009-01-04"
+  },
+  {
+    "head": "The Glee Club, Birmingham, Tuesday 13th",
+    "type": "narrative location",
+    "tail": "Birmingham",
+    "date": "2009-01-06"
+  },
+  {
+    "head": "The Glee Club",
+    "type": "narrative location",
+    "tail": "Birmingham",
+    "date": "2009-01-06"
+  },
+  {
+    "head": "The Glee Club, Birmingham, Tuesday 13th",
+    "type": "has part",
+    "tail": "The Glee Club, Birmingham, Tuesday 13th",
+    "date": "2009-01-06"
+  },
+  {
+    "head": "O2 Academy",
+    "type": "location",
+    "tail": "Bristol",
+    "date": "2009-01-06"
+  },
+  {
+    "head": "O2 Academy",
+    "type": "located in the administrative territorial entity",
+    "tail": "Bristol",
+    "date": "2009-01-06"
+  },
+  {
+    "head": "Lemon Grove",
+    "type": "located in the administrative territorial entity",
+    "tail": "Exeter",
+    "date": "2009-01-06"
+  },
+  {
+    "head": "Buzzcocks O2 Academy",
+    "type": "location",
+    "tail": "Bristol",
+    "date": "2009-01-07"
+  },
+  {
+    "head": "Buzzcocks",
+    "type": "home venue",
+    "tail": "O2 Academy",
+    "date": "2009-01-07"
+  },
+  {
+    "head": "Buzzcocks",
+    "type": "home venue",
+    "tail": "O2 Academy, Bristol",
+    "date": "2009-01-07"
+  },
+  {
+    "head": "Goldie Lookin Chain",
+    "type": "record label",
+    "tail": "W1",
+    "date": "2009-01-07"
+  },
+  {
+    "head": "Goldie Lookin Chain",
+    "type": "country of origin",
+    "tail": "Welsh",
+    "date": "2009-01-07"
+  },
+  {
+    "head": "Goldie Lookin Chain",
+    "type": "country of citizenship",
+    "tail": "Welsh",
+    "date": "2009-01-07"
+  },
+  {
+    "head": "Welsh",
+    "type": "capital",
+    "tail": "London",
+    "date": "2009-01-07"
+  },
+  {
+    "head": "Goldie Lookin Chain Metro Club",
+    "type": "location",
+    "tail": "London",
+    "date": "2009-01-07"
+  },
+  {
+    "head": "Goldie Lookin Chain Metro Club",
+    "type": "location of formation",
+    "tail": "London",
+    "date": "2009-01-07"
+  },
+  {
+    "head": "Corn Exchange",
+    "type": "location",
+    "tail": "Cambridge",
+    "date": "2009-01-07"
+  },
+  {
+    "head": "Richard Thompson Anvil",
+    "type": "located in the administrative territorial entity",
+    "tail": "Basingstoke",
+    "date": "2009-01-07"
+  },
+  {
+    "head": "Corn Exchange",
+    "type": "located in the administrative territorial entity",
+    "tail": "Cambridge",
+    "date": "2009-01-07"
+  },
+  {
+    "head": "The Luminaire",
+    "type": "located in the administrative territorial entity",
+    "tail": "London",
+    "date": "2009-01-08"
+  },
+  {
+    "head": "The Luminaire",
+    "type": "location",
+    "tail": "London",
+    "date": "2009-01-08"
+  },
+  {
+    "head": "Naomi The Luminaire",
+    "type": "location",
+    "tail": "London",
+    "date": "2009-01-08"
+  },
+  {
+    "head": "Corn Exchange",
+    "type": "location",
+    "tail": "Cambridge",
+    "date": "2009-01-08"
+  },
+  {
+    "head": "Corn Exchange",
+    "type": "located in the administrative territorial entity",
+    "tail": "Cambridge",
+    "date": "2009-01-08"
+  },
+  {
+    "head": "Richard Thompson Barbican Hall",
+    "type": "located in the administrative territorial entity",
+    "tail": "London",
+    "date": "2009-01-08"
+  },
+  {
+    "head": "The Luminaire",
+    "type": "located in the administrative territorial entity",
+    "tail": "NW6",
+    "date": "2009-01-08"
+  },
+  {
+    "head": "The Luminaire",
+    "type": "located on street",
+    "tail": "NW6",
+    "date": "2009-01-08"
+  },
+  {
+    "head": "The Luminaire",
+    "type": "location",
+    "tail": "NW6",
+    "date": "2009-01-08"
+  },
+  {
+    "head": "Barbican Hall",
+    "type": "part of",
+    "tail": "EC2",
+    "date": "2009-01-08"
+  },
+  {
+    "head": "EC2",
+    "type": "has part",
+    "tail": "Barbican Hall",
+    "date": "2009-01-08"
+  },
+  {
+    "head": "Barbican Hall",
+    "type": "located in the administrative territorial entity",
+    "tail": "EC2",
+    "date": "2009-01-08"
+  },
+  {
+    "head": "The Luminaire",
+    "type": "located in the administrative territorial entity",
+    "tail": "London",
+    "date": "2009-01-08"
+  },
+  {
+    "head": "Luminaire",
+    "type": "located in the administrative territorial entity",
+    "tail": "London",
+    "date": "2009-01-08"
+  },
+  {
+    "head": "The Luminaire",
+    "type": "location",
+    "tail": "London",
+    "date": "2009-01-08"
+  },
+  {
+    "head": "Tonight",
+    "type": "main subject",
+    "tail": "1,000 years of song",
+    "date": "2009-01-10"
+  },
+  {
+    "head": "Tonight",
+    "type": "instance of",
+    "tail": "song",
+    "date": "2009-01-10"
+  },
+  {
+    "head": "Tonight",
+    "type": "based on",
+    "tail": "1,000 years of song",
+    "date": "2009-01-10"
+  },
+  {
+    "head": "The Windmill",
+    "type": "location",
+    "tail": "Jonquil",
+    "date": "2009-01-10"
+  },
+  {
+    "head": "Jonquil The Windmill",
+    "type": "location",
+    "tail": "SW2",
+    "date": "2009-01-10"
+  },
+  {
+    "head": "The Windmill",
+    "type": "located in the administrative territorial entity",
+    "tail": "Jonquil",
+    "date": "2009-01-10"
+  },
+  {
+    "head": "Tonight",
+    "type": "main subject",
+    "tail": "1,000 years",
+    "date": "2009-01-10"
+  },
+  {
+    "head": "Songs from the past 1,000 years",
+    "type": "main subject",
+    "tail": "1,000 years",
+    "date": "2009-01-10"
+  },
+  {
+    "head": "Songs from the past 1,000 years",
+    "type": "facet of",
+    "tail": "1,000 years",
+    "date": "2009-01-10"
+  },
+  {
+    "head": "R&B",
+    "type": "subclass of",
+    "tail": "tunes",
+    "date": "2009-01-10"
+  },
+  {
+    "head": "super - cute tunes",
+    "type": "genre",
+    "tail": "R&B",
+    "date": "2009-01-10"
+  },
+  {
+    "head": "R&B",
+    "type": "has part",
+    "tail": "singer",
+    "date": "2009-01-10"
+  },
+  {
+    "head": "Rihanna",
+    "type": "occupation",
+    "tail": "date",
+    "date": "2009-01-10"
+  },
+  {
+    "head": "Rihanna",
+    "type": "notable work",
+    "tail": "All he needs now",
+    "date": "2009-01-10"
+  },
+  {
+    "head": "All he needs now",
+    "type": "performer",
+    "tail": "Rihanna",
+    "date": "2009-01-10"
+  },
+  {
+    "head": "Oxford",
+    "type": "twinned administrative body",
+    "tail": "London",
+    "date": "2009-01-10"
+  },
+  {
+    "head": "London",
+    "type": "twinned administrative body",
+    "tail": "Oxford",
+    "date": "2009-01-10"
+  },
+  {
+    "head": "shoegazey",
+    "type": "subclass of",
+    "tail": "pop",
+    "date": "2009-01-10"
+  },
+  {
+    "head": "Ride",
+    "type": "instance of",
+    "tail": "ghost",
+    "date": "2009-01-10"
+  },
+  {
+    "head": "The ghost of Ride",
+    "type": "instance of",
+    "tail": "ghost",
+    "date": "2009-01-10"
+  },
+  {
+    "head": "ghost of Ride",
+    "type": "present in work",
+    "tail": "Ride",
+    "date": "2009-01-10"
+  },
+  {
+    "head": "R&B",
+    "type": "subclass of",
+    "tail": "tunes",
+    "date": "2009-01-10"
+  },
+  {
+    "head": "R&B",
+    "type": "has part",
+    "tail": "superstar",
+    "date": "2009-01-10"
+  },
+  {
+    "head": "R&B",
+    "type": "has part",
+    "tail": "singer",
+    "date": "2009-01-10"
+  },
+  {
+    "head": "Rihanna",
+    "type": "occupation",
+    "tail": "date",
+    "date": "2009-01-10"
+  },
+  {
+    "head": "All he needs now",
+    "type": "performer",
+    "tail": "Rihanna",
+    "date": "2009-01-10"
+  },
+  {
+    "head": "Rihanna",
+    "type": "significant event",
+    "tail": "All he needs now",
+    "date": "2009-01-10"
+  },
+  {
+    "head": "The Clash",
+    "type": "part of",
+    "tail": "The Clash",
+    "date": "2009-01-13"
+  },
+  {
+    "head": "The Clash",
+    "type": "has part",
+    "tail": "The Clash",
+    "date": "2009-01-13"
+  },
+  {
+    "head": "The Clash",
+    "type": "part of",
+    "tail": "The Clash's",
+    "date": "2009-01-13"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "occupation",
+    "tail": "Prince of R&B",
+    "date": "2009-01-13"
+  },
+  {
+    "head": "Prince of R&B",
+    "type": "has part",
+    "tail": "Chris Brown",
+    "date": "2009-01-13"
+  },
+  {
+    "head": "Ne - Yo",
+    "type": "genre",
+    "tail": "R&B",
+    "date": "2009-01-13"
+  },
+  {
+    "head": "Akon",
+    "type": "genre",
+    "tail": "R&B",
+    "date": "2009-01-13"
+  },
+  {
+    "head": "Brown",
+    "type": "place of birth",
+    "tail": "Virginia",
+    "date": "2009-01-13"
+  },
+  {
+    "head": "boy - next - door",
+    "type": "subclass of",
+    "tail": "tweeny",
+    "date": "2009-01-13"
+  },
+  {
+    "head": "boy - next - door",
+    "type": "instance of",
+    "tail": "tweeny",
+    "date": "2009-01-13"
+  },
+  {
+    "head": "Indonesia",
+    "type": "capital",
+    "tail": "capital",
+    "date": "2009-02-05"
+  },
+  {
+    "head": "capital",
+    "type": "country",
+    "tail": "Indonesia",
+    "date": "2009-02-05"
+  },
+  {
+    "head": "capital",
+    "type": "capital of",
+    "tail": "Indonesia",
+    "date": "2009-02-05"
+  },
+  {
+    "head": "Jakarta",
+    "type": "country",
+    "tail": "Indonesia",
+    "date": "2009-02-05"
+  },
+  {
+    "head": "Indonesia",
+    "type": "capital",
+    "tail": "Jakarta",
+    "date": "2009-02-05"
+  },
+  {
+    "head": "Rihanna",
+    "type": "spouse",
+    "tail": "Chris Brown",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "spouse",
+    "tail": "Rihanna",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "Hancock Park",
+    "type": "located in the administrative territorial entity",
+    "tail": "Los Angeles",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "Hancock Park",
+    "type": "located in the administrative territorial entity",
+    "tail": "Los Angeles",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "Hancock Park neighbourhood",
+    "type": "located in the administrative territorial entity",
+    "tail": "Los Angeles",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "Hancock Park",
+    "type": "location",
+    "tail": "Los Angeles",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "Hancock Park",
+    "type": "located in the administrative territorial entity",
+    "tail": "LA",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "Hancock Park",
+    "type": "instance of",
+    "tail": "LA suburb",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "Police were called to the LA suburb of Hancock Park",
+    "type": "point in time",
+    "tail": "Sunday",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "Hancock Park",
+    "type": "located in the administrative territorial entity",
+    "tail": "LA",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "Rihanna",
+    "type": "residence",
+    "tail": "Hancock Park, LA",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "an assault",
+    "type": "participant",
+    "tail": "Rihanna",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "police",
+    "type": "applies to jurisdiction",
+    "tail": "Los Angeles",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "police",
+    "type": "located in the administrative territorial entity",
+    "tail": "Los Angeles",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "Los Angeles police",
+    "type": "field of work",
+    "tail": "criminal threats",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "were called to a Los Angeles neighbourhood",
+    "type": "location",
+    "tail": "Los Angeles",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "police were called to a Los Angeles neighbourhood",
+    "type": "located in the administrative territorial entity",
+    "tail": "Los Angeles",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "were called to a Los Angeles neighbourhood",
+    "type": "located in the administrative territorial entity",
+    "tail": "Los Angeles",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "assault likely to cause great bodily injury",
+    "type": "subclass of",
+    "tail": "felony",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "assault likely to cause great bodily injury",
+    "type": "subclass of",
+    "tail": "felony charges",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "felony",
+    "type": "subclass of",
+    "tail": "charges",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "incident on 8 February",
+    "type": "participant",
+    "tail": "Rihanna",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "incident",
+    "type": "participant",
+    "tail": "Rihanna",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "Rihanna",
+    "type": "spouse",
+    "tail": "Brown",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "violent altercation",
+    "type": "participant",
+    "tail": "Rihanna",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "Brown",
+    "type": "spouse",
+    "tail": "Rihanna",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "Rihanna",
+    "type": "spouse",
+    "tail": "Brown",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "were involved in an alleged violent altercation",
+    "type": "participant",
+    "tail": "Rihanna",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "Rihanna",
+    "type": "genre",
+    "tail": "R&B",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "alleged to have beaten",
+    "type": "participant",
+    "tail": "Rihanna",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "alleged to have beaten his girlfriend",
+    "type": "participant",
+    "tail": "Rihanna",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "Rihanna",
+    "type": "spouse",
+    "tail": "Brown",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "Brown",
+    "type": "spouse",
+    "tail": "Rihanna",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "events of 8 February 2009",
+    "type": "point in time",
+    "tail": "8 February 2009",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "Rihanna",
+    "type": "spouse",
+    "tail": "Brown",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "Brown",
+    "type": "spouse",
+    "tail": "Rihanna",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "the events of 8 February 2009",
+    "type": "point in time",
+    "tail": "8 February 2009",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "spouse",
+    "tail": "Rihanna",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "Rihanna",
+    "type": "spouse",
+    "tail": "Chris Brown",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "girlfriend",
+    "tail": "Rihanna",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "Rihanna",
+    "type": "employer",
+    "tail": "Los Angeles Times",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "Rihanna",
+    "type": "participant",
+    "tail": "Police",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "Rihanna",
+    "type": "participant in",
+    "tail": "Police",
+    "date": "2009-02-08"
+  },
+  {
+    "head": "The singer",
+    "type": "spouse",
+    "tail": "Chris Brown",
+    "date": "2009-02-09"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "spouse",
+    "tail": "The singer",
+    "date": "2009-02-09"
+  },
+  {
+    "head": "Rihanna",
+    "type": "spouse",
+    "tail": "Kanye West",
+    "date": "2009-02-09"
+  },
+  {
+    "head": "Kanye West",
+    "type": "spouse",
+    "tail": "Rihanna",
+    "date": "2009-02-09"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "spouse",
+    "tail": "Rihanna",
+    "date": "2009-02-09"
+  },
+  {
+    "head": "Rihanna",
+    "type": "spouse",
+    "tail": "Chris Brown",
+    "date": "2009-02-09"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "girlfriend",
+    "tail": "Rihanna",
+    "date": "2009-02-09"
+  },
+  {
+    "head": "LA Times",
+    "type": "place of publication",
+    "tail": "Los Angeles",
+    "date": "2009-02-09"
+  },
+  {
+    "head": "LA Times",
+    "type": "located in the administrative territorial entity",
+    "tail": "Los Angeles",
+    "date": "2009-02-09"
+  },
+  {
+    "head": "LA Times",
+    "type": "headquarters location",
+    "tail": "Los Angeles",
+    "date": "2009-02-09"
+  },
+  {
+    "head": "assault of his girlfriend",
+    "type": "participant",
+    "tail": "Rihanna",
+    "date": "2009-02-13"
+  },
+  {
+    "head": "assault",
+    "type": "participant",
+    "tail": "Rihanna",
+    "date": "2009-02-13"
+  },
+  {
+    "head": "assault of his girlfriend, Rihanna",
+    "type": "participant",
+    "tail": "Brown",
+    "date": "2009-02-13"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "genre",
+    "tail": "R&B",
+    "date": "2009-02-13"
+  },
+  {
+    "head": "The Tyra Banks Show",
+    "type": "cast member",
+    "tail": "Chris Brown",
+    "date": "2009-02-13"
+  },
+  {
+    "head": "his alleged assault",
+    "type": "participant",
+    "tail": "Rihanna",
+    "date": "2009-02-15"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "significant event",
+    "tail": "alleged assault of the singer Rihanna",
+    "date": "2009-02-15"
+  },
+  {
+    "head": "alleged assault of the singer Rihanna",
+    "type": "participant",
+    "tail": "Chris Brown",
+    "date": "2009-02-15"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "significant event",
+    "tail": "Rihanna",
+    "date": "2009-02-15"
+  },
+  {
+    "head": "2008 Summer Olympics",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2009-02-15"
+  },
+  {
+    "head": "2012 Olympic Games",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2009-02-15"
+  },
+  {
+    "head": "2008 Olympic Games",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2009-02-15"
+  },
+  {
+    "head": "O2 Arena",
+    "type": "located in the administrative territorial entity",
+    "tail": "London",
+    "date": "2009-02-17"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "home venue",
+    "tail": "O2 Arena",
+    "date": "2009-02-17"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "uses",
+    "tail": "O2 Arena",
+    "date": "2009-02-17"
+  },
+  {
+    "head": "TMZ",
+    "type": "country",
+    "tail": "American",
+    "date": "2009-02-19"
+  },
+  {
+    "head": "TMZ",
+    "type": "instance of",
+    "tail": "gossip site",
+    "date": "2009-02-19"
+  },
+  {
+    "head": "TMZ",
+    "type": "country of origin",
+    "tail": "American",
+    "date": "2009-02-19"
+  },
+  {
+    "head": "Rihanna",
+    "type": "genre",
+    "tail": "R&B",
+    "date": "2009-02-19"
+  },
+  {
+    "head": "Rihanna",
+    "type": "genre",
+    "tail": "R&B singer",
+    "date": "2009-02-19"
+  },
+  {
+    "head": "R&B",
+    "type": "has part",
+    "tail": "singer",
+    "date": "2009-02-19"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "genre",
+    "tail": "R&B",
+    "date": "2009-02-19"
+  },
+  {
+    "head": "an alleged assault",
+    "type": "participant",
+    "tail": "Chris Brown",
+    "date": "2009-02-19"
+  },
+  {
+    "head": "alleged assault",
+    "type": "participant",
+    "tail": "Chris Brown",
+    "date": "2009-02-19"
+  },
+  {
+    "head": "Zarif Davidson",
+    "type": "instrument",
+    "tail": "guitar",
+    "date": "2009-02-19"
+  },
+  {
+    "head": "Zarif Davidson",
+    "type": "work period (start)",
+    "tail": "23",
+    "date": "2009-02-19"
+  },
+  {
+    "head": "Zarif Davidson",
+    "type": "instrument",
+    "tail": "acoustic guitar",
+    "date": "2009-02-19"
+  },
+  {
+    "head": "The Clash",
+    "type": "has part",
+    "tail": "David Bowie",
+    "date": "2009-02-19"
+  },
+  {
+    "head": "David Bowie",
+    "type": "member of",
+    "tail": "The Clash",
+    "date": "2009-02-19"
+  },
+  {
+    "head": "David Bowie",
+    "type": "part of",
+    "tail": "The Clash",
+    "date": "2009-02-19"
+  },
+  {
+    "head": "John Cage",
+    "type": "member of",
+    "tail": "The Doors",
+    "date": "2009-02-20"
+  },
+  {
+    "head": "The Doors",
+    "type": "has part",
+    "tail": "John Cage",
+    "date": "2009-02-20"
+  },
+  {
+    "head": "John Cage",
+    "type": "member of",
+    "tail": "The Flying Burrito Brothers",
+    "date": "2009-02-20"
+  },
+  {
+    "head": "The Flying Burrito Brothers",
+    "type": "has part",
+    "tail": "John Cage",
+    "date": "2009-02-20"
+  },
+  {
+    "head": "Rihanna",
+    "type": "genre",
+    "tail": "R&B",
+    "date": "2009-02-20"
+  },
+  {
+    "head": "Rihanna",
+    "type": "genre",
+    "tail": "R&B singer",
+    "date": "2009-02-20"
+  },
+  {
+    "head": "R&B",
+    "type": "has part",
+    "tail": "singer",
+    "date": "2009-02-20"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "genre",
+    "tail": "R&B",
+    "date": "2009-02-20"
+  },
+  {
+    "head": "an alleged assault",
+    "type": "participant",
+    "tail": "Chris Brown",
+    "date": "2009-02-20"
+  },
+  {
+    "head": "alleged assault",
+    "type": "participant",
+    "tail": "Chris Brown",
+    "date": "2009-02-20"
+  },
+  {
+    "head": "Zarif Davidson",
+    "type": "instrument",
+    "tail": "guitar",
+    "date": "2009-02-20"
+  },
+  {
+    "head": "Zarif Davidson",
+    "type": "work period (start)",
+    "tail": "23",
+    "date": "2009-02-20"
+  },
+  {
+    "head": "Zarif Davidson",
+    "type": "instrument",
+    "tail": "acoustic guitar",
+    "date": "2009-02-20"
+  },
+  {
+    "head": "The Clash",
+    "type": "has part",
+    "tail": "David Bowie",
+    "date": "2009-02-20"
+  },
+  {
+    "head": "David Bowie",
+    "type": "member of",
+    "tail": "The Clash",
+    "date": "2009-02-20"
+  },
+  {
+    "head": "David Bowie",
+    "type": "part of",
+    "tail": "The Clash",
+    "date": "2009-02-20"
+  },
+  {
+    "head": "tabloid",
+    "type": "country of origin",
+    "tail": "American",
+    "date": "2009-02-21"
+  },
+  {
+    "head": "tabloid",
+    "type": "country",
+    "tail": "American",
+    "date": "2009-02-21"
+  },
+  {
+    "head": "tabloids",
+    "type": "country of origin",
+    "tail": "American",
+    "date": "2009-02-21"
+  },
+  {
+    "head": "P Diddy",
+    "type": "residence",
+    "tail": "Miami",
+    "date": "2009-03-01"
+  },
+  {
+    "head": "P Diddy",
+    "type": "place of birth",
+    "tail": "Miami",
+    "date": "2009-03-01"
+  },
+  {
+    "head": "P Diddy",
+    "type": "place of death",
+    "tail": "Miami",
+    "date": "2009-03-01"
+  },
+  {
+    "head": "Kanye West",
+    "type": "influenced by",
+    "tail": "Chris Brown",
+    "date": "2009-03-01"
+  },
+  {
+    "head": "TV special",
+    "type": "cast member",
+    "tail": "Kanye West",
+    "date": "2009-03-01"
+  },
+  {
+    "head": "TV special",
+    "type": "cast member",
+    "tail": "Chris Brown",
+    "date": "2009-03-01"
+  },
+  {
+    "head": "Kanye West",
+    "type": "member of",
+    "tail": "Radiohead",
+    "date": "2009-03-01"
+  },
+  {
+    "head": "Storytellers",
+    "type": "original broadcaster",
+    "tail": "VH1",
+    "date": "2009-03-01"
+  },
+  {
+    "head": "Kanye West",
+    "type": "notable work",
+    "tail": "VH1 Storytellers",
+    "date": "2009-03-01"
+  },
+  {
+    "head": "VH1 Storytellers",
+    "type": "cast member",
+    "tail": "Kanye West",
+    "date": "2009-03-01"
+  },
+  {
+    "head": "Beverly Wilshire Beverly Hills",
+    "type": "located in the administrative territorial entity",
+    "tail": "LA",
+    "date": "2009-03-02"
+  },
+  {
+    "head": "Beverly Wilshire Beverly Hills",
+    "type": "instance of",
+    "tail": "hotel",
+    "date": "2009-03-02"
+  },
+  {
+    "head": "Beverly Wilshire",
+    "type": "located in the administrative territorial entity",
+    "tail": "Beverly Hills",
+    "date": "2009-03-02"
+  },
+  {
+    "head": "Kanye West",
+    "type": "influenced by",
+    "tail": "Chris Brown",
+    "date": "2009-03-02"
+  },
+  {
+    "head": "TV special",
+    "type": "cast member",
+    "tail": "Kanye West",
+    "date": "2009-03-02"
+  },
+  {
+    "head": "TV special",
+    "type": "cast member",
+    "tail": "Chris Brown",
+    "date": "2009-03-02"
+  },
+  {
+    "head": "Kanye West",
+    "type": "member of",
+    "tail": "Radiohead",
+    "date": "2009-03-02"
+  },
+  {
+    "head": "Storytellers",
+    "type": "original broadcaster",
+    "tail": "VH1",
+    "date": "2009-03-02"
+  },
+  {
+    "head": "Kanye West",
+    "type": "notable work",
+    "tail": "VH1 Storytellers",
+    "date": "2009-03-02"
+  },
+  {
+    "head": "VH1 Storytellers",
+    "type": "cast member",
+    "tail": "Kanye West",
+    "date": "2009-03-02"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2009-03-05"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2009-03-05"
+  },
+  {
+    "head": "New York City Police Department",
+    "type": "applies to jurisdiction",
+    "tail": "New York City",
+    "date": "2009-03-05"
+  },
+  {
+    "head": "2009",
+    "type": "point in time",
+    "tail": "2009",
+    "date": "2009-03-05"
+  },
+  {
+    "head": "Robyn F.",
+    "type": "instance of",
+    "tail": "felony",
+    "date": "2009-03-05"
+  },
+  {
+    "head": "2008",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2009-03-05"
+  },
+  {
+    "head": "2012 provincial election",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2009-03-05"
+  },
+  {
+    "head": "2008 election",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2009-03-05"
+  },
+  {
+    "head": "R&B",
+    "type": "has part",
+    "tail": "singer",
+    "date": "2009-03-05"
+  },
+  {
+    "head": "R&B",
+    "type": "subclass of",
+    "tail": "singer",
+    "date": "2009-03-05"
+  },
+  {
+    "head": "singer",
+    "type": "subclass of",
+    "tail": "R&B",
+    "date": "2009-03-05"
+  },
+  {
+    "head": "Rihanna",
+    "type": "spouse",
+    "tail": "Chris Brown",
+    "date": "2009-03-05"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "spouse",
+    "tail": "Rihanna",
+    "date": "2009-03-05"
+  },
+  {
+    "head": "alleged assault last month",
+    "type": "participant",
+    "tail": "Rihanna",
+    "date": "2009-03-05"
+  },
+  {
+    "head": "alleged assault last month",
+    "type": "participant",
+    "tail": "Chris Brown",
+    "date": "2009-03-05"
+  },
+  {
+    "head": "Chris",
+    "type": "occupation",
+    "tail": "representative",
+    "date": "2009-03-11"
+  },
+  {
+    "head": "Chris",
+    "type": "member of",
+    "tail": "his representative",
+    "date": "2009-03-11"
+  },
+  {
+    "head": "Chris",
+    "type": "employer",
+    "tail": "his representative",
+    "date": "2009-03-11"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "genre",
+    "tail": "R&B",
+    "date": "2009-03-11"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "employer",
+    "tail": "Nickelodeon",
+    "date": "2009-03-11"
+  },
+  {
+    "head": "Nickelodeon",
+    "type": "instance of",
+    "tail": "TV network",
+    "date": "2009-03-11"
+  },
+  {
+    "head": "Kids \\' Choice",
+    "type": "original broadcaster",
+    "tail": "Nickelodeon",
+    "date": "2009-03-11"
+  },
+  {
+    "head": "Kids \\' Choice awards",
+    "type": "conferred by",
+    "tail": "Nickelodeon",
+    "date": "2009-03-11"
+  },
+  {
+    "head": "Rihanna",
+    "type": "spouse",
+    "tail": "Chris Brown",
+    "date": "2009-03-12"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "spouse",
+    "tail": "Rihanna",
+    "date": "2009-03-12"
+  },
+  {
+    "head": "reunion duet",
+    "type": "performer",
+    "tail": "Rihanna",
+    "date": "2009-03-12"
+  },
+  {
+    "head": "reunion duet",
+    "type": "performer",
+    "tail": "Chris Brown",
+    "date": "2009-03-12"
+  },
+  {
+    "head": "reunite duet",
+    "type": "performer",
+    "tail": "Rihanna",
+    "date": "2009-03-12"
+  },
+  {
+    "head": "reunite duet",
+    "type": "performer",
+    "tail": "Chris Brown",
+    "date": "2009-03-12"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "award received",
+    "tail": "Kids \\' Choice awards",
+    "date": "2009-03-12"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "award received",
+    "tail": "Kids \\' Choice Awards",
+    "date": "2009-03-12"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "award received",
+    "tail": "Kids \\' Choice",
+    "date": "2009-03-12"
+  },
+  {
+    "head": "Polow Da Don",
+    "type": "occupation",
+    "tail": "producer",
+    "date": "2009-03-12"
+  },
+  {
+    "head": "Brown was charged with two felonies",
+    "type": "participant",
+    "tail": "Rihanna",
+    "date": "2009-03-12"
+  },
+  {
+    "head": "The Sydney Morning Herald",
+    "type": "place of publication",
+    "tail": "Sydney",
+    "date": "2009-03-19"
+  },
+  {
+    "head": "Today programme",
+    "type": "narrative location",
+    "tail": "Sydney",
+    "date": "2009-03-19"
+  },
+  {
+    "head": "The Sydney Morning Herald",
+    "type": "located in the administrative territorial entity",
+    "tail": "Sydney",
+    "date": "2009-03-19"
+  },
+  {
+    "head": "Bondi Vet",
+    "type": "original broadcaster",
+    "tail": "Sky1",
+    "date": "2009-03-19"
+  },
+  {
+    "head": "Sky1",
+    "type": "country",
+    "tail": "Australia",
+    "date": "2009-03-19"
+  },
+  {
+    "head": "Sydney",
+    "type": "country",
+    "tail": "Australia",
+    "date": "2009-03-19"
+  },
+  {
+    "head": "Bondi Vet",
+    "type": "narrative location",
+    "tail": "Sydney",
+    "date": "2009-03-19"
+  },
+  {
+    "head": "Channel 10",
+    "type": "country",
+    "tail": "Australia",
+    "date": "2009-03-19"
+  },
+  {
+    "head": "Channel 10",
+    "type": "country of origin",
+    "tail": "Australia",
+    "date": "2009-03-19"
+  },
+  {
+    "head": "Australia",
+    "type": "original broadcaster",
+    "tail": "Channel 10",
+    "date": "2009-03-19"
+  },
+  {
+    "head": "Nickelodeon",
+    "type": "number of episodes",
+    "tail": "30",
+    "date": "2009-03-28"
+  },
+  {
+    "head": "MTV Video Music Awards",
+    "type": "original broadcaster",
+    "tail": "MTV",
+    "date": "2009-03-28"
+  },
+  {
+    "head": "Nickelodeon",
+    "type": "product or material produced",
+    "tail": "awards",
+    "date": "2009-03-28"
+  },
+  {
+    "head": "The awards ceremony",
+    "type": "point in time",
+    "tail": "28 March",
+    "date": "2009-03-28"
+  },
+  {
+    "head": "The awards ceremony",
+    "type": "point in time",
+    "tail": "28 March.",
+    "date": "2009-03-28"
+  },
+  {
+    "head": "The Awards ceremony",
+    "type": "point in time",
+    "tail": "28 March",
+    "date": "2009-03-28"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "spouse",
+    "tail": "Rihanna",
+    "date": "2009-04-06"
+  },
+  {
+    "head": "Rihanna",
+    "type": "spouse",
+    "tail": "Chris Brown",
+    "date": "2009-04-06"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "genre",
+    "tail": "R&B",
+    "date": "2009-04-06"
+  },
+  {
+    "head": "2012 Summer Olympics",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2009-04-06"
+  },
+  {
+    "head": "Rihanna",
+    "type": "participant in",
+    "tail": "Not present",
+    "date": "2009-04-06"
+  },
+  {
+    "head": "Not present",
+    "type": "participant",
+    "tail": "Rihanna",
+    "date": "2009-04-06"
+  },
+  {
+    "head": "Rihanna",
+    "type": "participant in",
+    "tail": "not present",
+    "date": "2009-04-06"
+  },
+  {
+    "head": "not present",
+    "type": "participant",
+    "tail": "Rihanna",
+    "date": "2009-04-06"
+  },
+  {
+    "head": "2011 provincial election",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2009-04-29"
+  },
+  {
+    "head": "2011 election",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2009-04-29"
+  },
+  {
+    "head": "2008",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2009-04-29"
+  },
+  {
+    "head": "Mark Geragos",
+    "type": "residence",
+    "tail": "Los Angeles",
+    "date": "2009-04-29"
+  },
+  {
+    "head": "Mark Geragos",
+    "type": "occupation",
+    "tail": "Attorney",
+    "date": "2009-04-29"
+  },
+  {
+    "head": "Mark Geragos",
+    "type": "work location",
+    "tail": "Los Angeles",
+    "date": "2009-04-29"
+  },
+  {
+    "head": "Leaks",
+    "type": "subclass of",
+    "tail": "misconduct",
+    "date": "2009-04-29"
+  },
+  {
+    "head": "Leaks",
+    "type": "has cause",
+    "tail": "misconduct",
+    "date": "2009-04-29"
+  },
+  {
+    "head": "misconduct",
+    "type": "has effect",
+    "tail": "Leaks",
+    "date": "2009-04-29"
+  },
+  {
+    "head": "Leaks",
+    "type": "has cause",
+    "tail": "Misconduct",
+    "date": "2009-04-29"
+  },
+  {
+    "head": "Misconduct",
+    "type": "has effect",
+    "tail": "Leaks",
+    "date": "2009-04-29"
+  },
+  {
+    "head": "Supreme Court of Justice",
+    "type": "country",
+    "tail": "United States",
+    "date": "2009-05-28"
+  },
+  {
+    "head": "Supreme Court",
+    "type": "has part",
+    "tail": "Federal Court of Appeals",
+    "date": "2009-05-28"
+  },
+  {
+    "head": "Federal Court of Appeals",
+    "type": "part of",
+    "tail": "Supreme Court",
+    "date": "2009-05-28"
+  },
+  {
+    "head": "Supreme Court",
+    "type": "replaces",
+    "tail": "Federal Court of Appeals",
+    "date": "2009-05-28"
+  },
+  {
+    "head": "Federal Court of Appeals",
+    "type": "replaced by",
+    "tail": "Supreme Court",
+    "date": "2009-05-28"
+  },
+  {
+    "head": "2008 election",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2009-05-28"
+  },
+  {
+    "head": "2011 election",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2009-05-28"
+  },
+  {
+    "head": "2012 election",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2009-05-28"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "genre",
+    "tail": "R&B",
+    "date": "2009-05-28"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "significant event",
+    "tail": "Disgraced",
+    "date": "2009-05-28"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "genre",
+    "tail": "R&B singer",
+    "date": "2009-05-28"
+  },
+  {
+    "head": "assault of Rihanna",
+    "type": "point in time",
+    "tail": "February",
+    "date": "2009-05-28"
+  },
+  {
+    "head": "assault of Rihanna",
+    "type": "participant",
+    "tail": "Rihanna",
+    "date": "2009-05-28"
+  },
+  {
+    "head": "alleged assault of Rihanna",
+    "type": "point in time",
+    "tail": "February",
+    "date": "2009-05-28"
+  },
+  {
+    "head": "Rihanna",
+    "type": "significant event",
+    "tail": "Chris Brown",
+    "date": "2009-05-28"
+  },
+  {
+    "head": "Rihanna",
+    "type": "significant event",
+    "tail": "Chris Brown case",
+    "date": "2009-05-28"
+  },
+  {
+    "head": "Chris Brown case",
+    "type": "participant",
+    "tail": "Rihanna",
+    "date": "2009-05-28"
+  },
+  {
+    "head": "community labour",
+    "type": "subclass of",
+    "tail": "supervised probation",
+    "date": "2009-06-22"
+  },
+  {
+    "head": "supervised probation",
+    "type": "subclass of",
+    "tail": "community labour",
+    "date": "2009-06-22"
+  },
+  {
+    "head": "supervised probation",
+    "type": "different from",
+    "tail": "community labour",
+    "date": "2009-06-22"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2009-08-05"
+  },
+  {
+    "head": "2008 Democratic National Convention",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2009-08-05"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2009-08-05"
+  },
+  {
+    "head": "Larry King",
+    "type": "employer",
+    "tail": "CNN",
+    "date": "2009-08-26"
+  },
+  {
+    "head": "Larry King",
+    "type": "employer",
+    "tail": "CNN \\'s",
+    "date": "2009-08-26"
+  },
+  {
+    "head": "CNN",
+    "type": "presenter",
+    "tail": "Larry King",
+    "date": "2009-08-26"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "genre",
+    "tail": "R&B",
+    "date": "2009-09-01"
+  },
+  {
+    "head": "Rihanna",
+    "type": "genre",
+    "tail": "R&B",
+    "date": "2009-09-01"
+  },
+  {
+    "head": "Rihanna",
+    "type": "participant",
+    "tail": "Chris Brown",
+    "date": "2009-09-01"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2009-09-01"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "Secretary of Defense",
+    "date": "2009-09-01"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "Secretary of State",
+    "date": "2009-09-01"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2009-09-01"
+  },
+  {
+    "head": "World War II",
+    "type": "follows",
+    "tail": "World War I",
+    "date": "2009-09-01"
+  },
+  {
+    "head": "World War I",
+    "type": "followed by",
+    "tail": "World War II",
+    "date": "2009-09-01"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "date of death",
+    "tail": "September 11, 2001",
+    "date": "2009-09-01"
+  },
+  {
+    "head": "Larry King Live",
+    "type": "production company",
+    "tail": "producers",
+    "date": "2009-09-02"
+  },
+  {
+    "head": "Larry King Live",
+    "type": "creator",
+    "tail": "producers",
+    "date": "2009-09-02"
+  },
+  {
+    "head": "Larry King Live",
+    "type": "end time",
+    "tail": "2 September",
+    "date": "2009-09-02"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2009-09-02"
+  },
+  {
+    "head": "World War II",
+    "type": "follows",
+    "tail": "World War I",
+    "date": "2009-09-02"
+  },
+  {
+    "head": "World War I",
+    "type": "followed by",
+    "tail": "World War II",
+    "date": "2009-09-02"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "date of death",
+    "tail": "September 11, 2001",
+    "date": "2009-09-02"
+  },
+  {
+    "head": "2008 Summer Olympics",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2009-09-08"
+  },
+  {
+    "head": "2012 Summer Olympics",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2009-09-08"
+  },
+  {
+    "head": "2008 Beijing Olympics",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2009-09-08"
+  },
+  {
+    "head": "News yesterday",
+    "type": "instance of",
+    "tail": "news",
+    "date": "2009-09-09"
+  },
+  {
+    "head": "News yesterday",
+    "type": "part of",
+    "tail": "News",
+    "date": "2009-09-09"
+  },
+  {
+    "head": "News yesterday",
+    "type": "part of the series",
+    "tail": "News",
+    "date": "2009-09-09"
+  },
+  {
+    "head": "tribute concert",
+    "type": "performer",
+    "tail": "Chris Brown",
+    "date": "2009-09-09"
+  },
+  {
+    "head": "tribute concert",
+    "type": "performer",
+    "tail": "Mary J Blige",
+    "date": "2009-09-09"
+  },
+  {
+    "head": "Jermaine Jackson",
+    "type": "sibling",
+    "tail": "Michael Jackson",
+    "date": "2009-09-09"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "sibling",
+    "tail": "Jermaine Jackson",
+    "date": "2009-09-09"
+  },
+  {
+    "head": "tribute concert for Michael Jackson",
+    "type": "performer",
+    "tail": "Jermaine Jackson",
+    "date": "2009-09-09"
+  },
+  {
+    "head": "Blige",
+    "type": "country of citizenship",
+    "tail": "US",
+    "date": "2009-09-09"
+  },
+  {
+    "head": "Blige",
+    "type": "member of",
+    "tail": "Brown \\'s",
+    "date": "2009-09-09"
+  },
+  {
+    "head": "Brown \\'s",
+    "type": "spouse",
+    "tail": "Blige",
+    "date": "2009-09-09"
+  },
+  {
+    "head": "Blige",
+    "type": "spouse",
+    "tail": "Brown \\'s",
+    "date": "2009-09-09"
+  },
+  {
+    "head": "We have Chris Brown!",
+    "type": "performer",
+    "tail": "Jackson",
+    "date": "2009-09-09"
+  },
+  {
+    "head": "We have Chris Brown!",
+    "type": "performer",
+    "tail": "Chris Brown",
+    "date": "2009-09-09"
+  },
+  {
+    "head": "We Have Chris Brown!",
+    "type": "performer",
+    "tail": "Jackson",
+    "date": "2009-09-09"
+  },
+  {
+    "head": "2012 Summer Olympics",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2009-09-16"
+  },
+  {
+    "head": "'***",
+    "type": "platform",
+    "tail": "Twitter",
+    "date": "2009-09-16"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "occupation",
+    "tail": "picking up rubbish",
+    "date": "2009-09-16"
+  },
+  {
+    "head": "picking up rubbish",
+    "type": "facet of",
+    "tail": "Chris Brown",
+    "date": "2009-09-16"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "different from",
+    "tail": "once - glamourous lifestyle",
+    "date": "2009-09-16"
+  },
+  {
+    "head": "once - glamourous lifestyle",
+    "type": "different from",
+    "tail": "Chris Brown",
+    "date": "2009-09-16"
+  },
+  {
+    "head": "Rihanna",
+    "type": "genre",
+    "tail": "R&B",
+    "date": "2009-09-16"
+  },
+  {
+    "head": "Rihanna",
+    "type": "genre",
+    "tail": "pop star",
+    "date": "2009-09-16"
+  },
+  {
+    "head": "assaulting the pop star Rihanna",
+    "type": "participant",
+    "tail": "Rihanna",
+    "date": "2009-09-16"
+  },
+  {
+    "head": "Michael",
+    "type": "mother",
+    "tail": "Katherine Jackson",
+    "date": "2009-09-26"
+  },
+  {
+    "head": "Michael's",
+    "type": "mother",
+    "tail": "Katherine Jackson",
+    "date": "2009-09-26"
+  },
+  {
+    "head": "Katherine Jackson",
+    "type": "child",
+    "tail": "Michael",
+    "date": "2009-09-26"
+  },
+  {
+    "head": "Rihanna",
+    "type": "influenced by",
+    "tail": "Diane Sawyer",
+    "date": "2009-10-29"
+  },
+  {
+    "head": "Good Morning America",
+    "type": "presenter",
+    "tail": "Diane Sawyer",
+    "date": "2009-10-29"
+  },
+  {
+    "head": "Good Morning America",
+    "type": "cast member",
+    "tail": "Diane Sawyer",
+    "date": "2009-10-29"
+  },
+  {
+    "head": "Woman of the Year",
+    "type": "conferred by",
+    "tail": "Glamour magazine",
+    "date": "2009-11-03"
+  },
+  {
+    "head": "Rihanna",
+    "type": "award received",
+    "tail": "Woman of the Year",
+    "date": "2009-11-03"
+  },
+  {
+    "head": "Glamour magazine",
+    "type": "has part",
+    "tail": "Woman of the Year",
+    "date": "2009-11-03"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2009-11-03"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "Secretary of Defense",
+    "date": "2009-11-03"
+  },
+  {
+    "head": "Harvard University",
+    "type": "subsidiary",
+    "tail": "John F. Kennedy School of Government",
+    "date": "2009-11-03"
+  },
+  {
+    "head": "2008 Summer Olympics",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2009-11-05"
+  },
+  {
+    "head": "the next day",
+    "type": "instance of",
+    "tail": "media chaos",
+    "date": "2009-11-05"
+  },
+  {
+    "head": "2008 Beijing Olympics",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2009-11-05"
+  },
+  {
+    "head": "her brief reconciliation with her ex - boyfriend",
+    "type": "participant",
+    "tail": "Rihanna",
+    "date": "2009-11-05"
+  },
+  {
+    "head": "her brief reconciliation with her ex - boyfriend",
+    "type": "participant",
+    "tail": "Chris Brown",
+    "date": "2009-11-05"
+  },
+  {
+    "head": "her brief reconciliation with her ex - boyfriend",
+    "type": "performer",
+    "tail": "Rihanna",
+    "date": "2009-11-05"
+  },
+  {
+    "head": "20/20",
+    "type": "presenter",
+    "tail": "Diane Sawyer",
+    "date": "2009-11-05"
+  },
+  {
+    "head": "Diane Sawyer",
+    "type": "notable work",
+    "tail": "20/20",
+    "date": "2009-11-05"
+  },
+  {
+    "head": "Rihanna",
+    "type": "performer",
+    "tail": "Rihanna",
+    "date": "2009-11-05"
+  },
+  {
+    "head": "Beyonc\u00e9 Knowles",
+    "type": "member of",
+    "tail": "Destiny's Child",
+    "date": "2009-11-05"
+  },
+  {
+    "head": "Destiny's Child",
+    "type": "has part",
+    "tail": "Beyonc\u00e9 Knowles",
+    "date": "2009-11-05"
+  },
+  {
+    "head": "Beyonc\u00e9 Knowles",
+    "type": "part of",
+    "tail": "Destiny's Child",
+    "date": "2009-11-05"
+  },
+  {
+    "head": "20/20",
+    "type": "original broadcaster",
+    "tail": "MTV",
+    "date": "2009-11-06"
+  },
+  {
+    "head": "20/20",
+    "type": "production company",
+    "tail": "MTV",
+    "date": "2009-11-06"
+  },
+  {
+    "head": "MTV",
+    "type": "owner of",
+    "tail": "20/20",
+    "date": "2009-11-06"
+  },
+  {
+    "head": "20/20",
+    "type": "owned by",
+    "tail": "MTV",
+    "date": "2009-11-06"
+  },
+  {
+    "head": "Rated R",
+    "type": "publication date",
+    "tail": "23 November",
+    "date": "2009-11-23"
+  },
+  {
+    "head": "Rated R",
+    "type": "instance of",
+    "tail": "album",
+    "date": "2009-11-23"
+  },
+  {
+    "head": "Rated R",
+    "type": "follows",
+    "tail": "Her new album",
+    "date": "2009-11-23"
+  },
+  {
+    "head": "new album",
+    "type": "performer",
+    "tail": "Rihanna",
+    "date": "2009-11-23"
+  },
+  {
+    "head": "Rihanna",
+    "type": "notable work",
+    "tail": "new album",
+    "date": "2009-11-23"
+  },
+  {
+    "head": "a new album",
+    "type": "performer",
+    "tail": "Rihanna",
+    "date": "2009-11-23"
+  },
+  {
+    "head": "2009",
+    "type": "point in time",
+    "tail": "2009",
+    "date": "2010-01-24"
+  },
+  {
+    "head": "2011",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2010-01-24"
+  },
+  {
+    "head": "2011 election",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2010-01-24"
+  },
+  {
+    "head": "incident on 8 February",
+    "type": "participant",
+    "tail": "Rihanna",
+    "date": "2010-02-08"
+  },
+  {
+    "head": "incident",
+    "type": "participant",
+    "tail": "Rihanna",
+    "date": "2010-02-08"
+  },
+  {
+    "head": "incident on 8 February",
+    "type": "facet of",
+    "tail": "Rihanna",
+    "date": "2010-02-08"
+  },
+  {
+    "head": "alleged altercation",
+    "type": "point in time",
+    "tail": "8 February",
+    "date": "2010-02-08"
+  },
+  {
+    "head": "An alleged altercation",
+    "type": "point in time",
+    "tail": "8 February",
+    "date": "2010-02-08"
+  },
+  {
+    "head": "alleged altercation",
+    "type": "instance of",
+    "tail": "alleged",
+    "date": "2010-02-08"
+  },
+  {
+    "head": "Brown allegedly assaulted her",
+    "type": "point in time",
+    "tail": "8 February",
+    "date": "2010-02-08"
+  },
+  {
+    "head": "assaulted her",
+    "type": "participant",
+    "tail": "Brown",
+    "date": "2010-02-08"
+  },
+  {
+    "head": "the events of 8 February",
+    "type": "participant",
+    "tail": "Brown",
+    "date": "2010-02-08"
+  },
+  {
+    "head": "20/20",
+    "type": "cast member",
+    "tail": "Rihanna",
+    "date": "2010-02-08"
+  },
+  {
+    "head": "20/20",
+    "type": "presenter",
+    "tail": "Rihanna",
+    "date": "2010-02-08"
+  },
+  {
+    "head": "invasion of Iraq",
+    "type": "participant",
+    "tail": "MoD",
+    "date": "2010-05-27"
+  },
+  {
+    "head": "MoD",
+    "type": "conflict",
+    "tail": "invasion of Iraq",
+    "date": "2010-05-27"
+  },
+  {
+    "head": "MoD",
+    "type": "subsidiary",
+    "tail": "army",
+    "date": "2010-05-27"
+  },
+  {
+    "head": "army",
+    "type": "parent organization",
+    "tail": "MoD",
+    "date": "2010-05-27"
+  },
+  {
+    "head": "2008 London bombings",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2010-07-02"
+  },
+  {
+    "head": "Michael Moat",
+    "type": "employer",
+    "tail": "Metropolitan Police",
+    "date": "2010-07-02"
+  },
+  {
+    "head": "Michael Fabricant",
+    "type": "employer",
+    "tail": "Metropolitan Police",
+    "date": "2010-07-02"
+  },
+  {
+    "head": "Samantha Stobbart",
+    "type": "spouse",
+    "tail": "Chris Brown",
+    "date": "2010-07-03"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "spouse",
+    "tail": "Samantha Stobbart",
+    "date": "2010-07-03"
+  },
+  {
+    "head": "shooting",
+    "type": "participant",
+    "tail": "Samantha Stobbart",
+    "date": "2010-07-03"
+  },
+  {
+    "head": "Birtley",
+    "type": "location",
+    "tail": "Gateshead",
+    "date": "2010-07-03"
+  },
+  {
+    "head": "Birtley",
+    "type": "located in the administrative territorial entity",
+    "tail": "Gateshead",
+    "date": "2010-07-03"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "place of death",
+    "tail": "Gateshead",
+    "date": "2010-07-03"
+  },
+  {
+    "head": "shot",
+    "type": "point in time",
+    "tail": "10 July",
+    "date": "2010-07-03"
+  },
+  {
+    "head": "shot is heard",
+    "type": "point in time",
+    "tail": "10 July",
+    "date": "2010-07-03"
+  },
+  {
+    "head": "shot is heard",
+    "type": "point in time",
+    "tail": "1.10am",
+    "date": "2010-07-03"
+  },
+  {
+    "head": "attacking",
+    "type": "point in time",
+    "tail": "3 July",
+    "date": "2010-07-03"
+  },
+  {
+    "head": "attacking in the early hours of 3 July",
+    "type": "point in time",
+    "tail": "3 July",
+    "date": "2010-07-03"
+  },
+  {
+    "head": "attacking",
+    "type": "start time",
+    "tail": "3 July",
+    "date": "2010-07-03"
+  },
+  {
+    "head": "David Rathband",
+    "type": "occupation",
+    "tail": "PC",
+    "date": "2010-07-04"
+  },
+  {
+    "head": "David Rathband",
+    "type": "position held",
+    "tail": "PC",
+    "date": "2010-07-04"
+  },
+  {
+    "head": "David Rathband",
+    "type": "employer",
+    "tail": "Police",
+    "date": "2010-07-04"
+  },
+  {
+    "head": "David Rathband",
+    "type": "occupation",
+    "tail": "PC",
+    "date": "2010-07-04"
+  },
+  {
+    "head": "David Rathband",
+    "type": "date of birth",
+    "tail": "42",
+    "date": "2010-07-04"
+  },
+  {
+    "head": "David Rathband",
+    "type": "date of death",
+    "tail": "42",
+    "date": "2010-07-04"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2010-07-05"
+  },
+  {
+    "head": "2008 Winter Olympics",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2010-07-05"
+  },
+  {
+    "head": "Harvard University",
+    "type": "subsidiary",
+    "tail": "John F. Kennedy School of Government",
+    "date": "2010-07-05"
+  },
+  {
+    "head": "Thrum Mill",
+    "type": "located in the administrative territorial entity",
+    "tail": "Rothbury",
+    "date": "2010-07-05"
+  },
+  {
+    "head": "Thrum Mill",
+    "type": "owned by",
+    "tail": "Graham Noble",
+    "date": "2010-07-05"
+  },
+  {
+    "head": "Thrum Mill",
+    "type": "location",
+    "tail": "Rothbury",
+    "date": "2010-07-05"
+  },
+  {
+    "head": "Seaton Delaval",
+    "type": "located in the administrative territorial entity",
+    "tail": "Blyth",
+    "date": "2010-07-05"
+  },
+  {
+    "head": "Seaton Delaval",
+    "type": "location",
+    "tail": "Blyth",
+    "date": "2010-07-05"
+  },
+  {
+    "head": "Seaton Delaval",
+    "type": "located in the administrative territorial entity",
+    "tail": "Delaval",
+    "date": "2010-07-05"
+  },
+  {
+    "head": "shooting a police officer",
+    "type": "participant",
+    "tail": "Raoul Moat",
+    "date": "2010-07-06"
+  },
+  {
+    "head": "shooting a police officer",
+    "type": "operator",
+    "tail": "Northumbria police",
+    "date": "2010-07-06"
+  },
+  {
+    "head": "shooting a police officer",
+    "type": "participant",
+    "tail": "Northumbria police",
+    "date": "2010-07-06"
+  },
+  {
+    "head": "1997",
+    "type": "point in time",
+    "tail": "1997",
+    "date": "2010-07-06"
+  },
+  {
+    "head": "David Cameron",
+    "type": "position held",
+    "tail": "Prime Minister",
+    "date": "2010-07-06"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2010-07-06"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2010-07-06"
+  },
+  {
+    "head": "the police",
+    "type": "item operated",
+    "tail": "the car",
+    "date": "2010-07-06"
+  },
+  {
+    "head": "murder",
+    "type": "subclass of",
+    "tail": "conspiracy",
+    "date": "2010-07-06"
+  },
+  {
+    "head": "conspiracy to commit murder",
+    "type": "subclass of",
+    "tail": "murder",
+    "date": "2010-07-06"
+  },
+  {
+    "head": "murder",
+    "type": "has part",
+    "tail": "conspiracy",
+    "date": "2010-07-06"
+  },
+  {
+    "head": "2008 Summer Olympics",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2010-07-06"
+  },
+  {
+    "head": "2010 FIFA World Cup",
+    "type": "point in time",
+    "tail": "2010",
+    "date": "2010-07-06"
+  },
+  {
+    "head": "2010 Commonwealth Games",
+    "type": "point in time",
+    "tail": "2010",
+    "date": "2010-07-06"
+  },
+  {
+    "head": "The Killing Fields",
+    "type": "location",
+    "tail": "Manchester",
+    "date": "2010-07-07"
+  },
+  {
+    "head": "The Killing Fields",
+    "type": "located in the administrative territorial entity",
+    "tail": "Manchester",
+    "date": "2010-07-07"
+  },
+  {
+    "head": "The Wicker Man",
+    "type": "author",
+    "tail": "John Osborne",
+    "date": "2010-07-07"
+  },
+  {
+    "head": "Raoul Moat",
+    "type": "place of birth",
+    "tail": "Newcastle",
+    "date": "2010-07-08"
+  },
+  {
+    "head": "Raoul Moat",
+    "type": "date of birth",
+    "tail": "37",
+    "date": "2010-07-08"
+  },
+  {
+    "head": "Raoul Moat",
+    "type": "place of birth",
+    "tail": "Durham",
+    "date": "2010-07-08"
+  },
+  {
+    "head": "2011 general election",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2010-07-08"
+  },
+  {
+    "head": "2011 election",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2010-07-08"
+  },
+  {
+    "head": "2012 Summer Olympics",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2010-07-08"
+  },
+  {
+    "head": "Durham",
+    "type": "located in the administrative territorial entity",
+    "tail": "Northumbria",
+    "date": "2010-07-09"
+  },
+  {
+    "head": "Northumbria",
+    "type": "contains administrative territorial entity",
+    "tail": "Durham",
+    "date": "2010-07-09"
+  },
+  {
+    "head": "Durham prison",
+    "type": "located in the administrative territorial entity",
+    "tail": "Northumbria",
+    "date": "2010-07-09"
+  },
+  {
+    "head": "Northumbria",
+    "type": "capital",
+    "tail": "Durham",
+    "date": "2010-07-09"
+  },
+  {
+    "head": "2008 Summer Olympics",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2010-07-09"
+  },
+  {
+    "head": "2008 Beijing Olympics",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2010-07-09"
+  },
+  {
+    "head": "2008 Olympic Games",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2010-07-09"
+  },
+  {
+    "head": "Moat",
+    "type": "residence",
+    "tail": "Rothbury",
+    "date": "2010-07-09"
+  },
+  {
+    "head": "Moat",
+    "type": "location",
+    "tail": "Rothbury",
+    "date": "2010-07-09"
+  },
+  {
+    "head": "Moat",
+    "type": "place of death",
+    "tail": "Rothbury",
+    "date": "2010-07-09"
+  },
+  {
+    "head": "Preston North End",
+    "type": "located in the administrative territorial entity",
+    "tail": "Lancashire",
+    "date": "2010-07-20"
+  },
+  {
+    "head": "Preston North End",
+    "type": "headquarters location",
+    "tail": "Lancashire",
+    "date": "2010-07-20"
+  },
+  {
+    "head": "Blackburn Rovers",
+    "type": "shares border with",
+    "tail": "Preston North End",
+    "date": "2010-07-20"
+  },
+  {
+    "head": "Preston North End",
+    "type": "shares border with",
+    "tail": "Blackburn Rovers",
+    "date": "2010-07-20"
+  },
+  {
+    "head": "Ray Mears",
+    "type": "occupation",
+    "tail": "survival expert",
+    "date": "2010-07-21"
+  },
+  {
+    "head": "search for Moat",
+    "type": "participant",
+    "tail": "Ray Mears",
+    "date": "2010-07-21"
+  },
+  {
+    "head": "seven - day search for Moat",
+    "type": "participant",
+    "tail": "Ray Mears",
+    "date": "2010-07-21"
+  },
+  {
+    "head": "David Rathband",
+    "type": "occupation",
+    "tail": "police constable",
+    "date": "2010-07-21"
+  },
+  {
+    "head": "David Rathband",
+    "type": "significant event",
+    "tail": "17 days of treatment",
+    "date": "2010-07-21"
+  },
+  {
+    "head": "David Rathband",
+    "type": "position held",
+    "tail": "police constable",
+    "date": "2010-07-21"
+  },
+  {
+    "head": "Dudley",
+    "type": "located in the administrative territorial entity",
+    "tail": "North Tyneside",
+    "date": "2010-07-21"
+  },
+  {
+    "head": "Blyth",
+    "type": "located in the administrative territorial entity",
+    "tail": "Northumberland",
+    "date": "2010-07-21"
+  },
+  {
+    "head": "Birtley",
+    "type": "location",
+    "tail": "Gateshead",
+    "date": "2010-07-21"
+  },
+  {
+    "head": "Birtley",
+    "type": "located in the administrative territorial entity",
+    "tail": "Gateshead",
+    "date": "2010-07-21"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "place of death",
+    "tail": "Birtley, Gateshead",
+    "date": "2010-07-21"
+  },
+  {
+    "head": "Raoul Moat",
+    "type": "instance of",
+    "tail": "conspiracy to murder",
+    "date": "2010-07-22"
+  },
+  {
+    "head": "Raoul Moat",
+    "type": "significant event",
+    "tail": "conspiracy to murder",
+    "date": "2010-07-22"
+  },
+  {
+    "head": "Raoul Moat",
+    "type": "instance of",
+    "tail": "murder",
+    "date": "2010-07-22"
+  },
+  {
+    "head": "Birtley",
+    "type": "location",
+    "tail": "Gateshead",
+    "date": "2010-07-22"
+  },
+  {
+    "head": "Birtley",
+    "type": "located in the administrative territorial entity",
+    "tail": "Gateshead",
+    "date": "2010-07-22"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "place of death",
+    "tail": "Birtley, Gateshead",
+    "date": "2010-07-22"
+  },
+  {
+    "head": "Raoul Moat",
+    "type": "place of death",
+    "tail": "Northumberland",
+    "date": "2010-11-01"
+  },
+  {
+    "head": "Raoul Moat",
+    "type": "place of birth",
+    "tail": "Northumberland",
+    "date": "2010-11-01"
+  },
+  {
+    "head": "Raoul Moat",
+    "type": "residence",
+    "tail": "Northumberland",
+    "date": "2010-11-01"
+  },
+  {
+    "head": "Karl Ness",
+    "type": "date of birth",
+    "tail": "26",
+    "date": "2010-11-01"
+  },
+  {
+    "head": "Qhuram Awan",
+    "type": "date of birth",
+    "tail": "23",
+    "date": "2010-11-01"
+  },
+  {
+    "head": "2011",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2011-02-16"
+  },
+  {
+    "head": "2011 general election",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2011-02-16"
+  },
+  {
+    "head": "2011 general election",
+    "type": "followed by",
+    "tail": "2015 general election",
+    "date": "2011-02-16"
+  },
+  {
+    "head": "2015 general election",
+    "type": "follows",
+    "tail": "2011 general election",
+    "date": "2011-02-16"
+  },
+  {
+    "head": "FAME",
+    "type": "record label",
+    "tail": "RCA",
+    "date": "2011-03-21"
+  },
+  {
+    "head": "Fame",
+    "type": "record label",
+    "tail": "RCA",
+    "date": "2011-03-21"
+  },
+  {
+    "head": "'FAME",
+    "type": "record label",
+    "tail": "RCA",
+    "date": "2011-03-21"
+  },
+  {
+    "head": "F.A.M.",
+    "type": "performer",
+    "tail": "Brown",
+    "date": "2011-03-21"
+  },
+  {
+    "head": "F.A.M.E.",
+    "type": "performer",
+    "tail": "Brown",
+    "date": "2011-03-21"
+  },
+  {
+    "head": "F.A.M.",
+    "type": "instance of",
+    "tail": "album",
+    "date": "2011-03-21"
+  },
+  {
+    "head": "general hospital",
+    "type": "located in the administrative territorial entity",
+    "tail": "Newcastle",
+    "date": "2011-07-10"
+  },
+  {
+    "head": "general hospital",
+    "type": "location",
+    "tail": "Newcastle",
+    "date": "2011-07-10"
+  },
+  {
+    "head": "Newcastle general hospital",
+    "type": "located in the administrative territorial entity",
+    "tail": "Newcastle",
+    "date": "2011-07-10"
+  },
+  {
+    "head": "Dancing with the Stars",
+    "type": "followed by",
+    "tail": "Today Show",
+    "date": "2011-07-22"
+  },
+  {
+    "head": "Dancing with the Stars",
+    "type": "has part",
+    "tail": "Today Show",
+    "date": "2011-07-22"
+  },
+  {
+    "head": "Dancing with the Stars",
+    "type": "follows",
+    "tail": "Today Show",
+    "date": "2011-07-22"
+  },
+  {
+    "head": "The Dead Zone",
+    "type": "original broadcaster",
+    "tail": "HBO",
+    "date": "2011-09-04"
+  },
+  {
+    "head": "The Dead Zone",
+    "type": "cast member",
+    "tail": "John Wayne",
+    "date": "2011-09-04"
+  },
+  {
+    "head": "The Dead Zone",
+    "type": "cast member",
+    "tail": "David Niven",
+    "date": "2011-09-04"
+  },
+  {
+    "head": "Samantha Stobbart",
+    "type": "spouse",
+    "tail": "Chris Brown",
+    "date": "2011-09-04"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "spouse",
+    "tail": "Samantha Stobbart",
+    "date": "2011-09-04"
+  },
+  {
+    "head": "David Rathband",
+    "type": "occupation",
+    "tail": "police officer",
+    "date": "2011-09-04"
+  },
+  {
+    "head": "David Rathband",
+    "type": "employer",
+    "tail": "police officer",
+    "date": "2011-09-04"
+  },
+  {
+    "head": "shot and blinded",
+    "type": "participant",
+    "tail": "David Rathband",
+    "date": "2011-09-04"
+  },
+  {
+    "head": "Stobbart",
+    "type": "place of birth",
+    "tail": "Durham",
+    "date": "2011-09-04"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "date of death",
+    "tail": "29",
+    "date": "2011-09-04"
+  },
+  {
+    "head": "Stobbart",
+    "type": "place of birth",
+    "tail": "Durham prison",
+    "date": "2011-09-04"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "date of death",
+    "tail": "29",
+    "date": "2011-09-04"
+  },
+  {
+    "head": "Stobbart",
+    "type": "place of birth",
+    "tail": "Durham",
+    "date": "2011-09-04"
+  },
+  {
+    "head": "Stobbart",
+    "type": "place of birth",
+    "tail": "Durham prison",
+    "date": "2011-09-04"
+  },
+  {
+    "head": "death of the fugitive gunman Raoul Moat",
+    "type": "instance of",
+    "tail": "inquest",
+    "date": "2011-09-05"
+  },
+  {
+    "head": "Raoul Moat",
+    "type": "significant event",
+    "tail": "death",
+    "date": "2011-09-05"
+  },
+  {
+    "head": "Raoul Moat",
+    "type": "significant event",
+    "tail": "death of the fugitive gunman",
+    "date": "2011-09-05"
+  },
+  {
+    "head": "Newcastle crown court",
+    "type": "location",
+    "tail": "Newcastle",
+    "date": "2011-09-05"
+  },
+  {
+    "head": "Newcastle crown court",
+    "type": "located in the administrative territorial entity",
+    "tail": "Newcastle",
+    "date": "2011-09-05"
+  },
+  {
+    "head": "Taser",
+    "type": "use",
+    "tail": "shoot himself",
+    "date": "2011-09-05"
+  },
+  {
+    "head": "Raoul Moat",
+    "type": "instance of",
+    "tail": "murder",
+    "date": "2011-09-05"
+  },
+  {
+    "head": "Raoul Moat",
+    "type": "significant event",
+    "tail": "murder",
+    "date": "2011-09-05"
+  },
+  {
+    "head": "Raoul Moat",
+    "type": "spouse",
+    "tail": "his girlfriend",
+    "date": "2011-09-05"
+  },
+  {
+    "head": "his girlfriend",
+    "type": "spouse",
+    "tail": "Raoul Moat",
+    "date": "2011-09-05"
+  },
+  {
+    "head": "Stobbart",
+    "type": "place of birth",
+    "tail": "Durham",
+    "date": "2011-09-05"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "date of death",
+    "tail": "29",
+    "date": "2011-09-05"
+  },
+  {
+    "head": "Stobbart",
+    "type": "place of birth",
+    "tail": "Durham prison",
+    "date": "2011-09-05"
+  },
+  {
+    "head": "Raoul Moat",
+    "type": "instance of",
+    "tail": "murder",
+    "date": "2011-09-05"
+  },
+  {
+    "head": "Raoul Moat",
+    "type": "significant event",
+    "tail": "death",
+    "date": "2011-09-05"
+  },
+  {
+    "head": "Raoul Moat",
+    "type": "significant event",
+    "tail": "murder",
+    "date": "2011-09-05"
+  },
+  {
+    "head": "Samantha Stobbart",
+    "type": "place of death",
+    "tail": "Newcastle",
+    "date": "2011-09-05"
+  },
+  {
+    "head": "Samantha Stobbart",
+    "type": "place of birth",
+    "tail": "Newcastle",
+    "date": "2011-09-05"
+  },
+  {
+    "head": "Newcastle",
+    "type": "instance of",
+    "tail": "capital",
+    "date": "2011-09-05"
+  },
+  {
+    "head": "Samantha Stobbart",
+    "type": "spouse",
+    "tail": "Chris Brown",
+    "date": "2011-09-05"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "spouse",
+    "tail": "Samantha Stobbart",
+    "date": "2011-09-05"
+  },
+  {
+    "head": "Raoul Moat",
+    "type": "conflict",
+    "tail": "shoot - out",
+    "date": "2011-09-05"
+  },
+  {
+    "head": "Raoul Moat",
+    "type": "occupation",
+    "tail": "shoot - out",
+    "date": "2011-09-05"
+  },
+  {
+    "head": "Raoul Moat",
+    "type": "instance of",
+    "tail": "shoot - out",
+    "date": "2011-09-05"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "date of death",
+    "tail": "29",
+    "date": "2011-09-05"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "date of birth",
+    "tail": "22",
+    "date": "2011-09-05"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "date of birth",
+    "tail": "29",
+    "date": "2011-09-05"
+  },
+  {
+    "head": "Angus Moat",
+    "type": "place of birth",
+    "tail": "Newcastle",
+    "date": "2011-09-06"
+  },
+  {
+    "head": "Angus Moat",
+    "type": "place of death",
+    "tail": "Newcastle",
+    "date": "2011-09-06"
+  },
+  {
+    "head": "Angus Moat",
+    "type": "occupation",
+    "tail": "tax officer",
+    "date": "2011-09-06"
+  },
+  {
+    "head": "Raoul Moat",
+    "type": "uses",
+    "tail": "Taser",
+    "date": "2011-09-27"
+  },
+  {
+    "head": "Raoul Moat",
+    "type": "significant event",
+    "tail": "police fired an unapproved Taser at him",
+    "date": "2011-09-27"
+  },
+  {
+    "head": "Raoul Moat",
+    "type": "significant event",
+    "tail": "took his own life",
+    "date": "2011-09-27"
+  },
+  {
+    "head": "O2 Arena",
+    "type": "located in the administrative territorial entity",
+    "tail": "Dublin",
+    "date": "2011-12-03"
+  },
+  {
+    "head": "RTE",
+    "type": "located in the administrative territorial entity",
+    "tail": "Dublin",
+    "date": "2011-12-03"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "member of",
+    "tail": "Original Rudeboys",
+    "date": "2011-12-03"
+  },
+  {
+    "head": "Original Rudeboys",
+    "type": "has part",
+    "tail": "Chris Brown",
+    "date": "2011-12-03"
+  },
+  {
+    "head": "Do n\\'t Talk",
+    "type": "performer",
+    "tail": "Assad",
+    "date": "2011-12-25"
+  },
+  {
+    "head": "Do n\\'t Talk",
+    "type": "composer",
+    "tail": "Assad",
+    "date": "2011-12-25"
+  },
+  {
+    "head": "George Orwell",
+    "type": "notable work",
+    "tail": "Nineteen Eighty-Four",
+    "date": "2011-12-25"
+  },
+  {
+    "head": "Nineteen Eighty-Four",
+    "type": "author",
+    "tail": "Orwell",
+    "date": "2011-12-25"
+  },
+  {
+    "head": "21st Century Christmas",
+    "type": "main subject",
+    "tail": "Cliff Richard",
+    "date": "2011-12-25"
+  },
+  {
+    "head": "A Tribute to Cliff Richard",
+    "type": "performer",
+    "tail": "21st Century Christmas",
+    "date": "2011-12-25"
+  },
+  {
+    "head": "A Tribute to Cliff Richard by 21st Century Christmas",
+    "type": "main subject",
+    "tail": "Cliff Richard",
+    "date": "2011-12-25"
+  },
+  {
+    "head": "midweek",
+    "type": "opposite of",
+    "tail": "Saturday afternoon",
+    "date": "2011-12-31"
+  },
+  {
+    "head": "Saturday afternoon",
+    "type": "opposite of",
+    "tail": "midweek",
+    "date": "2011-12-31"
+  },
+  {
+    "head": "midweek",
+    "type": "followed by",
+    "tail": "Saturday afternoon",
+    "date": "2011-12-31"
+  },
+  {
+    "head": "Netflights",
+    "type": "instance of",
+    "tail": "airline",
+    "date": "2012-01-20"
+  },
+  {
+    "head": "Netflights.com",
+    "type": "end time",
+    "tail": "20 January",
+    "date": "2012-01-20"
+  },
+  {
+    "head": "Netflights",
+    "type": "parent organization",
+    "tail": "Netflights.com",
+    "date": "2012-01-20"
+  },
+  {
+    "head": "2014 Commonwealth Games",
+    "type": "point in time",
+    "tail": "2014",
+    "date": "2012-01-24"
+  },
+  {
+    "head": "2012 Summer Olympics",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2012-01-24"
+  },
+  {
+    "head": "2014 Commonwealth Games",
+    "type": "location",
+    "tail": "Glasgow",
+    "date": "2012-01-24"
+  },
+  {
+    "head": "London Midland and Scottish Railway",
+    "type": "start time",
+    "tail": "1923",
+    "date": "2012-02-02"
+  },
+  {
+    "head": "New York City",
+    "type": "twinned administrative body",
+    "tail": "London",
+    "date": "2012-02-02"
+  },
+  {
+    "head": "London Midland and Scottish Railway",
+    "type": "date of official opening",
+    "tail": "1923",
+    "date": "2012-02-02"
+  },
+  {
+    "head": "Blake Shelton",
+    "type": "genre",
+    "tail": "country",
+    "date": "2012-02-05"
+  },
+  {
+    "head": "Blake Shelton",
+    "type": "genre",
+    "tail": "country star",
+    "date": "2012-02-05"
+  },
+  {
+    "head": "God",
+    "type": "performer",
+    "tail": "Blake Shelton",
+    "date": "2012-02-05"
+  },
+  {
+    "head": "Ocean",
+    "type": "nominated for",
+    "tail": "best urban contemporary album",
+    "date": "2012-02-10"
+  },
+  {
+    "head": "Ocean",
+    "type": "genre",
+    "tail": "urban contemporary",
+    "date": "2012-02-10"
+  },
+  {
+    "head": "Best urban contemporary album",
+    "type": "winner",
+    "tail": "Ocean",
+    "date": "2012-02-10"
+  },
+  {
+    "head": "Grammy awards",
+    "type": "point in time",
+    "tail": "12 February",
+    "date": "2012-02-12"
+  },
+  {
+    "head": "Grammy awards",
+    "type": "point in time",
+    "tail": "12 February \\'s",
+    "date": "2012-02-12"
+  },
+  {
+    "head": "\"second chance\"",
+    "type": "award received",
+    "tail": "Grammy awards",
+    "date": "2012-02-12"
+  },
+  {
+    "head": "Miami prosecutors",
+    "type": "applies to jurisdiction",
+    "tail": "Miami",
+    "date": "2012-02-19"
+  },
+  {
+    "head": "2009 Grammy Awards",
+    "type": "point in time",
+    "tail": "2009",
+    "date": "2012-02-19"
+  },
+  {
+    "head": "Miami",
+    "type": "country",
+    "tail": "United States",
+    "date": "2012-02-19"
+  },
+  {
+    "head": "United States",
+    "type": "capital",
+    "tail": "Miami",
+    "date": "2012-02-19"
+  },
+  {
+    "head": "Refuge",
+    "type": "instance of",
+    "tail": "charity",
+    "date": "2012-02-23"
+  },
+  {
+    "head": "Rihanna",
+    "type": "spouse",
+    "tail": "Chris Brown",
+    "date": "2012-02-23"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "spouse",
+    "tail": "Rihanna",
+    "date": "2012-02-23"
+  },
+  {
+    "head": "Rihanna",
+    "type": "significant event",
+    "tail": "Chris Brown",
+    "date": "2012-02-23"
+  },
+  {
+    "head": "Cameo",
+    "type": "instance of",
+    "tail": "nightclub",
+    "date": "2012-02-23"
+  },
+  {
+    "head": "Cameo nightclub",
+    "type": "located in the administrative territorial entity",
+    "tail": "Miami Beach",
+    "date": "2012-02-23"
+  },
+  {
+    "head": "Cameo",
+    "type": "located in the administrative territorial entity",
+    "tail": "Miami Beach",
+    "date": "2012-02-23"
+  },
+  {
+    "head": "Bashar al - Assad",
+    "type": "position held",
+    "tail": "Syrian president",
+    "date": "2012-03-14"
+  },
+  {
+    "head": "Syria",
+    "type": "head of state",
+    "tail": "Bashar al - Assad",
+    "date": "2012-03-14"
+  },
+  {
+    "head": "Syrian president",
+    "type": "officeholder",
+    "tail": "Bashar al - Assad",
+    "date": "2012-03-14"
+  },
+  {
+    "head": "Nasri Shamseddine",
+    "type": "country of citizenship",
+    "tail": "Lebanese",
+    "date": "2012-03-14"
+  },
+  {
+    "head": "Nasri Shamseddine",
+    "type": "country of citizenship",
+    "tail": "Lebanon",
+    "date": "2012-03-14"
+  },
+  {
+    "head": "Nasri Shamseddine",
+    "type": "work period (start)",
+    "tail": "1990",
+    "date": "2012-03-14"
+  },
+  {
+    "head": "Right Said",
+    "type": "country of origin",
+    "tail": "British",
+    "date": "2012-03-14"
+  },
+  {
+    "head": "Right Said",
+    "type": "country",
+    "tail": "British",
+    "date": "2012-03-14"
+  },
+  {
+    "head": "Right Said",
+    "type": "country of citizenship",
+    "tail": "British",
+    "date": "2012-03-14"
+  },
+  {
+    "head": "Delta",
+    "type": "airline hub",
+    "tail": "Heathrow",
+    "date": "2012-03-31"
+  },
+  {
+    "head": "Delta",
+    "type": "airline hub",
+    "tail": "New York",
+    "date": "2012-03-31"
+  },
+  {
+    "head": "Heathrow",
+    "type": "place served by transport hub",
+    "tail": "New York",
+    "date": "2012-03-31"
+  },
+  {
+    "head": "Friday",
+    "type": "performer",
+    "tail": "Rebecca Black",
+    "date": "2012-04-13"
+  },
+  {
+    "head": "Redemption Song",
+    "type": "performer",
+    "tail": "Bob Marley",
+    "date": "2012-04-13"
+  },
+  {
+    "head": "Man in the Mirror \ufffd<subj> Michael Jackson",
+    "type": "performer",
+    "tail": "Bob Marley",
+    "date": "2012-04-13"
+  },
+  {
+    "head": "With You",
+    "type": "performer",
+    "tail": "Chris Brown",
+    "date": "2012-04-13"
+  },
+  {
+    "head": "Man in the Mirror",
+    "type": "performer",
+    "tail": "Michael Jackson",
+    "date": "2012-04-13"
+  },
+  {
+    "head": "My Lord, no one else will do",
+    "type": "depicts",
+    "tail": "My Lord",
+    "date": "2012-04-13"
+  },
+  {
+    "head": "My Lord, no one else will do",
+    "type": "main subject",
+    "tail": "My Lord",
+    "date": "2012-04-13"
+  },
+  {
+    "head": "My Lord, no one else will do",
+    "type": "part of",
+    "tail": "My Lord",
+    "date": "2012-04-13"
+  },
+  {
+    "head": "Hammersmith Apollo",
+    "type": "owned by",
+    "tail": "Save an Orphan",
+    "date": "2012-04-14"
+  },
+  {
+    "head": "Apollo",
+    "type": "location",
+    "tail": "Hammersmith",
+    "date": "2012-04-14"
+  },
+  {
+    "head": "Save an Orphan",
+    "type": "owner of",
+    "tail": "Hammersmith Apollo",
+    "date": "2012-04-14"
+  },
+  {
+    "head": "2009",
+    "type": "point in time",
+    "tail": "2009",
+    "date": "2012-06-10"
+  },
+  {
+    "head": "2011",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2012-06-10"
+  },
+  {
+    "head": "2011 election",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2012-06-10"
+  },
+  {
+    "head": "2008 Summer Olympics",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2012-06-14"
+  },
+  {
+    "head": "2008 Summer Olympics",
+    "type": "location",
+    "tail": "Beijing",
+    "date": "2012-06-14"
+  },
+  {
+    "head": "Halo",
+    "type": "performer",
+    "tail": "Beyonc\u00c3 \u00a9 \\'s",
+    "date": "2012-06-28"
+  },
+  {
+    "head": "Russell Brand",
+    "type": "spouse",
+    "tail": "Beyonc\u00c3 \u00a9 \\'s",
+    "date": "2012-06-28"
+  },
+  {
+    "head": "Beyonc\u00c3 \u00a9 \\'s Halo",
+    "type": "performer",
+    "tail": "Clinton Cards",
+    "date": "2012-06-28"
+  },
+  {
+    "head": "A Milli",
+    "type": "has part",
+    "tail": "Bangladesh",
+    "date": "2012-06-28"
+  },
+  {
+    "head": "Munchkin",
+    "type": "performer",
+    "tail": "Aaliyah",
+    "date": "2012-06-28"
+  },
+  {
+    "head": "Aaliyah \\'s",
+    "type": "performer",
+    "tail": "Munchkin",
+    "date": "2012-06-28"
+  },
+  {
+    "head": "Fortune",
+    "type": "performer",
+    "tail": "Brown",
+    "date": "2012-07-01"
+  },
+  {
+    "head": "Don't Wake Me Up",
+    "type": "performer",
+    "tail": "Brown",
+    "date": "2012-07-01"
+  },
+  {
+    "head": "Don't Wake Me Up",
+    "type": "part of",
+    "tail": "Fortune",
+    "date": "2012-07-01"
+  },
+  {
+    "head": "BET awards",
+    "type": "point in time",
+    "tail": "last Sunday",
+    "date": "2012-07-01"
+  },
+  {
+    "head": "BET awards last Sunday",
+    "type": "point in time",
+    "tail": "last Sunday",
+    "date": "2012-07-01"
+  },
+  {
+    "head": "best male R&B artist",
+    "type": "instance of",
+    "tail": "BET awards",
+    "date": "2012-07-01"
+  },
+  {
+    "head": "events",
+    "type": "location",
+    "tail": "Rothbury",
+    "date": "2012-07-09"
+  },
+  {
+    "head": "events in Rothbury",
+    "type": "location",
+    "tail": "Rothbury",
+    "date": "2012-07-09"
+  },
+  {
+    "head": "events in Rothbury",
+    "type": "point in time",
+    "tail": "10 July",
+    "date": "2012-07-09"
+  },
+  {
+    "head": "Moat",
+    "type": "number of participants",
+    "tail": "11",
+    "date": "2012-07-09"
+  },
+  {
+    "head": "Moat",
+    "type": "significant event",
+    "tail": "Moat was found",
+    "date": "2012-07-09"
+  },
+  {
+    "head": "Moat was found",
+    "type": "location",
+    "tail": "Moat",
+    "date": "2012-07-09"
+  },
+  {
+    "head": "2003",
+    "type": "point in time",
+    "tail": "2003",
+    "date": "2012-07-14"
+  },
+  {
+    "head": "2003 of punching a black toilet attendant in a nightclub assault",
+    "type": "point in time",
+    "tail": "2003",
+    "date": "2012-07-14"
+  },
+  {
+    "head": "Britney Spears",
+    "type": "member of",
+    "tail": "Spice Girls",
+    "date": "2012-07-14"
+  },
+  {
+    "head": "Spice Girls",
+    "type": "has part",
+    "tail": "Britney Spears",
+    "date": "2012-07-14"
+  },
+  {
+    "head": "Rihanna",
+    "type": "spouse",
+    "tail": "Brown",
+    "date": "2012-08-12"
+  },
+  {
+    "head": "Brown",
+    "type": "spouse",
+    "tail": "Rihanna",
+    "date": "2012-08-12"
+  },
+  {
+    "head": "the incident",
+    "type": "participant",
+    "tail": "Rihanna",
+    "date": "2012-08-12"
+  },
+  {
+    "head": "Rihanna",
+    "type": "significant event",
+    "tail": "Brown",
+    "date": "2012-08-12"
+  },
+  {
+    "head": "2008 Summer Olympics",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2012-08-15"
+  },
+  {
+    "head": "2008 Democratic National Convention",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2012-08-15"
+  },
+  {
+    "head": "2008 FIFA World Cup",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2012-08-15"
+  },
+  {
+    "head": "MTV VMAs",
+    "type": "presenter",
+    "tail": "Rihanna",
+    "date": "2012-09-01"
+  },
+  {
+    "head": "Rihanna",
+    "type": "participant in",
+    "tail": "MTV VMAs",
+    "date": "2012-09-01"
+  },
+  {
+    "head": "kissing at the MTV VMAs",
+    "type": "participant",
+    "tail": "Rihanna",
+    "date": "2012-09-01"
+  },
+  {
+    "head": "Rihanna",
+    "type": "spouse",
+    "tail": "Chris Brown",
+    "date": "2012-09-20"
+  },
+  {
+    "head": "beating up ex - girlfriend Rihanna 2",
+    "type": "participant",
+    "tail": "Chris Brown",
+    "date": "2012-09-20"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "spouse",
+    "tail": "Rihanna",
+    "date": "2012-09-20"
+  },
+  {
+    "head": "Thanksgiving",
+    "type": "followed by",
+    "tail": "Christmas",
+    "date": "2012-11-22"
+  },
+  {
+    "head": "Thanksgiving",
+    "type": "instance of",
+    "tail": "holidays",
+    "date": "2012-11-22"
+  },
+  {
+    "head": "Thanksgiving",
+    "type": "follows",
+    "tail": "Christmas",
+    "date": "2012-11-22"
+  },
+  {
+    "head": "2008 Democratic National Convention",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2012-11-25"
+  },
+  {
+    "head": "2008 Summer Olympics",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2012-11-25"
+  },
+  {
+    "head": "2008",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2012-11-25"
+  },
+  {
+    "head": "Rihanna",
+    "type": "country of citizenship",
+    "tail": "Barbadian",
+    "date": "2012-11-25"
+  },
+  {
+    "head": "fuck",
+    "type": "performer",
+    "tail": "Rihanna",
+    "date": "2012-11-25"
+  },
+  {
+    "head": "Fuck",
+    "type": "performer",
+    "tail": "Rihanna",
+    "date": "2012-11-25"
+  },
+  {
+    "head": "Twitter",
+    "type": "named after",
+    "tail": "Ah",
+    "date": "2012-11-25"
+  },
+  {
+    "head": "Twitter",
+    "type": "named after",
+    "tail": "Ah, Twitter",
+    "date": "2012-11-25"
+  },
+  {
+    "head": "Twitter",
+    "type": "named after",
+    "tail": "Ah, Twitter.",
+    "date": "2012-11-25"
+  },
+  {
+    "head": "Heathrow",
+    "type": "twinned administrative body",
+    "tail": "Bangkok",
+    "date": "2012-11-30"
+  },
+  {
+    "head": "Bangkok",
+    "type": "twinned administrative body",
+    "tail": "Heathrow",
+    "date": "2012-11-30"
+  },
+  {
+    "head": "Heathrow",
+    "type": "place served by transport hub",
+    "tail": "London",
+    "date": "2012-11-30"
+  },
+  {
+    "head": "Bangkok",
+    "type": "connects with",
+    "tail": "Heathrow",
+    "date": "2012-11-30"
+  },
+  {
+    "head": "The Apprentice",
+    "type": "cast member",
+    "tail": "Trump",
+    "date": "2012-12-06"
+  },
+  {
+    "head": "Donald Trump",
+    "type": "notable work",
+    "tail": "The Apprentice",
+    "date": "2012-12-06"
+  },
+  {
+    "head": "version of The Apprentice",
+    "type": "cast member",
+    "tail": "Trump",
+    "date": "2012-12-06"
+  },
+  {
+    "head": "Move along, Chris Brown",
+    "type": "performer",
+    "tail": "Chris Brown",
+    "date": "2012-12-06"
+  },
+  {
+    "head": "Move along",
+    "type": "performer",
+    "tail": "Chris Brown",
+    "date": "2012-12-06"
+  },
+  {
+    "head": "Move along, Chris Brown",
+    "type": "performer",
+    "tail": "the entire world",
+    "date": "2012-12-06"
+  },
+  {
+    "head": "Academy",
+    "type": "located in the administrative territorial entity",
+    "tail": "Dublin",
+    "date": "2012-12-22"
+  },
+  {
+    "head": "the Academy",
+    "type": "located in the administrative territorial entity",
+    "tail": "Dublin",
+    "date": "2012-12-22"
+  },
+  {
+    "head": "The Academy",
+    "type": "located in the administrative territorial entity",
+    "tail": "Dublin",
+    "date": "2012-12-22"
+  },
+  {
+    "head": "coming to blows",
+    "type": "participant",
+    "tail": "Chris Brown",
+    "date": "2013-01-27"
+  },
+  {
+    "head": "coming to blows",
+    "type": "participant",
+    "tail": "Frank Ocean",
+    "date": "2013-01-27"
+  },
+  {
+    "head": "coming to blows on Sunday night",
+    "type": "participant",
+    "tail": "Chris Brown",
+    "date": "2013-01-27"
+  },
+  {
+    "head": "coming to blows on Sunday night",
+    "type": "participant",
+    "tail": "Frank Ocean",
+    "date": "2013-01-27"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "sibling",
+    "tail": "Frank Ocean",
+    "date": "2013-01-27"
+  },
+  {
+    "head": "Frank Ocean",
+    "type": "sibling",
+    "tail": "Chris Brown",
+    "date": "2013-01-27"
+  },
+  {
+    "head": "the altercation",
+    "type": "participant",
+    "tail": "Chris Brown",
+    "date": "2013-01-28"
+  },
+  {
+    "head": "The altercation",
+    "type": "participant",
+    "tail": "Chris Brown",
+    "date": "2013-01-28"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "employer",
+    "tail": "Police Department",
+    "date": "2013-01-28"
+  },
+  {
+    "head": "Chris",
+    "type": "sport",
+    "tail": "jumped",
+    "date": "2013-01-28"
+  },
+  {
+    "head": "Chris",
+    "type": "occupation",
+    "tail": "jumped",
+    "date": "2013-01-28"
+  },
+  {
+    "head": "Chris",
+    "type": "participant in",
+    "tail": "Got jumped",
+    "date": "2013-01-28"
+  },
+  {
+    "head": "Frank Ocean",
+    "type": "genre",
+    "tail": "R&B",
+    "date": "2013-01-29"
+  },
+  {
+    "head": "his spat",
+    "type": "participant",
+    "tail": "Frank Ocean",
+    "date": "2013-01-29"
+  },
+  {
+    "head": "his spat",
+    "type": "performer",
+    "tail": "Frank Ocean",
+    "date": "2013-01-29"
+  },
+  {
+    "head": "last weekend",
+    "type": "instance of",
+    "tail": "brawl",
+    "date": "2013-01-29"
+  },
+  {
+    "head": "last weekend's brawl",
+    "type": "participant",
+    "tail": "Chris Brown",
+    "date": "2013-01-29"
+  },
+  {
+    "head": "last weekend",
+    "type": "participant",
+    "tail": "Chris Brown",
+    "date": "2013-01-29"
+  },
+  {
+    "head": "LA county sheriff",
+    "type": "instance of",
+    "tail": "department",
+    "date": "2013-01-29"
+  },
+  {
+    "head": "Steve Whitmore",
+    "type": "employer",
+    "tail": "LA county sheriff \\'s department",
+    "date": "2013-01-29"
+  },
+  {
+    "head": "LA county",
+    "type": "office held by head of government",
+    "tail": "sheriff",
+    "date": "2013-01-29"
+  },
+  {
+    "head": "sheriff",
+    "type": "applies to jurisdiction",
+    "tail": "LA county",
+    "date": "2013-01-29"
+  },
+  {
+    "head": "Art Institute of Chicago",
+    "type": "has works in the collection",
+    "tail": "Art Institute of Chicago",
+    "date": "2013-01-30"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2013-01-30"
+  },
+  {
+    "head": "Art Basel",
+    "type": "located in the administrative territorial entity",
+    "tail": "Basel, Switzerland",
+    "date": "2013-01-30"
+  },
+  {
+    "head": "LA county sheriff",
+    "type": "instance of",
+    "tail": "department",
+    "date": "2013-01-30"
+  },
+  {
+    "head": "Steve Whitmore",
+    "type": "employer",
+    "tail": "LA county sheriff \\'s department",
+    "date": "2013-01-30"
+  },
+  {
+    "head": "LA county",
+    "type": "office held by head of government",
+    "tail": "sheriff",
+    "date": "2013-01-30"
+  },
+  {
+    "head": "sheriff",
+    "type": "applies to jurisdiction",
+    "tail": "LA county",
+    "date": "2013-01-30"
+  },
+  {
+    "head": "My mistake",
+    "type": "instance of",
+    "tail": "mistake",
+    "date": "2013-01-30"
+  },
+  {
+    "head": "My mistake",
+    "type": "subclass of",
+    "tail": "mistake",
+    "date": "2013-01-30"
+  },
+  {
+    "head": "My mistake",
+    "type": "different from",
+    "tail": "My mistake",
+    "date": "2013-01-30"
+  },
+  {
+    "head": "Rihanna",
+    "type": "significant event",
+    "tail": "attack on Rihanna",
+    "date": "2013-02-06"
+  },
+  {
+    "head": "attack on Rihanna",
+    "type": "participant",
+    "tail": "Brown",
+    "date": "2013-02-06"
+  },
+  {
+    "head": "attack on Rihanna",
+    "type": "participant",
+    "tail": "Rihanna",
+    "date": "2013-02-06"
+  },
+  {
+    "head": "Coventry",
+    "type": "home venue",
+    "tail": "Ricoh Arena",
+    "date": "2013-03-22"
+  },
+  {
+    "head": "Coventry's",
+    "type": "home venue",
+    "tail": "Ricoh Arena",
+    "date": "2013-03-22"
+  },
+  {
+    "head": "Ricoh Arena",
+    "type": "occupant",
+    "tail": "Coventry",
+    "date": "2013-03-22"
+  },
+  {
+    "head": "Brian Flynn",
+    "type": "member of sports team",
+    "tail": "Doncaster Rovers",
+    "date": "2013-03-22"
+  },
+  {
+    "head": "Doncaster Rovers",
+    "type": "league",
+    "tail": "League One",
+    "date": "2013-03-22"
+  },
+  {
+    "head": "Scunthorpe United",
+    "type": "league",
+    "tail": "League One",
+    "date": "2013-03-22"
+  },
+  {
+    "head": "Iain Hume",
+    "type": "member of sports team",
+    "tail": "Iain Hume",
+    "date": "2013-03-22"
+  },
+  {
+    "head": "David Mirfin",
+    "type": "member of sports team",
+    "tail": "Iain Hume",
+    "date": "2013-03-22"
+  },
+  {
+    "head": "David Mirfin",
+    "type": "member of sports team",
+    "tail": "the visitors",
+    "date": "2013-03-22"
+  },
+  {
+    "head": "Iain Hume",
+    "type": "member of sports team",
+    "tail": "the visitors",
+    "date": "2013-03-22"
+  },
+  {
+    "head": "second ejection",
+    "type": "participant",
+    "tail": "Chris Brown",
+    "date": "2013-04-23"
+  },
+  {
+    "head": "his second ejection",
+    "type": "participant",
+    "tail": "Chris Brown",
+    "date": "2013-04-23"
+  },
+  {
+    "head": "second ejection from an anger management programme",
+    "type": "participant",
+    "tail": "Chris Brown",
+    "date": "2013-04-23"
+  },
+  {
+    "head": "HoulaMassacre",
+    "type": "country",
+    "tail": "Syria",
+    "date": "2013-05-03"
+  },
+  {
+    "head": "Bono",
+    "type": "occupation",
+    "tail": "celebrity activism",
+    "date": "2013-05-03"
+  },
+  {
+    "head": "HoulaMassacre OMG!!!",
+    "type": "performer",
+    "tail": "Chris Brown",
+    "date": "2013-05-03"
+  },
+  {
+    "head": "X",
+    "type": "instance of",
+    "tail": "album",
+    "date": "2013-05-05"
+  },
+  {
+    "head": "X",
+    "type": "publication date",
+    "tail": "5 May",
+    "date": "2013-05-05"
+  },
+  {
+    "head": "X",
+    "type": "follows",
+    "tail": "His sixth album",
+    "date": "2013-05-05"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "genre",
+    "tail": "pop clown",
+    "date": "2013-05-15"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "genre",
+    "tail": "pop",
+    "date": "2013-05-15"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "occupation",
+    "tail": "pop clown",
+    "date": "2013-05-15"
+  },
+  {
+    "head": "TMZ",
+    "type": "instance of",
+    "tail": "blog",
+    "date": "2013-05-21"
+  },
+  {
+    "head": "TMZ",
+    "type": "instance of",
+    "tail": "gossip blog",
+    "date": "2013-05-21"
+  },
+  {
+    "head": "TMZ",
+    "type": "headquarters location",
+    "tail": "LA",
+    "date": "2013-05-21"
+  },
+  {
+    "head": "2008 Summer Olympics",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2013-05-21"
+  },
+  {
+    "head": "2008",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2013-05-21"
+  },
+  {
+    "head": "2012 AFL season",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2013-05-21"
+  },
+  {
+    "head": "intentional infliction of emotional distress",
+    "type": "subclass of",
+    "tail": "damages",
+    "date": "2013-07-29"
+  },
+  {
+    "head": "negligence",
+    "type": "subclass of",
+    "tail": "damages",
+    "date": "2013-07-29"
+  },
+  {
+    "head": "intentional infliction of emotional distress",
+    "type": "instance of",
+    "tail": "damages",
+    "date": "2013-07-29"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "work location",
+    "tail": "recording studio",
+    "date": "2013-08-09"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "residence",
+    "tail": "Los Angeles",
+    "date": "2013-08-09"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "occupation",
+    "tail": "recording studio",
+    "date": "2013-08-09"
+  },
+  {
+    "head": "PrayForChrisBrown",
+    "type": "point in time",
+    "tail": "Friday afternoon",
+    "date": "2013-08-09"
+  },
+  {
+    "head": "Pray For ChrisBrown",
+    "type": "point in time",
+    "tail": "Friday afternoon",
+    "date": "2013-08-09"
+  },
+  {
+    "head": "PrayForChrisBrown",
+    "type": "platform",
+    "tail": "Twitter",
+    "date": "2013-08-09"
+  },
+  {
+    "head": "2009 assault",
+    "type": "participant",
+    "tail": "Rihanna",
+    "date": "2013-08-09"
+  },
+  {
+    "head": "2009 assault of his then girlfriend, Rihanna",
+    "type": "point in time",
+    "tail": "2009",
+    "date": "2013-08-09"
+  },
+  {
+    "head": "2009 assault of his then girlfriend",
+    "type": "participant",
+    "tail": "Rihanna",
+    "date": "2013-08-09"
+  },
+  {
+    "head": "\"They wo n\\'t love u until u r a memory\"",
+    "type": "publication date",
+    "tail": "Saturday",
+    "date": "2013-08-10"
+  },
+  {
+    "head": "\"They wo n\\'t love u until u r a memory\"",
+    "type": "performer",
+    "tail": "Beyonc\u00e9 Knowles",
+    "date": "2013-08-10"
+  },
+  {
+    "head": "\"They wo n\\'t love u until u r a memory\"",
+    "type": "performer",
+    "tail": "Brown",
+    "date": "2013-08-10"
+  },
+  {
+    "head": "2008 Summer Olympics",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2013-08-12"
+  },
+  {
+    "head": "2012 Summer Olympics",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2013-08-12"
+  },
+  {
+    "head": "2008 Summer Olympics",
+    "type": "location",
+    "tail": "Beijing",
+    "date": "2013-08-12"
+  },
+  {
+    "head": "2008 Summer Olympics",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2013-08-16"
+  },
+  {
+    "head": "2008 Winter Olympics",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2013-08-16"
+  },
+  {
+    "head": "2008 FIFA World Cup",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2013-08-16"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "significant event",
+    "tail": "hit - and - run case",
+    "date": "2013-08-16"
+  },
+  {
+    "head": "hit - and - run case",
+    "type": "participant",
+    "tail": "Chris Brown",
+    "date": "2013-08-16"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "significant event",
+    "tail": "hit - and - run",
+    "date": "2013-08-16"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2013-08-16"
+  },
+  {
+    "head": "2008 election",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2013-08-16"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "significant event",
+    "tail": "assassinated",
+    "date": "2013-08-16"
+  },
+  {
+    "head": "superior court",
+    "type": "located in the administrative territorial entity",
+    "tail": "Los Angeles",
+    "date": "2013-08-16"
+  },
+  {
+    "head": "superior court",
+    "type": "applies to jurisdiction",
+    "tail": "Los Angeles",
+    "date": "2013-08-16"
+  },
+  {
+    "head": "superior court judge",
+    "type": "applies to jurisdiction",
+    "tail": "Los Angeles",
+    "date": "2013-08-16"
+  },
+  {
+    "head": "Paul Metcalf",
+    "type": "employer",
+    "tail": "DC police",
+    "date": "2013-10-21"
+  },
+  {
+    "head": "Paul Metcalf",
+    "type": "employer",
+    "tail": "police",
+    "date": "2013-10-21"
+  },
+  {
+    "head": "Paul Metcalf",
+    "type": "occupation",
+    "tail": "police spokesman",
+    "date": "2013-10-21"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "position held",
+    "tail": "President",
+    "date": "2013-10-27"
+  },
+  {
+    "head": "Washington Police Department",
+    "type": "applies to jurisdiction",
+    "tail": "Washington",
+    "date": "2013-10-27"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "position held",
+    "tail": "President of the United States",
+    "date": "2013-10-27"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "significant event",
+    "tail": "felony assault",
+    "date": "2013-10-27"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "occupation",
+    "tail": "bodyguard",
+    "date": "2013-10-27"
+  },
+  {
+    "head": "man reported to be his bodyguard",
+    "type": "employer",
+    "tail": "Chris Brown",
+    "date": "2013-10-27"
+  },
+  {
+    "head": "2009",
+    "type": "point in time",
+    "tail": "2009",
+    "date": "2013-10-27"
+  },
+  {
+    "head": "2011",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2013-10-27"
+  },
+  {
+    "head": "2011 election",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2013-10-27"
+  },
+  {
+    "head": "2008 Summer Olympics",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2013-10-29"
+  },
+  {
+    "head": "2008 Democratic National Convention",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2013-10-29"
+  },
+  {
+    "head": "2008 Winter Olympics",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2013-10-29"
+  },
+  {
+    "head": "2008 Democratic National Convention",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2013-11-20"
+  },
+  {
+    "head": "2008",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2013-11-20"
+  },
+  {
+    "head": "2012 NFL season",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2013-11-20"
+  },
+  {
+    "head": "Malibu",
+    "type": "located in the administrative territorial entity",
+    "tail": "Los Angeles",
+    "date": "2013-11-20"
+  },
+  {
+    "head": "Malibu",
+    "type": "located in the administrative territorial entity",
+    "tail": "California",
+    "date": "2013-11-20"
+  },
+  {
+    "head": "Anger management",
+    "type": "subclass of",
+    "tail": "residential programme",
+    "date": "2013-11-20"
+  },
+  {
+    "head": "2008 provincial election",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2013-11-20"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2013-11-20"
+  },
+  {
+    "head": "John Diefenbaker",
+    "type": "position held",
+    "tail": "Prime Minister",
+    "date": "2013-11-20"
+  },
+  {
+    "head": "Los Angeles County",
+    "type": "twinned administrative body",
+    "tail": "Washington DC",
+    "date": "2013-11-25"
+  },
+  {
+    "head": "Washington DC",
+    "type": "twinned administrative body",
+    "tail": "Los Angeles County",
+    "date": "2013-11-25"
+  },
+  {
+    "head": "superior court",
+    "type": "applies to jurisdiction",
+    "tail": "Los Angeles County",
+    "date": "2013-11-25"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2013-12-16"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "position held",
+    "tail": "President",
+    "date": "2013-12-16"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2013-12-16"
+  },
+  {
+    "head": "Christmas charge up the table",
+    "type": "performer",
+    "tail": "The Glovers",
+    "date": "2013-12-25"
+  },
+  {
+    "head": "Christmas",
+    "type": "performer",
+    "tail": "The Glovers",
+    "date": "2013-12-25"
+  },
+  {
+    "head": "The Glovers",
+    "type": "performer",
+    "tail": "The Who",
+    "date": "2013-12-25"
+  },
+  {
+    "head": "amended on 18 February 2014",
+    "type": "publication date",
+    "tail": "18 February 2014",
+    "date": "2014-02-18"
+  },
+  {
+    "head": "amended",
+    "type": "publication date",
+    "tail": "18 February 2014",
+    "date": "2014-02-18"
+  },
+  {
+    "head": "This article was amended on 18 February 2014",
+    "type": "publication date",
+    "tail": "18 February 2014",
+    "date": "2014-02-18"
+  },
+  {
+    "head": "2009",
+    "type": "point in time",
+    "tail": "2009",
+    "date": "2014-02-28"
+  },
+  {
+    "head": "2011",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2014-02-28"
+  },
+  {
+    "head": "2012 Summer Olympics",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2014-02-28"
+  },
+  {
+    "head": "2014",
+    "type": "point in time",
+    "tail": "2014",
+    "date": "2014-02-28"
+  },
+  {
+    "head": "2012 Democratic National Convention",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2014-02-28"
+  },
+  {
+    "head": "2012",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2014-02-28"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "position held",
+    "tail": "President",
+    "date": "2014-03-14"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2014-03-14"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "significant event",
+    "tail": "assassinated",
+    "date": "2014-03-14"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2014-03-17"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2014-03-17"
+  },
+  {
+    "head": "Harvard University",
+    "type": "subsidiary",
+    "tail": "John F. Kennedy School of Government",
+    "date": "2014-03-17"
+  },
+  {
+    "head": "Too Long",
+    "type": "performer",
+    "tail": "Ariana Grande",
+    "date": "2014-03-24"
+  },
+  {
+    "head": "'Too Long",
+    "type": "performer",
+    "tail": "Ariana Grande",
+    "date": "2014-03-24"
+  },
+  {
+    "head": "Too Long",
+    "type": "publication date",
+    "tail": "24 March",
+    "date": "2014-03-24"
+  },
+  {
+    "head": "trial",
+    "type": "location",
+    "tail": "Washington, DC",
+    "date": "2014-04-17"
+  },
+  {
+    "head": "trial",
+    "type": "located in the administrative territorial entity",
+    "tail": "Washington, DC",
+    "date": "2014-04-17"
+  },
+  {
+    "head": "a trial",
+    "type": "location",
+    "tail": "Washington, DC",
+    "date": "2014-04-17"
+  },
+  {
+    "head": "James Brandlin",
+    "type": "position held",
+    "tail": "Los Angeles county judge",
+    "date": "2014-04-23"
+  },
+  {
+    "head": "Los Angeles county",
+    "type": "head of government",
+    "tail": "James Brandlin",
+    "date": "2014-04-23"
+  },
+  {
+    "head": "Los Angeles",
+    "type": "located in the administrative territorial entity",
+    "tail": "county",
+    "date": "2014-04-23"
+  },
+  {
+    "head": "county",
+    "type": "contains administrative territorial entity",
+    "tail": "Los Angeles",
+    "date": "2014-04-23"
+  },
+  {
+    "head": "X",
+    "type": "instance of",
+    "tail": "studio album",
+    "date": "2014-05-05"
+  },
+  {
+    "head": "X",
+    "type": "performer",
+    "tail": "Brown",
+    "date": "2014-05-05"
+  },
+  {
+    "head": "X",
+    "type": "instance of",
+    "tail": "album",
+    "date": "2014-05-05"
+  },
+  {
+    "head": "Mark Geragos",
+    "type": "employer",
+    "tail": "CNN",
+    "date": "2014-05-09"
+  },
+  {
+    "head": "Mark Geragos",
+    "type": "occupation",
+    "tail": "lawyer",
+    "date": "2014-05-09"
+  },
+  {
+    "head": "Mark Geragos",
+    "type": "employer",
+    "tail": "Mark Geragos",
+    "date": "2014-05-09"
+  },
+  {
+    "head": "2012 NFL season",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2014-05-11"
+  },
+  {
+    "head": "2008 NFL season",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2014-05-11"
+  },
+  {
+    "head": "2011 NFL season",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2014-05-11"
+  },
+  {
+    "head": "2008 Summer Olympics",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2014-05-12"
+  },
+  {
+    "head": "World Baseball Classic",
+    "type": "located in the administrative territorial entity",
+    "tail": "Cooperstown, New York",
+    "date": "2014-05-12"
+  },
+  {
+    "head": "2008 Beijing Olympics",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2014-05-12"
+  },
+  {
+    "head": "fight in Washington last autumn",
+    "type": "participant",
+    "tail": "Chris Brown",
+    "date": "2014-05-12"
+  },
+  {
+    "head": "fight",
+    "type": "participant",
+    "tail": "Chris Brown",
+    "date": "2014-05-12"
+  },
+  {
+    "head": "a fight in Washington last autumn",
+    "type": "participant",
+    "tail": "Chris Brown",
+    "date": "2014-05-12"
+  },
+  {
+    "head": "R&B",
+    "type": "subclass of",
+    "tail": "singer",
+    "date": "2014-05-12"
+  },
+  {
+    "head": "R&B",
+    "type": "has part",
+    "tail": "singer",
+    "date": "2014-05-12"
+  },
+  {
+    "head": "singer",
+    "type": "subclass of",
+    "tail": "R&B",
+    "date": "2014-05-12"
+  },
+  {
+    "head": "Christy Mack",
+    "type": "occupation",
+    "tail": "adult film actress",
+    "date": "2014-08-11"
+  },
+  {
+    "head": "Jon Koppenhaver",
+    "type": "sport",
+    "tail": "mixed martial arts",
+    "date": "2014-08-11"
+  },
+  {
+    "head": "War Machine",
+    "type": "sport",
+    "tail": "mixed martial arts",
+    "date": "2014-08-11"
+  },
+  {
+    "head": "DJ",
+    "type": "country",
+    "tail": "Australia",
+    "date": "2014-08-14"
+  },
+  {
+    "head": "DJ",
+    "type": "country of origin",
+    "tail": "Australia",
+    "date": "2014-08-14"
+  },
+  {
+    "head": "DJ",
+    "type": "country",
+    "tail": "Australian",
+    "date": "2014-08-14"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2014-08-21"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2014-08-21"
+  },
+  {
+    "head": "Harvard University",
+    "type": "subsidiary",
+    "tail": "John F. Kennedy School of Government",
+    "date": "2014-08-21"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "spouse",
+    "tail": "Rihanna",
+    "date": "2014-09-02"
+  },
+  {
+    "head": "Rihanna",
+    "type": "spouse",
+    "tail": "Chris Brown",
+    "date": "2014-09-02"
+  },
+  {
+    "head": "attacking his then - girlfriend Rihanna",
+    "type": "participant",
+    "tail": "Chris Brown",
+    "date": "2014-09-02"
+  },
+  {
+    "head": "attacking his then - girlfriend",
+    "type": "participant",
+    "tail": "Chris Brown",
+    "date": "2014-09-02"
+  },
+  {
+    "head": "attacking his then - girlfriend",
+    "type": "participant",
+    "tail": "Rihanna",
+    "date": "2014-09-02"
+  },
+  {
+    "head": "W Hotel",
+    "type": "located in the administrative territorial entity",
+    "tail": "Washington",
+    "date": "2014-12-16"
+  },
+  {
+    "head": "W Hotel",
+    "type": "located in the administrative territorial entity",
+    "tail": "Washington\u00e2\u20ac \u2122s",
+    "date": "2014-12-16"
+  },
+  {
+    "head": "Christopher Hollosy",
+    "type": "residence",
+    "tail": "W Hotel",
+    "date": "2014-12-16"
+  },
+  {
+    "head": "superior court",
+    "type": "applies to jurisdiction",
+    "tail": "Washington, DC",
+    "date": "2014-12-16"
+  },
+  {
+    "head": "superior court",
+    "type": "located in the administrative territorial entity",
+    "tail": "Washington, DC",
+    "date": "2014-12-16"
+  },
+  {
+    "head": "superior court",
+    "type": "applies to jurisdiction",
+    "tail": "Washington, DC,",
+    "date": "2014-12-16"
+  },
+  {
+    "head": "Las Vegas",
+    "type": "number of participants",
+    "tail": "26",
+    "date": "2015-05-05"
+  },
+  {
+    "head": "Las Vegas",
+    "type": "area",
+    "tail": "26",
+    "date": "2015-05-05"
+  },
+  {
+    "head": "Las Vegas",
+    "type": "population",
+    "tail": "26",
+    "date": "2015-05-05"
+  },
+  {
+    "head": "Wiz Khalifa",
+    "type": "residence",
+    "tail": "Los Angeles international airport",
+    "date": "2015-08-23"
+  },
+  {
+    "head": "Wiz Khalifa",
+    "type": "location of formation",
+    "tail": "Los Angeles international airport",
+    "date": "2015-08-23"
+  },
+  {
+    "head": "Wiz Khalifa",
+    "type": "work location",
+    "tail": "Los Angeles international airport",
+    "date": "2015-08-23"
+  },
+  {
+    "head": "Bentleys",
+    "type": "subclass of",
+    "tail": "BMWs",
+    "date": "2015-08-23"
+  },
+  {
+    "head": "Bentleys",
+    "type": "manufacturer",
+    "tail": "BMW",
+    "date": "2015-08-23"
+  },
+  {
+    "head": "Bentleys",
+    "type": "subclass of",
+    "tail": "BMW",
+    "date": "2015-08-23"
+  },
+  {
+    "head": "Hendo hoverboard",
+    "type": "subclass of",
+    "tail": "hoverboard",
+    "date": "2015-08-23"
+  },
+  {
+    "head": "Justin Bieber",
+    "type": "owner of",
+    "tail": "IO Hawk",
+    "date": "2015-08-23"
+  },
+  {
+    "head": "IO Hawk",
+    "type": "owned by",
+    "tail": "Justin Bieber",
+    "date": "2015-08-23"
+  },
+  {
+    "head": "Justin Bieber",
+    "type": "spouse",
+    "tail": "Kylie Jenner",
+    "date": "2015-08-23"
+  },
+  {
+    "head": "GetUp",
+    "type": "instance of",
+    "tail": "advocacy group",
+    "date": "2015-09-18"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2015-09-18"
+  },
+  {
+    "head": "2014 election",
+    "type": "point in time",
+    "tail": "2014",
+    "date": "2015-09-18"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2015-09-20"
+  },
+  {
+    "head": "New York Yankees",
+    "type": "league",
+    "tail": "Major League Baseball",
+    "date": "2015-09-20"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2015-09-20"
+  },
+  {
+    "head": "minister for women",
+    "type": "country",
+    "tail": "Australia",
+    "date": "2015-09-21"
+  },
+  {
+    "head": "Minister for women",
+    "type": "country",
+    "tail": "Australia",
+    "date": "2015-09-21"
+  },
+  {
+    "head": "Minister for women",
+    "type": "officeholder",
+    "tail": "Cash",
+    "date": "2015-09-21"
+  },
+  {
+    "head": "The Muppet Show",
+    "type": "cast member",
+    "tail": "Michael Caine",
+    "date": "2015-09-21"
+  },
+  {
+    "head": "The Muppet Show",
+    "type": "original broadcaster",
+    "tail": "Disney Channel",
+    "date": "2015-09-21"
+  },
+  {
+    "head": "The Flying Burrito Brothers",
+    "type": "cast member",
+    "tail": "Michael Caine",
+    "date": "2015-09-21"
+  },
+  {
+    "head": "Michaelia Cash",
+    "type": "position held",
+    "tail": "women\u00e2\u20ac \u2122s minister",
+    "date": "2015-09-24"
+  },
+  {
+    "head": "women\u00e2\u20ac \u2122s minister",
+    "type": "officeholder",
+    "tail": "Michaelia Cash",
+    "date": "2015-09-24"
+  },
+  {
+    "head": "2008 Summer Olympics",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2015-09-25"
+  },
+  {
+    "head": "2012 Summer Olympics",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2015-09-25"
+  },
+  {
+    "head": "2008 Summer Olympics",
+    "type": "location",
+    "tail": "Beijing",
+    "date": "2015-09-25"
+  },
+  {
+    "head": "Sonny Clay",
+    "type": "work period (start)",
+    "tail": "1928",
+    "date": "2015-09-25"
+  },
+  {
+    "head": "Sonny Clay",
+    "type": "inception",
+    "tail": "1928",
+    "date": "2015-09-25"
+  },
+  {
+    "head": "Sonny Clay\u00e2\u20ac \u2122",
+    "type": "work period (start)",
+    "tail": "1928",
+    "date": "2015-09-25"
+  },
+  {
+    "head": "Colored Idea",
+    "type": "ethnic group",
+    "tail": "African American",
+    "date": "2015-09-25"
+  },
+  {
+    "head": "singers",
+    "type": "subclass of",
+    "tail": "musicians",
+    "date": "2015-09-25"
+  },
+  {
+    "head": "Colored Idea",
+    "type": "genre",
+    "tail": "African American",
+    "date": "2015-09-25"
+  },
+  {
+    "head": "toured Australia.",
+    "type": "country",
+    "tail": "Australia",
+    "date": "2015-09-25"
+  },
+  {
+    "head": "toured Australia",
+    "type": "country",
+    "tail": "Australia",
+    "date": "2015-09-25"
+  },
+  {
+    "head": "Australia",
+    "type": "instance of",
+    "tail": "toured",
+    "date": "2015-09-25"
+  },
+  {
+    "head": "GetUp",
+    "type": "founded by",
+    "tail": "Kelsey Cooke",
+    "date": "2015-09-27"
+  },
+  {
+    "head": "Kelsey Cooke",
+    "type": "employer",
+    "tail": "GetUp",
+    "date": "2015-09-27"
+  },
+  {
+    "head": "Kelsey Cooke",
+    "type": "member of",
+    "tail": "GetUp",
+    "date": "2015-09-27"
+  },
+  {
+    "head": "2009 assault",
+    "type": "participant",
+    "tail": "Rihanna",
+    "date": "2015-09-27"
+  },
+  {
+    "head": "assault",
+    "type": "participant",
+    "tail": "Rihanna",
+    "date": "2015-09-27"
+  },
+  {
+    "head": "2009 assault on his then girlfriend, Rihanna",
+    "type": "point in time",
+    "tail": "2009",
+    "date": "2015-09-27"
+  },
+  {
+    "head": "Peter Dutton",
+    "type": "position held",
+    "tail": "immigration minister",
+    "date": "2015-09-27"
+  },
+  {
+    "head": "immigration minister",
+    "type": "officeholder",
+    "tail": "Peter Dutton",
+    "date": "2015-09-27"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "country of citizenship",
+    "tail": "US",
+    "date": "2015-09-27"
+  },
+  {
+    "head": "Rihanna",
+    "type": "genre",
+    "tail": "pop",
+    "date": "2015-09-27"
+  },
+  {
+    "head": "Rihanna",
+    "type": "genre",
+    "tail": "pop singer",
+    "date": "2015-09-27"
+  },
+  {
+    "head": "attacking his then girlfriend",
+    "type": "participant",
+    "tail": "Rihanna",
+    "date": "2015-09-27"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "genre",
+    "tail": "R&B",
+    "date": "2015-09-27"
+  },
+  {
+    "head": "Peter Dutton",
+    "type": "position held",
+    "tail": "immigration minister",
+    "date": "2015-09-27"
+  },
+  {
+    "head": "2008 Summer Olympics",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2015-09-27"
+  },
+  {
+    "head": "2008 FIFA World Cup",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2015-09-27"
+  },
+  {
+    "head": "2008 Summer Olympics",
+    "type": "location",
+    "tail": "Beijing",
+    "date": "2015-09-27"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "genre",
+    "tail": "R&B",
+    "date": "2015-09-28"
+  },
+  {
+    "head": "Peter Dutton",
+    "type": "position held",
+    "tail": "immigration minister",
+    "date": "2015-09-28"
+  },
+  {
+    "head": "immigration minister",
+    "type": "officeholder",
+    "tail": "Peter Dutton",
+    "date": "2015-09-28"
+  },
+  {
+    "head": "posts on social media attributed to Chris Brown",
+    "type": "named after",
+    "tail": "Chris Brown",
+    "date": "2015-09-29"
+  },
+  {
+    "head": "posts on social media attributed to Chris Brown",
+    "type": "facet of",
+    "tail": "Chris Brown",
+    "date": "2015-09-29"
+  },
+  {
+    "head": "posts on social media attributed to Chris Brown",
+    "type": "main subject",
+    "tail": "Chris Brown",
+    "date": "2015-09-29"
+  },
+  {
+    "head": "2008 Summer Olympics",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2015-09-29"
+  },
+  {
+    "head": "2012 Summer Olympics",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2015-09-29"
+  },
+  {
+    "head": "2008 Summer Olympics",
+    "type": "location",
+    "tail": "Beijing",
+    "date": "2015-09-29"
+  },
+  {
+    "head": "Dstrkt London",
+    "type": "location",
+    "tail": "West End",
+    "date": "2015-09-29"
+  },
+  {
+    "head": "Karrueche Tran",
+    "type": "member of",
+    "tail": "Dstrkt London",
+    "date": "2015-09-29"
+  },
+  {
+    "head": "Dstrkt",
+    "type": "location",
+    "tail": "West End",
+    "date": "2015-09-29"
+  },
+  {
+    "head": "Troy Newman",
+    "type": "country of citizenship",
+    "tail": "Australia",
+    "date": "2015-09-29"
+  },
+  {
+    "head": "Troy Newman",
+    "type": "country of citizenship",
+    "tail": "American",
+    "date": "2015-09-29"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "country of citizenship",
+    "tail": "American",
+    "date": "2015-09-29"
+  },
+  {
+    "head": "Terri Butler",
+    "type": "member of political party",
+    "tail": "Labor",
+    "date": "2015-09-29"
+  },
+  {
+    "head": "Right to Life Australia",
+    "type": "political ideology",
+    "tail": "anti - choice",
+    "date": "2015-09-29"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "ethnic group",
+    "tail": "African American",
+    "date": "2015-09-29"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "ethnic group",
+    "tail": "Vietnamese",
+    "date": "2015-09-29"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "ethnic group",
+    "tail": "Vietnamese heritage",
+    "date": "2015-09-29"
+  },
+  {
+    "head": "protests",
+    "type": "subclass of",
+    "tail": "peaceful",
+    "date": "2015-09-29"
+  },
+  {
+    "head": "protests",
+    "type": "subclass of",
+    "tail": "protest",
+    "date": "2015-09-29"
+  },
+  {
+    "head": "Dstrkt",
+    "type": "instance of",
+    "tail": "protest",
+    "date": "2015-09-29"
+  },
+  {
+    "head": "Dutton",
+    "type": "member of",
+    "tail": "government",
+    "date": "2015-09-30"
+  },
+  {
+    "head": "Dutton",
+    "type": "member of political party",
+    "tail": "government",
+    "date": "2015-09-30"
+  },
+  {
+    "head": "government",
+    "type": "head of government",
+    "tail": "Dutton",
+    "date": "2015-09-30"
+  },
+  {
+    "head": "2010 election",
+    "type": "point in time",
+    "tail": "2010",
+    "date": "2015-09-30"
+  },
+  {
+    "head": "2012 election",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2015-09-30"
+  },
+  {
+    "head": "2012 election",
+    "type": "followed by",
+    "tail": "2016 election",
+    "date": "2015-09-30"
+  },
+  {
+    "head": "2016 election",
+    "type": "follows",
+    "tail": "2012 election",
+    "date": "2015-09-30"
+  },
+  {
+    "head": "Troy Newman",
+    "type": "country of citizenship",
+    "tail": "Australia",
+    "date": "2015-09-30"
+  },
+  {
+    "head": "Troy Newman",
+    "type": "country of citizenship",
+    "tail": "American",
+    "date": "2015-09-30"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "country of citizenship",
+    "tail": "American",
+    "date": "2015-09-30"
+  },
+  {
+    "head": "Live Forever",
+    "type": "performer",
+    "tail": "eXquire",
+    "date": "2015-10-08"
+  },
+  {
+    "head": "Live Forever EP",
+    "type": "performer",
+    "tail": "eXquire",
+    "date": "2015-10-08"
+  },
+  {
+    "head": "eXquire",
+    "type": "genre",
+    "tail": "hip - hop\u00e2\u20ac \u2122",
+    "date": "2015-10-08"
+  },
+  {
+    "head": "headdress",
+    "type": "subclass of",
+    "tail": "garb",
+    "date": "2015-10-31"
+  },
+  {
+    "head": "headdress",
+    "type": "subclass of",
+    "tail": "costume",
+    "date": "2015-10-31"
+  },
+  {
+    "head": "headdress",
+    "type": "subclass of",
+    "tail": "jewellery",
+    "date": "2015-10-31"
+  },
+  {
+    "head": "American",
+    "type": "record label",
+    "tail": "Ticketek",
+    "date": "2015-11-25"
+  },
+  {
+    "head": "American singer\u00e2\u20ac \u2122",
+    "type": "record label",
+    "tail": "Ticketek",
+    "date": "2015-11-25"
+  },
+  {
+    "head": "American",
+    "type": "country of origin",
+    "tail": "American",
+    "date": "2015-11-25"
+  },
+  {
+    "head": "Perth Arena",
+    "type": "country",
+    "tail": "Australia",
+    "date": "2015-12-09"
+  },
+  {
+    "head": "One Hell of a Nite",
+    "type": "location",
+    "tail": "Perth Arena",
+    "date": "2015-12-09"
+  },
+  {
+    "head": "One Hell of a Nite tour",
+    "type": "location",
+    "tail": "Perth Arena",
+    "date": "2015-12-09"
+  },
+  {
+    "head": "Allphones Arena",
+    "type": "located in the administrative territorial entity",
+    "tail": "Sydney",
+    "date": "2015-12-12"
+  },
+  {
+    "head": "Allphones Arena",
+    "type": "location",
+    "tail": "Sydney",
+    "date": "2015-12-12"
+  },
+  {
+    "head": "Brisbane Entertainment Centre",
+    "type": "located in the administrative territorial entity",
+    "tail": "Auckland",
+    "date": "2015-12-12"
+  },
+  {
+    "head": "One person\u00e2\u20ac \u2122 s troppo - safari chic",
+    "type": "instance of",
+    "tail": "cultural appropriation",
+    "date": "2016-01-03"
+  },
+  {
+    "head": "One person\u00e2\u20ac \u2122 s troppo",
+    "type": "instance of",
+    "tail": "cultural appropriation",
+    "date": "2016-01-03"
+  },
+  {
+    "head": "One person\u00e2\u20ac\u2122 s troppo - safari chic",
+    "type": "instance of",
+    "tail": "cultural appropriation",
+    "date": "2016-01-03"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "member of sports team",
+    "tail": "Rovers",
+    "date": "2016-01-09"
+  },
+  {
+    "head": "Mark Byrne",
+    "type": "member of sports team",
+    "tail": "Rovers",
+    "date": "2016-01-09"
+  },
+  {
+    "head": "Mark Byrne",
+    "type": "member of sports team",
+    "tail": "Newport\u00e2\u20ac \u2122",
+    "date": "2016-01-09"
+  },
+  {
+    "head": "Sheffield Wednesday",
+    "type": "league",
+    "tail": "Championship",
+    "date": "2016-01-13"
+  },
+  {
+    "head": "Middlesbrough",
+    "type": "league",
+    "tail": "Championship",
+    "date": "2016-01-13"
+  },
+  {
+    "head": "Aaron Collins",
+    "type": "member of sports team",
+    "tail": "Rovers",
+    "date": "2016-01-16"
+  },
+  {
+    "head": "Warren Feeney",
+    "type": "member of sports team",
+    "tail": "Rovers",
+    "date": "2016-01-16"
+  },
+  {
+    "head": "International Alert",
+    "type": "parent organization",
+    "tail": "Unicef",
+    "date": "2016-02-16"
+  },
+  {
+    "head": "Unicef",
+    "type": "subsidiary",
+    "tail": "International Alert",
+    "date": "2016-02-16"
+  },
+  {
+    "head": "for the wrong reasons",
+    "type": "country",
+    "tail": "Nigeria",
+    "date": "2016-02-16"
+  },
+  {
+    "head": "Nigeria",
+    "type": "instance of",
+    "tail": "headlines",
+    "date": "2016-02-16"
+  },
+  {
+    "head": "Nigeria makes headlines",
+    "type": "main subject",
+    "tail": "the wrong reasons",
+    "date": "2016-02-16"
+  },
+  {
+    "head": "Nigeria",
+    "type": "continent",
+    "tail": "Africa",
+    "date": "2016-02-16"
+  },
+  {
+    "head": "Nigeria",
+    "type": "located in or next to body of water",
+    "tail": "Niger",
+    "date": "2016-02-16"
+  },
+  {
+    "head": "Nigeria",
+    "type": "language used",
+    "tail": "Niger",
+    "date": "2016-02-16"
+  },
+  {
+    "head": "What happened to those girls?\u00e2\u20ac \ufffd",
+    "type": "main subject",
+    "tail": "Those girls",
+    "date": "2016-02-16"
+  },
+  {
+    "head": "What happened to those girls?\u00e2\u20ac\u0153What happened to those girls?\u00e2\u20ac\u0153",
+    "type": "main subject",
+    "tail": "Those girls",
+    "date": "2016-02-16"
+  },
+  {
+    "head": "2012 Democratic National Convention",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2016-05-05"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "position held",
+    "tail": "President",
+    "date": "2016-05-05"
+  },
+  {
+    "head": "Michael Brown",
+    "type": "date of death",
+    "tail": "September 11, 2001",
+    "date": "2016-05-05"
+  },
+  {
+    "head": "2008 Democratic National Convention",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2016-05-09"
+  },
+  {
+    "head": "2008",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2016-05-09"
+  },
+  {
+    "head": "2008 presidential election",
+    "type": "candidate",
+    "tail": "Barack Obama",
+    "date": "2016-05-09"
+  },
+  {
+    "head": "Barack Obama",
+    "type": "candidacy in election",
+    "tail": "2008 presidential election",
+    "date": "2016-05-09"
+  },
+  {
+    "head": "Heydar Aliyev",
+    "type": "child",
+    "tail": "Ilham\u00e2\u20ac \u2122",
+    "date": "2016-05-10"
+  },
+  {
+    "head": "Ilham\u00e2\u20ac \u2122",
+    "type": "father",
+    "tail": "Heydar Aliyev",
+    "date": "2016-05-10"
+  },
+  {
+    "head": "Heydar Aliyev",
+    "type": "position held",
+    "tail": "president",
+    "date": "2016-05-10"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "member of political party",
+    "tail": "Labor\u00e2\u20ac \u2122",
+    "date": "2016-05-10"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "member of political party",
+    "tail": "Labor",
+    "date": "2016-05-10"
+  },
+  {
+    "head": "Bill Shorten",
+    "type": "member of political party",
+    "tail": "Labor\u00e2\u20ac \u2122",
+    "date": "2016-05-10"
+  },
+  {
+    "head": "1980s",
+    "type": "point in time",
+    "tail": "1980",
+    "date": "2016-05-10"
+  },
+  {
+    "head": "police officer",
+    "type": "subclass of",
+    "tail": "police",
+    "date": "2016-05-10"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "position held",
+    "tail": "President",
+    "date": "2016-05-10"
+  },
+  {
+    "head": "2008 election",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2016-05-10"
+  },
+  {
+    "head": "2012 provincial election",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2016-05-10"
+  },
+  {
+    "head": "2011 election",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2016-05-10"
+  },
+  {
+    "head": "2013 election",
+    "type": "point in time",
+    "tail": "2013",
+    "date": "2016-05-11"
+  },
+  {
+    "head": "2010 election",
+    "type": "point in time",
+    "tail": "2010",
+    "date": "2016-05-11"
+  },
+  {
+    "head": "2011 election",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2016-05-11"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "member of political party",
+    "tail": "Labor\u00e2\u20ac \u2122",
+    "date": "2016-05-11"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "member of political party",
+    "tail": "Labor",
+    "date": "2016-05-11"
+  },
+  {
+    "head": "Bill Shorten",
+    "type": "member of political party",
+    "tail": "Labor\u00e2\u20ac \u2122",
+    "date": "2016-05-11"
+  },
+  {
+    "head": "2008 election",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2016-05-11"
+  },
+  {
+    "head": "2012 provincial election",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2016-05-11"
+  },
+  {
+    "head": "2011 election",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2016-05-11"
+  },
+  {
+    "head": "2008 apology to the stolen generations",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2016-05-16"
+  },
+  {
+    "head": "Malcolm Turnbull",
+    "type": "candidacy in election",
+    "tail": "application for preselection",
+    "date": "2016-05-16"
+  },
+  {
+    "head": "application for preselection",
+    "type": "candidate",
+    "tail": "Malcolm Turnbull",
+    "date": "2016-05-16"
+  },
+  {
+    "head": "2008 apology to the stolen generations",
+    "type": "publication date",
+    "tail": "2008",
+    "date": "2016-05-16"
+  },
+  {
+    "head": "2014 election",
+    "type": "point in time",
+    "tail": "2014",
+    "date": "2016-05-20"
+  },
+  {
+    "head": "Liberal party of WA\u00e2\u20ac \u2122",
+    "type": "instance of",
+    "tail": "policy committee",
+    "date": "2016-05-20"
+  },
+  {
+    "head": "Liberal party of WA",
+    "type": "has part",
+    "tail": "policy committee",
+    "date": "2016-05-20"
+  },
+  {
+    "head": "Sherry Sufi",
+    "type": "member of political party",
+    "tail": "Liberal",
+    "date": "2016-05-20"
+  },
+  {
+    "head": "Fremantle",
+    "type": "located in the administrative territorial entity",
+    "tail": "West Australian",
+    "date": "2016-05-20"
+  },
+  {
+    "head": "Fremantle",
+    "type": "located in the administrative territorial entity",
+    "tail": "West Australia",
+    "date": "2016-05-20"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "genre",
+    "tail": "R&B",
+    "date": "2016-08-30"
+  },
+  {
+    "head": "Chris Brown",
+    "type": "residence",
+    "tail": "Los Angeles",
+    "date": "2016-08-30"
+  },
+  {
+    "head": "hours - long standoff",
+    "type": "participant",
+    "tail": "Chris Brown",
+    "date": "2016-08-30"
+  },
+  {
+    "head": "called to police for assistance",
+    "type": "operator",
+    "tail": "Police",
+    "date": "2016-08-30"
+  },
+  {
+    "head": "called to police for assistance",
+    "type": "participant",
+    "tail": "Police",
+    "date": "2016-08-30"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2016-08-30"
+  },
+  {
+    "head": "2012 election",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2016-08-30"
+  },
+  {
+    "head": "2008 election",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2016-08-30"
+  },
+  {
+    "head": "2012 provincial election",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2016-08-30"
+  },
+  {
+    "head": "Brown",
+    "type": "employer",
+    "tail": "Los Angeles Times",
+    "date": "2016-08-30"
+  },
+  {
+    "head": "Los Angeles Times",
+    "type": "member of",
+    "tail": "Associated Press",
+    "date": "2016-08-30"
+  },
+  {
+    "head": "Los Angeles Times",
+    "type": "country",
+    "tail": "American",
+    "date": "2016-08-30"
+  },
+  {
+    "head": "Christmas song",
+    "type": "performer",
+    "tail": "Band Aid",
+    "date": "2016-12-25"
+  },
+  {
+    "head": "Band Aid",
+    "type": "notable work",
+    "tail": "Christmas song",
+    "date": "2016-12-25"
+  },
+  {
+    "head": "Christmas song",
+    "type": "performer",
+    "tail": "Band Aid\u00e2\u20ac",
+    "date": "2016-12-25"
+  },
+  {
+    "head": "Soulja Boy",
+    "type": "spouse",
+    "tail": "Karrueche Tran",
+    "date": "2017-01-03"
+  },
+  {
+    "head": "Karrueche Tran",
+    "type": "spouse",
+    "tail": "Soulja Boy",
+    "date": "2017-01-03"
+  },
+  {
+    "head": "Karrueche Tran",
+    "type": "platform",
+    "tail": "Instagram",
+    "date": "2017-01-03"
+  },
+  {
+    "head": "Floyd Mayweather",
+    "type": "sport",
+    "tail": "boxing",
+    "date": "2017-01-05"
+  },
+  {
+    "head": "Floyd Mayweather",
+    "type": "occupation",
+    "tail": "boxing promoter",
+    "date": "2017-01-05"
+  },
+  {
+    "head": "Floyd Mayweather Jr.",
+    "type": "sport",
+    "tail": "boxing",
+    "date": "2017-01-05"
+  },
+  {
+    "head": "Floyd Mayweather",
+    "type": "competition class",
+    "tail": "super featherweight",
+    "date": "2017-01-05"
+  },
+  {
+    "head": "Floyd Mayweather",
+    "type": "competition class",
+    "tail": "light welterweight",
+    "date": "2017-01-05"
+  },
+  {
+    "head": "Floyd Mayweather",
+    "type": "competition class",
+    "tail": "welterweight",
+    "date": "2017-01-05"
+  },
+  {
+    "head": "Floyd Mayweather",
+    "type": "competition class",
+    "tail": "light middleweight",
+    "date": "2017-01-05"
+  },
+  {
+    "head": "Floyd Mayweather",
+    "type": "competition class",
+    "tail": "lightweight",
+    "date": "2017-01-05"
+  },
+  {
+    "head": "inauguration ceremony",
+    "type": "participant",
+    "tail": "Donald Trump\u00e2\u20ac \u2122",
+    "date": "2017-04-07"
+  },
+  {
+    "head": "Donald Trump\u00e2\u20ac \u2122 s inauguration ceremony",
+    "type": "participant",
+    "tail": "Mike Pence\u00e2\u20ac \u2122",
+    "date": "2017-04-07"
+  },
+  {
+    "head": "inauguration ceremony",
+    "type": "participant",
+    "tail": "Mike Pence\u00e2\u20ac \u2122",
+    "date": "2017-04-07"
+  },
+  {
+    "head": "millions of people voted illegally on election day",
+    "type": "facet of",
+    "tail": "Donald Trump",
+    "date": "2017-04-10"
+  },
+  {
+    "head": "tweeted that millions of people voted illegally on election day",
+    "type": "author",
+    "tail": "Donald Trump",
+    "date": "2017-04-10"
+  },
+  {
+    "head": "tweeted that millions of people voted illegally on election day",
+    "type": "creator",
+    "tail": "Donald Trump",
+    "date": "2017-04-10"
+  },
+  {
+    "head": "Freaky Friday",
+    "type": "genre",
+    "tail": "situation",
+    "date": "2017-04-14"
+  },
+  {
+    "head": "Freaky Friday",
+    "type": "instance of",
+    "tail": "situation",
+    "date": "2017-04-14"
+  },
+  {
+    "head": "Freaky Friday",
+    "type": "present in work",
+    "tail": "Freaky Friday",
+    "date": "2017-04-14"
+  },
+  {
+    "head": "recycling",
+    "type": "subclass of",
+    "tail": "waste",
+    "date": "2017-06-30"
+  },
+  {
+    "head": "recycled plastic",
+    "type": "different from",
+    "tail": "recycled",
+    "date": "2017-06-30"
+  },
+  {
+    "head": "recycled",
+    "type": "different from",
+    "tail": "recycled plastic",
+    "date": "2017-06-30"
+  }
+]

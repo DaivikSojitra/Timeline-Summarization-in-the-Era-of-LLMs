@@ -1,0 +1,8078 @@
+[
+  {
+    "head": "Jo Tate",
+    "type": "date of death",
+    "tail": "Wednesday",
+    "date": "1999-08-11"
+  },
+  {
+    "head": "Jo Tate",
+    "type": "place of death",
+    "tail": "Wednesday when his plane crashed",
+    "date": "1999-08-11"
+  },
+  {
+    "head": "Jo Tate",
+    "type": "significant event",
+    "tail": "Wednesday when his plane crashed",
+    "date": "1999-08-11"
+  },
+  {
+    "head": "Lofa county",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "1999-08-12"
+  },
+  {
+    "head": "Lofa",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "1999-08-12"
+  },
+  {
+    "head": "Liberia",
+    "type": "contains administrative territorial entity",
+    "tail": "Lofa county",
+    "date": "1999-08-12"
+  },
+  {
+    "head": "abducted by guerrillas on Wednesday",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "1999-08-18"
+  },
+  {
+    "head": "four Britons abducted by guerrillas on Wednesday",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "1999-08-18"
+  },
+  {
+    "head": "abducted by guerrillas",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "1999-08-18"
+  },
+  {
+    "head": "drinking the blood of his murdered rivals",
+    "type": "instance of",
+    "tail": "cannibalism",
+    "date": "1999-11-02"
+  },
+  {
+    "head": "drinking the blood of his murdered rivals",
+    "type": "subclass of",
+    "tail": "cannibalism",
+    "date": "1999-11-02"
+  },
+  {
+    "head": "drinking the blood",
+    "type": "subclass of",
+    "tail": "cannibalism",
+    "date": "1999-11-02"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "1999-12-26"
+  },
+  {
+    "head": "New South Wales",
+    "type": "capital",
+    "tail": "Sydney",
+    "date": "1999-12-26"
+  },
+  {
+    "head": "Sydney",
+    "type": "located in the administrative territorial entity",
+    "tail": "New South Wales",
+    "date": "1999-12-26"
+  },
+  {
+    "head": "William Shakespeare",
+    "type": "notable work",
+    "tail": "Cymbeline",
+    "date": "2000-01-30"
+  },
+  {
+    "head": "Cymbeline",
+    "type": "author",
+    "tail": "William Shakespeare",
+    "date": "2000-01-30"
+  },
+  {
+    "head": "William Shakespeare",
+    "type": "notable work",
+    "tail": "Hamlet",
+    "date": "2000-01-30"
+  },
+  {
+    "head": "Hamlet",
+    "type": "author",
+    "tail": "William Shakespeare",
+    "date": "2000-01-30"
+  },
+  {
+    "head": "William Shakespeare",
+    "type": "notable work",
+    "tail": "Twelfth Night",
+    "date": "2000-01-30"
+  },
+  {
+    "head": "Twelfth Night",
+    "type": "author",
+    "tail": "William Shakespeare",
+    "date": "2000-01-30"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "president of Liberia",
+    "date": "2000-01-30"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2000-01-30"
+  },
+  {
+    "head": "Liberia",
+    "type": "head of state",
+    "tail": "Charles Taylor",
+    "date": "2000-01-30"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "member of",
+    "tail": "United Nations",
+    "date": "2000-05-05"
+  },
+  {
+    "head": "Democratic Republic of Congo",
+    "type": "member of",
+    "tail": "United Nations",
+    "date": "2000-05-05"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "continent",
+    "tail": "Africa",
+    "date": "2000-05-05"
+  },
+  {
+    "head": "Democratic Republic of Congo",
+    "type": "continent",
+    "tail": "Africa",
+    "date": "2000-05-05"
+  },
+  {
+    "head": "five civilians released",
+    "type": "participant",
+    "tail": "Mr Sankoh",
+    "date": "2000-05-05"
+  },
+  {
+    "head": "five civilians released",
+    "type": "location",
+    "tail": "Sankoh",
+    "date": "2000-05-05"
+  },
+  {
+    "head": "five civilians released yesterday",
+    "type": "participant",
+    "tail": "Mr Sankoh",
+    "date": "2000-05-05"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2000-05-05"
+  },
+  {
+    "head": "Liberia",
+    "type": "member of",
+    "tail": "UN",
+    "date": "2000-05-05"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "shares border with",
+    "tail": "Liberia",
+    "date": "2000-05-05"
+  },
+  {
+    "head": "Liberia",
+    "type": "shares border with",
+    "tail": "Sierra Leone",
+    "date": "2000-05-05"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2000-05-14"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "president",
+    "date": "2000-05-14"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "diplomatic relation",
+    "tail": "Britain",
+    "date": "2000-05-15"
+  },
+  {
+    "head": "Britain",
+    "type": "diplomatic relation",
+    "tail": "Sierra Leone",
+    "date": "2000-05-15"
+  },
+  {
+    "head": "forces in Sierra Leone",
+    "type": "participant",
+    "tail": "Britain",
+    "date": "2000-05-15"
+  },
+  {
+    "head": "Today programme",
+    "type": "production company",
+    "tail": "BBC",
+    "date": "2000-05-17"
+  },
+  {
+    "head": "Today",
+    "type": "production company",
+    "tail": "BBC",
+    "date": "2000-05-17"
+  },
+  {
+    "head": "BBC Today",
+    "type": "production company",
+    "tail": "BBC",
+    "date": "2000-05-17"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "shares border with",
+    "tail": "Liberia",
+    "date": "2000-05-17"
+  },
+  {
+    "head": "Liberia",
+    "type": "shares border with",
+    "tail": "Sierra Leone",
+    "date": "2000-05-17"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "diplomatic relation",
+    "tail": "Liberia",
+    "date": "2000-05-17"
+  },
+  {
+    "head": "Liberia",
+    "type": "diplomatic relation",
+    "tail": "Sierra Leone",
+    "date": "2000-05-17"
+  },
+  {
+    "head": "Liberia",
+    "type": "member of",
+    "tail": "UN",
+    "date": "2000-05-17"
+  },
+  {
+    "head": "UN",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2000-05-17"
+  },
+  {
+    "head": "UN",
+    "type": "diplomatic relation",
+    "tail": "Liberia",
+    "date": "2000-05-17"
+  },
+  {
+    "head": "Liberia",
+    "type": "diplomatic relation",
+    "tail": "UN",
+    "date": "2000-05-17"
+  },
+  {
+    "head": "Liberia",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2000-06-01"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2000-06-01"
+  },
+  {
+    "head": "Liberia",
+    "type": "member of",
+    "tail": "UN",
+    "date": "2000-06-01"
+  },
+  {
+    "head": "Liberian",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2000-06-01"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberian",
+    "date": "2000-06-01"
+  },
+  {
+    "head": "RUF",
+    "type": "country",
+    "tail": "Burkina Faso",
+    "date": "2000-06-05"
+  },
+  {
+    "head": "Mr Compaore",
+    "type": "country of citizenship",
+    "tail": "Burkina Faso",
+    "date": "2000-06-05"
+  },
+  {
+    "head": "Mr Taylor",
+    "type": "country of citizenship",
+    "tail": "Burkina Faso",
+    "date": "2000-06-05"
+  },
+  {
+    "head": "EU",
+    "type": "capital",
+    "tail": "capitals",
+    "date": "2000-06-06"
+  },
+  {
+    "head": "capitals",
+    "type": "capital of",
+    "tail": "EU",
+    "date": "2000-06-06"
+  },
+  {
+    "head": "capitals",
+    "type": "country",
+    "tail": "EU",
+    "date": "2000-06-06"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2000-06-09"
+  },
+  {
+    "head": "Liberia",
+    "type": "head of state",
+    "tail": "Charles Taylor",
+    "date": "2000-06-09"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Sierra Leone",
+    "date": "2000-06-09"
+  },
+  {
+    "head": "France",
+    "type": "diplomatic relation",
+    "tail": "EU",
+    "date": "2000-06-09"
+  },
+  {
+    "head": "EU",
+    "type": "diplomatic relation",
+    "tail": "France",
+    "date": "2000-06-09"
+  },
+  {
+    "head": "France",
+    "type": "member of",
+    "tail": "EU",
+    "date": "2000-06-09"
+  },
+  {
+    "head": "EU",
+    "type": "contains administrative territorial entity",
+    "tail": "France",
+    "date": "2000-06-09"
+  },
+  {
+    "head": "exchanged fire on Monday",
+    "type": "point in time",
+    "tail": "Monday",
+    "date": "2000-06-12"
+  },
+  {
+    "head": "exchanged fire",
+    "type": "point in time",
+    "tail": "Monday",
+    "date": "2000-06-12"
+  },
+  {
+    "head": "exchanged fire on Monday with rebels",
+    "type": "point in time",
+    "tail": "Monday",
+    "date": "2000-06-12"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2000-06-13"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "president",
+    "date": "2000-06-13"
+  },
+  {
+    "head": "Liberia",
+    "type": "diplomatic relation",
+    "tail": "Sierra Leone",
+    "date": "2000-06-13"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "diplomatic relation",
+    "tail": "Liberia",
+    "date": "2000-06-13"
+  },
+  {
+    "head": "Mr Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2000-06-13"
+  },
+  {
+    "head": "Liberia",
+    "type": "head of state",
+    "tail": "Mr Taylor",
+    "date": "2000-06-13"
+  },
+  {
+    "head": "Liberia",
+    "type": "diplomatic relation",
+    "tail": "European Commission",
+    "date": "2000-06-13"
+  },
+  {
+    "head": "Keith Vaz",
+    "type": "employer",
+    "tail": "Foreign Office",
+    "date": "2000-06-13"
+  },
+  {
+    "head": "Keith Vaz",
+    "type": "position held",
+    "tail": "British minister for Europe",
+    "date": "2000-06-13"
+  },
+  {
+    "head": "Keith Vaz",
+    "type": "position held",
+    "tail": "minister for Europe",
+    "date": "2000-06-13"
+  },
+  {
+    "head": "2016 Summer Olympics",
+    "type": "point in time",
+    "tail": "2016",
+    "date": "2000-08-01"
+  },
+  {
+    "head": "United States",
+    "type": "diplomatic relation",
+    "tail": "Mexico",
+    "date": "2000-08-01"
+  },
+  {
+    "head": "Mexico",
+    "type": "diplomatic relation",
+    "tail": "United States",
+    "date": "2000-08-01"
+  },
+  {
+    "head": "United States",
+    "type": "shares border with",
+    "tail": "Mexico",
+    "date": "2000-08-01"
+  },
+  {
+    "head": "Mexico",
+    "type": "shares border with",
+    "tail": "United States",
+    "date": "2000-08-01"
+  },
+  {
+    "head": "Liberia",
+    "type": "diplomatic relation",
+    "tail": "Sierra Leone",
+    "date": "2000-08-01"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "diplomatic relation",
+    "tail": "Liberia",
+    "date": "2000-08-01"
+  },
+  {
+    "head": "Liberia",
+    "type": "member of",
+    "tail": "UN",
+    "date": "2000-08-01"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "member of",
+    "tail": "UN",
+    "date": "2000-08-01"
+  },
+  {
+    "head": "Burkina Faso",
+    "type": "part of",
+    "tail": "west Africa",
+    "date": "2000-08-01"
+  },
+  {
+    "head": "Guinea",
+    "type": "part of",
+    "tail": "west Africa",
+    "date": "2000-08-01"
+  },
+  {
+    "head": "Angola",
+    "type": "part of",
+    "tail": "west Africa",
+    "date": "2000-08-01"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "member of political party",
+    "tail": "Revolutionary United Front",
+    "date": "2000-08-01"
+  },
+  {
+    "head": "Revolutionary United Front",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2000-08-01"
+  },
+  {
+    "head": "Sam Bockarie",
+    "type": "member of political party",
+    "tail": "Revolutionary United Front",
+    "date": "2000-08-01"
+  },
+  {
+    "head": "Issa Sesay",
+    "type": "member of political party",
+    "tail": "Revolutionary United Front",
+    "date": "2000-08-01"
+  },
+  {
+    "head": "Britons",
+    "type": "diplomatic relation",
+    "tail": "South Africa",
+    "date": "2000-08-18"
+  },
+  {
+    "head": "South Africa",
+    "type": "diplomatic relation",
+    "tail": "Britons",
+    "date": "2000-08-18"
+  },
+  {
+    "head": "British",
+    "type": "diplomatic relation",
+    "tail": "South Africa",
+    "date": "2000-08-18"
+  },
+  {
+    "head": "South Africa",
+    "type": "diplomatic relation",
+    "tail": "British",
+    "date": "2000-08-18"
+  },
+  {
+    "head": "international",
+    "type": "participating team",
+    "tail": "Mauritius",
+    "date": "2000-08-20"
+  },
+  {
+    "head": "Mauritius",
+    "type": "participant in",
+    "tail": "international",
+    "date": "2000-08-20"
+  },
+  {
+    "head": "the former world footballer of the year",
+    "type": "member of sports team",
+    "tail": "international",
+    "date": "2000-08-20"
+  },
+  {
+    "head": "rights",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2000-08-21"
+  },
+  {
+    "head": "laws",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2000-08-21"
+  },
+  {
+    "head": "rights",
+    "type": "applies to jurisdiction",
+    "tail": "Liberia",
+    "date": "2000-08-21"
+  },
+  {
+    "head": "Liberia",
+    "type": "instance of",
+    "tail": "state",
+    "date": "2000-08-21"
+  },
+  {
+    "head": "Liberian government",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2000-08-21"
+  },
+  {
+    "head": "Liberian government",
+    "type": "applies to jurisdiction",
+    "tail": "Liberia",
+    "date": "2000-08-21"
+  },
+  {
+    "head": "Nelson Mandela",
+    "type": "position held",
+    "tail": "South African president",
+    "date": "2000-08-22"
+  },
+  {
+    "head": "Nelson Mandela",
+    "type": "country of citizenship",
+    "tail": "South Africa",
+    "date": "2000-08-22"
+  },
+  {
+    "head": "South Africa",
+    "type": "diplomatic relation",
+    "tail": "Liberia",
+    "date": "2000-08-22"
+  },
+  {
+    "head": "Liberia",
+    "type": "diplomatic relation",
+    "tail": "South Africa",
+    "date": "2000-08-22"
+  },
+  {
+    "head": "Liberia",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2000-08-22"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2000-08-22"
+  },
+  {
+    "head": "Liberian",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2000-08-22"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberian",
+    "date": "2000-08-22"
+  },
+  {
+    "head": "National Security Agency",
+    "type": "headquarters location",
+    "tail": "headquarters",
+    "date": "2000-08-22"
+  },
+  {
+    "head": "National Security Agency",
+    "type": "headquarters location",
+    "tail": "feared headquarters",
+    "date": "2000-08-22"
+  },
+  {
+    "head": "headquarters",
+    "type": "owned by",
+    "tail": "National Security Agency",
+    "date": "2000-08-22"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2000-08-22"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberian",
+    "date": "2000-08-22"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberian authorities",
+    "date": "2000-08-22"
+  },
+  {
+    "head": "George Weah",
+    "type": "member of sports team",
+    "tail": "Liberia",
+    "date": "2000-08-24"
+  },
+  {
+    "head": "Liberia",
+    "type": "award received",
+    "tail": "footballer of the year",
+    "date": "2000-08-24"
+  },
+  {
+    "head": "Liberia",
+    "type": "sport",
+    "tail": "footballer",
+    "date": "2000-08-24"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2000-08-25"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "Liberian president",
+    "date": "2000-08-25"
+  },
+  {
+    "head": "World War I",
+    "type": "followed by",
+    "tail": "World War II",
+    "date": "2000-08-26"
+  },
+  {
+    "head": "World War II",
+    "type": "follows",
+    "tail": "World War I",
+    "date": "2000-08-26"
+  },
+  {
+    "head": "World War II",
+    "type": "has effect",
+    "tail": "Holocaust",
+    "date": "2000-08-26"
+  },
+  {
+    "head": "Tim Lambon",
+    "type": "occupation",
+    "tail": "cameraman",
+    "date": "2000-08-26"
+  },
+  {
+    "head": "Tim Lambon",
+    "type": "occupation",
+    "tail": "Cameraman",
+    "date": "2000-08-26"
+  },
+  {
+    "head": "Tim Lambon",
+    "type": "occupation",
+    "tail": "camera man",
+    "date": "2000-08-26"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2000-08-27"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "President",
+    "date": "2000-08-27"
+  },
+  {
+    "head": "Liberia",
+    "type": "head of state",
+    "tail": "Charles Taylor",
+    "date": "2000-08-27"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2001-06-27"
+  },
+  {
+    "head": "Liberia",
+    "type": "head of state",
+    "tail": "Charles Taylor",
+    "date": "2001-06-27"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "president",
+    "date": "2001-06-27"
+  },
+  {
+    "head": "president",
+    "type": "officeholder",
+    "tail": "Charles Taylor",
+    "date": "2001-06-27"
+  },
+  {
+    "head": "Liberia",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2002-05-13"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2002-05-13"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2002-05-13"
+  },
+  {
+    "head": "Liberian",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2002-05-13"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberian",
+    "date": "2002-05-13"
+  },
+  {
+    "head": "Liberia",
+    "type": "diplomatic relation",
+    "tail": "Burkina Faso",
+    "date": "2002-09-11"
+  },
+  {
+    "head": "Burkina Faso",
+    "type": "diplomatic relation",
+    "tail": "Liberia",
+    "date": "2002-09-11"
+  },
+  {
+    "head": "Liberia",
+    "type": "part of",
+    "tail": "west Africa",
+    "date": "2002-09-11"
+  },
+  {
+    "head": "Burkina Faso",
+    "type": "part of",
+    "tail": "west Africa",
+    "date": "2002-09-11"
+  },
+  {
+    "head": "west Africa",
+    "type": "has part",
+    "tail": "Liberia",
+    "date": "2002-09-11"
+  },
+  {
+    "head": "west Africa",
+    "type": "has part",
+    "tail": "Burkina Faso",
+    "date": "2002-09-11"
+  },
+  {
+    "head": "Pentagon",
+    "type": "significant event",
+    "tail": "September 11",
+    "date": "2002-09-11"
+  },
+  {
+    "head": "September 11",
+    "type": "point in time",
+    "tail": "September 11, 2001",
+    "date": "2002-09-11"
+  },
+  {
+    "head": "special forces",
+    "type": "parent organization",
+    "tail": "Pentagon",
+    "date": "2002-09-11"
+  },
+  {
+    "head": "Nigeria",
+    "type": "continent",
+    "tail": "Africa",
+    "date": "2002-09-19"
+  },
+  {
+    "head": "Nigeria",
+    "type": "continent",
+    "tail": "African",
+    "date": "2002-09-19"
+  },
+  {
+    "head": "Nigerian",
+    "type": "continent",
+    "tail": "Africa",
+    "date": "2002-09-19"
+  },
+  {
+    "head": "Hans Blix",
+    "type": "employer",
+    "tail": "UN security council",
+    "date": "2003-02-14"
+  },
+  {
+    "head": "Hans Blix",
+    "type": "work location",
+    "tail": "London",
+    "date": "2003-02-14"
+  },
+  {
+    "head": "Hans Blix",
+    "type": "employer",
+    "tail": "UN",
+    "date": "2003-02-14"
+  },
+  {
+    "head": "Saddam",
+    "type": "country of citizenship",
+    "tail": "Iraq",
+    "date": "2003-03-05"
+  },
+  {
+    "head": "I do not feel threatened by Saddam",
+    "type": "main subject",
+    "tail": "Saddam",
+    "date": "2003-03-05"
+  },
+  {
+    "head": "Saddam",
+    "type": "country",
+    "tail": "Iraq",
+    "date": "2003-03-05"
+  },
+  {
+    "head": "Cebu",
+    "type": "country",
+    "tail": "Philippines",
+    "date": "2003-03-05"
+  },
+  {
+    "head": "Chris Knott Cebu",
+    "type": "country",
+    "tail": "Philippines",
+    "date": "2003-03-05"
+  },
+  {
+    "head": "Chris Knott",
+    "type": "country of citizenship",
+    "tail": "Philippines",
+    "date": "2003-03-05"
+  },
+  {
+    "head": "Africa",
+    "type": "part of",
+    "tail": "world",
+    "date": "2003-03-05"
+  },
+  {
+    "head": "his own people",
+    "type": "continent",
+    "tail": "Africa",
+    "date": "2003-03-05"
+  },
+  {
+    "head": "African continent",
+    "type": "part of",
+    "tail": "Africa",
+    "date": "2003-03-05"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2003-03-05"
+  },
+  {
+    "head": "Liberia",
+    "type": "head of state",
+    "tail": "Charles Taylor",
+    "date": "2003-03-05"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "conflict",
+    "tail": "regime change",
+    "date": "2003-03-05"
+  },
+  {
+    "head": "1991 - 2001 civil war",
+    "type": "location",
+    "tail": "Sierra Leone",
+    "date": "2003-03-07"
+  },
+  {
+    "head": "1991 - 2001 civil war",
+    "type": "participant",
+    "tail": "Sierra Leone rebels",
+    "date": "2003-03-07"
+  },
+  {
+    "head": "1991 - 2001 civil war",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2003-03-07"
+  },
+  {
+    "head": "Liberia",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2003-03-27"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-03-27"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2003-03-27"
+  },
+  {
+    "head": "Liberian",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2003-03-27"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberian",
+    "date": "2003-03-27"
+  },
+  {
+    "head": "Virginia",
+    "type": "located in the administrative territorial entity",
+    "tail": "Monrovia",
+    "date": "2003-03-27"
+  },
+  {
+    "head": "Monrovia",
+    "type": "shares border with",
+    "tail": "Virginia",
+    "date": "2003-03-27"
+  },
+  {
+    "head": "Virginia",
+    "type": "shares border with",
+    "tail": "Monrovia",
+    "date": "2003-03-27"
+  },
+  {
+    "head": "Liberia",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2003-06-04"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-06-04"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2003-06-04"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "conflict",
+    "tail": "civil war in neighbouring Sierra Leone",
+    "date": "2003-06-04"
+  },
+  {
+    "head": "Ghana",
+    "type": "member of",
+    "tail": "UN",
+    "date": "2003-06-04"
+  },
+  {
+    "head": "peace talks",
+    "type": "country",
+    "tail": "Ghana",
+    "date": "2003-06-04"
+  },
+  {
+    "head": "UN",
+    "type": "diplomatic relation",
+    "tail": "Ghana",
+    "date": "2003-06-04"
+  },
+  {
+    "head": "Ghana",
+    "type": "capital",
+    "tail": "Accra",
+    "date": "2003-06-04"
+  },
+  {
+    "head": "Accra",
+    "type": "country",
+    "tail": "Ghana",
+    "date": "2003-06-04"
+  },
+  {
+    "head": "Ghanaian",
+    "type": "capital",
+    "tail": "Accra",
+    "date": "2003-06-04"
+  },
+  {
+    "head": "Accra",
+    "type": "country",
+    "tail": "Ghanaian",
+    "date": "2003-06-04"
+  },
+  {
+    "head": "Accra",
+    "type": "capital of",
+    "tail": "Ghana",
+    "date": "2003-06-04"
+  },
+  {
+    "head": "Liberia",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2003-06-06"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-06-06"
+  },
+  {
+    "head": "Liberia",
+    "type": "part of",
+    "tail": "West Africa",
+    "date": "2003-06-06"
+  },
+  {
+    "head": "West Africa",
+    "type": "has part",
+    "tail": "Liberia",
+    "date": "2003-06-06"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2003-06-06"
+  },
+  {
+    "head": "Liberians United for Reconciliation and Democracy",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2003-06-06"
+  },
+  {
+    "head": "Liberia",
+    "type": "member of",
+    "tail": "UN",
+    "date": "2003-06-06"
+  },
+  {
+    "head": "UN tribunal investigating human rights abuses in Sierra Leone",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2003-06-06"
+  },
+  {
+    "head": "heavy fighting",
+    "type": "location",
+    "tail": "EC compound",
+    "date": "2003-06-07"
+  },
+  {
+    "head": "EC compound",
+    "type": "significant event",
+    "tail": "heavy fighting",
+    "date": "2003-06-07"
+  },
+  {
+    "head": "heavy fighting",
+    "type": "location",
+    "tail": "EC",
+    "date": "2003-06-07"
+  },
+  {
+    "head": "John Milton",
+    "type": "notable work",
+    "tail": "Paradise Lost",
+    "date": "2003-06-07"
+  },
+  {
+    "head": "Paradise Lost",
+    "type": "author",
+    "tail": "John Milton",
+    "date": "2003-06-07"
+  },
+  {
+    "head": "William Shakespeare",
+    "type": "notable work",
+    "tail": "Cymbeline",
+    "date": "2003-06-07"
+  },
+  {
+    "head": "Cymbeline",
+    "type": "author",
+    "tail": "William Shakespeare",
+    "date": "2003-06-07"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2003-06-07"
+  },
+  {
+    "head": "Liberians United for Reconciliation and Democracy",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2003-06-07"
+  },
+  {
+    "head": "Liberia",
+    "type": "member of",
+    "tail": "UN",
+    "date": "2003-06-07"
+  },
+  {
+    "head": "UN tribunal investigating human rights abuses in Sierra Leone",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2003-06-07"
+  },
+  {
+    "head": "Liberia",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2003-06-08"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-06-08"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2003-06-08"
+  },
+  {
+    "head": "Monrovia",
+    "type": "capital of",
+    "tail": "Liberia",
+    "date": "2003-06-08"
+  },
+  {
+    "head": "bridge",
+    "type": "crosses",
+    "tail": "Saint Paul river",
+    "date": "2003-06-08"
+  },
+  {
+    "head": "Liberians United for Reconciliation and Democracy",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-06-08"
+  },
+  {
+    "head": "Liberians United for Reconciliation and Democracy",
+    "type": "chairperson",
+    "tail": "defence minister",
+    "date": "2003-06-08"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-06-09"
+  },
+  {
+    "head": "Liberia",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2003-06-09"
+  },
+  {
+    "head": "Monrovia",
+    "type": "significant event",
+    "tail": "besieged",
+    "date": "2003-06-09"
+  },
+  {
+    "head": "besieged",
+    "type": "location",
+    "tail": "Monrovia",
+    "date": "2003-06-09"
+  },
+  {
+    "head": "besieged",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-06-09"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "President",
+    "date": "2003-06-09"
+  },
+  {
+    "head": "rebels",
+    "type": "participant",
+    "tail": "Charles Taylor",
+    "date": "2003-06-09"
+  },
+  {
+    "head": "rebels fighting to oust President Charles Taylor",
+    "type": "location",
+    "tail": "capital",
+    "date": "2003-06-09"
+  },
+  {
+    "head": "French",
+    "type": "member of",
+    "tail": "EU",
+    "date": "2003-06-09"
+  },
+  {
+    "head": "EU",
+    "type": "contains administrative territorial entity",
+    "tail": "French",
+    "date": "2003-06-09"
+  },
+  {
+    "head": "French",
+    "type": "diplomatic relation",
+    "tail": "EU",
+    "date": "2003-06-09"
+  },
+  {
+    "head": "EU",
+    "type": "diplomatic relation",
+    "tail": "French",
+    "date": "2003-06-09"
+  },
+  {
+    "head": "French forces",
+    "type": "diplomatic relation",
+    "tail": "EU",
+    "date": "2003-06-09"
+  },
+  {
+    "head": "EU",
+    "type": "diplomatic relation",
+    "tail": "French forces",
+    "date": "2003-06-09"
+  },
+  {
+    "head": "Taylor",
+    "type": "position held",
+    "tail": "President",
+    "date": "2003-06-17"
+  },
+  {
+    "head": "June 17 ceasefire",
+    "type": "point in time",
+    "tail": "June 17",
+    "date": "2003-06-17"
+  },
+  {
+    "head": "collapse of a June 17 ceasefire",
+    "type": "point in time",
+    "tail": "June 17",
+    "date": "2003-06-17"
+  },
+  {
+    "head": "June 17 peace deal",
+    "type": "point in time",
+    "tail": "June 17",
+    "date": "2003-06-17"
+  },
+  {
+    "head": "a June 17 peace deal",
+    "type": "point in time",
+    "tail": "June 17",
+    "date": "2003-06-17"
+  },
+  {
+    "head": "peace deal",
+    "type": "point in time",
+    "tail": "June 17",
+    "date": "2003-06-17"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "member of",
+    "tail": "UN",
+    "date": "2003-06-17"
+  },
+  {
+    "head": "war crimes court",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2003-06-17"
+  },
+  {
+    "head": "UN",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2003-06-17"
+  },
+  {
+    "head": "march on Monrovia on Tuesday",
+    "type": "location",
+    "tail": "Monrovia",
+    "date": "2003-06-24"
+  },
+  {
+    "head": "march on Monrovia",
+    "type": "location",
+    "tail": "Monrovia",
+    "date": "2003-06-24"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-06-25"
+  },
+  {
+    "head": "Liberia",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2003-06-25"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2003-06-25"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "work location",
+    "tail": "Monrovia",
+    "date": "2003-06-25"
+  },
+  {
+    "head": "Monrovia",
+    "type": "instance of",
+    "tail": "capital",
+    "date": "2003-06-25"
+  },
+  {
+    "head": "fighting never ceasing",
+    "type": "location",
+    "tail": "Monrovia",
+    "date": "2003-06-25"
+  },
+  {
+    "head": "Monrovia",
+    "type": "said to be the same as",
+    "tail": "half the capital",
+    "date": "2003-06-25"
+  },
+  {
+    "head": "half the capital",
+    "type": "said to be the same as",
+    "tail": "Monrovia",
+    "date": "2003-06-25"
+  },
+  {
+    "head": "Sir Jeremy Greenstock",
+    "type": "position held",
+    "tail": "British ambassador to the UN",
+    "date": "2003-06-25"
+  },
+  {
+    "head": "Sir Jeremy Greenstock",
+    "type": "position held",
+    "tail": "ambassador to the UN",
+    "date": "2003-06-25"
+  },
+  {
+    "head": "international war crimes tribunal",
+    "type": "headquarters location",
+    "tail": "Freetown",
+    "date": "2003-06-25"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-06-26"
+  },
+  {
+    "head": "Liberia",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2003-06-26"
+  },
+  {
+    "head": "Monrovia",
+    "type": "significant event",
+    "tail": "battle for the Liberian capital",
+    "date": "2003-06-26"
+  },
+  {
+    "head": "battle for the Liberian capital",
+    "type": "location",
+    "tail": "Monrovia",
+    "date": "2003-06-26"
+  },
+  {
+    "head": "Monrovia",
+    "type": "significant event",
+    "tail": "battle for the Liberian capital that has claimed about 300 lives in three days",
+    "date": "2003-06-26"
+  },
+  {
+    "head": "battle for the Liberian capital that has claimed about 300 lives in three days",
+    "type": "location",
+    "tail": "Monrovia",
+    "date": "2003-06-26"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-06-27"
+  },
+  {
+    "head": "Liberia",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2003-06-27"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2003-06-27"
+  },
+  {
+    "head": "Monrovia",
+    "type": "capital of",
+    "tail": "Liberia",
+    "date": "2003-06-27"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2003-07-01"
+  },
+  {
+    "head": "besieged by rebel forces",
+    "type": "location",
+    "tail": "Sierra Leone",
+    "date": "2003-07-01"
+  },
+  {
+    "head": "Liberia",
+    "type": "shares border with",
+    "tail": "Sierra Leone",
+    "date": "2003-07-01"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "shares border with",
+    "tail": "Liberia",
+    "date": "2003-07-01"
+  },
+  {
+    "head": "Liberia",
+    "type": "office held by head of government",
+    "tail": "president",
+    "date": "2003-07-02"
+  },
+  {
+    "head": "president",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-07-02"
+  },
+  {
+    "head": "Liberian president",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-07-02"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2003-07-02"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "Liberian president",
+    "date": "2003-07-02"
+  },
+  {
+    "head": "Liberia",
+    "type": "head of state",
+    "tail": "Charles Taylor",
+    "date": "2003-07-02"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2003-07-02"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "Liberian president",
+    "date": "2003-07-02"
+  },
+  {
+    "head": "Liberia",
+    "type": "head of state",
+    "tail": "Charles Taylor",
+    "date": "2003-07-02"
+  },
+  {
+    "head": "first visit to Africa",
+    "type": "participant",
+    "tail": "president",
+    "date": "2003-07-03"
+  },
+  {
+    "head": "first visit to Africa",
+    "type": "participant",
+    "tail": "president's",
+    "date": "2003-07-03"
+  },
+  {
+    "head": "first visit to Africa next week",
+    "type": "participant",
+    "tail": "president",
+    "date": "2003-07-03"
+  },
+  {
+    "head": "Liberia",
+    "type": "part of",
+    "tail": "west Africa",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "war torn west Africa",
+    "type": "has part",
+    "tail": "Liberia",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "Liberia",
+    "type": "part of",
+    "tail": "war torn west Africa",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "war torn",
+    "type": "location",
+    "tail": "Liberia",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "Accra",
+    "type": "country",
+    "tail": "Ghana",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "Ghana",
+    "type": "capital",
+    "tail": "Accra",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "Abdulsalami Abubakar",
+    "type": "country of citizenship",
+    "tail": "Nigeria",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "Nigeria",
+    "type": "diplomatic relation",
+    "tail": "Ghana",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "Ghana",
+    "type": "diplomatic relation",
+    "tail": "Nigeria",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "Olusegun Obasanjo",
+    "type": "position held",
+    "tail": "Nigerian president",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "Olusegun Obasanjo",
+    "type": "country of citizenship",
+    "tail": "Nigeria",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "Abuja",
+    "type": "country",
+    "tail": "Nigeria",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "Nigeria",
+    "type": "capital",
+    "tail": "Abuja",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "Olusegun Obasanjo",
+    "type": "work location",
+    "tail": "Abuja",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "Liberia",
+    "type": "head of state",
+    "tail": "Charles Taylor",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "Liberia",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "Liberian president",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "Liberian president",
+    "type": "officeholder",
+    "tail": "Charles Taylor",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "Liberian president",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "Monrovia",
+    "type": "office held by head of government",
+    "tail": "Liberian president",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "2012 election",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "President of the United States",
+    "type": "officeholder",
+    "tail": "Donald Trump",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "Donald Trump",
+    "type": "position held",
+    "tail": "President of the United States",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "Ari Fleischer",
+    "type": "position held",
+    "tail": "White House press secretary",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "Ari Fleischer",
+    "type": "position held",
+    "tail": "press secretary",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "Ari Fleischer",
+    "type": "occupation",
+    "tail": "White House press secretary",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "President Taylor",
+    "type": "country of citizenship",
+    "tail": "Nigeria",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "Nigeria",
+    "type": "head of state",
+    "tail": "President Taylor",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "President",
+    "type": "country",
+    "tail": "Nigeria",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "Nigeria",
+    "type": "country",
+    "tail": "Nigeria",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "Nigeria",
+    "type": "diplomatic relation",
+    "tail": "Ghana",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "Ghana",
+    "type": "diplomatic relation",
+    "tail": "Nigeria",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "Nigeria",
+    "type": "diplomatic relation",
+    "tail": "Nigeria",
+    "date": "2003-07-04"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2003-07-06"
+  },
+  {
+    "head": "Liberia",
+    "type": "head of state",
+    "tail": "Charles Taylor",
+    "date": "2003-07-06"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "president",
+    "date": "2003-07-06"
+  },
+  {
+    "head": "Nigeria",
+    "type": "member of",
+    "tail": "Reuters",
+    "date": "2003-07-06"
+  },
+  {
+    "head": "Mr Taylor",
+    "type": "country of citizenship",
+    "tail": "Nigeria",
+    "date": "2003-07-06"
+  },
+  {
+    "head": "Mr Taylor",
+    "type": "employer",
+    "tail": "Reuters",
+    "date": "2003-07-06"
+  },
+  {
+    "head": "Liberians United for Reconciliation and Democracy",
+    "type": "instance of",
+    "tail": "faction",
+    "date": "2003-07-06"
+  },
+  {
+    "head": "Liberians United for Reconciliation and Democracy",
+    "type": "instance of",
+    "tail": "rebel faction",
+    "date": "2003-07-06"
+  },
+  {
+    "head": "Liberia",
+    "type": "legislative body",
+    "tail": "Liberians United for Reconciliation and Democracy",
+    "date": "2003-07-06"
+  },
+  {
+    "head": "Liberians United for Reconciliation and Democracy",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-07-06"
+  },
+  {
+    "head": "Monrovia airport",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-07-06"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-07-06"
+  },
+  {
+    "head": "Liberia",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2003-07-06"
+  },
+  {
+    "head": "Liberia",
+    "type": "capital",
+    "tail": "Monrovia airport",
+    "date": "2003-07-06"
+  },
+  {
+    "head": "Monrovia airport",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-07-07"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-07-07"
+  },
+  {
+    "head": "Liberia",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2003-07-07"
+  },
+  {
+    "head": "Liberia",
+    "type": "capital",
+    "tail": "Monrovia airport",
+    "date": "2003-07-07"
+  },
+  {
+    "head": "Archbishop of Monrovia",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-07-17"
+  },
+  {
+    "head": "Tony Blair",
+    "type": "work location",
+    "tail": "London",
+    "date": "2003-07-17"
+  },
+  {
+    "head": "Monrovia",
+    "type": "head of state",
+    "tail": "Charles Taylor",
+    "date": "2003-07-17"
+  },
+  {
+    "head": "Monrovia",
+    "type": "instance of",
+    "tail": "capital",
+    "date": "2003-07-17"
+  },
+  {
+    "head": "Michael Francis",
+    "type": "position held",
+    "tail": "Archbishop",
+    "date": "2003-07-17"
+  },
+  {
+    "head": "his visit to Washington",
+    "type": "participant",
+    "tail": "Mr Bush",
+    "date": "2003-07-17"
+  },
+  {
+    "head": "Liberia",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-07-17"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "position held",
+    "tail": "President",
+    "date": "2003-07-17"
+  },
+  {
+    "head": "No running water since Saturday",
+    "type": "location",
+    "tail": "Monrovians",
+    "date": "2003-07-19"
+  },
+  {
+    "head": "No running water since Saturday",
+    "type": "located in the administrative territorial entity",
+    "tail": "Monrovians",
+    "date": "2003-07-19"
+  },
+  {
+    "head": "No running water since Saturday",
+    "type": "country",
+    "tail": "Monrovians",
+    "date": "2003-07-19"
+  },
+  {
+    "head": "three key crossings",
+    "type": "point in time",
+    "tail": "Saturday",
+    "date": "2003-07-19"
+  },
+  {
+    "head": "Saturday",
+    "type": "point in time",
+    "tail": "Saturday",
+    "date": "2003-07-19"
+  },
+  {
+    "head": "Saturday",
+    "type": "has part",
+    "tail": "three key crossings",
+    "date": "2003-07-19"
+  },
+  {
+    "head": "third attack",
+    "type": "part of",
+    "tail": "Insurgents",
+    "date": "2003-07-19"
+  },
+  {
+    "head": "third attack",
+    "type": "participant",
+    "tail": "Insurgents",
+    "date": "2003-07-19"
+  },
+  {
+    "head": "third attack in two months",
+    "type": "participant",
+    "tail": "Insurgents",
+    "date": "2003-07-19"
+  },
+  {
+    "head": "heavy machine gun",
+    "type": "subclass of",
+    "tail": "mortars",
+    "date": "2003-07-20"
+  },
+  {
+    "head": "heavy machine guns",
+    "type": "has parts of the class",
+    "tail": "mortars",
+    "date": "2003-07-20"
+  },
+  {
+    "head": "heavy machine gun",
+    "type": "has parts of the class",
+    "tail": "mortars",
+    "date": "2003-07-20"
+  },
+  {
+    "head": "Liberian",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2003-07-20"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberian",
+    "date": "2003-07-20"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-07-20"
+  },
+  {
+    "head": "Liberia",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2003-07-20"
+  },
+  {
+    "head": "Ghana",
+    "type": "continent",
+    "tail": "Africa",
+    "date": "2003-07-21"
+  },
+  {
+    "head": "Ghana",
+    "type": "continent",
+    "tail": "African",
+    "date": "2003-07-21"
+  },
+  {
+    "head": "meeting in Ghana",
+    "type": "point in time",
+    "tail": "Monday",
+    "date": "2003-07-21"
+  },
+  {
+    "head": "Liberian",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2003-07-21"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberian",
+    "date": "2003-07-21"
+  },
+  {
+    "head": "Liberia",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2003-07-21"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-07-21"
+  },
+  {
+    "head": "bridge",
+    "type": "location",
+    "tail": "city centre",
+    "date": "2003-07-21"
+  },
+  {
+    "head": "bridge",
+    "type": "location",
+    "tail": "western suburbs",
+    "date": "2003-07-21"
+  },
+  {
+    "head": "bridge",
+    "type": "located in the administrative territorial entity",
+    "tail": "city centre",
+    "date": "2003-07-21"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "President",
+    "date": "2003-07-21"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "residence",
+    "tail": "his mansion",
+    "date": "2003-07-21"
+  },
+  {
+    "head": "his mansion",
+    "type": "occupant",
+    "tail": "Charles Taylor",
+    "date": "2003-07-21"
+  },
+  {
+    "head": "Accra",
+    "type": "country",
+    "tail": "Ghana",
+    "date": "2003-07-23"
+  },
+  {
+    "head": "Ghana",
+    "type": "capital",
+    "tail": "Accra",
+    "date": "2003-07-23"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "member of political party",
+    "tail": "Liberians United for Reconciliation and Democracy",
+    "date": "2003-07-23"
+  },
+  {
+    "head": "Nigeria",
+    "type": "member of",
+    "tail": "Ecowas",
+    "date": "2003-07-23"
+  },
+  {
+    "head": "Ecowas",
+    "type": "operating area",
+    "tail": "west Africa",
+    "date": "2003-07-23"
+  },
+  {
+    "head": "west Africa",
+    "type": "has part",
+    "tail": "Ecowas",
+    "date": "2003-07-23"
+  },
+  {
+    "head": "Liberia",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2003-07-25"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-07-25"
+  },
+  {
+    "head": "Liberian",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2003-07-25"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberian",
+    "date": "2003-07-25"
+  },
+  {
+    "head": "Monrovia",
+    "type": "capital of",
+    "tail": "Liberia",
+    "date": "2003-07-25"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2003-07-25"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "residence",
+    "tail": "Monrovia",
+    "date": "2003-07-25"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-07-25"
+  },
+  {
+    "head": "Liberia",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2003-07-25"
+  },
+  {
+    "head": "shelling",
+    "type": "participant",
+    "tail": "rebels",
+    "date": "2003-07-25"
+  },
+  {
+    "head": "shelling",
+    "type": "participant",
+    "tail": "government forces",
+    "date": "2003-07-25"
+  },
+  {
+    "head": "shelling",
+    "type": "location",
+    "tail": "densely populated city",
+    "date": "2003-07-25"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "President",
+    "date": "2003-07-25"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2003-07-25"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberian",
+    "date": "2003-07-25"
+  },
+  {
+    "head": "US embassy",
+    "type": "located in the administrative territorial entity",
+    "tail": "Monrovia",
+    "date": "2003-07-25"
+  },
+  {
+    "head": "US embassy",
+    "type": "headquarters location",
+    "tail": "Monrovia",
+    "date": "2003-07-25"
+  },
+  {
+    "head": "the US embassy",
+    "type": "located in the administrative territorial entity",
+    "tail": "Monrovia",
+    "date": "2003-07-25"
+  },
+  {
+    "head": "Operation Enduring Freedom",
+    "type": "location",
+    "tail": "Somalia",
+    "date": "2003-07-26"
+  },
+  {
+    "head": "Operation Enduring Freedom",
+    "type": "location",
+    "tail": "Libya",
+    "date": "2003-07-26"
+  },
+  {
+    "head": "Operation Enduring Freedom",
+    "type": "part of",
+    "tail": "Operation Enduring Freedom",
+    "date": "2003-07-26"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "President",
+    "date": "2003-07-26"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2003-07-26"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberian",
+    "date": "2003-07-26"
+  },
+  {
+    "head": "US embassy",
+    "type": "located in the administrative territorial entity",
+    "tail": "Monrovia",
+    "date": "2003-07-26"
+  },
+  {
+    "head": "US embassy",
+    "type": "headquarters location",
+    "tail": "Monrovia",
+    "date": "2003-07-26"
+  },
+  {
+    "head": "the US embassy",
+    "type": "located in the administrative territorial entity",
+    "tail": "Monrovia",
+    "date": "2003-07-26"
+  },
+  {
+    "head": "US",
+    "type": "diplomatic relation",
+    "tail": "Russia",
+    "date": "2003-07-27"
+  },
+  {
+    "head": "Russia",
+    "type": "diplomatic relation",
+    "tail": "US",
+    "date": "2003-07-27"
+  },
+  {
+    "head": "a US appeal for a ceasefire",
+    "type": "point in time",
+    "tail": "Sunday",
+    "date": "2003-07-27"
+  },
+  {
+    "head": "a US appeal for a ceasefire on Sunday",
+    "type": "point in time",
+    "tail": "Sunday",
+    "date": "2003-07-27"
+  },
+  {
+    "head": "Liberia",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2003-07-28"
+  },
+  {
+    "head": "Buchanan",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-07-28"
+  },
+  {
+    "head": "Gbarnga",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-07-28"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-07-28"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "President",
+    "date": "2003-07-28"
+  },
+  {
+    "head": "West Africa",
+    "type": "has part",
+    "tail": "Ghana",
+    "date": "2003-07-28"
+  },
+  {
+    "head": "West Africa",
+    "type": "has part",
+    "tail": "Liberia",
+    "date": "2003-07-28"
+  },
+  {
+    "head": "Ghana",
+    "type": "part of",
+    "tail": "West Africa",
+    "date": "2003-07-28"
+  },
+  {
+    "head": "Liberia",
+    "type": "part of",
+    "tail": "West Africa",
+    "date": "2003-07-28"
+  },
+  {
+    "head": "West Africa",
+    "type": "has part",
+    "tail": "Nigeria",
+    "date": "2003-07-28"
+  },
+  {
+    "head": "Nigeria",
+    "type": "part of",
+    "tail": "West Africa",
+    "date": "2003-07-28"
+  },
+  {
+    "head": "Liberians United for Reconciliation and Democracy",
+    "type": "country",
+    "tail": "Ghana",
+    "date": "2003-07-28"
+  },
+  {
+    "head": "Liberia",
+    "type": "diplomatic relation",
+    "tail": "Ghana",
+    "date": "2003-07-28"
+  },
+  {
+    "head": "Ghana",
+    "type": "diplomatic relation",
+    "tail": "Liberia",
+    "date": "2003-07-28"
+  },
+  {
+    "head": "peace talks",
+    "type": "country",
+    "tail": "Ghana",
+    "date": "2003-07-28"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "work location",
+    "tail": "Monrovia",
+    "date": "2003-07-28"
+  },
+  {
+    "head": "Monrovia",
+    "type": "instance of",
+    "tail": "capital",
+    "date": "2003-07-28"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "President",
+    "date": "2003-07-28"
+  },
+  {
+    "head": "Liberia",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2003-07-29"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-07-29"
+  },
+  {
+    "head": "UN",
+    "type": "has part",
+    "tail": "UN security council",
+    "date": "2003-08-01"
+  },
+  {
+    "head": "UN",
+    "type": "has part",
+    "tail": "security council",
+    "date": "2003-08-01"
+  },
+  {
+    "head": "security council",
+    "type": "parent organization",
+    "tail": "UN",
+    "date": "2003-08-01"
+  },
+  {
+    "head": "UN peacekeepers",
+    "type": "creator",
+    "tail": "UN security council",
+    "date": "2003-08-01"
+  },
+  {
+    "head": "fighting",
+    "type": "location",
+    "tail": "Monrovia",
+    "date": "2003-08-01"
+  },
+  {
+    "head": "fighting in the capital Monrovia",
+    "type": "location",
+    "tail": "Monrovia",
+    "date": "2003-08-01"
+  },
+  {
+    "head": "Monrovia",
+    "type": "instance of",
+    "tail": "capital",
+    "date": "2003-08-01"
+  },
+  {
+    "head": "2010",
+    "type": "point in time",
+    "tail": "2010",
+    "date": "2003-08-01"
+  },
+  {
+    "head": "2010 Six Nations Championship",
+    "type": "point in time",
+    "tail": "2010",
+    "date": "2003-08-01"
+  },
+  {
+    "head": "John Taylor",
+    "type": "member of sports team",
+    "tail": "England",
+    "date": "2003-08-01"
+  },
+  {
+    "head": "Nigerian troops",
+    "type": "country",
+    "tail": "Nigeria",
+    "date": "2003-08-02"
+  },
+  {
+    "head": "Nigerian troops",
+    "type": "inception",
+    "tail": "August 2",
+    "date": "2003-08-02"
+  },
+  {
+    "head": "Nigerian troops",
+    "type": "start time",
+    "tail": "August 2",
+    "date": "2003-08-02"
+  },
+  {
+    "head": "a grab for strategic territory",
+    "type": "point in time",
+    "tail": "Saturday",
+    "date": "2003-08-02"
+  },
+  {
+    "head": "a grab for strategic territory",
+    "type": "participant",
+    "tail": "president",
+    "date": "2003-08-02"
+  },
+  {
+    "head": "a grab for strategic territory before peacekeepers arrived",
+    "type": "point in time",
+    "tail": "Saturday",
+    "date": "2003-08-02"
+  },
+  {
+    "head": "Monrovia",
+    "type": "instance of",
+    "tail": "capital",
+    "date": "2003-08-03"
+  },
+  {
+    "head": "Liberia",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2003-08-03"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-08-03"
+  },
+  {
+    "head": "The attack resumed last night",
+    "type": "location",
+    "tail": "Monrovia",
+    "date": "2003-08-03"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "part of",
+    "tail": "west Africa",
+    "date": "2003-08-04"
+  },
+  {
+    "head": "Ivory Coast",
+    "type": "part of",
+    "tail": "west Africa",
+    "date": "2003-08-04"
+  },
+  {
+    "head": "Guinea",
+    "type": "part of",
+    "tail": "west Africa",
+    "date": "2003-08-04"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2003-08-04"
+  },
+  {
+    "head": "Liberia",
+    "type": "part of",
+    "tail": "west Africa",
+    "date": "2003-08-04"
+  },
+  {
+    "head": "west Africa",
+    "type": "has part",
+    "tail": "Liberia",
+    "date": "2003-08-04"
+  },
+  {
+    "head": "west Africa",
+    "type": "has part",
+    "tail": "Sierra Leone",
+    "date": "2003-08-04"
+  },
+  {
+    "head": "west Africa",
+    "type": "has part",
+    "tail": "Ivory Coast",
+    "date": "2003-08-04"
+  },
+  {
+    "head": "west Africa",
+    "type": "has part",
+    "tail": "Guinea",
+    "date": "2003-08-04"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2003-08-04"
+  },
+  {
+    "head": "Liberia",
+    "type": "head of state",
+    "tail": "Charles Taylor",
+    "date": "2003-08-04"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "conflict",
+    "tail": "Liberia",
+    "date": "2003-08-04"
+  },
+  {
+    "head": "Head of State",
+    "type": "facet of",
+    "tail": "international law",
+    "date": "2003-08-05"
+  },
+  {
+    "head": "Head of State",
+    "type": "part of",
+    "tail": "international law",
+    "date": "2003-08-05"
+  },
+  {
+    "head": "immunity from criminal proceedings",
+    "type": "part of",
+    "tail": "international law",
+    "date": "2003-08-05"
+  },
+  {
+    "head": "immunity from prosecution",
+    "type": "facet of",
+    "tail": "head of state",
+    "date": "2003-08-05"
+  },
+  {
+    "head": "immunity from prosecution",
+    "type": "main subject",
+    "tail": "head of state",
+    "date": "2003-08-05"
+  },
+  {
+    "head": "President",
+    "type": "subclass of",
+    "tail": "head of state",
+    "date": "2003-08-05"
+  },
+  {
+    "head": "International Court of Justice",
+    "type": "country",
+    "tail": "Netherlands",
+    "date": "2003-08-06"
+  },
+  {
+    "head": "Netherlands",
+    "type": "member of",
+    "tail": "International Court of Justice",
+    "date": "2003-08-06"
+  },
+  {
+    "head": "International Court of Justice (ICJ)",
+    "type": "country",
+    "tail": "Netherlands",
+    "date": "2003-08-06"
+  },
+  {
+    "head": "George Bush",
+    "type": "position held",
+    "tail": "President",
+    "date": "2003-08-06"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2003-08-06"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "President",
+    "date": "2003-08-06"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "President",
+    "date": "2003-08-06"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "American ambassador",
+    "date": "2003-08-06"
+  },
+  {
+    "head": "Operation Enduring Freedom",
+    "type": "country",
+    "tail": "Iraq",
+    "date": "2003-08-06"
+  },
+  {
+    "head": "Operation Enduring Freedom",
+    "type": "location",
+    "tail": "Iraq",
+    "date": "2003-08-06"
+  },
+  {
+    "head": "US",
+    "type": "diplomatic relation",
+    "tail": "Iraq",
+    "date": "2003-08-06"
+  },
+  {
+    "head": "Iraq",
+    "type": "diplomatic relation",
+    "tail": "US",
+    "date": "2003-08-06"
+  },
+  {
+    "head": "Operation Enduring Freedom",
+    "type": "country",
+    "tail": "Iraq",
+    "date": "2003-08-07"
+  },
+  {
+    "head": "Operation Enduring Freedom",
+    "type": "location",
+    "tail": "Iraq",
+    "date": "2003-08-07"
+  },
+  {
+    "head": "Operation Enduring Freedom",
+    "type": "part of",
+    "tail": "Operation Enduring Freedom",
+    "date": "2003-08-07"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2003-08-08"
+  },
+  {
+    "head": "the apocalypse",
+    "type": "instance of",
+    "tail": "blackened shells",
+    "date": "2003-08-08"
+  },
+  {
+    "head": "the apocalypse",
+    "type": "has effect",
+    "tail": "blackened shells",
+    "date": "2003-08-08"
+  },
+  {
+    "head": "blackened shells",
+    "type": "has cause",
+    "tail": "the apocalypse",
+    "date": "2003-08-08"
+  },
+  {
+    "head": "Johannesburg",
+    "type": "country",
+    "tail": "South Africa",
+    "date": "2003-08-08"
+  },
+  {
+    "head": "South Africa",
+    "type": "capital",
+    "tail": "Johannesburg",
+    "date": "2003-08-08"
+  },
+  {
+    "head": "Johannesburg",
+    "type": "located in the administrative territorial entity",
+    "tail": "Johannesburg",
+    "date": "2003-08-08"
+  },
+  {
+    "head": "1892",
+    "type": "point in time",
+    "tail": "1892",
+    "date": "2003-08-08"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2003-08-08"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2003-08-08"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "President",
+    "date": "2003-08-08"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "work location",
+    "tail": "Monrovia",
+    "date": "2003-08-08"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "residence",
+    "tail": "Monrovia",
+    "date": "2003-08-08"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "place of death",
+    "tail": "Monrovia",
+    "date": "2003-08-08"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "work location",
+    "tail": "Monrovia",
+    "date": "2003-08-08"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "President",
+    "date": "2003-08-08"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2003-08-09"
+  },
+  {
+    "head": "President",
+    "type": "country",
+    "tail": "Zimbabwe",
+    "date": "2003-08-09"
+  },
+  {
+    "head": "Zimbabwe",
+    "type": "office held by head of government",
+    "tail": "President",
+    "date": "2003-08-09"
+  },
+  {
+    "head": "Harvard University",
+    "type": "subsidiary",
+    "tail": "John F. Kennedy School of Government",
+    "date": "2003-08-09"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "place of death",
+    "tail": "Monrovia",
+    "date": "2003-08-09"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "work location",
+    "tail": "Monrovia",
+    "date": "2003-08-09"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "President",
+    "date": "2003-08-09"
+  },
+  {
+    "head": "John Taylor",
+    "type": "member of sports team",
+    "tail": "England",
+    "date": "2003-08-10"
+  },
+  {
+    "head": "John Taylor",
+    "type": "country of citizenship",
+    "tail": "Zimbabwe",
+    "date": "2003-08-10"
+  },
+  {
+    "head": "John Taylor",
+    "type": "member of sports team",
+    "tail": "Zimbabwe",
+    "date": "2003-08-10"
+  },
+  {
+    "head": "a decade - long cycle of violence and instability",
+    "type": "location",
+    "tail": "west Africa",
+    "date": "2003-08-10"
+  },
+  {
+    "head": "a decade - long cycle of violence and instability",
+    "type": "location",
+    "tail": "West Africa",
+    "date": "2003-08-10"
+  },
+  {
+    "head": "cycle of violence",
+    "type": "subclass of",
+    "tail": "instability",
+    "date": "2003-08-10"
+  },
+  {
+    "head": "offer of asylum",
+    "type": "country",
+    "tail": "Nigeria",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "Nigeria",
+    "type": "country",
+    "tail": "Nigeria",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "Nigeria",
+    "type": "significant event",
+    "tail": "offer of asylum",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "Washington",
+    "type": "diplomatic relation",
+    "tail": "regional leaders",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "regional leaders",
+    "type": "diplomatic relation",
+    "tail": "Washington",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "Washington",
+    "type": "part of",
+    "tail": "regional leaders",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "regional leaders",
+    "type": "has part",
+    "tail": "Washington",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "John Kufuor",
+    "type": "position held",
+    "tail": "president of Ghana",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "Ghana",
+    "type": "member of",
+    "tail": "Ecowas",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "John Kufuor",
+    "type": "country of citizenship",
+    "tail": "Ghana",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "Liberia",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "Liberian",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberian",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "Monrovia",
+    "type": "instance of",
+    "tail": "capital",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "Nigeria",
+    "type": "capital",
+    "tail": "Abuja",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "Abuja",
+    "type": "country",
+    "tail": "Nigeria",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "Nigerian",
+    "type": "capital",
+    "tail": "Abuja",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "Abuja",
+    "type": "country",
+    "tail": "Nigerian",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "president of Liberia",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "president of Liberia",
+    "type": "officeholder",
+    "tail": "Charles Taylor",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "president of Liberia",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "Olusegun Obasanjo",
+    "type": "position held",
+    "tail": "President",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "Abuja airport",
+    "type": "country",
+    "tail": "Nigeria",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "Olusegun Obasanjo",
+    "type": "country of citizenship",
+    "tail": "Nigeria",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "Moses Blah",
+    "type": "position held",
+    "tail": "vice - president",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "Nigeria",
+    "type": "diplomatic relation",
+    "tail": "Liberia",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "violence",
+    "type": "country",
+    "tail": "Nigeria",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "Thabo Mbeki",
+    "type": "position held",
+    "tail": "South African president",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "John Kufuor",
+    "type": "position held",
+    "tail": "Ghanaian president",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "a decade - long cycle of violence and instability",
+    "type": "location",
+    "tail": "west Africa",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "decade - long cycle of violence and instability",
+    "type": "location",
+    "tail": "west Africa",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "a decade - long cycle of violence and instability",
+    "type": "location",
+    "tail": "West Africa",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "Monrovia",
+    "type": "instance of",
+    "tail": "capital",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "Monrovia",
+    "type": "capital of",
+    "tail": "rebels",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "rebels",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "14 years of war",
+    "type": "location",
+    "tail": "Nigeria",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "14 years of war",
+    "type": "country",
+    "tail": "Nigeria",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "14 years of war and chaos",
+    "type": "location",
+    "tail": "Nigeria",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "Monrovia",
+    "type": "instance of",
+    "tail": "capital",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "Monrovia",
+    "type": "continent",
+    "tail": "Africa",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "Monrovia",
+    "type": "capital of",
+    "tail": "rebels",
+    "date": "2003-08-11"
+  },
+  {
+    "head": "Monrovia's international airport",
+    "type": "place served by transport hub",
+    "tail": "Monrovia",
+    "date": "2003-08-12"
+  },
+  {
+    "head": "Movement for Democracy in Liberia",
+    "type": "headquarters location",
+    "tail": "Buchanan",
+    "date": "2003-08-12"
+  },
+  {
+    "head": "Fresh fighting broke out in Liberia",
+    "type": "location",
+    "tail": "Monrovia",
+    "date": "2003-08-12"
+  },
+  {
+    "head": "Monrovia",
+    "type": "significant event",
+    "tail": "Fresh fighting broke out in Liberia",
+    "date": "2003-08-12"
+  },
+  {
+    "head": "Sekou Damate Conneh",
+    "type": "member of political party",
+    "tail": "Lurd",
+    "date": "2003-08-12"
+  },
+  {
+    "head": "Sekou Damate Conneh",
+    "type": "member of political party",
+    "tail": "Lurd rebels",
+    "date": "2003-08-12"
+  },
+  {
+    "head": "Lurd",
+    "type": "chairperson",
+    "tail": "Sekou Damate Conneh",
+    "date": "2003-08-12"
+  },
+  {
+    "head": "Olusegun Obasanjo",
+    "type": "country of citizenship",
+    "tail": "Nigeria",
+    "date": "2003-08-13"
+  },
+  {
+    "head": "Olusegun Obasanjo",
+    "type": "position held",
+    "tail": "President",
+    "date": "2003-08-13"
+  },
+  {
+    "head": "Olusegun Obasanjo",
+    "type": "country of citizenship",
+    "tail": "Nigerian",
+    "date": "2003-08-13"
+  },
+  {
+    "head": "Nigeria",
+    "type": "country",
+    "tail": "Nigeria",
+    "date": "2003-08-13"
+  },
+  {
+    "head": "sanctuary",
+    "type": "country",
+    "tail": "Nigeria",
+    "date": "2003-08-13"
+  },
+  {
+    "head": "Nigeria",
+    "type": "different from",
+    "tail": "Nigeria",
+    "date": "2003-08-13"
+  },
+  {
+    "head": "Seyou Sheriff",
+    "type": "military rank",
+    "tail": "General",
+    "date": "2003-08-14"
+  },
+  {
+    "head": "Seyou Sheriff",
+    "type": "military rank",
+    "tail": "general",
+    "date": "2003-08-14"
+  },
+  {
+    "head": "General Seyou Sheriff",
+    "type": "position held",
+    "tail": "peacekeepers",
+    "date": "2003-08-14"
+  },
+  {
+    "head": "Monrovia",
+    "type": "significant event",
+    "tail": "siege",
+    "date": "2003-08-14"
+  },
+  {
+    "head": "Monrovia",
+    "type": "significant event",
+    "tail": "siege of Monrovia",
+    "date": "2003-08-14"
+  },
+  {
+    "head": "siege of Monrovia",
+    "type": "location",
+    "tail": "Monrovia",
+    "date": "2003-08-14"
+  },
+  {
+    "head": "peace deal",
+    "type": "participant",
+    "tail": "Rebels",
+    "date": "2003-08-18"
+  },
+  {
+    "head": "a peace deal",
+    "type": "participant",
+    "tail": "Rebels",
+    "date": "2003-08-18"
+  },
+  {
+    "head": "signed a peace deal",
+    "type": "participant",
+    "tail": "Rebels",
+    "date": "2003-08-18"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2003-08-19"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "conflict",
+    "tail": "three - year insurgency",
+    "date": "2003-08-19"
+  },
+  {
+    "head": "three - year insurgency",
+    "type": "participant",
+    "tail": "Charles Taylor",
+    "date": "2003-08-19"
+  },
+  {
+    "head": "Accra",
+    "type": "country",
+    "tail": "Ghana",
+    "date": "2003-08-19"
+  },
+  {
+    "head": "Ghana",
+    "type": "capital",
+    "tail": "Accra",
+    "date": "2003-08-19"
+  },
+  {
+    "head": "war",
+    "type": "location",
+    "tail": "Liberia",
+    "date": "2003-08-19"
+  },
+  {
+    "head": "elections",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-08-19"
+  },
+  {
+    "head": "transitional government",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-08-19"
+  },
+  {
+    "head": "Liberia",
+    "type": "significant event",
+    "tail": "elections",
+    "date": "2003-08-19"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2003-10-13"
+  },
+  {
+    "head": "Liberia",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2003-10-13"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-10-13"
+  },
+  {
+    "head": "Gyude Bryant",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2003-10-14"
+  },
+  {
+    "head": "14 years of war",
+    "type": "location",
+    "tail": "Liberia",
+    "date": "2003-10-14"
+  },
+  {
+    "head": "Liberia",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2003-10-14"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2003-10-14"
+  },
+  {
+    "head": "West Africa",
+    "type": "has part",
+    "tail": "Liberia",
+    "date": "2003-10-14"
+  },
+  {
+    "head": "Liberia",
+    "type": "located on terrain feature",
+    "tail": "West Africa",
+    "date": "2003-10-14"
+  },
+  {
+    "head": "Liberians",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2003-10-14"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberians",
+    "date": "2003-10-14"
+  },
+  {
+    "head": "Nigeria",
+    "type": "member of",
+    "tail": "UN",
+    "date": "2003-10-14"
+  },
+  {
+    "head": "Liberia",
+    "type": "member of",
+    "tail": "UN",
+    "date": "2003-10-14"
+  },
+  {
+    "head": "Nigeria",
+    "type": "diplomatic relation",
+    "tail": "Liberia",
+    "date": "2003-10-14"
+  },
+  {
+    "head": "Liberia",
+    "type": "diplomatic relation",
+    "tail": "Nigeria",
+    "date": "2003-10-14"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "president",
+    "date": "2003-10-14"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2003-10-14"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "warlord president",
+    "date": "2003-10-14"
+  },
+  {
+    "head": "Blast at Karachi mosque kills 14",
+    "type": "location",
+    "tail": "Karachi",
+    "date": "2004-05-31"
+  },
+  {
+    "head": "Blast at Karachi mosque kills 14",
+    "type": "located in the administrative territorial entity",
+    "tail": "Karachi",
+    "date": "2004-05-31"
+  },
+  {
+    "head": "Blast at Karachi mosque",
+    "type": "location",
+    "tail": "Karachi",
+    "date": "2004-05-31"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2004-05-31"
+  },
+  {
+    "head": "Liberia",
+    "type": "member of",
+    "tail": "UN",
+    "date": "2004-05-31"
+  },
+  {
+    "head": "senior Sunni cleric was shot dead",
+    "type": "location",
+    "tail": "mosque",
+    "date": "2004-05-31"
+  },
+  {
+    "head": "a senior Sunni cleric was shot dead",
+    "type": "location",
+    "tail": "mosque",
+    "date": "2004-05-31"
+  },
+  {
+    "head": "senior Sunni cleric was shot dead",
+    "type": "country",
+    "tail": "Pakistan",
+    "date": "2004-05-31"
+  },
+  {
+    "head": "Agencies",
+    "type": "headquarters location",
+    "tail": "Karachi",
+    "date": "2004-05-31"
+  },
+  {
+    "head": "Agencies",
+    "type": "located in the administrative territorial entity",
+    "tail": "Karachi",
+    "date": "2004-05-31"
+  },
+  {
+    "head": "Agencies, Karachi",
+    "type": "located in the administrative territorial entity",
+    "tail": "Karachi",
+    "date": "2004-05-31"
+  },
+  {
+    "head": "Olusegun Obasanjo",
+    "type": "country of citizenship",
+    "tail": "Nigeria",
+    "date": "2005-03-25"
+  },
+  {
+    "head": "Nigeria",
+    "type": "head of state",
+    "tail": "Olusegun Obasanjo",
+    "date": "2005-03-25"
+  },
+  {
+    "head": "Nigeria",
+    "type": "diplomatic relation",
+    "tail": "Liberia",
+    "date": "2005-03-25"
+  },
+  {
+    "head": "Liberia",
+    "type": "diplomatic relation",
+    "tail": "Nigeria",
+    "date": "2005-03-25"
+  },
+  {
+    "head": "Abuja",
+    "type": "country",
+    "tail": "Nigeria",
+    "date": "2006-01-16"
+  },
+  {
+    "head": "Nigeria",
+    "type": "capital",
+    "tail": "Abuja",
+    "date": "2006-01-16"
+  },
+  {
+    "head": "Olusegun Obasanjo",
+    "type": "position held",
+    "tail": "President",
+    "date": "2006-01-16"
+  },
+  {
+    "head": "Mrs Johnson - Sirleaf",
+    "type": "date of birth",
+    "tail": "January 16 2006",
+    "date": "2006-01-16"
+  },
+  {
+    "head": "Mrs Johnson - Sirleaf",
+    "type": "date of official opening",
+    "tail": "January 16 2006",
+    "date": "2006-01-16"
+  },
+  {
+    "head": "Mrs Johnson - Sirleaf",
+    "type": "inception",
+    "tail": "January 16 2006",
+    "date": "2006-01-16"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "member of",
+    "tail": "UN",
+    "date": "2006-03-05"
+  },
+  {
+    "head": "Nigeria",
+    "type": "member of",
+    "tail": "UN",
+    "date": "2006-03-05"
+  },
+  {
+    "head": "Nigeria",
+    "type": "diplomatic relation",
+    "tail": "Sierra Leone",
+    "date": "2006-03-05"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "diplomatic relation",
+    "tail": "Nigeria",
+    "date": "2006-03-05"
+  },
+  {
+    "head": "information minister",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2006-03-13"
+  },
+  {
+    "head": "information minister",
+    "type": "applies to jurisdiction",
+    "tail": "Liberia",
+    "date": "2006-03-13"
+  },
+  {
+    "head": "Information minister",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2006-03-13"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2006-03-17"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "president of Liberia",
+    "date": "2006-03-17"
+  },
+  {
+    "head": "president of Liberia",
+    "type": "officeholder",
+    "tail": "Charles Taylor",
+    "date": "2006-03-17"
+  },
+  {
+    "head": "Economic Community of West African States",
+    "type": "diplomatic relation",
+    "tail": "African Union",
+    "date": "2006-03-17"
+  },
+  {
+    "head": "African Union",
+    "type": "diplomatic relation",
+    "tail": "Economic Community of West African States",
+    "date": "2006-03-17"
+  },
+  {
+    "head": "Economic Community of West African States",
+    "type": "member of",
+    "tail": "African Union",
+    "date": "2006-03-17"
+  },
+  {
+    "head": "Calabar",
+    "type": "country",
+    "tail": "Nigeria",
+    "date": "2006-03-17"
+  },
+  {
+    "head": "Nigeria",
+    "type": "contains administrative territorial entity",
+    "tail": "Calabar",
+    "date": "2006-03-17"
+  },
+  {
+    "head": "Calabar",
+    "type": "located in the administrative territorial entity",
+    "tail": "Nigeria",
+    "date": "2006-03-17"
+  },
+  {
+    "head": "civil war",
+    "type": "country",
+    "tail": "Nigeria",
+    "date": "2006-03-17"
+  },
+  {
+    "head": "14 years of civil war",
+    "type": "country",
+    "tail": "Nigeria",
+    "date": "2006-03-17"
+  },
+  {
+    "head": "civil war",
+    "type": "location",
+    "tail": "Nigeria",
+    "date": "2006-03-17"
+  },
+  {
+    "head": "hacking off the hands and feet of civilians",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2006-03-17"
+  },
+  {
+    "head": "hacking off the hands and feet",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2006-03-17"
+  },
+  {
+    "head": "hacking off the hands and feet of civilians",
+    "type": "location",
+    "tail": "Sierra Leone",
+    "date": "2006-03-17"
+  },
+  {
+    "head": "devastating war",
+    "type": "location",
+    "tail": "Sierra Leone",
+    "date": "2006-03-23"
+  },
+  {
+    "head": "devastating war",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2006-03-23"
+  },
+  {
+    "head": "war in Sierra Leone",
+    "type": "significant event",
+    "tail": "15th anniversary",
+    "date": "2006-03-23"
+  },
+  {
+    "head": "Nigeria",
+    "type": "diplomatic relation",
+    "tail": "Liberia",
+    "date": "2006-03-25"
+  },
+  {
+    "head": "Liberia",
+    "type": "diplomatic relation",
+    "tail": "Nigeria",
+    "date": "2006-03-25"
+  },
+  {
+    "head": "Nigeria",
+    "type": "diplomatic relation",
+    "tail": "Sierra Leone",
+    "date": "2006-03-25"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "diplomatic relation",
+    "tail": "Nigeria",
+    "date": "2006-03-25"
+  },
+  {
+    "head": "14 years of civil war",
+    "type": "location",
+    "tail": "Liberia",
+    "date": "2006-03-25"
+  },
+  {
+    "head": "14 years of civil war",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2006-03-25"
+  },
+  {
+    "head": "civil war",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2006-03-25"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2006-03-26"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "employer",
+    "tail": "UN war crimes tribunal",
+    "date": "2006-03-26"
+  },
+  {
+    "head": "Liberia",
+    "type": "head of state",
+    "tail": "Charles Taylor",
+    "date": "2006-03-26"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2006-03-26"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "Liberian president",
+    "date": "2006-03-26"
+  },
+  {
+    "head": "Liberia",
+    "type": "head of state",
+    "tail": "Charles Taylor",
+    "date": "2006-03-26"
+  },
+  {
+    "head": "14 years of civil war",
+    "type": "location",
+    "tail": "Liberia",
+    "date": "2006-03-26"
+  },
+  {
+    "head": "14 years of civil war",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2006-03-26"
+  },
+  {
+    "head": "civil war",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2006-03-26"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2006-03-26"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "conflict",
+    "tail": "11 year long conflict",
+    "date": "2006-03-26"
+  },
+  {
+    "head": "Liberia",
+    "type": "head of state",
+    "tail": "Charles Taylor",
+    "date": "2006-03-26"
+  },
+  {
+    "head": "Nigeria",
+    "type": "member of",
+    "tail": "African Union",
+    "date": "2006-03-26"
+  },
+  {
+    "head": "US",
+    "type": "diplomatic relation",
+    "tail": "African Union",
+    "date": "2006-03-26"
+  },
+  {
+    "head": "Nigeria",
+    "type": "diplomatic relation",
+    "tail": "US",
+    "date": "2006-03-26"
+  },
+  {
+    "head": "US",
+    "type": "diplomatic relation",
+    "tail": "Nigeria",
+    "date": "2006-03-26"
+  },
+  {
+    "head": "Olusegun Obasanjo",
+    "type": "position held",
+    "tail": "Nigeria \\'s president",
+    "date": "2006-03-26"
+  },
+  {
+    "head": "Olusegun Obasanjo",
+    "type": "country of citizenship",
+    "tail": "Nigeria",
+    "date": "2006-03-26"
+  },
+  {
+    "head": "Nigeria \\'s president",
+    "type": "officeholder",
+    "tail": "Olusegun Obasanjo",
+    "date": "2006-03-26"
+  },
+  {
+    "head": "Calabar",
+    "type": "country",
+    "tail": "Nigeria",
+    "date": "2006-03-27"
+  },
+  {
+    "head": "Nigeria",
+    "type": "contains administrative territorial entity",
+    "tail": "Calabar",
+    "date": "2006-03-27"
+  },
+  {
+    "head": "Calabar",
+    "type": "located in the administrative territorial entity",
+    "tail": "Nigeria",
+    "date": "2006-03-27"
+  },
+  {
+    "head": "Kilari Anand Paul",
+    "type": "occupation",
+    "tail": "evangelist",
+    "date": "2006-03-27"
+  },
+  {
+    "head": "Kilari Anand Paul",
+    "type": "field of work",
+    "tail": "evangelist",
+    "date": "2006-03-27"
+  },
+  {
+    "head": "Kilari Anand Paul",
+    "type": "country of citizenship",
+    "tail": "American",
+    "date": "2006-03-27"
+  },
+  {
+    "head": "Calabar",
+    "type": "country",
+    "tail": "Nigeria",
+    "date": "2006-03-27"
+  },
+  {
+    "head": "Calabar",
+    "type": "country",
+    "tail": "Nigerian",
+    "date": "2006-03-27"
+  },
+  {
+    "head": "Calabar",
+    "type": "country",
+    "tail": "southern Nigeria",
+    "date": "2006-03-27"
+  },
+  {
+    "head": "Nigeria",
+    "type": "country",
+    "tail": "Nigeria",
+    "date": "2006-03-27"
+  },
+  {
+    "head": "Nigerian safe haven",
+    "type": "country",
+    "tail": "Nigeria",
+    "date": "2006-03-27"
+  },
+  {
+    "head": "Nigeria",
+    "type": "diplomatic relation",
+    "tail": "Nigeria",
+    "date": "2006-03-27"
+  },
+  {
+    "head": "Calabar",
+    "type": "country",
+    "tail": "Nigeria",
+    "date": "2006-03-27"
+  },
+  {
+    "head": "south - eastern",
+    "type": "country",
+    "tail": "Nigeria",
+    "date": "2006-03-27"
+  },
+  {
+    "head": "south",
+    "type": "country",
+    "tail": "Nigeria",
+    "date": "2006-03-27"
+  },
+  {
+    "head": "eastern",
+    "type": "country",
+    "tail": "Nigeria",
+    "date": "2006-03-27"
+  },
+  {
+    "head": "Olusegun Obasanjo",
+    "type": "country of citizenship",
+    "tail": "Nigeria",
+    "date": "2006-03-27"
+  },
+  {
+    "head": "Olusegun Obasanjo",
+    "type": "position held",
+    "tail": "Nigeria \\'s president",
+    "date": "2006-03-27"
+  },
+  {
+    "head": "Nigeria",
+    "type": "member of",
+    "tail": "UN",
+    "date": "2006-03-27"
+  },
+  {
+    "head": "John Kufuor",
+    "type": "country of citizenship",
+    "tail": "Ghana",
+    "date": "2006-03-27"
+  },
+  {
+    "head": "Ghana",
+    "type": "member of",
+    "tail": "African Union",
+    "date": "2006-03-27"
+  },
+  {
+    "head": "Thabo Mbeki",
+    "type": "country of citizenship",
+    "tail": "South Africa",
+    "date": "2006-03-27"
+  },
+  {
+    "head": "South Africa",
+    "type": "member of",
+    "tail": "African Union",
+    "date": "2006-03-27"
+  },
+  {
+    "head": "Joaquim Chissano",
+    "type": "country of citizenship",
+    "tail": "Mozambique",
+    "date": "2006-03-27"
+  },
+  {
+    "head": "Mozambique",
+    "type": "head of state",
+    "tail": "Joaquim Chissano",
+    "date": "2006-03-27"
+  },
+  {
+    "head": "Ghana",
+    "type": "member of",
+    "tail": "Economic Community of West African States",
+    "date": "2006-03-27"
+  },
+  {
+    "head": "South Africa",
+    "type": "member of",
+    "tail": "Economic Community of West African States",
+    "date": "2006-03-27"
+  },
+  {
+    "head": "Olusegun Obasanjo",
+    "type": "country of citizenship",
+    "tail": "Nigeria",
+    "date": "2006-03-27"
+  },
+  {
+    "head": "Olusegun Obasanjo",
+    "type": "position held",
+    "tail": "president",
+    "date": "2006-03-27"
+  },
+  {
+    "head": "Nigeria",
+    "type": "head of state",
+    "tail": "Olusegun Obasanjo",
+    "date": "2006-03-27"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2006-03-27"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "Liberian president",
+    "date": "2006-03-27"
+  },
+  {
+    "head": "Nigeria",
+    "type": "head of state",
+    "tail": "Olusegun Obasanjo",
+    "date": "2006-03-27"
+  },
+  {
+    "head": "Nigeria",
+    "type": "significant event",
+    "tail": "international outcry",
+    "date": "2006-03-28"
+  },
+  {
+    "head": "international outcry",
+    "type": "country",
+    "tail": "Nigeria",
+    "date": "2006-03-28"
+  },
+  {
+    "head": "Mr Taylor",
+    "type": "country of citizenship",
+    "tail": "Nigeria",
+    "date": "2006-03-28"
+  },
+  {
+    "head": "Nigeria",
+    "type": "shares border with",
+    "tail": "Cameroon",
+    "date": "2006-03-29"
+  },
+  {
+    "head": "Cameroon",
+    "type": "shares border with",
+    "tail": "Nigeria",
+    "date": "2006-03-29"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "shares border with",
+    "tail": "Nigeria",
+    "date": "2006-03-29"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "shares border with",
+    "tail": "Cameroon",
+    "date": "2006-03-29"
+  },
+  {
+    "head": "Nigeria",
+    "type": "shares border with",
+    "tail": "Sierra Leone",
+    "date": "2006-03-29"
+  },
+  {
+    "head": "Cameroon",
+    "type": "shares border with",
+    "tail": "Sierra Leone",
+    "date": "2006-03-29"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2006-03-29"
+  },
+  {
+    "head": "Gamboru",
+    "type": "located in the administrative territorial entity",
+    "tail": "Ngala",
+    "date": "2006-03-29"
+  },
+  {
+    "head": "Gamboru",
+    "type": "shares border with",
+    "tail": "Ngala",
+    "date": "2006-03-29"
+  },
+  {
+    "head": "Ngala",
+    "type": "shares border with",
+    "tail": "Gamboru",
+    "date": "2006-03-29"
+  },
+  {
+    "head": "Ngala",
+    "type": "shares border with",
+    "tail": "Calabar",
+    "date": "2006-03-29"
+  },
+  {
+    "head": "Calabar",
+    "type": "shares border with",
+    "tail": "Ngala",
+    "date": "2006-03-29"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2006-03-29"
+  },
+  {
+    "head": "Nigeria",
+    "type": "shares border with",
+    "tail": "Cameroon",
+    "date": "2006-03-29"
+  },
+  {
+    "head": "Cameroon",
+    "type": "shares border with",
+    "tail": "Nigeria",
+    "date": "2006-03-29"
+  },
+  {
+    "head": "special international war crimes court",
+    "type": "headquarters location",
+    "tail": "the Hague",
+    "date": "2006-03-29"
+  },
+  {
+    "head": "special international war crimes court",
+    "type": "located in the administrative territorial entity",
+    "tail": "the Hague",
+    "date": "2006-03-29"
+  },
+  {
+    "head": "the Hague",
+    "type": "country",
+    "tail": "Holland",
+    "date": "2006-03-29"
+  },
+  {
+    "head": "Freetown",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2006-03-30"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "capital",
+    "tail": "Freetown",
+    "date": "2006-03-30"
+  },
+  {
+    "head": "Freetown",
+    "type": "instance of",
+    "tail": "capital",
+    "date": "2006-03-30"
+  },
+  {
+    "head": "Freetown",
+    "type": "capital of",
+    "tail": "Sierra Leone",
+    "date": "2006-03-30"
+  },
+  {
+    "head": "Revolutionary United Front",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2006-03-30"
+  },
+  {
+    "head": "Revolutionary United Front (RUF)",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2006-03-30"
+  },
+  {
+    "head": "Sierra Leone insurgents",
+    "type": "participant",
+    "tail": "Revolutionary United Front",
+    "date": "2006-03-30"
+  },
+  {
+    "head": "Nigerian security forces",
+    "type": "country",
+    "tail": "Nigeria",
+    "date": "2006-04-02"
+  },
+  {
+    "head": "Kilari Anand Paul",
+    "type": "country of citizenship",
+    "tail": "Nigeria",
+    "date": "2006-04-02"
+  },
+  {
+    "head": "Kilari Anand Paul",
+    "type": "employer",
+    "tail": "Associated Press",
+    "date": "2006-04-02"
+  },
+  {
+    "head": "Freetown",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2006-04-03"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "capital",
+    "tail": "Freetown",
+    "date": "2006-04-03"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2006-04-03"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "significant event",
+    "tail": "war crimes",
+    "date": "2006-04-04"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "significant event",
+    "tail": "war crime",
+    "date": "2006-04-04"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "conflict",
+    "tail": "war crimes",
+    "date": "2006-04-04"
+  },
+  {
+    "head": "1991 - 2002 civil war",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2006-04-04"
+  },
+  {
+    "head": "1991 - 2002 civil war",
+    "type": "location",
+    "tail": "Sierra Leone",
+    "date": "2006-04-04"
+  },
+  {
+    "head": "civil war",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2006-04-04"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2006-06-15"
+  },
+  {
+    "head": "war crimes trial",
+    "type": "participant",
+    "tail": "Charles Taylor",
+    "date": "2006-06-15"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "significant event",
+    "tail": "war crimes trial",
+    "date": "2006-06-15"
+  },
+  {
+    "head": "Margaret Beckett",
+    "type": "position held",
+    "tail": "foreign secretary",
+    "date": "2006-06-15"
+  },
+  {
+    "head": "Kofi Annan",
+    "type": "position held",
+    "tail": "UN secretary - general",
+    "date": "2006-06-15"
+  },
+  {
+    "head": "foreign secretary",
+    "type": "officeholder",
+    "tail": "Margaret Beckett",
+    "date": "2006-06-15"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2006-06-15"
+  },
+  {
+    "head": "Margaret Beckett",
+    "type": "position held",
+    "tail": "foreign secretary",
+    "date": "2006-06-15"
+  },
+  {
+    "head": "Today in parliament",
+    "type": "facet of",
+    "tail": "parliament",
+    "date": "2006-06-16"
+  },
+  {
+    "head": "Today in parliament",
+    "type": "location",
+    "tail": "Commons",
+    "date": "2006-06-16"
+  },
+  {
+    "head": "Backbench business in the Commons",
+    "type": "part of",
+    "tail": "parliament",
+    "date": "2006-06-16"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2006-06-16"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "Liberian president",
+    "date": "2006-06-16"
+  },
+  {
+    "head": "Liberia",
+    "type": "head of state",
+    "tail": "Charles Taylor",
+    "date": "2006-06-16"
+  },
+  {
+    "head": "William Shakespeare",
+    "type": "notable work",
+    "tail": "Cymbeline",
+    "date": "2006-06-16"
+  },
+  {
+    "head": "Cymbeline",
+    "type": "author",
+    "tail": "William Shakespeare",
+    "date": "2006-06-16"
+  },
+  {
+    "head": "William Shakespeare",
+    "type": "notable work",
+    "tail": "Hamlet",
+    "date": "2006-06-16"
+  },
+  {
+    "head": "Hamlet",
+    "type": "author",
+    "tail": "William Shakespeare",
+    "date": "2006-06-16"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "Secretary of State",
+    "date": "2006-06-16"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "president of Liberia",
+    "date": "2006-06-19"
+  },
+  {
+    "head": "war crimes trial",
+    "type": "location",
+    "tail": "The Hague",
+    "date": "2006-06-19"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "significant event",
+    "tail": "war crimes trial",
+    "date": "2006-06-19"
+  },
+  {
+    "head": "war crimes trial",
+    "type": "participant",
+    "tail": "Charles Taylor",
+    "date": "2006-06-19"
+  },
+  {
+    "head": "Freetown",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2006-06-19"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "capital",
+    "tail": "Freetown",
+    "date": "2006-06-19"
+  },
+  {
+    "head": "Freetown",
+    "type": "instance of",
+    "tail": "capital",
+    "date": "2006-06-19"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "member of",
+    "tail": "UN",
+    "date": "2006-06-19"
+  },
+  {
+    "head": "Royal Air Force",
+    "type": "conflict",
+    "tail": "World War II",
+    "date": "2006-06-19"
+  },
+  {
+    "head": "Royal Air Force",
+    "type": "has part",
+    "tail": "Royal Netherlands Navy",
+    "date": "2006-06-19"
+  },
+  {
+    "head": "Royal Air Force",
+    "type": "has part",
+    "tail": "Royal Netherlands Army Air Corps",
+    "date": "2006-06-19"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "president of Liberia",
+    "date": "2006-06-20"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2006-06-20"
+  },
+  {
+    "head": "president of Liberia",
+    "type": "officeholder",
+    "tail": "Charles Taylor",
+    "date": "2006-06-20"
+  },
+  {
+    "head": "Tony Blair",
+    "type": "position held",
+    "tail": "prime minister",
+    "date": "2007-01-26"
+  },
+  {
+    "head": "Tony Blair",
+    "type": "employer",
+    "tail": "World Economic Forum",
+    "date": "2007-01-26"
+  },
+  {
+    "head": "Tony Blair",
+    "type": "participant in",
+    "tail": "World Economic Forum",
+    "date": "2007-01-26"
+  },
+  {
+    "head": "Liberia",
+    "type": "office held by head of government",
+    "tail": "president",
+    "date": "2007-01-28"
+  },
+  {
+    "head": "president",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2007-01-28"
+  },
+  {
+    "head": "Liberia",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2007-01-28"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "award received",
+    "tail": "Templeton Prize",
+    "date": "2007-05-02"
+  },
+  {
+    "head": "Templeton Prize",
+    "type": "winner",
+    "tail": "Charles Taylor",
+    "date": "2007-05-02"
+  },
+  {
+    "head": "Prince Philip, Duke of Edinburgh",
+    "type": "award received",
+    "tail": "Templeton Prize",
+    "date": "2007-05-02"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "significant event",
+    "tail": "war crimes",
+    "date": "2007-06-03"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2007-06-03"
+  },
+  {
+    "head": "war crimes",
+    "type": "location",
+    "tail": "The Hague",
+    "date": "2007-06-03"
+  },
+  {
+    "head": "war crime",
+    "type": "used by",
+    "tail": "prosecutor",
+    "date": "2007-06-03"
+  },
+  {
+    "head": "war crimes",
+    "type": "used by",
+    "tail": "prosecutor",
+    "date": "2007-06-03"
+  },
+  {
+    "head": "war crimes charges",
+    "type": "used by",
+    "tail": "prosecutor",
+    "date": "2007-06-03"
+  },
+  {
+    "head": "war crime",
+    "type": "subclass of",
+    "tail": "crimes against humanity",
+    "date": "2007-06-03"
+  },
+  {
+    "head": "war crimes",
+    "type": "subclass of",
+    "tail": "crimes against humanity",
+    "date": "2007-06-03"
+  },
+  {
+    "head": "war crimes",
+    "type": "has parts of the class",
+    "tail": "crimes against humanity",
+    "date": "2007-06-03"
+  },
+  {
+    "head": "crimes against humanity",
+    "type": "subclass of",
+    "tail": "war crime",
+    "date": "2007-06-03"
+  },
+  {
+    "head": "civil war",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2007-06-03"
+  },
+  {
+    "head": "war crime",
+    "type": "has parts of the class",
+    "tail": "crimes against humanity",
+    "date": "2007-06-03"
+  },
+  {
+    "head": "first ever trial",
+    "type": "main subject",
+    "tail": "crimes against humanity",
+    "date": "2007-06-03"
+  },
+  {
+    "head": "first ever trial of a former African head of state",
+    "type": "main subject",
+    "tail": "crimes against humanity",
+    "date": "2007-06-03"
+  },
+  {
+    "head": "first ever trial",
+    "type": "instance of",
+    "tail": "crimes against humanity",
+    "date": "2007-06-03"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2007-06-04"
+  },
+  {
+    "head": "Liberia",
+    "type": "shares border with",
+    "tail": "Sierra Leone",
+    "date": "2007-06-04"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "shares border with",
+    "tail": "Liberia",
+    "date": "2007-06-04"
+  },
+  {
+    "head": "Liberia",
+    "type": "diplomatic relation",
+    "tail": "Sierra Leone",
+    "date": "2007-06-04"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "diplomatic relation",
+    "tail": "Liberia",
+    "date": "2007-06-04"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2007-06-04"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "Liberian president",
+    "date": "2007-06-04"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "president",
+    "date": "2007-06-04"
+  },
+  {
+    "head": "next hearing",
+    "type": "start time",
+    "tail": "June 25",
+    "date": "2007-06-25"
+  },
+  {
+    "head": "next hearing",
+    "type": "number of participants",
+    "tail": "130",
+    "date": "2007-06-25"
+  },
+  {
+    "head": "next hearing",
+    "type": "point in time",
+    "tail": "June 25",
+    "date": "2007-06-25"
+  },
+  {
+    "head": "Falls river swing bridge",
+    "type": "located in protected area",
+    "tail": "Abel Tasman National Park",
+    "date": "2007-07-02"
+  },
+  {
+    "head": "Falls",
+    "type": "located in protected area",
+    "tail": "Abel Tasman National Park",
+    "date": "2007-07-02"
+  },
+  {
+    "head": "Falls river swing bridge",
+    "type": "location",
+    "tail": "Abel Tasman National Park",
+    "date": "2007-07-02"
+  },
+  {
+    "head": "not guilty",
+    "type": "subclass of",
+    "tail": "plea",
+    "date": "2007-07-02"
+  },
+  {
+    "head": "not guilty",
+    "type": "instance of",
+    "tail": "plea",
+    "date": "2007-07-02"
+  },
+  {
+    "head": "not guilty plea",
+    "type": "part of",
+    "tail": "amended indictment",
+    "date": "2007-07-02"
+  },
+  {
+    "head": "amended indictment",
+    "type": "has part",
+    "tail": "not guilty plea",
+    "date": "2007-07-02"
+  },
+  {
+    "head": "Reuters",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2007-07-02"
+  },
+  {
+    "head": "Reuters",
+    "type": "country of origin",
+    "tail": "Sierra Leone",
+    "date": "2007-07-02"
+  },
+  {
+    "head": "Reuters",
+    "type": "headquarters location",
+    "tail": "Sierra Leone",
+    "date": "2007-07-02"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Sierra Leone",
+    "date": "2007-07-03"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "conflict",
+    "tail": "civil war",
+    "date": "2007-07-03"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "conflict",
+    "tail": "Sierra Leone's bloody 10-year civil war",
+    "date": "2007-07-03"
+  },
+  {
+    "head": "Reuters",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2007-07-03"
+  },
+  {
+    "head": "Reuters",
+    "type": "country of origin",
+    "tail": "Sierra Leone",
+    "date": "2007-07-03"
+  },
+  {
+    "head": "Reuters",
+    "type": "headquarters location",
+    "tail": "Sierra Leone",
+    "date": "2007-07-03"
+  },
+  {
+    "head": "2009 election",
+    "type": "point in time",
+    "tail": "2009",
+    "date": "2007-07-03"
+  },
+  {
+    "head": "2005 election",
+    "type": "point in time",
+    "tail": "2005",
+    "date": "2007-07-03"
+  },
+  {
+    "head": "John Taylor",
+    "type": "member of political party",
+    "tail": "Liberal",
+    "date": "2007-07-03"
+  },
+  {
+    "head": "sexual slavery",
+    "type": "instance of",
+    "tail": "amended charge",
+    "date": "2007-07-03"
+  },
+  {
+    "head": "sexual slavery",
+    "type": "instance of",
+    "tail": "charge",
+    "date": "2007-07-03"
+  },
+  {
+    "head": "sexual slavery",
+    "type": "subclass of",
+    "tail": "amended charge",
+    "date": "2007-07-03"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2007-07-10"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "Liberian president",
+    "date": "2007-07-10"
+  },
+  {
+    "head": "Liberia",
+    "type": "head of state",
+    "tail": "Charles Taylor",
+    "date": "2007-07-10"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2007-07-10"
+  },
+  {
+    "head": "London",
+    "type": "capital of",
+    "tail": "England",
+    "date": "2007-07-10"
+  },
+  {
+    "head": "England",
+    "type": "capital",
+    "tail": "London",
+    "date": "2007-07-10"
+  },
+  {
+    "head": "elections",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2007-08-18"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "member of",
+    "tail": "UN",
+    "date": "2007-08-18"
+  },
+  {
+    "head": "held its first elections",
+    "type": "point in time",
+    "tail": "Saturday",
+    "date": "2007-08-18"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2007-08-20"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "significant event",
+    "tail": "war crimes charges",
+    "date": "2007-08-20"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "Liberian president",
+    "date": "2007-08-20"
+  },
+  {
+    "head": "war that lasted 11 years",
+    "type": "location",
+    "tail": "Sierra Leone",
+    "date": "2007-08-20"
+  },
+  {
+    "head": "war that lasted 11 years",
+    "type": "participant",
+    "tail": "Revolutionary United Front",
+    "date": "2007-08-20"
+  },
+  {
+    "head": "Tonic Wine",
+    "type": "manufacturer",
+    "tail": "Sanatogen",
+    "date": "2007-12-25"
+  },
+  {
+    "head": "Tonic",
+    "type": "subclass of",
+    "tail": "Wine",
+    "date": "2007-12-25"
+  },
+  {
+    "head": "Sanatogen",
+    "type": "product or material produced",
+    "tail": "Tonic Wine",
+    "date": "2007-12-25"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2008-01-07"
+  },
+  {
+    "head": "special tribunal",
+    "type": "headquarters location",
+    "tail": "The Hague",
+    "date": "2008-01-07"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "Liberian president",
+    "date": "2008-01-07"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2008-01-07"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "conflict",
+    "tail": "civil war",
+    "date": "2008-01-07"
+  },
+  {
+    "head": "Liberia",
+    "type": "head of state",
+    "tail": "Charles Taylor",
+    "date": "2008-01-07"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "diplomatic relation",
+    "tail": "Britain",
+    "date": "2008-01-07"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "member of",
+    "tail": "international justice",
+    "date": "2008-01-07"
+  },
+  {
+    "head": "war crimes in Sierra Leone",
+    "type": "facet of",
+    "tail": "international justice",
+    "date": "2008-01-07"
+  },
+  {
+    "head": "crimes against humanity",
+    "type": "subclass of",
+    "tail": "war crime",
+    "date": "2008-01-07"
+  },
+  {
+    "head": "crimes against humanity",
+    "type": "subclass of",
+    "tail": "war crimes",
+    "date": "2008-01-07"
+  },
+  {
+    "head": "war crimes",
+    "type": "has parts of the class",
+    "tail": "crimes against humanity",
+    "date": "2008-01-07"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "diplomatic relation",
+    "tail": "Britain",
+    "date": "2008-01-07"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "member of",
+    "tail": "international justice",
+    "date": "2008-01-07"
+  },
+  {
+    "head": "war crimes in Sierra Leone",
+    "type": "facet of",
+    "tail": "international justice",
+    "date": "2008-01-07"
+  },
+  {
+    "head": "crimes against humanity",
+    "type": "subclass of",
+    "tail": "war crime",
+    "date": "2008-01-07"
+  },
+  {
+    "head": "crimes against humanity",
+    "type": "subclass of",
+    "tail": "war crimes",
+    "date": "2008-01-07"
+  },
+  {
+    "head": "war crimes",
+    "type": "has parts of the class",
+    "tail": "crimes against humanity",
+    "date": "2008-01-07"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2008-01-08"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "place of death",
+    "tail": "The Hague",
+    "date": "2008-01-08"
+  },
+  {
+    "head": "international war crimes trial",
+    "type": "participant",
+    "tail": "Charles Taylor",
+    "date": "2008-01-08"
+  },
+  {
+    "head": "international war crimes trial",
+    "type": "location",
+    "tail": "The Hague",
+    "date": "2008-01-08"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "significant event",
+    "tail": "international war crimes trial",
+    "date": "2008-01-08"
+  },
+  {
+    "head": "crimes against humanity",
+    "type": "subclass of",
+    "tail": "war crime",
+    "date": "2008-01-08"
+  },
+  {
+    "head": "crimes against humanity",
+    "type": "subclass of",
+    "tail": "war crimes",
+    "date": "2008-01-08"
+  },
+  {
+    "head": "war crimes",
+    "type": "has parts of the class",
+    "tail": "crimes against humanity",
+    "date": "2008-01-08"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2008-09-29"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "Liberian president",
+    "date": "2008-09-29"
+  },
+  {
+    "head": "Liberia",
+    "type": "head of state",
+    "tail": "Charles Taylor",
+    "date": "2008-09-29"
+  },
+  {
+    "head": "Chuckie",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2008-09-29"
+  },
+  {
+    "head": "Chuckie",
+    "type": "work period (start)",
+    "tail": "1999",
+    "date": "2008-09-29"
+  },
+  {
+    "head": "Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2008-09-29"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2009-01-09"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "Liberian president",
+    "date": "2009-01-09"
+  },
+  {
+    "head": "Charles'' Chuckie '' Taylor Jr",
+    "type": "father",
+    "tail": "Emmanuel",
+    "date": "2009-01-09"
+  },
+  {
+    "head": "Charles'' Chuckie '' Taylor Jr",
+    "type": "father",
+    "tail": "his father",
+    "date": "2009-01-09"
+  },
+  {
+    "head": "Charles'' Chuckie '' Taylor Jr",
+    "type": "father",
+    "tail": "his father's rule",
+    "date": "2009-01-09"
+  },
+  {
+    "head": "Charles McArthur Emmanuel",
+    "type": "father",
+    "tail": "Charles Taylor",
+    "date": "2009-01-09"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "child",
+    "tail": "Charles McArthur Emmanuel",
+    "date": "2009-01-09"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "presidency",
+    "date": "2009-01-09"
+  },
+  {
+    "head": "Cecilia Altonaga",
+    "type": "position held",
+    "tail": "US district judge",
+    "date": "2009-01-09"
+  },
+  {
+    "head": "Cecilia Altonaga",
+    "type": "occupation",
+    "tail": "US district judge",
+    "date": "2009-01-09"
+  },
+  {
+    "head": "Cecilia Altonaga",
+    "type": "country of citizenship",
+    "tail": "US",
+    "date": "2009-01-09"
+  },
+  {
+    "head": "Freetown",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2009-02-25"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "capital",
+    "tail": "Freetown",
+    "date": "2009-02-25"
+  },
+  {
+    "head": "Freetown",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2009-02-25"
+  },
+  {
+    "head": "Liberia",
+    "type": "capital",
+    "tail": "Freetown",
+    "date": "2009-02-25"
+  },
+  {
+    "head": "Arab League summit",
+    "type": "country",
+    "tail": "Qatar",
+    "date": "2009-04-04"
+  },
+  {
+    "head": "Qatar",
+    "type": "significant event",
+    "tail": "Arab League summit",
+    "date": "2009-04-04"
+  },
+  {
+    "head": "Arab League summit in Qatar",
+    "type": "country",
+    "tail": "Qatar",
+    "date": "2009-04-04"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2009-04-04"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "employer",
+    "tail": "United Nations",
+    "date": "2009-04-04"
+  },
+  {
+    "head": "Nigeria",
+    "type": "member of",
+    "tail": "United Nations",
+    "date": "2009-04-04"
+  },
+  {
+    "head": "Kofi Annan",
+    "type": "position held",
+    "tail": "UN \\'s then - secretary general",
+    "date": "2009-04-04"
+  },
+  {
+    "head": "Kofi Annan",
+    "type": "employer",
+    "tail": "UN",
+    "date": "2009-04-04"
+  },
+  {
+    "head": "Kofi Annan",
+    "type": "employer",
+    "tail": "UN \\'s",
+    "date": "2009-04-04"
+  },
+  {
+    "head": "Kofi Annan",
+    "type": "position held",
+    "tail": "secretary general",
+    "date": "2009-04-04"
+  },
+  {
+    "head": "rule of law",
+    "type": "opposite of",
+    "tail": "impunity",
+    "date": "2009-04-04"
+  },
+  {
+    "head": "rule of law must prevail",
+    "type": "opposite of",
+    "tail": "impunity",
+    "date": "2009-04-04"
+  },
+  {
+    "head": "rule of law",
+    "type": "opposite of",
+    "tail": "impunity will not be allowed to stand",
+    "date": "2009-04-04"
+  },
+  {
+    "head": "Special Court for Sierra Leone",
+    "type": "headquarters location",
+    "tail": "The Hague",
+    "date": "2009-07-12"
+  },
+  {
+    "head": "Special Court for Sierra Leone",
+    "type": "location",
+    "tail": "The Hague",
+    "date": "2009-07-12"
+  },
+  {
+    "head": "Special Court for Sierra Leone",
+    "type": "located in the administrative territorial entity",
+    "tail": "The Hague",
+    "date": "2009-07-12"
+  },
+  {
+    "head": "International Criminal Court",
+    "type": "instance of",
+    "tail": "court",
+    "date": "2009-07-12"
+  },
+  {
+    "head": "African head of state",
+    "type": "inception",
+    "tail": "January 2007",
+    "date": "2009-07-12"
+  },
+  {
+    "head": "African head of state",
+    "type": "part of",
+    "tail": "international court",
+    "date": "2009-07-12"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "work location",
+    "tail": "Monrovia",
+    "date": "2009-07-13"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "place of death",
+    "tail": "Monrovia",
+    "date": "2009-07-13"
+  },
+  {
+    "head": "Liberia",
+    "type": "capital",
+    "tail": "Monrovia",
+    "date": "2009-07-13"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2009-07-13"
+  },
+  {
+    "head": "Monrovia",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2009-07-13"
+  },
+  {
+    "head": "pleaded not guilty",
+    "type": "part of",
+    "tail": "international court",
+    "date": "2009-07-13"
+  },
+  {
+    "head": "African head of state",
+    "type": "inception",
+    "tail": "January 2007",
+    "date": "2009-07-13"
+  },
+  {
+    "head": "African head of state",
+    "type": "part of",
+    "tail": "international court",
+    "date": "2009-07-13"
+  },
+  {
+    "head": "child soldier",
+    "type": "subclass of",
+    "tail": "sexual slavery",
+    "date": "2009-07-13"
+  },
+  {
+    "head": "child soldiers",
+    "type": "subclass of",
+    "tail": "sexual slavery",
+    "date": "2009-07-13"
+  },
+  {
+    "head": "special Hague court",
+    "type": "main subject",
+    "tail": "murder",
+    "date": "2009-07-13"
+  },
+  {
+    "head": "1991 - 2002 civil war in Sierra Leone",
+    "type": "point in time",
+    "tail": "1991",
+    "date": "2009-07-13"
+  },
+  {
+    "head": "1991 - 2002 civil war",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2009-07-13"
+  },
+  {
+    "head": "1991 - 2002 civil war",
+    "type": "location",
+    "tail": "Sierra Leone",
+    "date": "2009-07-13"
+  },
+  {
+    "head": "trial",
+    "type": "has part",
+    "tail": "testimony",
+    "date": "2009-07-14"
+  },
+  {
+    "head": "trial",
+    "type": "subclass of",
+    "tail": "testimony",
+    "date": "2009-07-14"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2009-07-14"
+  },
+  {
+    "head": "Liberia",
+    "type": "diplomatic relation",
+    "tail": "Sierra Leone",
+    "date": "2009-07-14"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "diplomatic relation",
+    "tail": "Liberia",
+    "date": "2009-07-14"
+  },
+  {
+    "head": "Liberia",
+    "type": "shares border with",
+    "tail": "Sierra Leone",
+    "date": "2009-07-14"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "shares border with",
+    "tail": "Liberia",
+    "date": "2009-07-14"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2009-07-14"
+  },
+  {
+    "head": "war crimes trial",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2009-07-14"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "Liberian president",
+    "date": "2009-07-14"
+  },
+  {
+    "head": "child soldier",
+    "type": "subclass of",
+    "tail": "sexual slavery",
+    "date": "2009-07-14"
+  },
+  {
+    "head": "child soldiers",
+    "type": "subclass of",
+    "tail": "sexual slavery",
+    "date": "2009-07-14"
+  },
+  {
+    "head": "special Hague court",
+    "type": "main subject",
+    "tail": "murder",
+    "date": "2009-07-14"
+  },
+  {
+    "head": "1991 - 2002 civil war in Sierra Leone",
+    "type": "point in time",
+    "tail": "1991",
+    "date": "2009-07-14"
+  },
+  {
+    "head": "1991 - 2002 civil war",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2009-07-14"
+  },
+  {
+    "head": "1991 - 2002 civil war",
+    "type": "location",
+    "tail": "Sierra Leone",
+    "date": "2009-07-14"
+  },
+  {
+    "head": "The Choir",
+    "type": "original broadcaster",
+    "tail": "BBC2",
+    "date": "2009-09-21"
+  },
+  {
+    "head": "The Choir (BBC2)",
+    "type": "original broadcaster",
+    "tail": "BBC2",
+    "date": "2009-09-21"
+  },
+  {
+    "head": "The Choir (BBC2)",
+    "type": "production company",
+    "tail": "BBC",
+    "date": "2009-09-21"
+  },
+  {
+    "head": "civil war",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2009-09-21"
+  },
+  {
+    "head": "civil war",
+    "type": "location",
+    "tail": "Liberia",
+    "date": "2009-09-21"
+  },
+  {
+    "head": "Leymah Gbowee",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2009-09-21"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "president of Liberia",
+    "date": "2009-11-10"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "conflict",
+    "tail": "1992 - 2002 civil war",
+    "date": "2009-11-10"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2009-11-10"
+  },
+  {
+    "head": "Stephen Rapp",
+    "type": "position held",
+    "tail": "Chief Prosecutor",
+    "date": "2010-02-24"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Sierra Leone",
+    "date": "2010-02-24"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "court",
+    "tail": "Special Court for Sierra Leone",
+    "date": "2010-02-24"
+  },
+  {
+    "head": "Sirleaf",
+    "type": "position held",
+    "tail": "President",
+    "date": "2010-02-28"
+  },
+  {
+    "head": "President",
+    "type": "officeholder",
+    "tail": "Sirleaf",
+    "date": "2010-02-28"
+  },
+  {
+    "head": "President Sirleaf",
+    "type": "position held",
+    "tail": "Ambassador",
+    "date": "2010-02-28"
+  },
+  {
+    "head": "International Women's Colloquium",
+    "type": "point in time",
+    "tail": "March 7",
+    "date": "2010-03-07"
+  },
+  {
+    "head": "Paul Mulbah",
+    "type": "position held",
+    "tail": "head of police",
+    "date": "2010-03-07"
+  },
+  {
+    "head": "Paul Mulbah",
+    "type": "member of political party",
+    "tail": "LNP",
+    "date": "2010-03-07"
+  },
+  {
+    "head": "Paul Mulbah",
+    "type": "occupation",
+    "tail": "head of police",
+    "date": "2010-03-07"
+  },
+  {
+    "head": "special court for Sierra Leone",
+    "type": "inception",
+    "tail": "2002",
+    "date": "2010-05-19"
+  },
+  {
+    "head": "civil war",
+    "type": "location",
+    "tail": "Sierra Leone",
+    "date": "2010-05-19"
+  },
+  {
+    "head": "war crimes",
+    "type": "has parts of the class",
+    "tail": "crimes against humanity",
+    "date": "2010-05-19"
+  },
+  {
+    "head": "Taylor",
+    "type": "place of death",
+    "tail": "The Hague",
+    "date": "2010-05-19"
+  },
+  {
+    "head": "Taylor",
+    "type": "place of trial",
+    "tail": "The Hague",
+    "date": "2010-05-19"
+  },
+  {
+    "head": "The Hague",
+    "type": "point in time",
+    "tail": "2006",
+    "date": "2010-05-19"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2010-05-20"
+  },
+  {
+    "head": "special court for Sierra Leone",
+    "type": "inception",
+    "tail": "2002",
+    "date": "2010-05-20"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "conflict",
+    "tail": "civil war",
+    "date": "2010-05-20"
+  },
+  {
+    "head": "Taylor",
+    "type": "place of death",
+    "tail": "The Hague",
+    "date": "2010-05-20"
+  },
+  {
+    "head": "Taylor",
+    "type": "place of trial",
+    "tail": "The Hague",
+    "date": "2010-05-20"
+  },
+  {
+    "head": "The Hague",
+    "type": "point in time",
+    "tail": "2006",
+    "date": "2010-05-20"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2010-06-30"
+  },
+  {
+    "head": "Supreme Court of Justice",
+    "type": "country",
+    "tail": "United States",
+    "date": "2010-06-30"
+  },
+  {
+    "head": "Harvard University",
+    "type": "subsidiary",
+    "tail": "John F. Kennedy School of Government",
+    "date": "2010-06-30"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2010-06-30"
+  },
+  {
+    "head": "war crimes trial",
+    "type": "location",
+    "tail": "The Hague",
+    "date": "2010-06-30"
+  },
+  {
+    "head": "war crimes trial",
+    "type": "participant",
+    "tail": "Charles Taylor",
+    "date": "2010-06-30"
+  },
+  {
+    "head": "Mia Farrow",
+    "type": "spouse",
+    "tail": "Taylor",
+    "date": "2010-06-30"
+  },
+  {
+    "head": "Taylor",
+    "type": "spouse",
+    "tail": "Mia Farrow",
+    "date": "2010-06-30"
+  },
+  {
+    "head": "Mia Farrow",
+    "type": "work period (start)",
+    "tail": "1997",
+    "date": "2010-06-30"
+  },
+  {
+    "head": "Mia Farrow",
+    "type": "spouse",
+    "tail": "Naomi",
+    "date": "2010-06-30"
+  },
+  {
+    "head": "Naomi",
+    "type": "spouse",
+    "tail": "Mia Farrow",
+    "date": "2010-06-30"
+  },
+  {
+    "head": "I may own a blood handbag",
+    "type": "author",
+    "tail": "Carole Cadwalladr",
+    "date": "2010-07-04"
+  },
+  {
+    "head": "I May own a blood handbag",
+    "type": "author",
+    "tail": "Carole Cadwalladr",
+    "date": "2010-07-04"
+  },
+  {
+    "head": "Carole Cadwalladr",
+    "type": "notable work",
+    "tail": "I may own a blood handbag",
+    "date": "2010-07-04"
+  },
+  {
+    "head": "amended on 21 July 2010",
+    "type": "publication date",
+    "tail": "21 July 2010",
+    "date": "2010-07-21"
+  },
+  {
+    "head": "amended on 21 July 2010",
+    "type": "point in time",
+    "tail": "21 July 2010",
+    "date": "2010-07-21"
+  },
+  {
+    "head": "amended",
+    "type": "publication date",
+    "tail": "21 July 2010",
+    "date": "2010-07-21"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2010-07-29"
+  },
+  {
+    "head": "Naomi Campbell",
+    "type": "participant in",
+    "tail": "UN war crimes tribunal",
+    "date": "2010-07-29"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "participant in",
+    "tail": "UN war crimes tribunal",
+    "date": "2010-07-29"
+  },
+  {
+    "head": "Naomi Campbell",
+    "type": "work location",
+    "tail": "The Hague",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Naomi Campbell",
+    "type": "residence",
+    "tail": "The Hague",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Naomi Campbell",
+    "type": "place of death",
+    "tail": "The Hague",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Naomi Campbell",
+    "type": "participant in",
+    "tail": "war crimes trial",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "participant in",
+    "tail": "war crimes trial",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "war crimes trial",
+    "type": "participant",
+    "tail": "Naomi Campbell",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "war crimes trial",
+    "type": "participant",
+    "tail": "Charles Taylor",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "significant event",
+    "tail": "war crimes trial",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Naomi Campbell",
+    "type": "participant in",
+    "tail": "war crimes trial today",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "participant in",
+    "tail": "war crimes trial today",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "war crimes trial today",
+    "type": "participant",
+    "tail": "Naomi Campbell",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "war crimes trial today",
+    "type": "participant",
+    "tail": "Charles Taylor",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Naomi Campbell",
+    "type": "occupation",
+    "tail": "supermodel",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "Liberian president",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "participant in",
+    "tail": "war crimes tribunal",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "war crimes trial",
+    "type": "location",
+    "tail": "The Hague",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "war crimes trial",
+    "type": "participant",
+    "tail": "Charles Taylor",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Farrow",
+    "type": "spouse",
+    "tail": "Taylor",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Taylor",
+    "type": "spouse",
+    "tail": "Farrow",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Farrow",
+    "type": "employer",
+    "tail": "Taylor",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Streatham",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Special Court for Sierra Leone",
+    "type": "inception",
+    "tail": "September 1997",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Special Court",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "2011",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "2012 AFL season",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "2008 FIFA World Cup",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "2012 election",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Liberian president",
+    "type": "country",
+    "tail": "his country",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "different from",
+    "tail": "Liberia",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Liberia",
+    "type": "different from",
+    "tail": "Sierra Leone",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "Liberian president",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "war crimes trial",
+    "type": "participant",
+    "tail": "Charles Taylor",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "special court",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Special court",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "legislative body",
+    "tail": "special court",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "former president",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "president",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "former president",
+    "type": "applies to jurisdiction",
+    "tail": "Liberia",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Nelson Mandela",
+    "type": "country of citizenship",
+    "tail": "South Africa",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Nelson Mandela",
+    "type": "residence",
+    "tail": "South Africa",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Mandela",
+    "type": "country of citizenship",
+    "tail": "South Africa",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "special court for Sierra Leone",
+    "type": "headquarters location",
+    "tail": "The Hague",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "war crimes trial",
+    "type": "location",
+    "tail": "The Hague",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Nelson Mandela",
+    "type": "place of birth",
+    "tail": "Streatham",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Nelson Mandela",
+    "type": "residence",
+    "tail": "Streatham",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Nelson Mandela",
+    "type": "residence",
+    "tail": "home",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "continent",
+    "tail": "Africa",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "rebels",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "rebels",
+    "type": "location",
+    "tail": "Sierra Leone",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Freetown",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "capital",
+    "tail": "Freetown",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "member of",
+    "tail": "UN",
+    "date": "2010-08-05"
+  },
+  {
+    "head": "Mia Farrow",
+    "type": "occupation",
+    "tail": "actor",
+    "date": "2010-08-06"
+  },
+  {
+    "head": "Mia Farrow",
+    "type": "occupation",
+    "tail": "the actor",
+    "date": "2010-08-06"
+  },
+  {
+    "head": "Farrow",
+    "type": "cast member",
+    "tail": "Mia Farrow",
+    "date": "2010-08-06"
+  },
+  {
+    "head": "Mandela",
+    "type": "significant event",
+    "tail": "Cape Town dinner party",
+    "date": "2010-08-06"
+  },
+  {
+    "head": "Nelson Mandela",
+    "type": "work location",
+    "tail": "Cape Town",
+    "date": "2010-08-06"
+  },
+  {
+    "head": "Mandela \\'s now infamous Cape Town dinner party",
+    "type": "location",
+    "tail": "Cape Town",
+    "date": "2010-08-06"
+  },
+  {
+    "head": "the next morning",
+    "type": "point in time",
+    "tail": "next morning",
+    "date": "2010-08-06"
+  },
+  {
+    "head": "the next morning",
+    "type": "part of",
+    "tail": "next morning",
+    "date": "2010-08-06"
+  },
+  {
+    "head": "next morning",
+    "type": "has part",
+    "tail": "the next morning",
+    "date": "2010-08-06"
+  },
+  {
+    "head": "Naomi Campbell",
+    "type": "notable work",
+    "tail": "inconvenience",
+    "date": "2010-08-06"
+  },
+  {
+    "head": "inconvenience",
+    "type": "author",
+    "tail": "Naomi Campbell",
+    "date": "2010-08-06"
+  },
+  {
+    "head": "Naomi Campbell",
+    "type": "significant event",
+    "tail": "inconvenience",
+    "date": "2010-08-06"
+  },
+  {
+    "head": "Mandela",
+    "type": "significant event",
+    "tail": "Cape Town dinner party",
+    "date": "2010-08-06"
+  },
+  {
+    "head": "Nelson Mandela",
+    "type": "significant event",
+    "tail": "Cape Town dinner party",
+    "date": "2010-08-06"
+  },
+  {
+    "head": "Cape Town dinner party",
+    "type": "participant",
+    "tail": "Mandela",
+    "date": "2010-08-06"
+  },
+  {
+    "head": "Nelson Mandela",
+    "type": "country of citizenship",
+    "tail": "South Africa",
+    "date": "2010-08-08"
+  },
+  {
+    "head": "Nelson Mandela",
+    "type": "residence",
+    "tail": "South Africa",
+    "date": "2010-08-08"
+  },
+  {
+    "head": "Mandela",
+    "type": "country of citizenship",
+    "tail": "South Africa",
+    "date": "2010-08-08"
+  },
+  {
+    "head": "Mia Farrow",
+    "type": "employer",
+    "tail": "Carole White",
+    "date": "2010-08-08"
+  },
+  {
+    "head": "Carole White",
+    "type": "employer",
+    "tail": "Mia Farrow",
+    "date": "2010-08-08"
+  },
+  {
+    "head": "Carole White",
+    "type": "spouse",
+    "tail": "Mia Farrow",
+    "date": "2010-08-08"
+  },
+  {
+    "head": "Mia Farrow",
+    "type": "spouse",
+    "tail": "Carole White",
+    "date": "2010-08-08"
+  },
+  {
+    "head": "war crimes tribunal",
+    "type": "located in the administrative territorial entity",
+    "tail": "the Hague",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "war crimes tribunal",
+    "type": "headquarters location",
+    "tail": "the Hague",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "Mia Farrow",
+    "type": "spouse",
+    "tail": "Carole White",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "Carole White",
+    "type": "spouse",
+    "tail": "Mia Farrow",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "war crimes trial",
+    "type": "participant",
+    "tail": "Charles Taylor",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "significant event",
+    "tail": "war crimes trial",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "Nelson Mandela",
+    "type": "country of citizenship",
+    "tail": "South Africa",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "Nelson Mandela",
+    "type": "residence",
+    "tail": "South Africa",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "participant in",
+    "tail": "war crimes tribunal",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "significant event",
+    "tail": "war crimes tribunal",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "Naomi Campbell",
+    "type": "spouse",
+    "tail": "Charles Taylor",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "spouse",
+    "tail": "Naomi Campbell",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "Campbell question",
+    "type": "instance of",
+    "tail": "evidence",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "Campbell question",
+    "type": "subclass of",
+    "tail": "evidence",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "the Campbell question",
+    "type": "instance of",
+    "tail": "evidence",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "Mandela",
+    "type": "country of citizenship",
+    "tail": "South Africa",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "Naomi Campbell",
+    "type": "residence",
+    "tail": "South Africa",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "dinner",
+    "type": "participant",
+    "tail": "Nelson Mandela",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "Nelson Mandela",
+    "type": "country of citizenship",
+    "tail": "South Africa",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "infamous dinner",
+    "type": "participant",
+    "tail": "Nelson Mandela",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "Naomi Campbell",
+    "type": "occupation",
+    "tail": "supermodel",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "member of political party",
+    "tail": "Revolutionary United Front",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "Revolutionary United Front",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "Mia Farrow",
+    "type": "employer",
+    "tail": "Carole White",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "Carole White",
+    "type": "employer",
+    "tail": "Mia Farrow",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "Carole White",
+    "type": "spouse",
+    "tail": "Mia Farrow",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "Mia Farrow",
+    "type": "spouse",
+    "tail": "Carole White",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "Carole White",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "Carole White",
+    "type": "country of citizenship",
+    "tail": "Sierra Leone",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "Courtenay Griffiths",
+    "type": "occupation",
+    "tail": "QC",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "Nelson Mandela",
+    "type": "residence",
+    "tail": "house",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "house",
+    "type": "occupant",
+    "tail": "Nelson Mandela",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "house",
+    "type": "owned by",
+    "tail": "Nelson Mandela",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "Mandela",
+    "type": "member of",
+    "tail": "charity",
+    "date": "2010-08-10"
+  },
+  {
+    "head": "Mandela",
+    "type": "employer",
+    "tail": "charity",
+    "date": "2010-08-10"
+  },
+  {
+    "head": "Mandela",
+    "type": "continent",
+    "tail": "Africa",
+    "date": "2010-08-10"
+  },
+  {
+    "head": "Taylor",
+    "type": "spouse",
+    "tail": "Campbell",
+    "date": "2010-08-10"
+  },
+  {
+    "head": "Campbell",
+    "type": "spouse",
+    "tail": "Taylor",
+    "date": "2010-08-10"
+  },
+  {
+    "head": "Taylor and Campbell",
+    "type": "significant event",
+    "tail": "dinner",
+    "date": "2010-08-10"
+  },
+  {
+    "head": "dinner",
+    "type": "participant",
+    "tail": "Taylor and Campbell",
+    "date": "2010-08-10"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "significant event",
+    "tail": "war crimes trial",
+    "date": "2010-08-10"
+  },
+  {
+    "head": "war crimes trial",
+    "type": "participant",
+    "tail": "Charles Taylor",
+    "date": "2010-08-10"
+  },
+  {
+    "head": "Naomi Campbell",
+    "type": "participant in",
+    "tail": "war crimes trial of Charles Taylor",
+    "date": "2010-08-10"
+  },
+  {
+    "head": "Carole White",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2010-08-10"
+  },
+  {
+    "head": "Carole White",
+    "type": "country of citizenship",
+    "tail": "Sierra Leone",
+    "date": "2010-08-10"
+  },
+  {
+    "head": "Courtenay Griffiths",
+    "type": "occupation",
+    "tail": "QC",
+    "date": "2010-08-10"
+  },
+  {
+    "head": "Nelson Mandela",
+    "type": "residence",
+    "tail": "house",
+    "date": "2010-08-10"
+  },
+  {
+    "head": "Nelson Mandela",
+    "type": "occupation",
+    "tail": "supermodel",
+    "date": "2010-08-10"
+  },
+  {
+    "head": "house",
+    "type": "occupant",
+    "tail": "Nelson Mandela",
+    "date": "2010-08-10"
+  },
+  {
+    "head": "Nothing to gain",
+    "type": "opposite of",
+    "tail": "Nothing",
+    "date": "2010-08-10"
+  },
+  {
+    "head": "Nothing to gain",
+    "type": "main subject",
+    "tail": "Nothing to gain",
+    "date": "2010-08-10"
+  },
+  {
+    "head": "Nothing to gain",
+    "type": "opposite of",
+    "tail": "Nothing to gain",
+    "date": "2010-08-10"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "conflict",
+    "tail": "civil war",
+    "date": "2010-08-11"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "conflict",
+    "tail": "Sierra Leone's brutal civil war",
+    "date": "2010-08-11"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Sierra Leone",
+    "date": "2010-08-11"
+  },
+  {
+    "head": "William Shakespeare",
+    "type": "notable work",
+    "tail": "Cymbeline",
+    "date": "2010-08-12"
+  },
+  {
+    "head": "Cymbeline",
+    "type": "author",
+    "tail": "William Shakespeare",
+    "date": "2010-08-12"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2010-08-12"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "Secretary of State",
+    "date": "2010-08-12"
+  },
+  {
+    "head": "Model witness",
+    "type": "subclass of",
+    "tail": "People",
+    "date": "2010-08-12"
+  },
+  {
+    "head": "Model witness",
+    "type": "instance of",
+    "tail": "People",
+    "date": "2010-08-12"
+  },
+  {
+    "head": "Model witness",
+    "type": "facet of",
+    "tail": "People",
+    "date": "2010-08-12"
+  },
+  {
+    "head": "1997",
+    "type": "point in time",
+    "tail": "1997",
+    "date": "2010-08-18"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2010-08-18"
+  },
+  {
+    "head": "John Ractliffe",
+    "type": "position held",
+    "tail": "chief executive",
+    "date": "2010-08-18"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2010-08-27"
+  },
+  {
+    "head": "2009 election",
+    "type": "point in time",
+    "tail": "2009",
+    "date": "2010-08-27"
+  },
+  {
+    "head": "2008 election",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2010-08-27"
+  },
+  {
+    "head": "election on 27 August 2010",
+    "type": "point in time",
+    "tail": "27 August 2010",
+    "date": "2010-08-27"
+  },
+  {
+    "head": "election",
+    "type": "point in time",
+    "tail": "27 August 2010",
+    "date": "2010-08-27"
+  },
+  {
+    "head": "re - election on 27 August 2010",
+    "type": "point in time",
+    "tail": "27 August 2010",
+    "date": "2010-08-27"
+  },
+  {
+    "head": "supply chaining",
+    "type": "subclass of",
+    "tail": "outsourcing",
+    "date": "2010-11-17"
+  },
+  {
+    "head": "supply chaining",
+    "type": "facet of",
+    "tail": "outsourcing",
+    "date": "2010-11-17"
+  },
+  {
+    "head": "outsourcing",
+    "type": "has part",
+    "tail": "supply chaining",
+    "date": "2010-11-17"
+  },
+  {
+    "head": "10 March 2009",
+    "type": "point in time",
+    "tail": "10 March 2009",
+    "date": "2010-12-14"
+  },
+  {
+    "head": "2009",
+    "type": "point in time",
+    "tail": "2009",
+    "date": "2010-12-14"
+  },
+  {
+    "head": "2010 FIFA World Cup",
+    "type": "point in time",
+    "tail": "2010",
+    "date": "2010-12-14"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "significant event",
+    "tail": "war crimes trial in The Hague",
+    "date": "2011-02-07"
+  },
+  {
+    "head": "war crimes trial in The Hague",
+    "type": "participant",
+    "tail": "Charles Taylor",
+    "date": "2011-02-07"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "participant in",
+    "tail": "war crimes trial in The Hague",
+    "date": "2011-02-07"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "significant event",
+    "tail": "war crimes trial",
+    "date": "2011-02-07"
+  },
+  {
+    "head": "war crimes trial",
+    "type": "participant",
+    "tail": "Charles Taylor",
+    "date": "2011-02-07"
+  },
+  {
+    "head": "Taylor",
+    "type": "different from",
+    "tail": "Taylor",
+    "date": "2011-02-07"
+  },
+  {
+    "head": "WikiLeaks cables",
+    "type": "publication date",
+    "tail": "December",
+    "date": "2011-02-07"
+  },
+  {
+    "head": "WikiLeaks cables",
+    "type": "published in",
+    "tail": "Guardian",
+    "date": "2011-02-08"
+  },
+  {
+    "head": "WikiLeaks cables",
+    "type": "publisher",
+    "tail": "Guardian",
+    "date": "2011-02-08"
+  },
+  {
+    "head": "Courtenay Griffiths",
+    "type": "work location",
+    "tail": "London",
+    "date": "2011-02-08"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2011-02-09"
+  },
+  {
+    "head": "Bill Griffiths",
+    "type": "member of political party",
+    "tail": "Liberal",
+    "date": "2011-02-09"
+  },
+  {
+    "head": "Bill Griffiths",
+    "type": "member of political party",
+    "tail": "New Democratic Party",
+    "date": "2011-02-09"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2011-05-30"
+  },
+  {
+    "head": "2009",
+    "type": "point in time",
+    "tail": "2009",
+    "date": "2011-05-30"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2011-05-30"
+  },
+  {
+    "head": "2009",
+    "type": "point in time",
+    "tail": "2009",
+    "date": "2011-05-30"
+  },
+  {
+    "head": "2011",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2011-05-30"
+  },
+  {
+    "head": "2011 provincial election",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2011-05-30"
+  },
+  {
+    "head": "Scheveningen prison",
+    "type": "country",
+    "tail": "UK",
+    "date": "2011-05-30"
+  },
+  {
+    "head": "Scheveningen prison",
+    "type": "instance of",
+    "tail": "UK jail",
+    "date": "2011-05-30"
+  },
+  {
+    "head": "jail",
+    "type": "country",
+    "tail": "UK",
+    "date": "2011-05-30"
+  },
+  {
+    "head": "2008 Summer Olympics",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2011-05-30"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2011-05-30"
+  },
+  {
+    "head": "2008 Commonwealth Games",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2011-05-30"
+  },
+  {
+    "head": "Good Friday Agreement",
+    "type": "applies to jurisdiction",
+    "tail": "Northern Ireland",
+    "date": "2012-04-06"
+  },
+  {
+    "head": "Good Friday Agreement",
+    "type": "location",
+    "tail": "Northern Ireland",
+    "date": "2012-04-06"
+  },
+  {
+    "head": "Northern Ireland",
+    "type": "significant event",
+    "tail": "Good Friday Agreement",
+    "date": "2012-04-06"
+  },
+  {
+    "head": "Halsbury Law Exchange",
+    "type": "located in the administrative territorial entity",
+    "tail": "Freetown",
+    "date": "2012-04-24"
+  },
+  {
+    "head": "Freetown",
+    "type": "instance of",
+    "tail": "city",
+    "date": "2012-04-24"
+  },
+  {
+    "head": "Halsbury Law Exchange",
+    "type": "headquarters location",
+    "tail": "Freetown",
+    "date": "2012-04-24"
+  },
+  {
+    "head": "Blue",
+    "type": "followed by",
+    "tail": "pink",
+    "date": "2012-04-24"
+  },
+  {
+    "head": "blue",
+    "type": "followed by",
+    "tail": "pink",
+    "date": "2012-04-24"
+  },
+  {
+    "head": "pink",
+    "type": "follows",
+    "tail": "blue",
+    "date": "2012-04-24"
+  },
+  {
+    "head": "Street sellers",
+    "type": "product or material produced",
+    "tail": "cloth",
+    "date": "2012-04-24"
+  },
+  {
+    "head": "Street sellers",
+    "type": "part of",
+    "tail": "street",
+    "date": "2012-04-24"
+  },
+  {
+    "head": "Street sellers",
+    "type": "item operated",
+    "tail": "cloth",
+    "date": "2012-04-24"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2012-04-24"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "president of Liberia",
+    "date": "2012-04-24"
+  },
+  {
+    "head": "war crimes court",
+    "type": "headquarters location",
+    "tail": "The Hague",
+    "date": "2012-04-24"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "continent",
+    "tail": "Africa",
+    "date": "2012-04-24"
+  },
+  {
+    "head": "special court",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2012-04-24"
+  },
+  {
+    "head": "special court for Sierra Leone",
+    "type": "continent",
+    "tail": "Africa",
+    "date": "2012-04-24"
+  },
+  {
+    "head": "1996",
+    "type": "point in time",
+    "tail": "1996",
+    "date": "2012-04-24"
+  },
+  {
+    "head": "2002",
+    "type": "point in time",
+    "tail": "2002",
+    "date": "2012-04-24"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "inception",
+    "tail": "1996",
+    "date": "2012-04-24"
+  },
+  {
+    "head": "Anjai",
+    "type": "position held",
+    "tail": "president of this nation",
+    "date": "2012-04-25"
+  },
+  {
+    "head": "2008 presidential election",
+    "type": "successful candidate",
+    "tail": "Barack Obama",
+    "date": "2012-04-25"
+  },
+  {
+    "head": "Barack Obama",
+    "type": "candidacy in election",
+    "tail": "2008 presidential election",
+    "date": "2012-04-25"
+  },
+  {
+    "head": "2008 presidential election",
+    "type": "candidate",
+    "tail": "Barack Obama",
+    "date": "2012-04-25"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2012-04-25"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "president of Liberia",
+    "date": "2012-04-25"
+  },
+  {
+    "head": "war crimes court",
+    "type": "headquarters location",
+    "tail": "The Hague",
+    "date": "2012-04-25"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "continent",
+    "tail": "Africa",
+    "date": "2012-04-25"
+  },
+  {
+    "head": "crimes against humanity",
+    "type": "subclass of",
+    "tail": "war crime",
+    "date": "2012-04-25"
+  },
+  {
+    "head": "war crimes",
+    "type": "has parts of the class",
+    "tail": "crimes against humanity",
+    "date": "2012-04-25"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "president of Liberia",
+    "date": "2012-04-25"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2012-04-25"
+  },
+  {
+    "head": "Liberia",
+    "type": "head of state",
+    "tail": "Charles Taylor",
+    "date": "2012-04-25"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2012-04-25"
+  },
+  {
+    "head": "Liberia",
+    "type": "member of",
+    "tail": "United Nations",
+    "date": "2012-04-25"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "president of Liberia",
+    "date": "2012-04-25"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2012-04-25"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Libya",
+    "date": "2012-04-25"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "occupation",
+    "tail": "warlord",
+    "date": "2012-04-25"
+  },
+  {
+    "head": "Special Court for Sierra Leone",
+    "type": "instance of",
+    "tail": "international court",
+    "date": "2012-04-26"
+  },
+  {
+    "head": "crimes against humanity",
+    "type": "subclass of",
+    "tail": "war crime",
+    "date": "2012-04-26"
+  },
+  {
+    "head": "crimes against humanity",
+    "type": "subclass of",
+    "tail": "war crimes",
+    "date": "2012-04-26"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "president of Liberia",
+    "date": "2012-04-26"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2012-04-26"
+  },
+  {
+    "head": "president of Liberia",
+    "type": "officeholder",
+    "tail": "Charles Taylor",
+    "date": "2012-04-26"
+  },
+  {
+    "head": "aiding and abetting",
+    "type": "subclass of",
+    "tail": "war crime",
+    "date": "2012-04-26"
+  },
+  {
+    "head": "Taylor",
+    "type": "significant event",
+    "tail": "aiding and abetting war crimes",
+    "date": "2012-04-26"
+  },
+  {
+    "head": "aiding and abetting war crimes",
+    "type": "said to be the same as",
+    "tail": "collaboration from hell",
+    "date": "2012-04-26"
+  },
+  {
+    "head": "collaboration from hell",
+    "type": "said to be the same as",
+    "tail": "aiding and abetting war crimes",
+    "date": "2012-04-26"
+  },
+  {
+    "head": "Sierra Leone",
+    "type": "continent",
+    "tail": "Africa",
+    "date": "2012-04-26"
+  },
+  {
+    "head": "crimes against humanity",
+    "type": "subclass of",
+    "tail": "war crime",
+    "date": "2012-04-26"
+  },
+  {
+    "head": "war crimes",
+    "type": "has parts of the class",
+    "tail": "crimes against humanity",
+    "date": "2012-04-26"
+  },
+  {
+    "head": "special court for Sierra Leone",
+    "type": "headquarters location",
+    "tail": "the Hague",
+    "date": "2012-04-26"
+  },
+  {
+    "head": "special court for Sierra Leone",
+    "type": "location",
+    "tail": "the Hague",
+    "date": "2012-04-26"
+  },
+  {
+    "head": "special court for Sierra Leone",
+    "type": "located in the administrative territorial entity",
+    "tail": "the Hague",
+    "date": "2012-04-26"
+  },
+  {
+    "head": "civil war",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2012-04-26"
+  },
+  {
+    "head": "civil war",
+    "type": "location",
+    "tail": "Sierra Leone",
+    "date": "2012-04-26"
+  },
+  {
+    "head": "crimes against humanity",
+    "type": "subclass of",
+    "tail": "war crime",
+    "date": "2012-04-26"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2012-04-26"
+  },
+  {
+    "head": "Liberia",
+    "type": "member of",
+    "tail": "United Nations",
+    "date": "2012-04-26"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "president of Liberia",
+    "date": "2012-04-26"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2012-04-27"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "president of Liberia",
+    "date": "2012-04-27"
+  },
+  {
+    "head": "Liberia",
+    "type": "member of",
+    "tail": "UN",
+    "date": "2012-04-27"
+  },
+  {
+    "head": "continued crackdown on protests",
+    "type": "participant",
+    "tail": "Assad",
+    "date": "2012-04-28"
+  },
+  {
+    "head": "Tishrin",
+    "type": "country",
+    "tail": "state",
+    "date": "2012-04-28"
+  },
+  {
+    "head": "Tishrin",
+    "type": "owned by",
+    "tail": "state",
+    "date": "2012-04-28"
+  },
+  {
+    "head": "brutal crackdown on opponents of his rule",
+    "type": "participant",
+    "tail": "Bashir al - Assad",
+    "date": "2012-04-28"
+  },
+  {
+    "head": "Syria",
+    "type": "head of state",
+    "tail": "Bashir al - Assad",
+    "date": "2012-04-28"
+  },
+  {
+    "head": "George Mitchell",
+    "type": "position held",
+    "tail": "US Middle East peace envoy",
+    "date": "2012-04-28"
+  },
+  {
+    "head": "amended on May 3 2012",
+    "type": "publication date",
+    "tail": "May 3 2012",
+    "date": "2012-05-03"
+  },
+  {
+    "head": "amended",
+    "type": "publication date",
+    "tail": "May 3 2012",
+    "date": "2012-05-03"
+  },
+  {
+    "head": "amended on May 3 2012",
+    "type": "point in time",
+    "tail": "May 3 2012",
+    "date": "2012-05-03"
+  },
+  {
+    "head": "amended on May 3 2012",
+    "type": "publication date",
+    "tail": "May 3 2012",
+    "date": "2012-05-03"
+  },
+  {
+    "head": "amended",
+    "type": "publication date",
+    "tail": "May 3 2012",
+    "date": "2012-05-03"
+  },
+  {
+    "head": "amended on May 3 2012",
+    "type": "point in time",
+    "tail": "May 3 2012",
+    "date": "2012-05-03"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "position held",
+    "tail": "president of Liberia",
+    "date": "2012-05-03"
+  },
+  {
+    "head": "Liberia",
+    "type": "member of",
+    "tail": "UN",
+    "date": "2012-05-03"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2012-05-03"
+  },
+  {
+    "head": "special court for Sierra Leone",
+    "type": "located in the administrative territorial entity",
+    "tail": "The Hague",
+    "date": "2012-05-03"
+  },
+  {
+    "head": "special court for Sierra Leone",
+    "type": "headquarters location",
+    "tail": "The Hague",
+    "date": "2012-05-03"
+  },
+  {
+    "head": "special court for Sierra Leone",
+    "type": "location",
+    "tail": "The Hague",
+    "date": "2012-05-03"
+  },
+  {
+    "head": "prison sentence",
+    "type": "country",
+    "tail": "UK",
+    "date": "2012-05-03"
+  },
+  {
+    "head": "trial",
+    "type": "followed by",
+    "tail": "appeal",
+    "date": "2012-05-03"
+  },
+  {
+    "head": "appeal",
+    "type": "follows",
+    "tail": "trial",
+    "date": "2012-05-03"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2012-05-23"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "conflict",
+    "tail": "Sierra Leone's bloody conflict",
+    "date": "2012-05-23"
+  },
+  {
+    "head": "Courtenay Griffiths",
+    "type": "occupation",
+    "tail": "QC",
+    "date": "2012-05-28"
+  },
+  {
+    "head": "Courtenay Griffiths",
+    "type": "position held",
+    "tail": "QC",
+    "date": "2012-05-28"
+  },
+  {
+    "head": "Courtenay Griffiths QC",
+    "type": "field of work",
+    "tail": "international criminal justice system",
+    "date": "2012-05-28"
+  },
+  {
+    "head": "rape",
+    "type": "has parts of the class",
+    "tail": "murder",
+    "date": "2012-05-30"
+  },
+  {
+    "head": "death",
+    "type": "has parts of the class",
+    "tail": "murder",
+    "date": "2012-05-30"
+  },
+  {
+    "head": "murder",
+    "type": "instance of",
+    "tail": "11 counts of which he was found guilty",
+    "date": "2012-05-30"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2012-05-30"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "conflict",
+    "tail": "civil war in Sierra Leone",
+    "date": "2012-05-30"
+  },
+  {
+    "head": "2008 Summer Olympics",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2012-05-30"
+  },
+  {
+    "head": "2009 Commonwealth Games",
+    "type": "point in time",
+    "tail": "2009",
+    "date": "2012-05-30"
+  },
+  {
+    "head": "2012 Summer Olympics",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2012-05-30"
+  },
+  {
+    "head": "Special Court for Sierra Leone",
+    "type": "headquarters location",
+    "tail": "The Hague",
+    "date": "2012-05-30"
+  },
+  {
+    "head": "Special Court for Sierra Leone",
+    "type": "located in the administrative territorial entity",
+    "tail": "The Hague",
+    "date": "2012-05-30"
+  },
+  {
+    "head": "Special Court for Sierra Leone",
+    "type": "location",
+    "tail": "The Hague",
+    "date": "2012-05-30"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "conflict",
+    "tail": "civil war",
+    "date": "2012-05-30"
+  },
+  {
+    "head": "civil war",
+    "type": "country",
+    "tail": "Sierra Leone",
+    "date": "2012-05-30"
+  },
+  {
+    "head": "civil war",
+    "type": "country",
+    "tail": "Liberia",
+    "date": "2012-05-30"
+  },
+  {
+    "head": "tribunal",
+    "type": "headquarters location",
+    "tail": "The Hague",
+    "date": "2012-05-30"
+  },
+  {
+    "head": "tribunal",
+    "type": "located in the administrative territorial entity",
+    "tail": "The Hague",
+    "date": "2012-05-30"
+  },
+  {
+    "head": "tribunal",
+    "type": "location",
+    "tail": "The Hague",
+    "date": "2012-05-30"
+  },
+  {
+    "head": "crimes against humanity",
+    "type": "subclass of",
+    "tail": "war crime",
+    "date": "2012-05-30"
+  },
+  {
+    "head": "crimes against humanity",
+    "type": "subclass of",
+    "tail": "war crimes",
+    "date": "2012-05-30"
+  },
+  {
+    "head": "war crime",
+    "type": "has parts of the class",
+    "tail": "crimes against humanity",
+    "date": "2012-05-30"
+  },
+  {
+    "head": "Washington",
+    "type": "diplomatic relation",
+    "tail": "Rwanda",
+    "date": "2012-07-21"
+  },
+  {
+    "head": "Rwanda",
+    "type": "diplomatic relation",
+    "tail": "Washington",
+    "date": "2012-07-21"
+  },
+  {
+    "head": "Rwanda",
+    "type": "member of",
+    "tail": "UN",
+    "date": "2012-07-21"
+  },
+  {
+    "head": "8 September",
+    "type": "country",
+    "tail": "Israel",
+    "date": "2014-09-08"
+  },
+  {
+    "head": "8 September",
+    "type": "point in time",
+    "tail": "8 September",
+    "date": "2014-09-08"
+  },
+  {
+    "head": "9 September 2001 attacks",
+    "type": "point in time",
+    "tail": "September 11, 2001",
+    "date": "2014-09-08"
+  },
+  {
+    "head": "Israel boycott",
+    "type": "facet of",
+    "tail": "antisemitism",
+    "date": "2014-09-10"
+  },
+  {
+    "head": "Michael Gove",
+    "type": "political ideology",
+    "tail": "antisemitism",
+    "date": "2014-09-10"
+  },
+  {
+    "head": "Michael Gove",
+    "type": "significant event",
+    "tail": "Israel boycott",
+    "date": "2014-09-10"
+  },
+  {
+    "head": "2012 Summer Olympics",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2014-09-11"
+  },
+  {
+    "head": "2011 Birthday Honours",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2014-09-11"
+  },
+  {
+    "head": "2012 Commonwealth Games",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2014-09-11"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "employer",
+    "tail": "International Centre of Financial Regulation",
+    "date": "2015-05-14"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "significant event",
+    "tail": "took his own life at home",
+    "date": "2015-05-14"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "significant event",
+    "tail": "took his own life",
+    "date": "2015-05-14"
+  },
+  {
+    "head": "At the Gate",
+    "type": "located in the administrative territorial entity",
+    "tail": "London",
+    "date": "2015-05-16"
+  },
+  {
+    "head": "At the Gate",
+    "type": "location",
+    "tail": "London",
+    "date": "2015-05-16"
+  },
+  {
+    "head": "London",
+    "type": "end time",
+    "tail": "16 May",
+    "date": "2015-05-16"
+  },
+  {
+    "head": "took his own life",
+    "type": "subclass of",
+    "tail": "suicide",
+    "date": "2015-09-24"
+  },
+  {
+    "head": "took his own life",
+    "type": "instance of",
+    "tail": "suicide",
+    "date": "2015-09-24"
+  },
+  {
+    "head": "suicide",
+    "type": "said to be the same as",
+    "tail": "took his own life",
+    "date": "2015-09-24"
+  },
+  {
+    "head": "took his own life",
+    "type": "said to be the same as",
+    "tail": "suicide",
+    "date": "2015-09-24"
+  },
+  {
+    "head": "government",
+    "type": "instance of",
+    "tail": "thinktank",
+    "date": "2015-09-24"
+  },
+  {
+    "head": "thinktank",
+    "type": "parent organization",
+    "tail": "government",
+    "date": "2015-09-24"
+  },
+  {
+    "head": "thinktank",
+    "type": "part of",
+    "tail": "government",
+    "date": "2015-09-24"
+  },
+  {
+    "head": "false accounting",
+    "type": "subclass of",
+    "tail": "fraud",
+    "date": "2015-09-24"
+  },
+  {
+    "head": "false accounting",
+    "type": "subclass of",
+    "tail": "fraud by abuse of position",
+    "date": "2015-09-24"
+  },
+  {
+    "head": "fraud by abuse of position",
+    "type": "subclass of",
+    "tail": "false accounting",
+    "date": "2015-09-24"
+  },
+  {
+    "head": "Agnes Taylor",
+    "type": "residence",
+    "tail": "Dagenham",
+    "date": "2017-05-27"
+  },
+  {
+    "head": "Agnes Taylor",
+    "type": "place of birth",
+    "tail": "Dagenham",
+    "date": "2017-05-27"
+  },
+  {
+    "head": "Agnes Taylor",
+    "type": "place of death",
+    "tail": "Dagenham",
+    "date": "2017-05-27"
+  },
+  {
+    "head": "Agnes Taylor",
+    "type": "employer",
+    "tail": "Met police",
+    "date": "2017-06-01"
+  },
+  {
+    "head": "Agnes Taylor",
+    "type": "field of work",
+    "tail": "war crimes",
+    "date": "2017-06-01"
+  },
+  {
+    "head": "Agnes Taylor",
+    "type": "field of work",
+    "tail": "war crime",
+    "date": "2017-06-01"
+  },
+  {
+    "head": "Agnes Reeves Taylor",
+    "type": "spouse",
+    "tail": "Charles Taylor",
+    "date": "2017-06-01"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "spouse",
+    "tail": "Agnes Reeves Taylor",
+    "date": "2017-06-01"
+  },
+  {
+    "head": "Charles Taylor",
+    "type": "country of citizenship",
+    "tail": "Liberia",
+    "date": "2017-06-01"
+  },
+  {
+    "head": "Gbarnga",
+    "type": "twinned administrative body",
+    "tail": "Gborplay",
+    "date": "2017-06-01"
+  },
+  {
+    "head": "Gborplay",
+    "type": "twinned administrative body",
+    "tail": "Gbarnga",
+    "date": "2017-06-01"
+  },
+  {
+    "head": "Gborplay",
+    "type": "located in the administrative territorial entity",
+    "tail": "Gbarnga",
+    "date": "2017-06-01"
+  },
+  {
+    "head": "Gbarnga",
+    "type": "shares border with",
+    "tail": "Gborplay",
+    "date": "2017-06-01"
+  },
+  {
+    "head": "Gborplay",
+    "type": "shares border with",
+    "tail": "Gbarnga",
+    "date": "2017-06-01"
+  }
+]

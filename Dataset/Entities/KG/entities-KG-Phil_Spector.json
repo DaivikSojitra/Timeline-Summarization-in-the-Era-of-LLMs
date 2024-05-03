@@ -1,0 +1,4760 @@
+[
+  {
+    "head": "Tonight",
+    "type": "performer",
+    "tail": "Elton John",
+    "date": "2000-02-25"
+  },
+  {
+    "head": "Live in Australia",
+    "type": "performer",
+    "tail": "Elton John",
+    "date": "2000-02-25"
+  },
+  {
+    "head": "Tonight",
+    "type": "part of",
+    "tail": "Live in Australia",
+    "date": "2000-02-25"
+  },
+  {
+    "head": "David Lawrence Geffen",
+    "type": "place of birth",
+    "tail": "Brooklyn",
+    "date": "2000-02-25"
+  },
+  {
+    "head": "David Lawrence Geffen",
+    "type": "date of birth",
+    "tail": "1943",
+    "date": "2000-02-25"
+  },
+  {
+    "head": "Pulp Fiction",
+    "type": "cast member",
+    "tail": "John Travolta",
+    "date": "2000-03-11"
+  },
+  {
+    "head": "Pulp Fiction",
+    "type": "cast member",
+    "tail": "Bruce Willis",
+    "date": "2000-03-11"
+  },
+  {
+    "head": "Pulp Fiction",
+    "type": "cast member",
+    "tail": "Samuel L. Jackson",
+    "date": "2000-03-11"
+  },
+  {
+    "head": "Pulp Fiction",
+    "type": "cast member",
+    "tail": "Uma Thurman",
+    "date": "2000-03-11"
+  },
+  {
+    "head": "Brian Wilson",
+    "type": "influenced by",
+    "tail": "Phil Spector",
+    "date": "2000-03-11"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "spouse",
+    "tail": "Brian Wilson",
+    "date": "2000-03-11"
+  },
+  {
+    "head": "Brian Wilson",
+    "type": "spouse",
+    "tail": "Phil Spector",
+    "date": "2000-03-11"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "sibling",
+    "tail": "Brian Wilson",
+    "date": "2000-03-11"
+  },
+  {
+    "head": "Brian Wilson",
+    "type": "sibling",
+    "tail": "Phil Spector",
+    "date": "2000-03-11"
+  },
+  {
+    "head": "the Crystals",
+    "type": "inception",
+    "tail": "1962",
+    "date": "2000-12-25"
+  },
+  {
+    "head": "the Ronettes",
+    "type": "inception",
+    "tail": "1962",
+    "date": "2000-12-25"
+  },
+  {
+    "head": "the Crystals",
+    "type": "work period (start)",
+    "tail": "1962",
+    "date": "2000-12-25"
+  },
+  {
+    "head": "First Tycoon of Teen",
+    "type": "significant event",
+    "tail": "Boxing Day",
+    "date": "2000-12-26"
+  },
+  {
+    "head": "First Tycoon of Teen",
+    "type": "employer",
+    "tail": "Spector",
+    "date": "2000-12-26"
+  },
+  {
+    "head": "First Tycoon",
+    "type": "notable work",
+    "tail": "Teen",
+    "date": "2000-12-26"
+  },
+  {
+    "head": "Teen",
+    "type": "creator",
+    "tail": "First Tycoon",
+    "date": "2000-12-26"
+  },
+  {
+    "head": "Timbaland",
+    "type": "occupation",
+    "tail": "record producer",
+    "date": "2002-02-01"
+  },
+  {
+    "head": "Timbaland",
+    "type": "place of birth",
+    "tail": "Virginia",
+    "date": "2002-02-01"
+  },
+  {
+    "head": "Timbaland",
+    "type": "location of formation",
+    "tail": "Virginia",
+    "date": "2002-02-01"
+  },
+  {
+    "head": "Timbaland and Magoo Indecent Proposal (Blackground)",
+    "type": "performer",
+    "tail": "Magoo",
+    "date": "2002-02-01"
+  },
+  {
+    "head": "Timbaland and Magoo Indecent Proposal (Blackground)",
+    "type": "performer",
+    "tail": "Timbaland",
+    "date": "2002-02-01"
+  },
+  {
+    "head": "Timbaland and Magoo Indecent Proposal (Blackground)",
+    "type": "participant",
+    "tail": "Magoo",
+    "date": "2002-02-01"
+  },
+  {
+    "head": "William Shakespeare",
+    "type": "notable work",
+    "tail": "Cymbeline",
+    "date": "2002-11-08"
+  },
+  {
+    "head": "Cymbeline",
+    "type": "author",
+    "tail": "William Shakespeare",
+    "date": "2002-11-08"
+  },
+  {
+    "head": "William Shakespeare",
+    "type": "notable work",
+    "tail": "Hamlet",
+    "date": "2002-11-08"
+  },
+  {
+    "head": "Hamlet",
+    "type": "author",
+    "tail": "William Shakespeare",
+    "date": "2002-11-08"
+  },
+  {
+    "head": "William Shakespeare",
+    "type": "notable work",
+    "tail": "A Midsummer Night's Dream",
+    "date": "2002-11-08"
+  },
+  {
+    "head": "A Midsummer Night's Dream",
+    "type": "author",
+    "tail": "William Shakespeare",
+    "date": "2002-11-08"
+  },
+  {
+    "head": "Bronx",
+    "type": "twinned administrative body",
+    "tail": "Los Angeles",
+    "date": "2002-12-25"
+  },
+  {
+    "head": "Los Angeles",
+    "type": "twinned administrative body",
+    "tail": "Bronx",
+    "date": "2002-12-25"
+  },
+  {
+    "head": "1940",
+    "type": "point in time",
+    "tail": "1940",
+    "date": "2002-12-25"
+  },
+  {
+    "head": "Happy Xmas (War is Over)",
+    "type": "performer",
+    "tail": "Plastic Ono Band",
+    "date": "2002-12-25"
+  },
+  {
+    "head": "Happy Xmas (War is Over)",
+    "type": "performer",
+    "tail": "The Plastic Ono Band",
+    "date": "2002-12-25"
+  },
+  {
+    "head": "Happy Xmas",
+    "type": "performer",
+    "tail": "Plastic Ono Band",
+    "date": "2002-12-25"
+  },
+  {
+    "head": "his own Christmas album",
+    "type": "publication date",
+    "tail": "1963",
+    "date": "2002-12-25"
+  },
+  {
+    "head": "Christmas album",
+    "type": "publication date",
+    "tail": "1963",
+    "date": "2002-12-25"
+  },
+  {
+    "head": "own Christmas album",
+    "type": "publication date",
+    "tail": "1963",
+    "date": "2002-12-25"
+  },
+  {
+    "head": "Happy Christmas!",
+    "type": "performer",
+    "tail": "James Walsh",
+    "date": "2002-12-25"
+  },
+  {
+    "head": "James Walsh",
+    "type": "occupation",
+    "tail": "singer",
+    "date": "2002-12-25"
+  },
+  {
+    "head": "Happy Christmas!",
+    "type": "composer",
+    "tail": "James Walsh",
+    "date": "2002-12-25"
+  },
+  {
+    "head": "2009 World Cup",
+    "type": "point in time",
+    "tail": "2009",
+    "date": "2002-12-25"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2002-12-25"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2002-12-25"
+  },
+  {
+    "head": "the Sunday night",
+    "type": "point in time",
+    "tail": "Sunday",
+    "date": "2003-02-02"
+  },
+  {
+    "head": "the actress",
+    "type": "date of death",
+    "tail": "62",
+    "date": "2003-02-02"
+  },
+  {
+    "head": "the actress",
+    "type": "age",
+    "tail": "62",
+    "date": "2003-02-02"
+  },
+  {
+    "head": "Miss America 2002",
+    "type": "point in time",
+    "tail": "2002",
+    "date": "2003-02-02"
+  },
+  {
+    "head": "Miss America 1984",
+    "type": "point in time",
+    "tail": "1984",
+    "date": "2003-02-02"
+  },
+  {
+    "head": "Miss America 2004",
+    "type": "point in time",
+    "tail": "2004",
+    "date": "2003-02-02"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2003-02-02"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2003-02-02"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "Secretary of State",
+    "date": "2003-02-02"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "occupation",
+    "tail": "record producer",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "Alhambra",
+    "type": "located in the administrative territorial entity",
+    "tail": "Los Angeles",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "place of death",
+    "tail": "his mansion",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "residence",
+    "tail": "his mansion",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "significant event",
+    "tail": "murder of Lana Clarkson",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "date of death",
+    "tail": "February 3 2003",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "B - movie",
+    "type": "subclass of",
+    "tail": "actress",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "B - movie actress",
+    "type": "subclass of",
+    "tail": "hostess",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "hostess",
+    "type": "subclass of",
+    "tail": "actress",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "date of death",
+    "tail": "3 February, 2003",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "point in time",
+    "tail": "3 February, 2003",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "murder charge",
+    "type": "has parts of the class",
+    "tail": "attempted murder",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "date of death",
+    "tail": "February 3 2003",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "place of death",
+    "tail": "Pyrenees Castle",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "date of death",
+    "tail": "February 3 2003",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "point in time",
+    "tail": "February 3 2003",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "shot her",
+    "type": "point in time",
+    "tail": "February 3 2003",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "date of death",
+    "tail": "February 3 2003",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "point in time",
+    "tail": "February 3 2003",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "shot her",
+    "type": "point in time",
+    "tail": "February 3 2003",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "2003",
+    "type": "point in time",
+    "tail": "February 3 2003",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "2003",
+    "type": "point in time",
+    "tail": "2003",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "2003",
+    "type": "start time",
+    "tail": "February 3 2003",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "Adriano De Souza",
+    "type": "occupation",
+    "tail": "Driver",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "Adriano De Souza",
+    "type": "occupation",
+    "tail": "Witness",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "Adriano De Souza",
+    "type": "point in time",
+    "tail": "February 3, 2003",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "date of death",
+    "tail": "February 3, 2003",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "date of death",
+    "tail": "February 3 2003",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "date of death",
+    "tail": "February 3 2003",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "date of death",
+    "tail": "3 February 2003",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "Police had been called to the scene",
+    "type": "has cause",
+    "tail": "gunshots",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "heard gunshots",
+    "type": "has cause",
+    "tail": "Police had been called to the scene",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "gunshots",
+    "type": "has effect",
+    "tail": "Police had been called to the scene",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "police",
+    "type": "applies to jurisdiction",
+    "tail": "local",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "police would not confirm this",
+    "type": "facet of",
+    "tail": "police",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "police",
+    "type": "different from",
+    "tail": "police station",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "occupation",
+    "tail": "record producer",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "occupation",
+    "tail": "recording studio",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "work location",
+    "tail": "recording studio",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "1970s",
+    "type": "point in time",
+    "tail": "1970",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "Pullman",
+    "type": "located in the administrative territorial entity",
+    "tail": "Washington DC",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "Pullman",
+    "type": "twinned administrative body",
+    "tail": "Washington, D.C.",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "Washington, D.C.",
+    "type": "twinned administrative body",
+    "tail": "Pullman",
+    "date": "2003-02-03"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "occupation",
+    "tail": "record producer",
+    "date": "2003-02-04"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "occupation",
+    "tail": "record producer",
+    "date": "2003-02-04"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "spouse",
+    "tail": "Lana Clarkson",
+    "date": "2003-02-04"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2003-02-04"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "significant event",
+    "tail": "assassinated",
+    "date": "2003-02-04"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "Secretary of State",
+    "date": "2003-02-04"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "occupation",
+    "tail": "record producer",
+    "date": "2003-02-04"
+  },
+  {
+    "head": "killing of an actress",
+    "type": "participant",
+    "tail": "Phil Spector",
+    "date": "2003-02-04"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "significant event",
+    "tail": "killing of an actress",
+    "date": "2003-02-04"
+  },
+  {
+    "head": "Record Plant",
+    "type": "located on street",
+    "tail": "West 44th Street",
+    "date": "2003-02-04"
+  },
+  {
+    "head": "the Record Plant",
+    "type": "located on street",
+    "tail": "West 44th Street",
+    "date": "2003-02-04"
+  },
+  {
+    "head": "Record Plant",
+    "type": "location",
+    "tail": "West 44th Street",
+    "date": "2003-02-04"
+  },
+  {
+    "head": "Police had been called to the scene",
+    "type": "has cause",
+    "tail": "gunshots",
+    "date": "2003-02-04"
+  },
+  {
+    "head": "heard gunshots",
+    "type": "has cause",
+    "tail": "Police had been called to the scene",
+    "date": "2003-02-04"
+  },
+  {
+    "head": "gunshots",
+    "type": "has effect",
+    "tail": "Police had been called to the scene",
+    "date": "2003-02-04"
+  },
+  {
+    "head": "police",
+    "type": "applies to jurisdiction",
+    "tail": "local",
+    "date": "2003-02-04"
+  },
+  {
+    "head": "police would not confirm this",
+    "type": "facet of",
+    "tail": "police",
+    "date": "2003-02-04"
+  },
+  {
+    "head": "police",
+    "type": "different from",
+    "tail": "police station",
+    "date": "2003-02-04"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "occupation",
+    "tail": "record producer",
+    "date": "2003-02-04"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "work location",
+    "tail": "recording studio",
+    "date": "2003-02-04"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "occupation",
+    "tail": "recording studio",
+    "date": "2003-02-04"
+  },
+  {
+    "head": "Pyrenees Castle",
+    "type": "area",
+    "tail": "10",
+    "date": "2003-02-04"
+  },
+  {
+    "head": "Pyrenees Castle",
+    "type": "number of participants",
+    "tail": "10",
+    "date": "2003-02-04"
+  },
+  {
+    "head": "Pyrenees Castle",
+    "type": "number of episodes",
+    "tail": "10",
+    "date": "2003-02-04"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "residence",
+    "tail": "hilltop chateau",
+    "date": "2003-02-04"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "residence",
+    "tail": "hilltop chateau for years on end",
+    "date": "2003-02-04"
+  },
+  {
+    "head": "Seven - inch 45rpm singles",
+    "type": "said to be the same as",
+    "tail": "B - side",
+    "date": "2003-02-04"
+  },
+  {
+    "head": "B - side",
+    "type": "said to be the same as",
+    "tail": "Seven - inch 45rpm singles",
+    "date": "2003-02-04"
+  },
+  {
+    "head": "Lennon",
+    "type": "member of",
+    "tail": "Spector",
+    "date": "2003-02-04"
+  },
+  {
+    "head": "The Spector",
+    "type": "influenced by",
+    "tail": "Lennon",
+    "date": "2003-02-04"
+  },
+  {
+    "head": "The Spector",
+    "type": "has part",
+    "tail": "Lennon",
+    "date": "2003-02-04"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "date of birth",
+    "tail": "41",
+    "date": "2003-02-05"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "field of work",
+    "tail": "HIV",
+    "date": "2003-02-05"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "residence",
+    "tail": "LA",
+    "date": "2003-02-05"
+  },
+  {
+    "head": "Pyrenees Castle",
+    "type": "area",
+    "tail": "10",
+    "date": "2003-02-05"
+  },
+  {
+    "head": "Pyrenees Castle",
+    "type": "number of participants",
+    "tail": "10",
+    "date": "2003-02-05"
+  },
+  {
+    "head": "Pyrenees Castle",
+    "type": "number of episodes",
+    "tail": "10",
+    "date": "2003-02-05"
+  },
+  {
+    "head": "John Lennon",
+    "type": "part of",
+    "tail": "Beatle",
+    "date": "2003-02-05"
+  },
+  {
+    "head": "Beatle",
+    "type": "has part",
+    "tail": "John Lennon",
+    "date": "2003-02-05"
+  },
+  {
+    "head": "John Lennon",
+    "type": "member of",
+    "tail": "Beatle",
+    "date": "2003-02-05"
+  },
+  {
+    "head": "Lennon",
+    "type": "member of",
+    "tail": "Spector",
+    "date": "2003-02-05"
+  },
+  {
+    "head": "The Spector",
+    "type": "influenced by",
+    "tail": "Lennon",
+    "date": "2003-02-05"
+  },
+  {
+    "head": "The Spector",
+    "type": "has part",
+    "tail": "Lennon",
+    "date": "2003-02-05"
+  },
+  {
+    "head": "James Walsh",
+    "type": "occupation",
+    "tail": "performer",
+    "date": "2003-02-05"
+  },
+  {
+    "head": "James Walsh",
+    "type": "occupation",
+    "tail": "cocky performer",
+    "date": "2003-02-05"
+  },
+  {
+    "head": "James Walsh",
+    "type": "voice type",
+    "tail": "cocky",
+    "date": "2003-02-05"
+  },
+  {
+    "head": "The Beatles",
+    "type": "has part",
+    "tail": "Jimmy Page",
+    "date": "2003-02-05"
+  },
+  {
+    "head": "Jimmy Page",
+    "type": "member of",
+    "tail": "The Beatles",
+    "date": "2003-02-05"
+  },
+  {
+    "head": "Jimmy Page",
+    "type": "part of",
+    "tail": "The Beatles",
+    "date": "2003-02-05"
+  },
+  {
+    "head": "second album",
+    "type": "producer",
+    "tail": "Phil Spector",
+    "date": "2003-02-06"
+  },
+  {
+    "head": "second album",
+    "type": "performer",
+    "tail": "Starsailor",
+    "date": "2003-02-06"
+  },
+  {
+    "head": "James Walsh",
+    "type": "occupation",
+    "tail": "performer",
+    "date": "2003-02-06"
+  },
+  {
+    "head": "James Walsh",
+    "type": "occupation",
+    "tail": "cocky performer",
+    "date": "2003-02-06"
+  },
+  {
+    "head": "James Walsh",
+    "type": "voice type",
+    "tail": "cocky",
+    "date": "2003-02-06"
+  },
+  {
+    "head": "The Beatles",
+    "type": "has part",
+    "tail": "Jimmy Page",
+    "date": "2003-02-06"
+  },
+  {
+    "head": "Jimmy Page",
+    "type": "member of",
+    "tail": "The Beatles",
+    "date": "2003-02-06"
+  },
+  {
+    "head": "Jimmy Page",
+    "type": "part of",
+    "tail": "The Beatles",
+    "date": "2003-02-06"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2003-03-03"
+  },
+  {
+    "head": "2008 Summer Olympics",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2003-03-03"
+  },
+  {
+    "head": "Harvard University",
+    "type": "subsidiary",
+    "tail": "John F. Kennedy School of Government",
+    "date": "2003-03-03"
+  },
+  {
+    "head": "Yesterday",
+    "type": "followed by",
+    "tail": "Eleanor Rigby",
+    "date": "2003-03-08"
+  },
+  {
+    "head": "Eleanor Rigby",
+    "type": "follows",
+    "tail": "Yesterday",
+    "date": "2003-03-08"
+  },
+  {
+    "head": "Eleanor Rigby",
+    "type": "followed by",
+    "tail": "Yesterday",
+    "date": "2003-03-08"
+  },
+  {
+    "head": "Playback",
+    "type": "subclass of",
+    "tail": "Playback",
+    "date": "2003-03-08"
+  },
+  {
+    "head": "Playback",
+    "type": "subclass of",
+    "tail": "playback",
+    "date": "2003-03-08"
+  },
+  {
+    "head": "Playback",
+    "type": "part of",
+    "tail": "Playback",
+    "date": "2003-03-08"
+  },
+  {
+    "head": "An Illustrated Memoir",
+    "type": "author",
+    "tail": "George Martin",
+    "date": "2003-03-08"
+  },
+  {
+    "head": "An Illustrated Memoir",
+    "type": "publisher",
+    "tail": "George Martin Genesis Publications",
+    "date": "2003-03-08"
+  },
+  {
+    "head": "An Illustrated Memoir",
+    "type": "publisher",
+    "tail": "Genesis Publications",
+    "date": "2003-03-08"
+  },
+  {
+    "head": "George Martin",
+    "type": "occupation",
+    "tail": "record producer",
+    "date": "2003-03-08"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "occupation",
+    "tail": "record producer",
+    "date": "2003-03-08"
+  },
+  {
+    "head": "salad",
+    "type": "subclass of",
+    "tail": "cocktail",
+    "date": "2003-07-21"
+  },
+  {
+    "head": "cocktail",
+    "type": "subclass of",
+    "tail": "salad",
+    "date": "2003-07-21"
+  },
+  {
+    "head": "cocktail",
+    "type": "has part",
+    "tail": "salad",
+    "date": "2003-07-21"
+  },
+  {
+    "head": "Losing Sleep",
+    "type": "performer",
+    "tail": "The Rolling Stones",
+    "date": "2003-07-21"
+  },
+  {
+    "head": "The Killing Fields",
+    "type": "author",
+    "tail": "John Osborne",
+    "date": "2003-07-21"
+  },
+  {
+    "head": "The Killing Fields",
+    "type": "cast member",
+    "tail": "John Osborne",
+    "date": "2003-07-21"
+  },
+  {
+    "head": "Junichiro Koizumi",
+    "type": "member of political party",
+    "tail": "Liberal Democratic Party",
+    "date": "2003-09-19"
+  },
+  {
+    "head": "Liberal Democratic Party",
+    "type": "chairperson",
+    "tail": "Junichiro Koizumi",
+    "date": "2003-09-19"
+  },
+  {
+    "head": "Liberal Democratic Party",
+    "type": "country",
+    "tail": "Japan",
+    "date": "2003-09-19"
+  },
+  {
+    "head": "Flood hits 500,000 Bangladeshi rescue workers",
+    "type": "has cause",
+    "tail": "flood - swollen river",
+    "date": "2003-09-19"
+  },
+  {
+    "head": "flood - swollen river",
+    "type": "country",
+    "tail": "Bangladesh",
+    "date": "2003-09-19"
+  },
+  {
+    "head": "flood - swollen river",
+    "type": "has effect",
+    "tail": "Flood hits 500,000 Bangladeshi rescue workers",
+    "date": "2003-09-19"
+  },
+  {
+    "head": "Police",
+    "type": "country",
+    "tail": "Briton",
+    "date": "2003-09-19"
+  },
+  {
+    "head": "murder",
+    "type": "has parts of the class",
+    "tail": "attempted murder",
+    "date": "2003-09-19"
+  },
+  {
+    "head": "Police",
+    "type": "applies to jurisdiction",
+    "tail": "Briton",
+    "date": "2003-09-19"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "occupation",
+    "tail": "Music producer",
+    "date": "2003-09-19"
+  },
+  {
+    "head": "Phil Spector faces manslaughter charge",
+    "type": "facet of",
+    "tail": "Phil Spector",
+    "date": "2003-09-19"
+  },
+  {
+    "head": "Phil Spector faces manslaughter charge",
+    "type": "instance of",
+    "tail": "manslaughter",
+    "date": "2003-09-19"
+  },
+  {
+    "head": "murder",
+    "type": "has cause",
+    "tail": "intent",
+    "date": "2003-09-19"
+  },
+  {
+    "head": "intent",
+    "type": "has effect",
+    "tail": "murder",
+    "date": "2003-09-19"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "work period (start)",
+    "tail": "1960",
+    "date": "2003-09-19"
+  },
+  {
+    "head": "coalition government",
+    "type": "country",
+    "tail": "Japan",
+    "date": "2003-09-21"
+  },
+  {
+    "head": "general election",
+    "type": "country",
+    "tail": "Japan",
+    "date": "2003-09-21"
+  },
+  {
+    "head": "coalition government",
+    "type": "has part",
+    "tail": "LDP",
+    "date": "2003-09-21"
+  },
+  {
+    "head": "University",
+    "type": "location",
+    "tail": "Leeds",
+    "date": "2003-09-23"
+  },
+  {
+    "head": "University of Leeds",
+    "type": "location",
+    "tail": "Leeds",
+    "date": "2003-09-23"
+  },
+  {
+    "head": "Leeds University",
+    "type": "instance of",
+    "tail": "University",
+    "date": "2003-09-23"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "date of death",
+    "tail": "February",
+    "date": "2003-09-23"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "occupation",
+    "tail": "B - movie actor",
+    "date": "2003-09-23"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "spouse",
+    "tail": "Phil Spector",
+    "date": "2003-09-23"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "spouse",
+    "tail": "Lana Clarkson",
+    "date": "2003-09-23"
+  },
+  {
+    "head": "homicide",
+    "type": "subclass of",
+    "tail": "cause of death",
+    "date": "2003-09-23"
+  },
+  {
+    "head": "manner of death",
+    "type": "different from",
+    "tail": "cause of death",
+    "date": "2003-09-23"
+  },
+  {
+    "head": "cause of death",
+    "type": "different from",
+    "tail": "manner of death",
+    "date": "2003-09-23"
+  },
+  {
+    "head": "gunshot wound",
+    "type": "has effect",
+    "tail": "homicide",
+    "date": "2003-09-23"
+  },
+  {
+    "head": "Silence Is Easy",
+    "type": "producer",
+    "tail": "Phil Spector",
+    "date": "2003-09-23"
+  },
+  {
+    "head": "Silence Is Easy",
+    "type": "performer",
+    "tail": "Starsailor",
+    "date": "2003-09-23"
+  },
+  {
+    "head": "the Charlatans",
+    "type": "has part",
+    "tail": "Mark Collins",
+    "date": "2003-09-23"
+  },
+  {
+    "head": "Charlatans",
+    "type": "has part",
+    "tail": "Mark Collins",
+    "date": "2003-09-23"
+  },
+  {
+    "head": "Mark Collins",
+    "type": "member of",
+    "tail": "the Charlatans",
+    "date": "2003-09-23"
+  },
+  {
+    "head": "Martin O'Neill",
+    "type": "member of sports team",
+    "tail": "Celtic",
+    "date": "2003-09-30"
+  },
+  {
+    "head": "Martin O'Neill",
+    "type": "employer",
+    "tail": "Celtic",
+    "date": "2003-09-30"
+  },
+  {
+    "head": "Celtic",
+    "type": "owned by",
+    "tail": "Celtic",
+    "date": "2003-09-30"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "member of sports team",
+    "tail": "Celtic",
+    "date": "2003-09-30"
+  },
+  {
+    "head": "Group A",
+    "type": "participating team",
+    "tail": "Celtic",
+    "date": "2003-09-30"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "genre",
+    "tail": "sound",
+    "date": "2003-09-30"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "place of death",
+    "tail": "Hollywood",
+    "date": "2003-11-20"
+  },
+  {
+    "head": "House of Blues",
+    "type": "located in the administrative territorial entity",
+    "tail": "Hollywood",
+    "date": "2003-11-20"
+  },
+  {
+    "head": "House of Blues",
+    "type": "location",
+    "tail": "Hollywood",
+    "date": "2003-11-20"
+  },
+  {
+    "head": "Wall of Sound",
+    "type": "performer",
+    "tail": "tech nique",
+    "date": "2003-11-20"
+  },
+  {
+    "head": "Wall of Sound",
+    "type": "instance of",
+    "tail": "tech nique",
+    "date": "2003-11-20"
+  },
+  {
+    "head": "Wall of Sound",
+    "type": "performer",
+    "tail": "recording tech nique",
+    "date": "2003-11-20"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "occupation",
+    "tail": "record producer",
+    "date": "2003-11-20"
+  },
+  {
+    "head": "Philip Spector",
+    "type": "occupation",
+    "tail": "record producer",
+    "date": "2003-11-20"
+  },
+  {
+    "head": "murder of an actress",
+    "type": "participant",
+    "tail": "Phil Spector",
+    "date": "2003-11-20"
+  },
+  {
+    "head": "Alhambra",
+    "type": "located in the administrative territorial entity",
+    "tail": "Los Angeles",
+    "date": "2003-11-20"
+  },
+  {
+    "head": "first arrested",
+    "type": "location",
+    "tail": "Alhambra",
+    "date": "2003-11-20"
+  },
+  {
+    "head": "Los Angeles",
+    "type": "shares border with",
+    "tail": "Alhambra",
+    "date": "2003-11-20"
+  },
+  {
+    "head": "was shot",
+    "type": "participant",
+    "tail": "Phil Spector",
+    "date": "2003-11-21"
+  },
+  {
+    "head": "an actress was shot",
+    "type": "participant",
+    "tail": "Phil Spector",
+    "date": "2003-11-21"
+  },
+  {
+    "head": "was shot",
+    "type": "facet of",
+    "tail": "Phil Spector",
+    "date": "2003-11-21"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "occupation",
+    "tail": "record producer",
+    "date": "2003-11-21"
+  },
+  {
+    "head": "murder of an actress",
+    "type": "participant",
+    "tail": "Phil Spector",
+    "date": "2003-11-21"
+  },
+  {
+    "head": "Philip Spector",
+    "type": "occupation",
+    "tail": "record producer",
+    "date": "2003-11-21"
+  },
+  {
+    "head": "Geneva Marathon",
+    "type": "instance of",
+    "tail": "marathon",
+    "date": "2003-11-23"
+  },
+  {
+    "head": "Trevor Lound",
+    "type": "country of citizenship",
+    "tail": "Briton",
+    "date": "2003-11-23"
+  },
+  {
+    "head": "Trevor Lound",
+    "type": "sports discipline competed in",
+    "tail": "marathon",
+    "date": "2003-11-23"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "date of death",
+    "tail": "40",
+    "date": "2004-01-23"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "date of birth",
+    "tail": "40",
+    "date": "2004-01-23"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "date of death",
+    "tail": "63",
+    "date": "2004-01-23"
+  },
+  {
+    "head": "death of an actor in his home last year",
+    "type": "participant",
+    "tail": "Phil Spector",
+    "date": "2004-09-27"
+  },
+  {
+    "head": "death of an actor",
+    "type": "participant",
+    "tail": "Phil Spector",
+    "date": "2004-09-27"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "significant event",
+    "tail": "death of an actor in his home last year",
+    "date": "2004-09-27"
+  },
+  {
+    "head": "Eight die after wall collapses",
+    "type": "location",
+    "tail": "Dubai airport",
+    "date": "2004-09-27"
+  },
+  {
+    "head": "Eight die after wall collapses",
+    "type": "location",
+    "tail": "Dubai",
+    "date": "2004-09-27"
+  },
+  {
+    "head": "Dubai airport",
+    "type": "significant event",
+    "tail": "Eight die after wall collapses",
+    "date": "2004-09-27"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "occupation",
+    "tail": "record producer",
+    "date": "2004-09-27"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "date of death",
+    "tail": "19 months ago",
+    "date": "2004-09-27"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "spouse",
+    "tail": "Phil Spector",
+    "date": "2004-09-27"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "place of death",
+    "tail": "California",
+    "date": "2004-09-27"
+  },
+  {
+    "head": "murder of Lana Clarkson",
+    "type": "located in the administrative territorial entity",
+    "tail": "California",
+    "date": "2004-09-27"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "residence",
+    "tail": "California",
+    "date": "2004-09-27"
+  },
+  {
+    "head": "storm",
+    "type": "participant",
+    "tail": "DA",
+    "date": "2004-09-27"
+  },
+  {
+    "head": "storm - trooper henchmen",
+    "type": "applies to jurisdiction",
+    "tail": "DA",
+    "date": "2004-09-27"
+  },
+  {
+    "head": "his storm - trooper henchmen",
+    "type": "facet of",
+    "tail": "Hitler",
+    "date": "2004-09-27"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "place of death",
+    "tail": "Dubai",
+    "date": "2004-09-27"
+  },
+  {
+    "head": "Dubai",
+    "type": "located in the administrative territorial entity",
+    "tail": "Dubai",
+    "date": "2004-09-27"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "significant event",
+    "tail": "murder charge",
+    "date": "2004-09-27"
+  },
+  {
+    "head": "trial",
+    "type": "location",
+    "tail": "Los Angeles",
+    "date": "2004-12-16"
+  },
+  {
+    "head": "The trial",
+    "type": "location",
+    "tail": "Los Angeles",
+    "date": "2004-12-16"
+  },
+  {
+    "head": "The Trial",
+    "type": "location",
+    "tail": "Los Angeles",
+    "date": "2004-12-16"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2005-01-07"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "significant event",
+    "tail": "assassinated",
+    "date": "2005-01-07"
+  },
+  {
+    "head": "The Los Angeles Times",
+    "type": "instance of",
+    "tail": "police",
+    "date": "2005-01-07"
+  },
+  {
+    "head": "The Valley",
+    "type": "point in time",
+    "tail": "May 15",
+    "date": "2005-08-06"
+  },
+  {
+    "head": "Jordan, Johnson and Dowie",
+    "type": "participant in",
+    "tail": "The Valley",
+    "date": "2005-08-06"
+  },
+  {
+    "head": "The Valley",
+    "type": "participant",
+    "tail": "Jordan, Johnson and Dowie",
+    "date": "2005-08-06"
+  },
+  {
+    "head": "R4",
+    "type": "sports league level",
+    "tail": "5",
+    "date": "2005-08-28"
+  },
+  {
+    "head": "R4",
+    "type": "sports league level",
+    "tail": "5.",
+    "date": "2005-08-28"
+  },
+  {
+    "head": "R4",
+    "type": "followed by",
+    "tail": "Sunday 5",
+    "date": "2005-08-28"
+  },
+  {
+    "head": "Norwich Waterfront",
+    "type": "number of participants",
+    "tail": "7",
+    "date": "2005-08-31"
+  },
+  {
+    "head": "Norwich Waterfront",
+    "type": "located in the administrative territorial entity",
+    "tail": "Norwich",
+    "date": "2005-08-31"
+  },
+  {
+    "head": "Norwich Waterfront",
+    "type": "location",
+    "tail": "Norwich",
+    "date": "2005-08-31"
+  },
+  {
+    "head": "1",
+    "type": "point in time",
+    "tail": "1",
+    "date": "2005-08-31"
+  },
+  {
+    "head": "1.",
+    "type": "point in time",
+    "tail": "1",
+    "date": "2005-08-31"
+  },
+  {
+    "head": "1",
+    "type": "ranking",
+    "tail": "1",
+    "date": "2005-08-31"
+  },
+  {
+    "head": "Joe Meek",
+    "type": "performer",
+    "tail": "Joe Meek",
+    "date": "2005-08-31"
+  },
+  {
+    "head": "Joe Meek",
+    "type": "has part",
+    "tail": "Joe Meek",
+    "date": "2005-08-31"
+  },
+  {
+    "head": "Joe Meek",
+    "type": "father",
+    "tail": "Joe Meek",
+    "date": "2005-08-31"
+  },
+  {
+    "head": "Portrait of a Genius",
+    "type": "depicts",
+    "tail": "Genius",
+    "date": "2005-08-31"
+  },
+  {
+    "head": "Portrait of a Genius",
+    "type": "depicts",
+    "tail": "Portrait of a Genius",
+    "date": "2005-08-31"
+  },
+  {
+    "head": "Portrait of a Genius",
+    "type": "instance of",
+    "tail": "Portrait",
+    "date": "2005-08-31"
+  },
+  {
+    "head": "film on Bob Dylan",
+    "type": "director",
+    "tail": "Martin Scorsese",
+    "date": "2005-09-26"
+  },
+  {
+    "head": "film",
+    "type": "cast member",
+    "tail": "Bob Dylan",
+    "date": "2005-09-26"
+  },
+  {
+    "head": "film",
+    "type": "main subject",
+    "tail": "Bob Dylan",
+    "date": "2005-09-26"
+  },
+  {
+    "head": "BBC4",
+    "type": "number of episodes",
+    "tail": "6",
+    "date": "2005-09-27"
+  },
+  {
+    "head": "6",
+    "type": "original broadcaster",
+    "tail": "BBC4",
+    "date": "2005-09-27"
+  },
+  {
+    "head": "6",
+    "type": "part of",
+    "tail": "BBC4",
+    "date": "2005-09-27"
+  },
+  {
+    "head": "pop",
+    "type": "has part",
+    "tail": "R&B",
+    "date": "2005-09-30"
+  },
+  {
+    "head": "R&B",
+    "type": "subclass of",
+    "tail": "pop",
+    "date": "2005-09-30"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "record label",
+    "tail": "Motown",
+    "date": "2005-09-30"
+  },
+  {
+    "head": "Shadow Morton",
+    "type": "record label",
+    "tail": "Motown",
+    "date": "2005-09-30"
+  },
+  {
+    "head": "trial",
+    "type": "point in time",
+    "tail": "January",
+    "date": "2005-10-27"
+  },
+  {
+    "head": "his trial",
+    "type": "point in time",
+    "tail": "January",
+    "date": "2005-10-27"
+  },
+  {
+    "head": "trial in January",
+    "type": "point in time",
+    "tail": "January",
+    "date": "2005-10-27"
+  },
+  {
+    "head": "self - titled debut album",
+    "type": "record label",
+    "tail": "Echo",
+    "date": "2006-12-10"
+  },
+  {
+    "head": "The self - titled debut album",
+    "type": "record label",
+    "tail": "Echo",
+    "date": "2006-12-10"
+  },
+  {
+    "head": "self - titled debut album",
+    "type": "performer",
+    "tail": "Echo",
+    "date": "2006-12-10"
+  },
+  {
+    "head": "the Beatles",
+    "type": "influenced by",
+    "tail": "Phil Spector",
+    "date": "2006-12-10"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "influenced by",
+    "tail": "the Beatles",
+    "date": "2006-12-10"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "part of",
+    "tail": "the Beatles",
+    "date": "2006-12-10"
+  },
+  {
+    "head": "the Beatles",
+    "type": "has part",
+    "tail": "Phil Spector",
+    "date": "2006-12-10"
+  },
+  {
+    "head": "Christmas songs",
+    "type": "subclass of",
+    "tail": "songs",
+    "date": "2006-12-21"
+  },
+  {
+    "head": "Christmas songs",
+    "type": "main subject",
+    "tail": "Christmas",
+    "date": "2006-12-21"
+  },
+  {
+    "head": "Christmas songs",
+    "type": "main subject",
+    "tail": "Christmas songs",
+    "date": "2006-12-21"
+  },
+  {
+    "head": "A Christmas Gift for You",
+    "type": "performer",
+    "tail": "Phil Spector",
+    "date": "2006-12-21"
+  },
+  {
+    "head": "A Christmas Gift for You",
+    "type": "publication date",
+    "tail": "1963",
+    "date": "2006-12-21"
+  },
+  {
+    "head": "Ding - a - ling - a - ling - a - ding - dong - ding",
+    "type": "part of",
+    "tail": "A Christmas Gift for You",
+    "date": "2006-12-21"
+  },
+  {
+    "head": "Brian May",
+    "type": "member of",
+    "tail": "the Shadows",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "the Shadows",
+    "type": "has part",
+    "tail": "Brian May",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Songs For Christmas",
+    "type": "instance of",
+    "tail": "set",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Songs For Christmas",
+    "type": "instance of",
+    "tail": "disc set",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Songs For Christmas",
+    "type": "instance of",
+    "tail": "album",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Christmas standards",
+    "type": "composer",
+    "tail": "Stevens",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Stevens",
+    "type": "genre",
+    "tail": "Christmas standards",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Christmas standards",
+    "type": "performer",
+    "tail": "Stevens",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Vol III",
+    "type": "location of formation",
+    "tail": "Michigan",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Grisly holidays",
+    "type": "facet of",
+    "tail": "Christmas",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Vol III",
+    "type": "country of origin",
+    "tail": "Michigan",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Did I Make You Cry on Christmas?",
+    "type": "main subject",
+    "tail": "Christmas",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Did I Make You Cry on Christmas?",
+    "type": "followed by",
+    "tail": "Did I Make You Cry on Christmas?",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Did I Make You Cry on Christmas?",
+    "type": "instance of",
+    "tail": "song",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Christmas album",
+    "type": "performer",
+    "tail": "Spector",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Wall of Sound",
+    "type": "performer",
+    "tail": "Spector",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Illinois",
+    "type": "follows",
+    "tail": "Wall of Sound",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Wall of Sound",
+    "type": "followed by",
+    "tail": "Illinois",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "A Christmas Gift For You",
+    "type": "performer",
+    "tail": "Phil Spector",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "A Christmas Gift For You",
+    "type": "producer",
+    "tail": "Phil Spector",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "A Christmas Gift For You from Phil Spector",
+    "type": "instance of",
+    "tail": "album",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Absentee",
+    "type": "has part",
+    "tail": "Dan",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "The Broken Family Band",
+    "type": "has part",
+    "tail": "Steven",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Absentee",
+    "type": "genre",
+    "tail": "country",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "The Broken Family Band",
+    "type": "genre",
+    "tail": "country",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Sleigh Ride",
+    "type": "genre",
+    "tail": "Christmas song",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Sleigh Ride",
+    "type": "genre",
+    "tail": "Christmas songs",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Have Yourself a Merry Little Christmas, Judy Garland",
+    "type": "performer",
+    "tail": "Judy Garland",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Have Yourself a Merry Little Christmas",
+    "type": "performer",
+    "tail": "Judy Garland",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Have Yourself a Merry Little Christmas, Judy Garland",
+    "type": "cast member",
+    "tail": "Judy Garland",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Blue Christmas",
+    "type": "performer",
+    "tail": "Elvis Presley",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Blue Christmas by Elvis Presley",
+    "type": "performer",
+    "tail": "Elvis Presley",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Blue Christmas",
+    "type": "composer",
+    "tail": "Elvis Presley",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Merry Xmas, Everybody",
+    "type": "performer",
+    "tail": "Slade",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Merry Xmas, Everybody",
+    "type": "performer",
+    "tail": "Slade'",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Merry Xmas, Everybody by Slade",
+    "type": "performer",
+    "tail": "Slade",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Christmas Will Be Just Another Lonely Day",
+    "type": "performer",
+    "tail": "Brenda Lee Ain't",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Rockin'Around the Christmas Tree",
+    "type": "performer",
+    "tail": "Brenda Lee",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Get the Party Started",
+    "type": "performer",
+    "tail": "Pink",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Get the Party Started",
+    "type": "performer",
+    "tail": "Pink's",
+    "date": "2006-12-25"
+  },
+  {
+    "head": "Spector",
+    "type": "place of death",
+    "tail": "Los Angeles",
+    "date": "2007-02-03"
+  },
+  {
+    "head": "Her body was found",
+    "type": "located in the administrative territorial entity",
+    "tail": "Los Angeles",
+    "date": "2007-02-03"
+  },
+  {
+    "head": "Her body was found in the entrance hall",
+    "type": "located in the administrative territorial entity",
+    "tail": "Los Angeles",
+    "date": "2007-02-03"
+  },
+  {
+    "head": "Trader Vic",
+    "type": "located in the administrative territorial entity",
+    "tail": "Hollywood",
+    "date": "2007-03-11"
+  },
+  {
+    "head": "Dan Tana",
+    "type": "work location",
+    "tail": "Trader Vic",
+    "date": "2007-03-11"
+  },
+  {
+    "head": "Dan Tana",
+    "type": "employer",
+    "tail": "Trader Vic",
+    "date": "2007-03-11"
+  },
+  {
+    "head": "Daunt Books",
+    "type": "located on street",
+    "tail": "Marylebone High Street",
+    "date": "2007-03-13"
+  },
+  {
+    "head": "Daunt Books",
+    "type": "location",
+    "tail": "Marylebone High Street",
+    "date": "2007-03-13"
+  },
+  {
+    "head": "Daunt Books",
+    "type": "headquarters location",
+    "tail": "Marylebone High Street",
+    "date": "2007-03-13"
+  },
+  {
+    "head": "murder trial",
+    "type": "participant",
+    "tail": "Phil Spector",
+    "date": "2007-03-19"
+  },
+  {
+    "head": "was shot to death",
+    "type": "participant",
+    "tail": "Phil Spector",
+    "date": "2007-03-19"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "significant event",
+    "tail": "murder trial",
+    "date": "2007-03-19"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "date of death",
+    "tail": "February 2003",
+    "date": "2007-03-19"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "point in time",
+    "tail": "February 2003",
+    "date": "2007-03-19"
+  },
+  {
+    "head": "shot in the face",
+    "type": "participant",
+    "tail": "Lana Clarkson",
+    "date": "2007-03-19"
+  },
+  {
+    "head": "murder",
+    "type": "has parts of the class",
+    "tail": "manslaughter",
+    "date": "2007-03-19"
+  },
+  {
+    "head": "murder",
+    "type": "has cause",
+    "tail": "gunshot",
+    "date": "2007-03-19"
+  },
+  {
+    "head": "gunshot",
+    "type": "has effect",
+    "tail": "murder",
+    "date": "2007-03-19"
+  },
+  {
+    "head": "Larry Paul Fidler",
+    "type": "position held",
+    "tail": "Superior Court Judge",
+    "date": "2007-03-20"
+  },
+  {
+    "head": "Superior Court Judge",
+    "type": "officeholder",
+    "tail": "Larry Paul Fidler",
+    "date": "2007-03-20"
+  },
+  {
+    "head": "Superior Court",
+    "type": "office held by head of the organization",
+    "tail": "Judge",
+    "date": "2007-03-20"
+  },
+  {
+    "head": "Judge",
+    "type": "part of",
+    "tail": "Superior Court",
+    "date": "2007-03-20"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "date of death",
+    "tail": "February 2003",
+    "date": "2007-03-20"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "point in time",
+    "tail": "February 2003",
+    "date": "2007-03-20"
+  },
+  {
+    "head": "shot in the face",
+    "type": "participant",
+    "tail": "Lana Clarkson",
+    "date": "2007-03-20"
+  },
+  {
+    "head": "murder",
+    "type": "has parts of the class",
+    "tail": "manslaughter",
+    "date": "2007-03-20"
+  },
+  {
+    "head": "murder",
+    "type": "has cause",
+    "tail": "gunshot",
+    "date": "2007-03-20"
+  },
+  {
+    "head": "gunshot",
+    "type": "has effect",
+    "tail": "murder",
+    "date": "2007-03-20"
+  },
+  {
+    "head": "Spector murder trial",
+    "type": "participant",
+    "tail": "Phil Spector",
+    "date": "2007-04-02"
+  },
+  {
+    "head": "Tearing Down The Wall of Sound: The Rise and Fall of Phil Spector",
+    "type": "author",
+    "tail": "Mick",
+    "date": "2007-04-02"
+  },
+  {
+    "head": "Tearing Down The Wall of Sound: The Rise and Fall of Phil Spector",
+    "type": "author",
+    "tail": "Mick's",
+    "date": "2007-04-02"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "date of death",
+    "tail": "February 2003",
+    "date": "2007-04-03"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "place of death",
+    "tail": "Los Angeles",
+    "date": "2007-04-03"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "residence",
+    "tail": "Los Angeles",
+    "date": "2007-04-03"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "position held",
+    "tail": "President",
+    "date": "2007-04-16"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2007-04-16"
+  },
+  {
+    "head": "George Washington University",
+    "type": "located in the administrative territorial entity",
+    "tail": "Washington, D.C.",
+    "date": "2007-04-16"
+  },
+  {
+    "head": "LA Superior Court",
+    "type": "chairperson",
+    "tail": "Larry Paul Fidler",
+    "date": "2007-04-19"
+  },
+  {
+    "head": "Larry Paul Fidler",
+    "type": "position held",
+    "tail": "LA Superior Court",
+    "date": "2007-04-19"
+  },
+  {
+    "head": "LA Superior Court",
+    "type": "office held by head of the organization",
+    "tail": "judge",
+    "date": "2007-04-19"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2007-04-19"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "position held",
+    "tail": "President",
+    "date": "2007-04-19"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2007-04-19"
+  },
+  {
+    "head": "Carlyle Hotel",
+    "type": "located in the administrative territorial entity",
+    "tail": "New York",
+    "date": "2007-04-23"
+  },
+  {
+    "head": "Stephanie Jennings",
+    "type": "occupation",
+    "tail": "freelance photographer",
+    "date": "2007-04-23"
+  },
+  {
+    "head": "Carlyle Hotel",
+    "type": "headquarters location",
+    "tail": "New York",
+    "date": "2007-04-23"
+  },
+  {
+    "head": "downtown",
+    "type": "located in the administrative territorial entity",
+    "tail": "Los Angeles",
+    "date": "2007-04-24"
+  },
+  {
+    "head": "Los Angeles",
+    "type": "instance of",
+    "tail": "downtown",
+    "date": "2007-04-24"
+  },
+  {
+    "head": "Los Angeles",
+    "type": "located in the administrative territorial entity",
+    "tail": "city",
+    "date": "2007-04-24"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "occupation",
+    "tail": "record producer",
+    "date": "2007-04-25"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "work period (start)",
+    "tail": "1960",
+    "date": "2007-04-25"
+  },
+  {
+    "head": "Wall of Sound",
+    "type": "has part",
+    "tail": "Phil Spector",
+    "date": "2007-04-25"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "occupation",
+    "tail": "record producer",
+    "date": "2007-04-25"
+  },
+  {
+    "head": "palatial home",
+    "type": "occupant",
+    "tail": "Phil Spector",
+    "date": "2007-04-25"
+  },
+  {
+    "head": "palatial home",
+    "type": "located in the administrative territorial entity",
+    "tail": "Los Angeles",
+    "date": "2007-04-25"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "occupation",
+    "tail": "record producer",
+    "date": "2007-04-25"
+  },
+  {
+    "head": "palatial home",
+    "type": "occupant",
+    "tail": "Phil Spector",
+    "date": "2007-04-25"
+  },
+  {
+    "head": "palatial home",
+    "type": "located in the administrative territorial entity",
+    "tail": "Los Angeles",
+    "date": "2007-04-25"
+  },
+  {
+    "head": "murder of Lana Clarkson",
+    "type": "participant",
+    "tail": "Phil Spector",
+    "date": "2007-04-25"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "spouse",
+    "tail": "Phil Spector",
+    "date": "2007-04-25"
+  },
+  {
+    "head": "Murder of Lana Clarkson",
+    "type": "participant",
+    "tail": "Phil Spector",
+    "date": "2007-04-25"
+  },
+  {
+    "head": "murder of Lana Clarkson",
+    "type": "participant",
+    "tail": "Phil Spector",
+    "date": "2007-04-25"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "spouse",
+    "tail": "Phil Spector",
+    "date": "2007-04-25"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "significant event",
+    "tail": "murder of Lana Clarkson",
+    "date": "2007-04-25"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2007-04-26"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "significant event",
+    "tail": "assassinated",
+    "date": "2007-04-26"
+  },
+  {
+    "head": "John F. Kennedy assassination",
+    "type": "point in time",
+    "tail": "September 11, 2001",
+    "date": "2007-04-26"
+  },
+  {
+    "head": "I think I killed somebody",
+    "type": "instance of",
+    "tail": "confession",
+    "date": "2007-04-26"
+  },
+  {
+    "head": "Alan Jackson",
+    "type": "position held",
+    "tail": "Deputy district attorney",
+    "date": "2007-04-26"
+  },
+  {
+    "head": "Alan Jackson",
+    "type": "occupation",
+    "tail": "Deputy district attorney",
+    "date": "2007-04-26"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "occupation",
+    "tail": "music producer",
+    "date": "2007-04-26"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "work period (start)",
+    "tail": "1960",
+    "date": "2007-04-26"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "spouse",
+    "tail": "Phil Spector",
+    "date": "2007-04-26"
+  },
+  {
+    "head": "Kiss Tomorrow Goodbye",
+    "type": "cast member",
+    "tail": "James Cagney",
+    "date": "2007-04-26"
+  },
+  {
+    "head": "Kiss Tomorrow Goodbye",
+    "type": "director",
+    "tail": "James Cagney",
+    "date": "2007-04-26"
+  },
+  {
+    "head": "Kiss Tomorrow Goodbye",
+    "type": "main subject",
+    "tail": "psychopath",
+    "date": "2007-04-26"
+  },
+  {
+    "head": "murder of Lana Clarkson",
+    "type": "participant",
+    "tail": "Phil Spector",
+    "date": "2007-04-26"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "spouse",
+    "tail": "Phil Spector",
+    "date": "2007-04-26"
+  },
+  {
+    "head": "Murder of Lana Clarkson",
+    "type": "participant",
+    "tail": "Phil Spector",
+    "date": "2007-04-26"
+  },
+  {
+    "head": "murder of Lana Clarkson",
+    "type": "participant",
+    "tail": "Phil Spector",
+    "date": "2007-04-26"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "spouse",
+    "tail": "Phil Spector",
+    "date": "2007-04-26"
+  },
+  {
+    "head": "Murder of Lana Clarkson",
+    "type": "participant",
+    "tail": "Phil Spector",
+    "date": "2007-04-26"
+  },
+  {
+    "head": "Dorothy Melvin",
+    "type": "employer",
+    "tail": "Joan Rivers",
+    "date": "2007-04-26"
+  },
+  {
+    "head": "Joan Rivers",
+    "type": "occupation",
+    "tail": "television personality",
+    "date": "2007-04-26"
+  },
+  {
+    "head": "Dorothy Melvin",
+    "type": "occupation",
+    "tail": "manager",
+    "date": "2007-04-26"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "date of death",
+    "tail": "2003",
+    "date": "2007-05-02"
+  },
+  {
+    "head": "Sarah Kaplan",
+    "type": "date of death",
+    "tail": "2003",
+    "date": "2007-05-02"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "point in time",
+    "tail": "2003",
+    "date": "2007-05-02"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2007-05-03"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2007-05-03"
+  },
+  {
+    "head": "Harvard University",
+    "type": "subsidiary",
+    "tail": "John F. Kennedy School of Government",
+    "date": "2007-05-03"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "occupation",
+    "tail": "music producer",
+    "date": "2007-05-07"
+  },
+  {
+    "head": "murder trial",
+    "type": "participant",
+    "tail": "Phil Spector",
+    "date": "2007-05-07"
+  },
+  {
+    "head": "murder trial of Phil Spector",
+    "type": "occupation",
+    "tail": "music producer",
+    "date": "2007-05-07"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2007-05-09"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "Secretary of Defense",
+    "date": "2007-05-09"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "significant event",
+    "tail": "assassinated",
+    "date": "2007-05-09"
+  },
+  {
+    "head": "gun",
+    "type": "has effect",
+    "tail": "shot",
+    "date": "2007-05-09"
+  },
+  {
+    "head": "shot",
+    "type": "location",
+    "tail": "gun",
+    "date": "2007-05-09"
+  },
+  {
+    "head": "shot fired",
+    "type": "facet of",
+    "tail": "gun",
+    "date": "2007-05-09"
+  },
+  {
+    "head": "murder trial",
+    "type": "participant",
+    "tail": "Rommie Davis",
+    "date": "2007-05-10"
+  },
+  {
+    "head": "Rommie Davis",
+    "type": "participant in",
+    "tail": "murder trial",
+    "date": "2007-05-10"
+  },
+  {
+    "head": "Rommie Davis",
+    "type": "significant event",
+    "tail": "murder trial",
+    "date": "2007-05-10"
+  },
+  {
+    "head": "Mr Spector",
+    "type": "spouse",
+    "tail": "Ms Clarkson",
+    "date": "2007-05-10"
+  },
+  {
+    "head": "Ms Clarkson",
+    "type": "spouse",
+    "tail": "Mr Spector",
+    "date": "2007-05-10"
+  },
+  {
+    "head": "Mr Spector",
+    "type": "spouse",
+    "tail": "Miss Clarkson",
+    "date": "2007-05-10"
+  },
+  {
+    "head": "Miss Clarkson",
+    "type": "spouse",
+    "tail": "Mr Spector",
+    "date": "2007-05-10"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2007-05-11"
+  },
+  {
+    "head": "The Daily Show",
+    "type": "original broadcaster",
+    "tail": "ABC",
+    "date": "2007-05-11"
+  },
+  {
+    "head": "Michael Spector",
+    "type": "member of political party",
+    "tail": "Liberal",
+    "date": "2007-05-11"
+  },
+  {
+    "head": "Mr Spector",
+    "type": "spouse",
+    "tail": "Ms Clarkson",
+    "date": "2007-05-11"
+  },
+  {
+    "head": "Ms Clarkson",
+    "type": "spouse",
+    "tail": "Mr Spector",
+    "date": "2007-05-11"
+  },
+  {
+    "head": "Mr Spector",
+    "type": "spouse",
+    "tail": "Miss Clarkson",
+    "date": "2007-05-11"
+  },
+  {
+    "head": "Miss Clarkson",
+    "type": "spouse",
+    "tail": "Mr Spector",
+    "date": "2007-05-11"
+  },
+  {
+    "head": "The Phil Spector trial",
+    "type": "participant",
+    "tail": "Phil Spector",
+    "date": "2007-05-29"
+  },
+  {
+    "head": "Phil Spector trial",
+    "type": "participant",
+    "tail": "actress",
+    "date": "2007-05-29"
+  },
+  {
+    "head": "The Phil Spector trial",
+    "type": "main subject",
+    "tail": "Phil Spector",
+    "date": "2007-05-29"
+  },
+  {
+    "head": "her death in his house",
+    "type": "instance of",
+    "tail": "suicide",
+    "date": "2007-05-29"
+  },
+  {
+    "head": "gun",
+    "type": "has part",
+    "tail": "barrel",
+    "date": "2007-05-29"
+  },
+  {
+    "head": "her death",
+    "type": "point in time",
+    "tail": "February 2003",
+    "date": "2007-05-29"
+  },
+  {
+    "head": "amended on Wednesday May 30 2007",
+    "type": "publication date",
+    "tail": "May 30 2007",
+    "date": "2007-05-30"
+  },
+  {
+    "head": "amended",
+    "type": "publication date",
+    "tail": "May 30 2007",
+    "date": "2007-05-30"
+  },
+  {
+    "head": "amended on Wednesday May 30 2007",
+    "type": "point in time",
+    "tail": "May 30 2007",
+    "date": "2007-05-30"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "instance of",
+    "tail": "homicide",
+    "date": "2007-05-30"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "has cause",
+    "tail": "homicide",
+    "date": "2007-05-30"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "has effect",
+    "tail": "homicide",
+    "date": "2007-05-30"
+  },
+  {
+    "head": "her death in his house",
+    "type": "instance of",
+    "tail": "suicide",
+    "date": "2007-05-30"
+  },
+  {
+    "head": "gun",
+    "type": "has part",
+    "tail": "barrel",
+    "date": "2007-05-30"
+  },
+  {
+    "head": "her death",
+    "type": "point in time",
+    "tail": "February 2003",
+    "date": "2007-05-30"
+  },
+  {
+    "head": "Lesley Douglas",
+    "type": "employer",
+    "tail": "BBC Radio 2",
+    "date": "2007-06-26"
+  },
+  {
+    "head": "Phil Spector murder trial",
+    "type": "participant",
+    "tail": "Lana Clarkson",
+    "date": "2007-06-26"
+  },
+  {
+    "head": "Lesley Douglas",
+    "type": "notable work",
+    "tail": "BBC Radio 2",
+    "date": "2007-06-26"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "occupation",
+    "tail": "record producer",
+    "date": "2007-06-26"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "significant event",
+    "tail": "murder in the US",
+    "date": "2007-06-26"
+  },
+  {
+    "head": "murder in the US",
+    "type": "participant",
+    "tail": "Phil Spector",
+    "date": "2007-06-26"
+  },
+  {
+    "head": "Agony and Ecstasy of Phil Spector",
+    "type": "director",
+    "tail": "Vikram Jayanti",
+    "date": "2007-06-26"
+  },
+  {
+    "head": "the Agony and Ecstasy of Phil Spector",
+    "type": "director",
+    "tail": "Vikram Jayanti",
+    "date": "2007-06-26"
+  },
+  {
+    "head": "Agony and Ecstasy of Phil Spector",
+    "type": "original broadcaster",
+    "tail": "BBC2 Arena",
+    "date": "2007-06-26"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "occupation",
+    "tail": "P5",
+    "date": "2007-06-26"
+  },
+  {
+    "head": "P5",
+    "type": "presenter",
+    "tail": "Phil Spector",
+    "date": "2007-06-26"
+  },
+  {
+    "head": "P5 Phil Spector",
+    "type": "employer",
+    "tail": "BBC",
+    "date": "2007-06-26"
+  },
+  {
+    "head": "India",
+    "type": "diplomatic relation",
+    "tail": "Pakistan",
+    "date": "2007-06-27"
+  },
+  {
+    "head": "Pakistan",
+    "type": "diplomatic relation",
+    "tail": "India",
+    "date": "2007-06-27"
+  },
+  {
+    "head": "India with Sanjeev Bhaskar",
+    "type": "cast member",
+    "tail": "Lana Clarkson",
+    "date": "2007-06-27"
+  },
+  {
+    "head": "Vincent DiMaio",
+    "type": "field of work",
+    "tail": "forensic pathology",
+    "date": "2007-06-27"
+  },
+  {
+    "head": "forensic",
+    "type": "subclass of",
+    "tail": "pathology",
+    "date": "2007-06-27"
+  },
+  {
+    "head": "forensic pathology",
+    "type": "studies",
+    "tail": "suicide",
+    "date": "2007-06-27"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "occupation",
+    "tail": "record producer",
+    "date": "2007-06-27"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "significant event",
+    "tail": "murder in the US",
+    "date": "2007-06-27"
+  },
+  {
+    "head": "murder in the US",
+    "type": "participant",
+    "tail": "Phil Spector",
+    "date": "2007-06-27"
+  },
+  {
+    "head": "Agony and Ecstasy of Phil Spector",
+    "type": "director",
+    "tail": "Vikram Jayanti",
+    "date": "2007-06-27"
+  },
+  {
+    "head": "the Agony and Ecstasy of Phil Spector",
+    "type": "director",
+    "tail": "Vikram Jayanti",
+    "date": "2007-06-27"
+  },
+  {
+    "head": "Agony and Ecstasy of Phil Spector",
+    "type": "original broadcaster",
+    "tail": "BBC2 Arena",
+    "date": "2007-06-27"
+  },
+  {
+    "head": "Wall of Sound",
+    "type": "inception",
+    "tail": "1960",
+    "date": "2007-06-27"
+  },
+  {
+    "head": "Wall of Sound",
+    "type": "publication date",
+    "tail": "1960",
+    "date": "2007-06-27"
+  },
+  {
+    "head": "1960s hits",
+    "type": "point in time",
+    "tail": "1960",
+    "date": "2007-06-27"
+  },
+  {
+    "head": "Channel Five",
+    "type": "parent organization",
+    "tail": "Ofcom",
+    "date": "2007-06-27"
+  },
+  {
+    "head": "Ofcom",
+    "type": "owner of",
+    "tail": "GUARDIAN",
+    "date": "2007-06-27"
+  },
+  {
+    "head": "GUARDIAN",
+    "type": "owned by",
+    "tail": "Ofcom",
+    "date": "2007-06-27"
+  },
+  {
+    "head": "Ofcom",
+    "type": "owner of",
+    "tail": "The GUARDIAN",
+    "date": "2007-06-27"
+  },
+  {
+    "head": "Michael Parkinson",
+    "type": "occupation",
+    "tail": "P5",
+    "date": "2007-06-27"
+  },
+  {
+    "head": "P5",
+    "type": "presenter",
+    "tail": "Michael Parkinson",
+    "date": "2007-06-27"
+  },
+  {
+    "head": "P5",
+    "type": "cast member",
+    "tail": "Michael Parkinson",
+    "date": "2007-06-27"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "occupation",
+    "tail": "P5",
+    "date": "2007-06-27"
+  },
+  {
+    "head": "P5",
+    "type": "presenter",
+    "tail": "Phil Spector",
+    "date": "2007-06-27"
+  },
+  {
+    "head": "P5 Phil Spector",
+    "type": "employer",
+    "tail": "BBC",
+    "date": "2007-06-27"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "place of death",
+    "tail": "Los Angeles",
+    "date": "2007-07-11"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "occupation",
+    "tail": "music producer",
+    "date": "2007-07-11"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "significant event",
+    "tail": "found dead at his Los Angeles mansion",
+    "date": "2007-07-11"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "age",
+    "tail": "40",
+    "date": "2007-07-11"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "work period (start)",
+    "tail": "40",
+    "date": "2007-07-11"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "weight loss",
+    "tail": "40",
+    "date": "2007-07-11"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "position held",
+    "tail": "President",
+    "date": "2007-08-13"
+  },
+  {
+    "head": "George Washington University",
+    "type": "located in the administrative territorial entity",
+    "tail": "Washington, D.C.",
+    "date": "2007-08-13"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "significant event",
+    "tail": "assassinated",
+    "date": "2007-08-13"
+  },
+  {
+    "head": "murder trial",
+    "type": "participant",
+    "tail": "Phil Spector",
+    "date": "2007-09-18"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "occupation",
+    "tail": "music producer",
+    "date": "2007-09-18"
+  },
+  {
+    "head": "murder trial",
+    "type": "participant",
+    "tail": "Phil Spector",
+    "date": "2007-09-18"
+  },
+  {
+    "head": "murder trial of Phil Spector",
+    "type": "has part",
+    "tail": "jury",
+    "date": "2007-09-18"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "significant event",
+    "tail": "murder trial",
+    "date": "2007-09-18"
+  },
+  {
+    "head": "Larry Fidler",
+    "type": "position held",
+    "tail": "Judge",
+    "date": "2007-09-19"
+  },
+  {
+    "head": "Judge",
+    "type": "officeholder",
+    "tail": "Larry Fidler",
+    "date": "2007-09-19"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "position held",
+    "tail": "President",
+    "date": "2007-09-19"
+  },
+  {
+    "head": "George Orwell",
+    "type": "notable work",
+    "tail": "Nineteen Eighty-Four",
+    "date": "2007-09-19"
+  },
+  {
+    "head": "Nineteen Eighty-Four",
+    "type": "author",
+    "tail": "George Orwell",
+    "date": "2007-09-19"
+  },
+  {
+    "head": "Nineteen Eighty-Four",
+    "type": "author",
+    "tail": "Orwell",
+    "date": "2007-09-19"
+  },
+  {
+    "head": "Supreme Court of Australia",
+    "type": "located in the administrative territorial entity",
+    "tail": "Canberra",
+    "date": "2007-09-20"
+  },
+  {
+    "head": "Supreme Court of Canada",
+    "type": "located in the administrative territorial entity",
+    "tail": "Ottawa",
+    "date": "2007-09-20"
+  },
+  {
+    "head": "Supreme Court of Australia",
+    "type": "headquarters location",
+    "tail": "Canberra",
+    "date": "2007-09-20"
+  },
+  {
+    "head": "Phil Spector trial",
+    "type": "has part",
+    "tail": "jury",
+    "date": "2007-09-20"
+  },
+  {
+    "head": "Phil Spector trial",
+    "type": "instance of",
+    "tail": "jury",
+    "date": "2007-09-20"
+  },
+  {
+    "head": "Phil Spector trial",
+    "type": "has effect",
+    "tail": "deadlock",
+    "date": "2007-09-20"
+  },
+  {
+    "head": "deadlock",
+    "type": "has cause",
+    "tail": "Phil Spector trial",
+    "date": "2007-09-20"
+  },
+  {
+    "head": "Larry Fidler",
+    "type": "position held",
+    "tail": "Los Angeles superior court",
+    "date": "2007-09-20"
+  },
+  {
+    "head": "superior court",
+    "type": "located in the administrative territorial entity",
+    "tail": "Los Angeles",
+    "date": "2007-09-20"
+  },
+  {
+    "head": "superior court",
+    "type": "applies to jurisdiction",
+    "tail": "Los Angeles",
+    "date": "2007-09-20"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "occupation",
+    "tail": "Record producer",
+    "date": "2007-09-26"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "occupation",
+    "tail": "record producer",
+    "date": "2007-09-26"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "significant event",
+    "tail": "murder trial",
+    "date": "2007-09-26"
+  },
+  {
+    "head": "Los Angeles",
+    "type": "office held by head of government",
+    "tail": "district attorney",
+    "date": "2007-09-27"
+  },
+  {
+    "head": "district attorney",
+    "type": "applies to jurisdiction",
+    "tail": "Los Angeles",
+    "date": "2007-09-27"
+  },
+  {
+    "head": "District Attorney",
+    "type": "applies to jurisdiction",
+    "tail": "Los Angeles",
+    "date": "2007-09-27"
+  },
+  {
+    "head": "declared a mistrial",
+    "type": "has effect",
+    "tail": "conviction",
+    "date": "2007-09-27"
+  },
+  {
+    "head": "declared a mistrial",
+    "type": "opposite of",
+    "tail": "conviction",
+    "date": "2007-09-27"
+  },
+  {
+    "head": "declared a mistrial",
+    "type": "different from",
+    "tail": "conviction",
+    "date": "2007-09-27"
+  },
+  {
+    "head": "1960s",
+    "type": "point in time",
+    "tail": "1960",
+    "date": "2007-09-27"
+  },
+  {
+    "head": "1960s pop",
+    "type": "point in time",
+    "tail": "1960",
+    "date": "2007-09-27"
+  },
+  {
+    "head": "pop",
+    "type": "inception",
+    "tail": "1960",
+    "date": "2007-09-27"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "position held",
+    "tail": "President",
+    "date": "2007-10-03"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2007-10-03"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2007-10-03"
+  },
+  {
+    "head": "Lordship Lane",
+    "type": "location",
+    "tail": "East Dulwich",
+    "date": "2007-10-06"
+  },
+  {
+    "head": "Lordship Lane",
+    "type": "located in the administrative territorial entity",
+    "tail": "East Dulwich",
+    "date": "2007-10-06"
+  },
+  {
+    "head": "Chener Books",
+    "type": "location",
+    "tail": "East Dulwich",
+    "date": "2007-10-06"
+  },
+  {
+    "head": "Yesterday",
+    "type": "has part",
+    "tail": "Phil Spector",
+    "date": "2007-10-22"
+  },
+  {
+    "head": "Yesterday",
+    "type": "influenced by",
+    "tail": "Phil Spector",
+    "date": "2007-10-22"
+  },
+  {
+    "head": "Yesterday's new band",
+    "type": "named after",
+    "tail": "Phil Spector",
+    "date": "2007-10-22"
+  },
+  {
+    "head": "murder of actress Lana Clarkson",
+    "type": "participant",
+    "tail": "Phil Spector",
+    "date": "2007-10-22"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "significant event",
+    "tail": "murder",
+    "date": "2007-10-22"
+  },
+  {
+    "head": "murder",
+    "type": "participant",
+    "tail": "Lana Clarkson",
+    "date": "2007-10-22"
+  },
+  {
+    "head": "Gabriel Bouys",
+    "type": "employer",
+    "tail": "AP",
+    "date": "2007-10-22"
+  },
+  {
+    "head": "Gabriel Bouys / AP",
+    "type": "occupation",
+    "tail": "photographer",
+    "date": "2007-10-22"
+  },
+  {
+    "head": "AP",
+    "type": "founded by",
+    "tail": "Gabriel Bouys",
+    "date": "2007-10-22"
+  },
+  {
+    "head": "Look Park",
+    "type": "located in the administrative territorial entity",
+    "tail": "Northampton, Massachusetts",
+    "date": "2007-10-23"
+  },
+  {
+    "head": "Pines Theatre",
+    "type": "located in the administrative territorial entity",
+    "tail": "Northampton, Massachusetts",
+    "date": "2007-10-23"
+  },
+  {
+    "head": "Pines Theatre",
+    "type": "location",
+    "tail": "Look Park",
+    "date": "2007-10-23"
+  },
+  {
+    "head": "Woolsey Hall",
+    "type": "owned by",
+    "tail": "Yale",
+    "date": "2007-10-23"
+  },
+  {
+    "head": "Yale",
+    "type": "owner of",
+    "tail": "Woolsey Hall",
+    "date": "2007-10-23"
+  },
+  {
+    "head": "Woolsey Hall",
+    "type": "located in the administrative territorial entity",
+    "tail": "Yale",
+    "date": "2007-10-23"
+  },
+  {
+    "head": "Sarabeth Tucek",
+    "type": "instrument",
+    "tail": "guitar",
+    "date": "2007-10-23"
+  },
+  {
+    "head": "Sarabeth Tucek",
+    "type": "instrument",
+    "tail": "vocals",
+    "date": "2007-10-23"
+  },
+  {
+    "head": "Morton Valence",
+    "type": "has part",
+    "tail": "Tomorrow",
+    "date": "2007-10-24"
+  },
+  {
+    "head": "Tomorrow",
+    "type": "has part",
+    "tail": "Morton Valence",
+    "date": "2007-10-24"
+  },
+  {
+    "head": "Morton Valence",
+    "type": "record label",
+    "tail": "MySpace page Tomorrow",
+    "date": "2007-10-24"
+  },
+  {
+    "head": "cause of death",
+    "type": "different from",
+    "tail": "manner of death",
+    "date": "2008-02-03"
+  },
+  {
+    "head": "manner of death",
+    "type": "different from",
+    "tail": "cause of death",
+    "date": "2008-02-03"
+  },
+  {
+    "head": "manner of death",
+    "type": "subclass of",
+    "tail": "cause of death",
+    "date": "2008-02-03"
+  },
+  {
+    "head": "Jericho",
+    "type": "located in the administrative territorial entity",
+    "tail": "Oxford",
+    "date": "2008-02-12"
+  },
+  {
+    "head": "At the Jericho",
+    "type": "located in the administrative territorial entity",
+    "tail": "Oxford",
+    "date": "2008-02-12"
+  },
+  {
+    "head": "Jericho",
+    "type": "location",
+    "tail": "Oxford",
+    "date": "2008-02-12"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2008-03-19"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2008-03-19"
+  },
+  {
+    "head": "Harvard University",
+    "type": "subsidiary",
+    "tail": "John F. Kennedy School of Government",
+    "date": "2008-03-19"
+  },
+  {
+    "head": "Timbaland",
+    "type": "occupation",
+    "tail": "producers",
+    "date": "2008-04-06"
+  },
+  {
+    "head": "Rick Rubin",
+    "type": "occupation",
+    "tail": "producers",
+    "date": "2008-04-06"
+  },
+  {
+    "head": "Rick Rubin",
+    "type": "influenced by",
+    "tail": "Timbaland",
+    "date": "2008-04-06"
+  },
+  {
+    "head": "Sasha Frere - Jones",
+    "type": "employer",
+    "tail": "New Yorker",
+    "date": "2008-04-06"
+  },
+  {
+    "head": "Sasha Frere - Jones",
+    "type": "employer",
+    "tail": "The New Yorker",
+    "date": "2008-04-06"
+  },
+  {
+    "head": "Sasha Frere - Jones",
+    "type": "genre",
+    "tail": "pop critic",
+    "date": "2008-04-06"
+  },
+  {
+    "head": "Couples",
+    "type": "producer",
+    "tail": "Alkan",
+    "date": "2008-04-07"
+  },
+  {
+    "head": "Couples",
+    "type": "performer",
+    "tail": "Long Blondes",
+    "date": "2008-04-07"
+  },
+  {
+    "head": "Couples",
+    "type": "performer",
+    "tail": "the Long Blondes",
+    "date": "2008-04-07"
+  },
+  {
+    "head": "ICA",
+    "type": "location",
+    "tail": "London",
+    "date": "2008-04-28"
+  },
+  {
+    "head": "ICA",
+    "type": "located in the administrative territorial entity",
+    "tail": "London",
+    "date": "2008-04-28"
+  },
+  {
+    "head": "ICA",
+    "type": "headquarters location",
+    "tail": "London",
+    "date": "2008-04-28"
+  },
+  {
+    "head": "The Agony and the Ecstasy of Phil Spector",
+    "type": "original broadcaster",
+    "tail": "BBC2",
+    "date": "2008-10-24"
+  },
+  {
+    "head": "The Agony and the Ecstasy of Phil Spector",
+    "type": "distributed by",
+    "tail": "BBC2",
+    "date": "2008-10-24"
+  },
+  {
+    "head": "The Agony and the Ecstasy of Phil Spector",
+    "type": "main subject",
+    "tail": "Phil Spector",
+    "date": "2008-10-24"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "occupation",
+    "tail": "record producer",
+    "date": "2008-10-24"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "original broadcaster",
+    "tail": "BBC2",
+    "date": "2008-10-24"
+  },
+  {
+    "head": "the Beatles",
+    "type": "has part",
+    "tail": "John Lennon",
+    "date": "2008-10-24"
+  },
+  {
+    "head": "John Lennon",
+    "type": "member of",
+    "tail": "the Beatles",
+    "date": "2008-10-24"
+  },
+  {
+    "head": "Ramones",
+    "type": "has part",
+    "tail": "John Lennon",
+    "date": "2008-10-24"
+  },
+  {
+    "head": "Brixton Windmill",
+    "type": "country",
+    "tail": "UK",
+    "date": "2008-12-02"
+  },
+  {
+    "head": "Brixton Windmill",
+    "type": "location",
+    "tail": "London",
+    "date": "2008-12-02"
+  },
+  {
+    "head": "UK",
+    "type": "capital",
+    "tail": "London",
+    "date": "2008-12-02"
+  },
+  {
+    "head": "London",
+    "type": "country",
+    "tail": "UK",
+    "date": "2008-12-02"
+  },
+  {
+    "head": "James Allan",
+    "type": "genre",
+    "tail": "Christmas Eve",
+    "date": "2008-12-24"
+  },
+  {
+    "head": "James Allan",
+    "type": "notable work",
+    "tail": "Christmas Eve",
+    "date": "2008-12-24"
+  },
+  {
+    "head": "Christmas Eve",
+    "type": "composer",
+    "tail": "James Allan",
+    "date": "2008-12-24"
+  },
+  {
+    "head": "This stocking - filler Christmas album",
+    "type": "genre",
+    "tail": "punning",
+    "date": "2008-12-25"
+  },
+  {
+    "head": "This stocking",
+    "type": "genre",
+    "tail": "Christmas album",
+    "date": "2008-12-25"
+  },
+  {
+    "head": "This stocking - filler Christmas album",
+    "type": "instance of",
+    "tail": "punning",
+    "date": "2008-12-25"
+  },
+  {
+    "head": "Silent Night",
+    "type": "genre",
+    "tail": "Christmas songs",
+    "date": "2008-12-25"
+  },
+  {
+    "head": "Silent Night",
+    "type": "genre",
+    "tail": "Christmas song",
+    "date": "2008-12-25"
+  },
+  {
+    "head": "Silent Night",
+    "type": "instance of",
+    "tail": "Christmas song",
+    "date": "2008-12-25"
+  },
+  {
+    "head": "Christmas",
+    "type": "different from",
+    "tail": "life",
+    "date": "2008-12-25"
+  },
+  {
+    "head": "life",
+    "type": "opposite of",
+    "tail": "Christmas",
+    "date": "2008-12-25"
+  },
+  {
+    "head": "life",
+    "type": "different from",
+    "tail": "Christmas",
+    "date": "2008-12-25"
+  },
+  {
+    "head": "A Snowflake Fell",
+    "type": "genre",
+    "tail": "Christmas album",
+    "date": "2008-12-25"
+  },
+  {
+    "head": "A Snowflake Fell",
+    "type": "performer",
+    "tail": "Phil Spector",
+    "date": "2008-12-25"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "genre",
+    "tail": "Christmas album",
+    "date": "2008-12-25"
+  },
+  {
+    "head": "Christmas special",
+    "type": "part of the series",
+    "tail": "EastEnders",
+    "date": "2008-12-25"
+  },
+  {
+    "head": "And It Felt Like A Kiss",
+    "type": "part of the series",
+    "tail": "EastEnders",
+    "date": "2008-12-25"
+  },
+  {
+    "head": "EastEnders Christmas special",
+    "type": "followed by",
+    "tail": "And It Felt Like A Kiss",
+    "date": "2008-12-25"
+  },
+  {
+    "head": "Hogmanay",
+    "type": "location",
+    "tail": "Edinburgh",
+    "date": "2008-12-31"
+  },
+  {
+    "head": "Hogmanay",
+    "type": "location",
+    "tail": "Edinburgh's",
+    "date": "2008-12-31"
+  },
+  {
+    "head": "Hogmanay celebrations",
+    "type": "location",
+    "tail": "Edinburgh",
+    "date": "2008-12-31"
+  },
+  {
+    "head": "Edinburgh Hogmanay Street Party",
+    "type": "location",
+    "tail": "Hogmanay",
+    "date": "2008-12-31"
+  },
+  {
+    "head": "Hogmanay Street Party",
+    "type": "location",
+    "tail": "Edinburgh",
+    "date": "2008-12-31"
+  },
+  {
+    "head": "Edinburgh Hogmanay Street Party",
+    "type": "named after",
+    "tail": "Hogmanay",
+    "date": "2008-12-31"
+  },
+  {
+    "head": "was found dead",
+    "type": "located in the administrative territorial entity",
+    "tail": "New Jersey",
+    "date": "2009-02-11"
+  },
+  {
+    "head": "was found dead at her New Jersey home",
+    "type": "point in time",
+    "tail": "Wednesday",
+    "date": "2009-02-11"
+  },
+  {
+    "head": "her New Jersey home",
+    "type": "point in time",
+    "tail": "Wednesday",
+    "date": "2009-02-11"
+  },
+  {
+    "head": "wall of sound",
+    "type": "genre",
+    "tail": "pop \\'s",
+    "date": "2009-04-13"
+  },
+  {
+    "head": "wall of sound",
+    "type": "genre",
+    "tail": "pop",
+    "date": "2009-04-13"
+  },
+  {
+    "head": "wall of sound",
+    "type": "facet of",
+    "tail": "pop \\'s",
+    "date": "2009-04-13"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "genre",
+    "tail": "B - side",
+    "date": "2009-04-13"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "occupation",
+    "tail": "B - side",
+    "date": "2009-04-13"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "residence",
+    "tail": "hilltop chateau",
+    "date": "2009-04-13"
+  },
+  {
+    "head": "murder of Lana Clarkson",
+    "type": "participant",
+    "tail": "Harvey Phillip Spector",
+    "date": "2009-04-13"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "spouse",
+    "tail": "Harvey Phillip Spector",
+    "date": "2009-04-13"
+  },
+  {
+    "head": "Harvey Phillip Spector",
+    "type": "significant event",
+    "tail": "murder of Lana Clarkson",
+    "date": "2009-04-13"
+  },
+  {
+    "head": "House of Blues",
+    "type": "location",
+    "tail": "Sunset Strip",
+    "date": "2009-04-13"
+  },
+  {
+    "head": "House of Blues",
+    "type": "located on street",
+    "tail": "Sunset Strip",
+    "date": "2009-04-13"
+  },
+  {
+    "head": "House of Blues",
+    "type": "location of formation",
+    "tail": "Sunset Strip",
+    "date": "2009-04-13"
+  },
+  {
+    "head": "Kiss Tomorrow Goodbye",
+    "type": "cast member",
+    "tail": "Phil Spector",
+    "date": "2009-04-14"
+  },
+  {
+    "head": "Alhambra",
+    "type": "located in the administrative territorial entity",
+    "tail": "Los Angeles",
+    "date": "2009-04-14"
+  },
+  {
+    "head": "Kiss Tomorrow Goodbye",
+    "type": "producer",
+    "tail": "Phil Spector",
+    "date": "2009-04-14"
+  },
+  {
+    "head": "Back to Mono",
+    "type": "performer",
+    "tail": "Phil Spector",
+    "date": "2009-04-14"
+  },
+  {
+    "head": "Back to Mono",
+    "type": "has part",
+    "tail": "Phil Spector",
+    "date": "2009-04-14"
+  },
+  {
+    "head": "Back to Mono",
+    "type": "cast member",
+    "tail": "Phil Spector",
+    "date": "2009-04-14"
+  },
+  {
+    "head": "murder",
+    "type": "participant",
+    "tail": "Lana Clarkson",
+    "date": "2009-04-14"
+  },
+  {
+    "head": "murder",
+    "type": "facet of",
+    "tail": "Lana Clarkson",
+    "date": "2009-04-14"
+  },
+  {
+    "head": "murder of struggling actor Lana Clarkson",
+    "type": "participant",
+    "tail": "Spector",
+    "date": "2009-04-14"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "occupation",
+    "tail": "music producer",
+    "date": "2009-04-14"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "participant in",
+    "tail": "Russian roulette",
+    "date": "2009-04-14"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "significant event",
+    "tail": "Russian roulette",
+    "date": "2009-04-14"
+  },
+  {
+    "head": "Bill Cosby",
+    "type": "employer",
+    "tail": "Fox News",
+    "date": "2009-04-14"
+  },
+  {
+    "head": "Russian roulette",
+    "type": "facet of",
+    "tail": "drunk",
+    "date": "2009-04-14"
+  },
+  {
+    "head": "Russian roulette",
+    "type": "subclass of",
+    "tail": "playing Russian roulette",
+    "date": "2009-04-14"
+  },
+  {
+    "head": "Rachel Cooke",
+    "type": "employer",
+    "tail": "Observer",
+    "date": "2009-04-19"
+  },
+  {
+    "head": "Giles Hattersley",
+    "type": "employer",
+    "tail": "Sunday Times",
+    "date": "2009-04-19"
+  },
+  {
+    "head": "Rachel Cooke",
+    "type": "employer",
+    "tail": "Mail on Sunday",
+    "date": "2009-04-19"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "significant event",
+    "tail": "murder",
+    "date": "2009-04-19"
+  },
+  {
+    "head": "Murder",
+    "type": "participant",
+    "tail": "Phil Spector",
+    "date": "2009-04-19"
+  },
+  {
+    "head": "murder",
+    "type": "participant",
+    "tail": "Phil Spector",
+    "date": "2009-04-19"
+  },
+  {
+    "head": "Cybershot",
+    "type": "manufacturer",
+    "tail": "Sony Ericsson",
+    "date": "2009-04-19"
+  },
+  {
+    "head": "Cybershot",
+    "type": "owned by",
+    "tail": "Sony Ericsson",
+    "date": "2009-04-19"
+  },
+  {
+    "head": "Cybershot",
+    "type": "parent organization",
+    "tail": "Sony Ericsson",
+    "date": "2009-04-19"
+  },
+  {
+    "head": "murder of the Hollywood actress Lana Clarkson",
+    "type": "participant",
+    "tail": "Phil Spector",
+    "date": "2009-05-29"
+  },
+  {
+    "head": "Phil Spector",
+    "type": "occupation",
+    "tail": "music producer",
+    "date": "2009-05-29"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "date of death",
+    "tail": "2003",
+    "date": "2009-05-29"
+  },
+  {
+    "head": "superior court",
+    "type": "located in the administrative territorial entity",
+    "tail": "Los Angeles",
+    "date": "2009-05-29"
+  },
+  {
+    "head": "superior court",
+    "type": "applies to jurisdiction",
+    "tail": "Los Angeles",
+    "date": "2009-05-29"
+  },
+  {
+    "head": "superior court",
+    "type": "headquarters location",
+    "tail": "Los Angeles",
+    "date": "2009-05-29"
+  },
+  {
+    "head": "House of Blues",
+    "type": "located on street",
+    "tail": "Sunset Strip",
+    "date": "2009-05-29"
+  },
+  {
+    "head": "House of Blues",
+    "type": "location",
+    "tail": "Sunset Strip",
+    "date": "2009-05-29"
+  },
+  {
+    "head": "Lana Clarkson",
+    "type": "work period (start)",
+    "tail": "40",
+    "date": "2009-05-29"
+  },
+  {
+    "head": "The Acid Gallery",
+    "type": "has part",
+    "tail": "Phil Istine",
+    "date": "2009-06-05"
+  },
+  {
+    "head": "The Beatrocket",
+    "type": "has part",
+    "tail": "Phil Istine",
+    "date": "2009-06-05"
+  },
+  {
+    "head": "amended on 31 July 2009",
+    "type": "publication date",
+    "tail": "31 July 2009",
+    "date": "2009-07-31"
+  },
+  {
+    "head": "amended",
+    "type": "publication date",
+    "tail": "31 July 2009",
+    "date": "2009-07-31"
+  },
+  {
+    "head": "amended on 31 July 2009",
+    "type": "point in time",
+    "tail": "31 July 2009",
+    "date": "2009-07-31"
+  },
+  {
+    "head": "Jessie J",
+    "type": "genre",
+    "tail": "urban pop",
+    "date": "2010-03-31"
+  },
+  {
+    "head": "Jessie J",
+    "type": "genre",
+    "tail": "pop",
+    "date": "2010-03-31"
+  },
+  {
+    "head": "Jessie J",
+    "type": "record label",
+    "tail": "O2 Academy Glasgow",
+    "date": "2010-03-31"
+  },
+  {
+    "head": "Playboy",
+    "type": "instance of",
+    "tail": "model",
+    "date": "2010-06-08"
+  },
+  {
+    "head": "Playboy",
+    "type": "field of work",
+    "tail": "model",
+    "date": "2010-06-08"
+  },
+  {
+    "head": "Playboy",
+    "type": "occupation",
+    "tail": "model",
+    "date": "2010-06-08"
+  },
+  {
+    "head": "Middelalderparken",
+    "type": "country",
+    "tail": "Norway",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "Warpaint",
+    "type": "country of origin",
+    "tail": "Norway",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "Warpaint",
+    "type": "location of formation",
+    "tail": "Norway",
+    "date": "2010-08-09"
+  },
+  {
+    "head": "Cat's Eyes",
+    "type": "performer",
+    "tail": "Horror Faris Badwan",
+    "date": "2011-03-14"
+  },
+  {
+    "head": "Rachel Zeffira",
+    "type": "voice type",
+    "tail": "opera soprano",
+    "date": "2011-03-14"
+  },
+  {
+    "head": "Cat's Eyes",
+    "type": "performer",
+    "tail": "Faris Badwan",
+    "date": "2011-03-14"
+  },
+  {
+    "head": "St Andrews in the Square",
+    "type": "location",
+    "tail": "Glasgow",
+    "date": "2011-03-15"
+  },
+  {
+    "head": "The Amadeus Centre",
+    "type": "location",
+    "tail": "Glasgow",
+    "date": "2011-03-15"
+  },
+  {
+    "head": "Caird Hall",
+    "type": "location",
+    "tail": "Dundee",
+    "date": "2011-04-04"
+  },
+  {
+    "head": "The View",
+    "type": "location of formation",
+    "tail": "Dundee",
+    "date": "2011-04-04"
+  },
+  {
+    "head": "The View",
+    "type": "location",
+    "tail": "Caird Hall",
+    "date": "2011-04-04"
+  },
+  {
+    "head": "Helplessness Blues",
+    "type": "performer",
+    "tail": "Fleet Foxes",
+    "date": "2011-05-31"
+  },
+  {
+    "head": "HMV Apollo",
+    "type": "located in the administrative territorial entity",
+    "tail": "London",
+    "date": "2011-05-31"
+  },
+  {
+    "head": "Wakestock",
+    "type": "location",
+    "tail": "Cardigan Bay",
+    "date": "2011-07-08"
+  },
+  {
+    "head": "Biffy Clyro",
+    "type": "location of formation",
+    "tail": "Cardigan Bay",
+    "date": "2011-07-08"
+  },
+  {
+    "head": "Wakestock",
+    "type": "located in the administrative territorial entity",
+    "tail": "Cardigan Bay",
+    "date": "2011-07-08"
+  },
+  {
+    "head": "soul",
+    "type": "subclass of",
+    "tail": "R&B",
+    "date": "2011-07-26"
+  },
+  {
+    "head": "Amy Winehouse",
+    "type": "record label",
+    "tail": "Motown",
+    "date": "2011-07-26"
+  },
+  {
+    "head": "Wall of Sound",
+    "type": "founded by",
+    "tail": "Phil Spector",
+    "date": "2011-07-26"
+  },
+  {
+    "head": "Empty Bed Blues",
+    "type": "performer",
+    "tail": "Bessie Smith",
+    "date": "2011-07-26"
+  },
+  {
+    "head": "You",
+    "type": "performer",
+    "tail": "Ethel Waters",
+    "date": "2011-07-26"
+  },
+  {
+    "head": "Empty Bed Blues",
+    "type": "lyrics by",
+    "tail": "JC Johnson",
+    "date": "2011-07-26"
+  },
+  {
+    "head": "murder of Lana Clarkson",
+    "type": "point in time",
+    "tail": "2003",
+    "date": "2012-02-21"
+  },
+  {
+    "head": "murder conviction in 2009",
+    "type": "point in time",
+    "tail": "2009",
+    "date": "2012-02-21"
+  },
+  {
+    "head": "murder conviction",
+    "type": "point in time",
+    "tail": "2009",
+    "date": "2012-02-21"
+  },
+  {
+    "head": "The Wrecking Crew",
+    "type": "performer",
+    "tail": "Michael Jackson",
+    "date": "2012-05-12"
+  },
+  {
+    "head": "The Wrecking Crew",
+    "type": "cast member",
+    "tail": "John Wayne",
+    "date": "2012-05-12"
+  },
+  {
+    "head": "The Wrecking Crew",
+    "type": "cast member",
+    "tail": "Michael Caine",
+    "date": "2012-05-12"
+  },
+  {
+    "head": "House of Cards",
+    "type": "director",
+    "tail": "David Fincher",
+    "date": "2013-07-13"
+  },
+  {
+    "head": "Girls",
+    "type": "cast member",
+    "tail": "Adam Driver",
+    "date": "2013-07-13"
+  },
+  {
+    "head": "Veep",
+    "type": "cast member",
+    "tail": "Tony Hale",
+    "date": "2013-07-13"
+  },
+  {
+    "head": "Barn",
+    "type": "record label",
+    "tail": "Lucky Number",
+    "date": "2013-11-03"
+  },
+  {
+    "head": "Barn",
+    "type": "performer",
+    "tail": "Lucky Number",
+    "date": "2013-11-03"
+  },
+  {
+    "head": "Lucky Number",
+    "type": "product or material produced",
+    "tail": "vinyl",
+    "date": "2013-11-03"
+  },
+  {
+    "head": "Royal Variety Performance",
+    "type": "point in time",
+    "tail": "24 December",
+    "date": "2013-12-10"
+  },
+  {
+    "head": "Royal Variety Performance",
+    "type": "has part",
+    "tail": "24 December Royal Variety Performance",
+    "date": "2013-12-10"
+  },
+  {
+    "head": "Royal Variety Performance",
+    "type": "start time",
+    "tail": "24 December",
+    "date": "2013-12-10"
+  },
+  {
+    "head": "New Year\u00e2\u20ac \u2122 s Eve Fireworks",
+    "type": "point in time",
+    "tail": "31 December",
+    "date": "2013-12-10"
+  },
+  {
+    "head": "New Year\u00e2\u20ac\u2122 s Eve Fireworks",
+    "type": "point in time",
+    "tail": "31 December",
+    "date": "2013-12-10"
+  },
+  {
+    "head": "New Year\u00e2\u20ac \u2122 s Eve",
+    "type": "point in time",
+    "tail": "31 December",
+    "date": "2013-12-10"
+  },
+  {
+    "head": "Thursday 26",
+    "type": "number of episodes",
+    "tail": "26",
+    "date": "2013-12-12"
+  },
+  {
+    "head": "'Thursday 26'",
+    "type": "number of episodes",
+    "tail": "26",
+    "date": "2013-12-12"
+  },
+  {
+    "head": "Thursday 26'",
+    "type": "number of episodes",
+    "tail": "26",
+    "date": "2013-12-12"
+  },
+  {
+    "head": "Bad Education",
+    "type": "original broadcaster",
+    "tail": "ABC 2",
+    "date": "2013-12-12"
+  },
+  {
+    "head": "2 January Bad Education",
+    "type": "original broadcaster",
+    "tail": "ABC 2",
+    "date": "2013-12-12"
+  },
+  {
+    "head": "To Sir With Love",
+    "type": "original broadcaster",
+    "tail": "ABC 2",
+    "date": "2013-12-12"
+  },
+  {
+    "head": "Living in the Material World",
+    "type": "cast member",
+    "tail": "George Harrison",
+    "date": "2013-12-15"
+  },
+  {
+    "head": "Living in the Material World",
+    "type": "main subject",
+    "tail": "George Harrison",
+    "date": "2013-12-15"
+  },
+  {
+    "head": "Living in the Material World",
+    "type": "performer",
+    "tail": "George Harrison",
+    "date": "2013-12-15"
+  },
+  {
+    "head": "29 December",
+    "type": "point in time",
+    "tail": "29 December",
+    "date": "2013-12-15"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2013-12-15"
+  },
+  {
+    "head": "29 December",
+    "type": "point in time",
+    "tail": "29 December 2016",
+    "date": "2013-12-15"
+  },
+  {
+    "head": "SBS",
+    "type": "owned by",
+    "tail": "SBS",
+    "date": "2013-12-15"
+  },
+  {
+    "head": "SBS",
+    "type": "parent organization",
+    "tail": "SBS",
+    "date": "2013-12-15"
+  },
+  {
+    "head": "SBS",
+    "type": "owned by",
+    "tail": "SBS'",
+    "date": "2013-12-15"
+  },
+  {
+    "head": "One",
+    "type": "instance of",
+    "tail": "One",
+    "date": "2013-12-15"
+  },
+  {
+    "head": "One",
+    "type": "has part",
+    "tail": "One",
+    "date": "2013-12-15"
+  },
+  {
+    "head": "One']",
+    "type": "instance of",
+    "tail": "One",
+    "date": "2013-12-15"
+  },
+  {
+    "head": "Edinburgh Military Tattoo",
+    "type": "has part",
+    "tail": "30 December Edinburgh Military Tattoo",
+    "date": "2013-12-16"
+  },
+  {
+    "head": "Edinburgh Military Tattoo",
+    "type": "end time",
+    "tail": "30 December",
+    "date": "2013-12-16"
+  },
+  {
+    "head": "Edinburgh Military Tattoo",
+    "type": "point in time",
+    "tail": "30 December",
+    "date": "2013-12-16"
+  },
+  {
+    "head": "SBS",
+    "type": "owned by",
+    "tail": "SBS",
+    "date": "2013-12-16"
+  },
+  {
+    "head": "SBS",
+    "type": "parent organization",
+    "tail": "SBS",
+    "date": "2013-12-16"
+  },
+  {
+    "head": "SBS",
+    "type": "owned by",
+    "tail": "SBS'",
+    "date": "2013-12-16"
+  },
+  {
+    "head": "One",
+    "type": "instance of",
+    "tail": "One",
+    "date": "2013-12-16"
+  },
+  {
+    "head": "One",
+    "type": "has part",
+    "tail": "One",
+    "date": "2013-12-16"
+  },
+  {
+    "head": "One']",
+    "type": "instance of",
+    "tail": "One",
+    "date": "2013-12-16"
+  },
+  {
+    "head": "Peter Capaldi",
+    "type": "performer",
+    "tail": "Matt Smith",
+    "date": "2013-12-25"
+  },
+  {
+    "head": "Who Christmas special",
+    "type": "cast member",
+    "tail": "Matt Smith",
+    "date": "2013-12-25"
+  },
+  {
+    "head": "Boxing Day",
+    "type": "location",
+    "tail": "MCG",
+    "date": "2013-12-26"
+  },
+  {
+    "head": "Boxing Day test match",
+    "type": "location",
+    "tail": "MCG",
+    "date": "2013-12-26"
+  },
+  {
+    "head": "Boxing Day Test",
+    "type": "location",
+    "tail": "MCG",
+    "date": "2013-12-26"
+  },
+  {
+    "head": "Sydney",
+    "type": "twinned administrative body",
+    "tail": "Hobart",
+    "date": "2013-12-26"
+  },
+  {
+    "head": "Hobart",
+    "type": "twinned administrative body",
+    "tail": "Sydney",
+    "date": "2013-12-26"
+  },
+  {
+    "head": "Sydney / Hobart yacht race",
+    "type": "has part",
+    "tail": "Boxing Day test",
+    "date": "2013-12-26"
+  },
+  {
+    "head": "The President Vs The Pirates",
+    "type": "original broadcaster",
+    "tail": "SBS One",
+    "date": "2013-12-29"
+  },
+  {
+    "head": "The President Vs The Pirates",
+    "type": "start time",
+    "tail": "10 pm",
+    "date": "2013-12-29"
+  },
+  {
+    "head": "The President Vs The Pirates",
+    "type": "number of episodes",
+    "tail": "10",
+    "date": "2013-12-29"
+  },
+  {
+    "head": "'know you\u00e2\u20ac \u2122 re not hungover today'",
+    "type": "different from",
+    "tail": "hungover",
+    "date": "2014-09-12"
+  },
+  {
+    "head": "Not hungover today",
+    "type": "different from",
+    "tail": "hungover",
+    "date": "2014-09-12"
+  },
+  {
+    "head": "'know you\u00e2\u20ac \u2122 re not hungover today'",
+    "type": "different from",
+    "tail": "hangover",
+    "date": "2014-09-12"
+  },
+  {
+    "head": "Madrid",
+    "type": "instance of",
+    "tail": "Hometown",
+    "date": "2014-09-12"
+  },
+  {
+    "head": "Madrid",
+    "type": "located in the administrative territorial entity",
+    "tail": "Madrid",
+    "date": "2014-09-12"
+  },
+  {
+    "head": "Madrid",
+    "type": "capital of",
+    "tail": "Madrid",
+    "date": "2014-09-12"
+  },
+  {
+    "head": "Madrid",
+    "type": "capital",
+    "tail": "Madrid",
+    "date": "2014-09-12"
+  },
+  {
+    "head": "Ade Martin",
+    "type": "has part",
+    "tail": "Ana Garcia Perrote",
+    "date": "2014-09-12"
+  },
+  {
+    "head": "Ana Garcia Perrote",
+    "type": "has part",
+    "tail": "Carlotta Cosials",
+    "date": "2014-09-12"
+  },
+  {
+    "head": "Carlotta Cosials",
+    "type": "part of",
+    "tail": "Ana Garcia Perrote",
+    "date": "2014-09-12"
+  },
+  {
+    "head": "Starsailor",
+    "type": "cast member",
+    "tail": "Phil Spector",
+    "date": "2014-09-12"
+  },
+  {
+    "head": "Starsailor",
+    "type": "producer",
+    "tail": "Phil Spector",
+    "date": "2014-09-12"
+  },
+  {
+    "head": "Starsailor",
+    "type": "creator",
+    "tail": "Phil Spector",
+    "date": "2014-09-12"
+  },
+  {
+    "head": "Barbican",
+    "type": "location",
+    "tail": "London",
+    "date": "2015-12-03"
+  },
+  {
+    "head": "London",
+    "type": "has works in the collection",
+    "tail": "Barbican",
+    "date": "2015-12-03"
+  },
+  {
+    "head": "Barbican, London",
+    "type": "location",
+    "tail": "London",
+    "date": "2015-12-03"
+  }
+]

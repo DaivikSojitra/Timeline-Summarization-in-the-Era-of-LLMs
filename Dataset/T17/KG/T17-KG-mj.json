@@ -1,0 +1,5126 @@
+[
+  {
+    "head": "John Hume",
+    "type": "member of political party",
+    "tail": "Liberal",
+    "date": "2009-06-27"
+  },
+  {
+    "head": "John Hume",
+    "type": "member of political party",
+    "tail": "Liberal Party",
+    "date": "2009-06-27"
+  },
+  {
+    "head": "The Daily Show",
+    "type": "original broadcaster",
+    "tail": "ABC",
+    "date": "2009-06-27"
+  },
+  {
+    "head": "John Hume",
+    "type": "member of political party",
+    "tail": "Liberal",
+    "date": "2009-06-27"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2009-06-27"
+  },
+  {
+    "head": "John Hume",
+    "type": "member of political party",
+    "tail": "Conservative",
+    "date": "2009-06-27"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "physician",
+    "tail": "Conrad Murray",
+    "date": "2009-06-27"
+  },
+  {
+    "head": "Jackson death was ` not suspicious'",
+    "type": "facet of",
+    "tail": "Michael Jackson",
+    "date": "2009-06-27"
+  },
+  {
+    "head": "Jackson death was `not suspicious'",
+    "type": "facet of",
+    "tail": "Michael Jackson",
+    "date": "2009-06-27"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "employer",
+    "tail": "Los Angeles police",
+    "date": "2009-06-27"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "employer",
+    "tail": "Los Angeles police investigating the death of Michael Jackson",
+    "date": "2009-06-27"
+  },
+  {
+    "head": "post-mortem",
+    "type": "subclass of",
+    "tail": "coroners",
+    "date": "2009-06-27"
+  },
+  {
+    "head": "death of Michael Jackson",
+    "type": "instance of",
+    "tail": "coroners",
+    "date": "2009-06-27"
+  },
+  {
+    "head": "Jesse Jackson",
+    "type": "occupation",
+    "tail": "Rev",
+    "date": "2009-06-27"
+  },
+  {
+    "head": "Rev Jesse Jackson",
+    "type": "occupation",
+    "tail": "politician",
+    "date": "2009-06-27"
+  },
+  {
+    "head": "Jesse Jackson",
+    "type": "position held",
+    "tail": "Rev",
+    "date": "2009-06-27"
+  },
+  {
+    "head": "Beyonce",
+    "type": "award received",
+    "tail": "Black Entertainment Awards",
+    "date": "2009-06-28"
+  },
+  {
+    "head": "Black Entertainment Awards",
+    "type": "presenter",
+    "tail": "Beyonce",
+    "date": "2009-06-28"
+  },
+  {
+    "head": "Beyonce",
+    "type": "award received",
+    "tail": "Black Entertainment Award",
+    "date": "2009-06-28"
+  },
+  {
+    "head": "iTunes",
+    "type": "developer",
+    "tail": "Apple",
+    "date": "2009-06-28"
+  },
+  {
+    "head": "iTunes",
+    "type": "operator",
+    "tail": "Apple",
+    "date": "2009-06-28"
+  },
+  {
+    "head": "iTunes download charts",
+    "type": "developer",
+    "tail": "Apple",
+    "date": "2009-06-28"
+  },
+  {
+    "head": "death of Michael Jackson",
+    "type": "location",
+    "tail": "Los Angeles",
+    "date": "2009-06-28"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "significant event",
+    "tail": "death of Michael Jackson",
+    "date": "2009-06-28"
+  },
+  {
+    "head": "death of Michael Jackson",
+    "type": "located in the administrative territorial entity",
+    "tail": "Los Angeles",
+    "date": "2009-06-28"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "member of",
+    "tail": "Jackson 5",
+    "date": "2009-06-28"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "father",
+    "tail": "Joe",
+    "date": "2009-06-28"
+  },
+  {
+    "head": "Jackson 5",
+    "type": "has part",
+    "tail": "Michael Jackson",
+    "date": "2009-06-28"
+  },
+  {
+    "head": "2003",
+    "type": "point in time",
+    "tail": "2003",
+    "date": "2009-06-28"
+  },
+  {
+    "head": "2003 Michael Jackson",
+    "type": "point in time",
+    "tail": "2003",
+    "date": "2009-06-28"
+  },
+  {
+    "head": "2003",
+    "type": "performer",
+    "tail": "Michael Jackson",
+    "date": "2009-06-28"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2009-06-29"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "position held",
+    "tail": "President",
+    "date": "2009-06-29"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2009-06-29"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2009-06-29"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "Secretary of Defense",
+    "date": "2009-06-29"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "significant event",
+    "tail": "assassinated",
+    "date": "2009-06-29"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2009-06-29"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "significant event",
+    "tail": "AIDS",
+    "date": "2009-06-29"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2009-06-29"
+  },
+  {
+    "head": "Drug Enforcement Agency",
+    "type": "subsidiary",
+    "tail": "DEA",
+    "date": "2009-07-21"
+  },
+  {
+    "head": "DEA",
+    "type": "parent organization",
+    "tail": "Drug Enforcement Agency",
+    "date": "2009-07-21"
+  },
+  {
+    "head": "DEA",
+    "type": "part of",
+    "tail": "Drug Enforcement Agency",
+    "date": "2009-07-21"
+  },
+  {
+    "head": "similar operation",
+    "type": "located in the administrative territorial entity",
+    "tail": "Houston",
+    "date": "2009-07-22"
+  },
+  {
+    "head": "similar operation",
+    "type": "location",
+    "tail": "Houston",
+    "date": "2009-07-22"
+  },
+  {
+    "head": "a similar operation",
+    "type": "located in the administrative territorial entity",
+    "tail": "Houston",
+    "date": "2009-07-22"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "place of death",
+    "tail": "his house when he died last month",
+    "date": "2009-07-22"
+  },
+  {
+    "head": "Drug Enforcement Agency",
+    "type": "subsidiary",
+    "tail": "Drug Enforcement Agency",
+    "date": "2009-07-22"
+  },
+  {
+    "head": "Drug Enforcement Agency",
+    "type": "subsidiary",
+    "tail": "DEA",
+    "date": "2009-07-22"
+  },
+  {
+    "head": "DEA",
+    "type": "parent organization",
+    "tail": "Drug Enforcement Agency",
+    "date": "2009-07-22"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "place of death",
+    "tail": "Houston",
+    "date": "2009-07-22"
+  },
+  {
+    "head": "Michael Flanagan",
+    "type": "employer",
+    "tail": "DEA",
+    "date": "2009-07-28"
+  },
+  {
+    "head": "DEA",
+    "type": "chairperson",
+    "tail": "Michael Flanagan",
+    "date": "2009-07-28"
+  },
+  {
+    "head": "Drug police",
+    "type": "parent organization",
+    "tail": "DEA",
+    "date": "2009-07-28"
+  },
+  {
+    "head": "Michael Flanagan",
+    "type": "employer",
+    "tail": "DEA",
+    "date": "2009-07-29"
+  },
+  {
+    "head": "DEA",
+    "type": "chairperson",
+    "tail": "Michael Flanagan",
+    "date": "2009-07-29"
+  },
+  {
+    "head": "O2 Arena",
+    "type": "located in the administrative territorial entity",
+    "tail": "London",
+    "date": "2009-07-29"
+  },
+  {
+    "head": "O2 Arena",
+    "type": "location",
+    "tail": "London",
+    "date": "2009-07-29"
+  },
+  {
+    "head": "manslaughter investigation into the singer's death",
+    "type": "location",
+    "tail": "Las Vegas",
+    "date": "2009-07-29"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2009-08-18"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "significant event",
+    "tail": "Dr Conrad Murray speaking on 18 August",
+    "date": "2009-08-18"
+  },
+  {
+    "head": "Harvard University",
+    "type": "subsidiary",
+    "tail": "John F. Kennedy School of Government",
+    "date": "2009-08-18"
+  },
+  {
+    "head": "2009",
+    "type": "point in time",
+    "tail": "2009",
+    "date": "2009-08-23"
+  },
+  {
+    "head": "2012 Summer Olympics",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2009-08-23"
+  },
+  {
+    "head": "2012",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2009-08-23"
+  },
+  {
+    "head": "insomnia",
+    "type": "drug used for treatment",
+    "tail": "propofol",
+    "date": "2009-08-24"
+  },
+  {
+    "head": "propofol",
+    "type": "medical condition treated",
+    "tail": "insomnia",
+    "date": "2009-08-24"
+  },
+  {
+    "head": "Jackson propofol",
+    "type": "medical condition treated",
+    "tail": "insomnia",
+    "date": "2009-08-24"
+  },
+  {
+    "head": "insomnia",
+    "type": "drug used for treatment",
+    "tail": "Jackson propofol",
+    "date": "2009-08-24"
+  },
+  {
+    "head": "Forest Lawn Memorial Park",
+    "type": "located in the administrative territorial entity",
+    "tail": "Glendale",
+    "date": "2009-08-27"
+  },
+  {
+    "head": "Forest Lawn Memorial Park",
+    "type": "location",
+    "tail": "Glendale",
+    "date": "2009-08-27"
+  },
+  {
+    "head": "Glendale",
+    "type": "located in the administrative territorial entity",
+    "tail": "Los Angeles",
+    "date": "2009-08-27"
+  },
+  {
+    "head": "Jackson",
+    "type": "date of birth",
+    "tail": "51",
+    "date": "2009-08-29"
+  },
+  {
+    "head": "Jackson",
+    "type": "age",
+    "tail": "51",
+    "date": "2009-08-29"
+  },
+  {
+    "head": "Jackson's",
+    "type": "date of birth",
+    "tail": "51",
+    "date": "2009-08-29"
+  },
+  {
+    "head": "29 August 2009",
+    "type": "point in time",
+    "tail": "29 August 2009",
+    "date": "2009-08-29"
+  },
+  {
+    "head": "2009",
+    "type": "point in time",
+    "tail": "2009",
+    "date": "2009-08-29"
+  },
+  {
+    "head": "29 August 2009'",
+    "type": "point in time",
+    "tail": "29 August 2009",
+    "date": "2009-08-29"
+  },
+  {
+    "head": "Propofol",
+    "type": "subject has role",
+    "tail": "anesthetic",
+    "date": "2009-08-29"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "drug used for treatment",
+    "tail": "Propofol",
+    "date": "2009-08-29"
+  },
+  {
+    "head": "Michael Jackson died from cardiac arrest in his rented home",
+    "type": "instance of",
+    "tail": "homicide",
+    "date": "2009-08-29"
+  },
+  {
+    "head": "Los Angeles",
+    "type": "country",
+    "tail": "America",
+    "date": "2009-08-29"
+  },
+  {
+    "head": "America",
+    "type": "capital",
+    "tail": "Los Angeles",
+    "date": "2009-08-29"
+  },
+  {
+    "head": "The Rolling Stones",
+    "type": "has part",
+    "tail": "Jimmy Page",
+    "date": "2009-08-29"
+  },
+  {
+    "head": "Jimmy Page",
+    "type": "member of",
+    "tail": "The Rolling Stones",
+    "date": "2009-08-29"
+  },
+  {
+    "head": "Frank Maloney",
+    "type": "sport",
+    "tail": "Boxing",
+    "date": "2009-09-11"
+  },
+  {
+    "head": "Terry O'Conner",
+    "type": "occupation",
+    "tail": "referee",
+    "date": "2009-09-11"
+  },
+  {
+    "head": "John McDermott",
+    "type": "sport",
+    "tail": "Boxing",
+    "date": "2009-09-11"
+  },
+  {
+    "head": "Soccer Saturday",
+    "type": "presenter",
+    "tail": "Phil Thompson",
+    "date": "2009-09-12"
+  },
+  {
+    "head": "Soccer Saturday",
+    "type": "cast member",
+    "tail": "Phil Thompson",
+    "date": "2009-09-12"
+  },
+  {
+    "head": "Soccer Saturday",
+    "type": "presenter",
+    "tail": "Jeff Stelling",
+    "date": "2009-09-12"
+  },
+  {
+    "head": "Plainmoor",
+    "type": "occupant",
+    "tail": "Bournemouth",
+    "date": "2009-09-12"
+  },
+  {
+    "head": "Bournemouth",
+    "type": "home venue",
+    "tail": "Plainmoor",
+    "date": "2009-09-12"
+  },
+  {
+    "head": "Plainmoor",
+    "type": "owned by",
+    "tail": "Bournemouth",
+    "date": "2009-09-12"
+  },
+  {
+    "head": "1978 championship",
+    "type": "point in time",
+    "tail": "1978",
+    "date": "2009-09-16"
+  },
+  {
+    "head": "Wigan",
+    "type": "located in the administrative territorial entity",
+    "tail": "Wigan",
+    "date": "2009-09-16"
+  },
+  {
+    "head": "Wigan Warriors",
+    "type": "headquarters location",
+    "tail": "Wigan",
+    "date": "2009-09-16"
+  },
+  {
+    "head": "Sheffield Wednesday",
+    "type": "league",
+    "tail": "Football League",
+    "date": "2009-09-16"
+  },
+  {
+    "head": "Nottingham Forest",
+    "type": "league",
+    "tail": "Football League",
+    "date": "2009-09-16"
+  },
+  {
+    "head": "Sheffield Wednesday",
+    "type": "different from",
+    "tail": "Nottingham Forest",
+    "date": "2009-09-16"
+  },
+  {
+    "head": "Nottingham Forest",
+    "type": "different from",
+    "tail": "Sheffield Wednesday",
+    "date": "2009-09-16"
+  },
+  {
+    "head": "Mark Hughes",
+    "type": "member of sports team",
+    "tail": "Arsenal",
+    "date": "2009-09-16"
+  },
+  {
+    "head": "Mark Hughes",
+    "type": "ranking",
+    "tail": "100",
+    "date": "2009-09-16"
+  },
+  {
+    "head": "Arsenal",
+    "type": "league",
+    "tail": "Premier League",
+    "date": "2009-09-16"
+  },
+  {
+    "head": "raid on Dr Murray's clinic",
+    "type": "point in time",
+    "tail": "21 November 2009",
+    "date": "2009-11-21"
+  },
+  {
+    "head": "raid on Dr Murray's clinic 21 November 2009",
+    "type": "point in time",
+    "tail": "21 November 2009",
+    "date": "2009-11-21"
+  },
+  {
+    "head": "Emmanuel Adebayor",
+    "type": "member of sports team",
+    "tail": "Manchester City",
+    "date": "2009-12-25"
+  },
+  {
+    "head": "Robin van Persie",
+    "type": "member of sports team",
+    "tail": "Manchester City",
+    "date": "2009-12-25"
+  },
+  {
+    "head": "Northern Ireland",
+    "type": "shares border with",
+    "tail": "England",
+    "date": "2009-12-25"
+  },
+  {
+    "head": "England",
+    "type": "shares border with",
+    "tail": "Northern Ireland",
+    "date": "2009-12-25"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "significant event",
+    "tail": "involuntary manslaughter",
+    "date": "2010-01-04"
+  },
+  {
+    "head": "Dr Conrad Murray",
+    "type": "significant event",
+    "tail": "involuntary manslaughter",
+    "date": "2010-01-04"
+  },
+  {
+    "head": "Dr Conrad Murray",
+    "type": "instance of",
+    "tail": "involuntary manslaughter",
+    "date": "2010-01-04"
+  },
+  {
+    "head": "BBC",
+    "type": "location of formation",
+    "tail": "London",
+    "date": "2010-01-13"
+  },
+  {
+    "head": "World War II",
+    "type": "has effect",
+    "tail": "Holocaust",
+    "date": "2010-01-13"
+  },
+  {
+    "head": "BBC",
+    "type": "subsidiary",
+    "tail": "BBC Worldwide",
+    "date": "2010-01-13"
+  },
+  {
+    "head": "BBC Worldwide",
+    "type": "parent organization",
+    "tail": "BBC",
+    "date": "2010-01-13"
+  },
+  {
+    "head": "District Attorney",
+    "type": "applies to jurisdiction",
+    "tail": "LA",
+    "date": "2010-02-01"
+  },
+  {
+    "head": "District Attorney",
+    "type": "applies to jurisdiction",
+    "tail": "Los Angeles County",
+    "date": "2010-02-01"
+  },
+  {
+    "head": "District Attorney",
+    "type": "applies to jurisdiction",
+    "tail": "Los Angeles",
+    "date": "2010-02-01"
+  },
+  {
+    "head": "murder",
+    "type": "has parts of the class",
+    "tail": "manslaughter",
+    "date": "2010-02-05"
+  },
+  {
+    "head": "murder",
+    "type": "has part",
+    "tail": "manslaughter",
+    "date": "2010-02-05"
+  },
+  {
+    "head": "murder",
+    "type": "different from",
+    "tail": "manslaughter",
+    "date": "2010-02-05"
+  },
+  {
+    "head": "surrender himself",
+    "type": "location",
+    "tail": "Los Angeles",
+    "date": "2010-02-05"
+  },
+  {
+    "head": "surrender",
+    "type": "location",
+    "tail": "Los Angeles",
+    "date": "2010-02-05"
+  },
+  {
+    "head": "surrender himself",
+    "type": "located in the administrative territorial entity",
+    "tail": "Los Angeles",
+    "date": "2010-02-05"
+  },
+  {
+    "head": "Michael Jackson's death",
+    "type": "facet of",
+    "tail": "Michael Jackson",
+    "date": "2010-02-08"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "place of death",
+    "tail": "Los Angeles",
+    "date": "2010-02-08"
+  },
+  {
+    "head": "Michael Jackson's death",
+    "type": "located in the administrative territorial entity",
+    "tail": "Los Angeles",
+    "date": "2010-02-08"
+  },
+  {
+    "head": "Propofol",
+    "type": "subject has role",
+    "tail": "anesthetic agent",
+    "date": "2010-02-08"
+  },
+  {
+    "head": "Propofol",
+    "type": "subject has role",
+    "tail": "anesthetic",
+    "date": "2010-02-08"
+  },
+  {
+    "head": "Propofol",
+    "type": "subject has role",
+    "tail": "anesthetic agents",
+    "date": "2010-02-08"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "place of death",
+    "tail": "Los Angeles",
+    "date": "2010-02-08"
+  },
+  {
+    "head": "Dr Conrad Murray",
+    "type": "significant event",
+    "tail": "involuntary manslaughter",
+    "date": "2010-02-08"
+  },
+  {
+    "head": "trial",
+    "type": "participant",
+    "tail": "judge",
+    "date": "2010-02-08"
+  },
+  {
+    "head": "judge",
+    "type": "field of this occupation",
+    "tail": "trial",
+    "date": "2010-02-08"
+  },
+  {
+    "head": "trial",
+    "type": "practiced by",
+    "tail": "judge",
+    "date": "2010-02-08"
+  },
+  {
+    "head": "proceed to trial",
+    "type": "participant",
+    "tail": "judge",
+    "date": "2010-02-08"
+  },
+  {
+    "head": "Sony",
+    "type": "subsidiary",
+    "tail": "Panasonic",
+    "date": "2010-03-15"
+  },
+  {
+    "head": "Panasonic",
+    "type": "parent organization",
+    "tail": "Sony",
+    "date": "2010-03-15"
+  },
+  {
+    "head": "Sony",
+    "type": "product or material produced",
+    "tail": "Windows Phone",
+    "date": "2010-03-15"
+  },
+  {
+    "head": "Panasonic",
+    "type": "owned by",
+    "tail": "Sony",
+    "date": "2010-03-15"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "record label",
+    "tail": "Sony music",
+    "date": "2010-03-15"
+  },
+  {
+    "head": "Michael Jackson estate agrees record Sony music deal",
+    "type": "facet of",
+    "tail": "Michael Jackson",
+    "date": "2010-03-15"
+  },
+  {
+    "head": "Michael Jackson estate",
+    "type": "facet of",
+    "tail": "Michael Jackson",
+    "date": "2010-03-15"
+  },
+  {
+    "head": "Sony Music",
+    "type": "country",
+    "tail": "US",
+    "date": "2010-03-15"
+  },
+  {
+    "head": "Sony Music",
+    "type": "subsidiary",
+    "tail": "RRB-",
+    "date": "2010-03-15"
+  },
+  {
+    "head": "Sony Music",
+    "type": "subsidiary",
+    "tail": "RABB",
+    "date": "2010-03-15"
+  },
+  {
+    "head": "This Is It",
+    "type": "instance of",
+    "tail": "film",
+    "date": "2010-03-16"
+  },
+  {
+    "head": "soundtrack",
+    "type": "part of",
+    "tail": "This Is It",
+    "date": "2010-03-16"
+  },
+  {
+    "head": "This Is It",
+    "type": "instance of",
+    "tail": "recent film",
+    "date": "2010-03-16"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "record label",
+    "tail": "Sony music",
+    "date": "2010-03-16"
+  },
+  {
+    "head": "Michael Jackson estate agrees record Sony music deal",
+    "type": "facet of",
+    "tail": "Michael Jackson",
+    "date": "2010-03-16"
+  },
+  {
+    "head": "Michael Jackson estate",
+    "type": "facet of",
+    "tail": "Michael Jackson",
+    "date": "2010-03-16"
+  },
+  {
+    "head": "133m",
+    "type": "elevation above sea level",
+    "tail": "133",
+    "date": "2010-03-16"
+  },
+  {
+    "head": "133m'",
+    "type": "elevation above sea level",
+    "tail": "133",
+    "date": "2010-03-16"
+  },
+  {
+    "head": "133",
+    "type": "elevation above sea level",
+    "tail": "133",
+    "date": "2010-03-16"
+  },
+  {
+    "head": "Sony Music",
+    "type": "country",
+    "tail": "US",
+    "date": "2010-03-16"
+  },
+  {
+    "head": "Sony Music",
+    "type": "subsidiary",
+    "tail": "RRB-",
+    "date": "2010-03-16"
+  },
+  {
+    "head": "Sony Music",
+    "type": "subsidiary",
+    "tail": "RABB",
+    "date": "2010-03-16"
+  },
+  {
+    "head": "New York City",
+    "type": "located in the administrative territorial entity",
+    "tail": "New York",
+    "date": "2010-03-19"
+  },
+  {
+    "head": "New York City",
+    "type": "contains administrative territorial entity",
+    "tail": "Manhattan",
+    "date": "2010-03-19"
+  },
+  {
+    "head": "Manhattan",
+    "type": "located in the administrative territorial entity",
+    "tail": "New York City",
+    "date": "2010-03-19"
+  },
+  {
+    "head": "New York City",
+    "type": "located in the administrative territorial entity",
+    "tail": "New York City",
+    "date": "2010-03-19"
+  },
+  {
+    "head": "Russell",
+    "type": "number of episodes",
+    "tail": "3",
+    "date": "2010-03-22"
+  },
+  {
+    "head": "Russell",
+    "type": "work period (start)",
+    "tail": "3",
+    "date": "2010-03-22"
+  },
+  {
+    "head": "The Great Gatsby",
+    "type": "derivative work",
+    "tail": "Glee",
+    "date": "2010-03-22"
+  },
+  {
+    "head": "Glee",
+    "type": "based on",
+    "tail": "The Great Gatsby",
+    "date": "2010-03-22"
+  },
+  {
+    "head": "Flash",
+    "type": "used by",
+    "tail": "Javascript",
+    "date": "2010-03-22"
+  },
+  {
+    "head": "Flash",
+    "type": "used by",
+    "tail": "Javascript enabled",
+    "date": "2010-03-22"
+  },
+  {
+    "head": "Flash",
+    "type": "influenced by",
+    "tail": "Javascript",
+    "date": "2010-03-22"
+  },
+  {
+    "head": "Tris Cotterill",
+    "type": "date of death",
+    "tail": "23 March 2010",
+    "date": "2010-03-23"
+  },
+  {
+    "head": "Tristan Cotterill",
+    "type": "date of death",
+    "tail": "23 March 2010",
+    "date": "2010-03-23"
+  },
+  {
+    "head": "Tris Cotterill",
+    "type": "date of birth",
+    "tail": "23 March 2010",
+    "date": "2010-03-23"
+  },
+  {
+    "head": "series two",
+    "type": "cast member",
+    "tail": "Russell",
+    "date": "2010-03-23"
+  },
+  {
+    "head": "series two",
+    "type": "presenter",
+    "tail": "Russell",
+    "date": "2010-03-23"
+  },
+  {
+    "head": "first show",
+    "type": "part of the series",
+    "tail": "series two",
+    "date": "2010-03-23"
+  },
+  {
+    "head": "series two",
+    "type": "has part",
+    "tail": "first show",
+    "date": "2010-03-23"
+  },
+  {
+    "head": "Disney World",
+    "type": "owned by",
+    "tail": "Disney",
+    "date": "2010-03-23"
+  },
+  {
+    "head": "Disneyland",
+    "type": "located in the administrative territorial entity",
+    "tail": "California",
+    "date": "2010-03-23"
+  },
+  {
+    "head": "Disney World",
+    "type": "located in the administrative territorial entity",
+    "tail": "Florida",
+    "date": "2010-03-23"
+  },
+  {
+    "head": "Stig",
+    "type": "instance of",
+    "tail": "card",
+    "date": "2010-03-23"
+  },
+  {
+    "head": "Stig",
+    "type": "subclass of",
+    "tail": "card",
+    "date": "2010-03-23"
+  },
+  {
+    "head": "Stig",
+    "type": "uses",
+    "tail": "card",
+    "date": "2010-03-23"
+  },
+  {
+    "head": "Flash",
+    "type": "used by",
+    "tail": "Javascript",
+    "date": "2010-03-23"
+  },
+  {
+    "head": "Flash",
+    "type": "used by",
+    "tail": "Javascript enabled",
+    "date": "2010-03-23"
+  },
+  {
+    "head": "Flash",
+    "type": "influenced by",
+    "tail": "Javascript",
+    "date": "2010-03-23"
+  },
+  {
+    "head": "Russell",
+    "type": "date of death",
+    "tail": "24th Mar 2010",
+    "date": "2010-03-24"
+  },
+  {
+    "head": "Tanya",
+    "type": "spouse",
+    "tail": "Russell",
+    "date": "2010-03-24"
+  },
+  {
+    "head": "Russell",
+    "type": "spouse",
+    "tail": "Tanya",
+    "date": "2010-03-24"
+  },
+  {
+    "head": "Russell",
+    "type": "date of birth",
+    "tail": "24th Mar 2010",
+    "date": "2010-03-24"
+  },
+  {
+    "head": "2009 World Cup",
+    "type": "point in time",
+    "tail": "2009",
+    "date": "2010-03-24"
+  },
+  {
+    "head": "2010 New York World's Fair",
+    "type": "point in time",
+    "tail": "2010",
+    "date": "2010-03-24"
+  },
+  {
+    "head": "The Daily Show",
+    "type": "original broadcaster",
+    "tail": "ABC",
+    "date": "2010-03-24"
+  },
+  {
+    "head": "2010 Birthday Honours",
+    "type": "point in time",
+    "tail": "2010",
+    "date": "2010-03-24"
+  },
+  {
+    "head": "2010 New Year Honours",
+    "type": "point in time",
+    "tail": "2010",
+    "date": "2010-03-24"
+  },
+  {
+    "head": "I send my love",
+    "type": "publication date",
+    "tail": "24th Mar 2010",
+    "date": "2010-03-24"
+  },
+  {
+    "head": "I send my love",
+    "type": "date of death",
+    "tail": "24th Mar 2010",
+    "date": "2010-03-24"
+  },
+  {
+    "head": "I send my love At 20:58 24th Mar 2010",
+    "type": "point in time",
+    "tail": "24th Mar 2010",
+    "date": "2010-03-24"
+  },
+  {
+    "head": "At 15:45 25th",
+    "type": "number of episodes",
+    "tail": "25",
+    "date": "2010-03-25"
+  },
+  {
+    "head": "15:45 25th",
+    "type": "point in time",
+    "tail": "15:45",
+    "date": "2010-03-25"
+  },
+  {
+    "head": "15:45 25th",
+    "type": "followed by",
+    "tail": "25th",
+    "date": "2010-03-25"
+  },
+  {
+    "head": "25th",
+    "type": "follows",
+    "tail": "15:45 25th",
+    "date": "2010-03-25"
+  },
+  {
+    "head": "L'avaro",
+    "type": "country",
+    "tail": "Italy",
+    "date": "2010-03-25"
+  },
+  {
+    "head": "L'Orfeo",
+    "type": "creator",
+    "tail": "Pablo Picasso",
+    "date": "2010-03-25"
+  },
+  {
+    "head": "L'avaro",
+    "type": "country of origin",
+    "tail": "Italy",
+    "date": "2010-03-25"
+  },
+  {
+    "head": "2010 Birthday Honours",
+    "type": "point in time",
+    "tail": "2010",
+    "date": "2010-03-25"
+  },
+  {
+    "head": "2010 New Year Honours",
+    "type": "point in time",
+    "tail": "2010",
+    "date": "2010-03-25"
+  },
+  {
+    "head": "Liam",
+    "type": "member of",
+    "tail": "The Clash",
+    "date": "2010-03-25"
+  },
+  {
+    "head": "parachute came on",
+    "type": "performer",
+    "tail": "cherel coles",
+    "date": "2010-03-28"
+  },
+  {
+    "head": "parachute came on -LRB- soz cant spell -RRB-'",
+    "type": "performer",
+    "tail": "cherel coles",
+    "date": "2010-03-28"
+  },
+  {
+    "head": "parachute",
+    "type": "performer",
+    "tail": "cherel coles",
+    "date": "2010-03-28"
+  },
+  {
+    "head": "trial",
+    "type": "start time",
+    "tail": "28 March",
+    "date": "2010-03-28"
+  },
+  {
+    "head": "The Trial",
+    "type": "start time",
+    "tail": "28 March",
+    "date": "2010-03-28"
+  },
+  {
+    "head": "The trial",
+    "type": "start time",
+    "tail": "28 March",
+    "date": "2010-03-28"
+  },
+  {
+    "head": "Apollo Legends Hall of Fame",
+    "type": "located in the administrative territorial entity",
+    "tail": "New York",
+    "date": "2010-06-14"
+  },
+  {
+    "head": "Apollo Legends Hall of Fame",
+    "type": "headquarters location",
+    "tail": "New York",
+    "date": "2010-06-14"
+  },
+  {
+    "head": "Apollo Legends Hall of Fame",
+    "type": "location",
+    "tail": "New York",
+    "date": "2010-06-14"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "occupation",
+    "tail": "Dr",
+    "date": "2010-06-14"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "significant event",
+    "tail": "case",
+    "date": "2010-06-14"
+  },
+  {
+    "head": "Dr Conrad Murray",
+    "type": "significant event",
+    "tail": "case",
+    "date": "2010-06-14"
+  },
+  {
+    "head": "giving Michael Jackson a lethal dose of anesthetic",
+    "type": "facet of",
+    "tail": "Michael Jackson",
+    "date": "2010-06-14"
+  },
+  {
+    "head": "giving Michael Jackson a lethal dose of anesthetic",
+    "type": "participant",
+    "tail": "Michael Jackson",
+    "date": "2010-06-14"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "family",
+    "tail": "Michael Jackson's family",
+    "date": "2010-06-14"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "place of birth",
+    "tail": "Los Angeles",
+    "date": "2010-06-14"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "residence",
+    "tail": "Los Angeles",
+    "date": "2010-06-14"
+  },
+  {
+    "head": "Dr Conrad Murray",
+    "type": "residence",
+    "tail": "Los Angeles",
+    "date": "2010-06-14"
+  },
+  {
+    "head": "Huntington Memorial Hospital",
+    "type": "located in the administrative territorial entity",
+    "tail": "Pasadena",
+    "date": "2010-06-15"
+  },
+  {
+    "head": "Associated Press",
+    "type": "instance of",
+    "tail": "news agency",
+    "date": "2010-06-15"
+  },
+  {
+    "head": "Randy Jackson",
+    "type": "sibling",
+    "tail": "Michael Jackson",
+    "date": "2010-06-15"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "sibling",
+    "tail": "Randy Jackson",
+    "date": "2010-06-15"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "genre",
+    "tail": "pop star",
+    "date": "2010-06-15"
+  },
+  {
+    "head": "Philippines",
+    "type": "capital",
+    "tail": "Manila",
+    "date": "2010-06-19"
+  },
+  {
+    "head": "Manila",
+    "type": "country",
+    "tail": "Philippines",
+    "date": "2010-06-19"
+  },
+  {
+    "head": "The Beatles",
+    "type": "notable work",
+    "tail": "Thriller",
+    "date": "2010-06-19"
+  },
+  {
+    "head": "Thriller",
+    "type": "performer",
+    "tail": "The Beatles",
+    "date": "2010-06-19"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "sibling",
+    "tail": "LaToya LaToya Jackson",
+    "date": "2010-06-24"
+  },
+  {
+    "head": "LaToya LaToya Jackson",
+    "type": "sibling",
+    "tail": "Michael Jackson",
+    "date": "2010-06-24"
+  },
+  {
+    "head": "LaToya LaToya Jackson",
+    "type": "sibling",
+    "tail": "Michael",
+    "date": "2010-06-24"
+  },
+  {
+    "head": "Michael",
+    "type": "sibling",
+    "tail": "LaToya LaToya Jackson",
+    "date": "2010-06-24"
+  },
+  {
+    "head": "Michael Jackson was ` murdered for money'",
+    "type": "publication date",
+    "tail": "24 June 2010",
+    "date": "2010-06-24"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "father",
+    "tail": "Joseph",
+    "date": "2010-06-25"
+  },
+  {
+    "head": "Joseph",
+    "type": "child",
+    "tail": "Michael Jackson",
+    "date": "2010-06-25"
+  },
+  {
+    "head": "Thriller",
+    "type": "performer",
+    "tail": "Michael Jackson",
+    "date": "2010-06-25"
+  },
+  {
+    "head": "Joseph",
+    "type": "father",
+    "tail": "Joseph",
+    "date": "2010-06-25"
+  },
+  {
+    "head": "Peter Bowes",
+    "type": "employer",
+    "tail": "BBC News",
+    "date": "2010-06-25"
+  },
+  {
+    "head": "Peter Bowes",
+    "type": "employer",
+    "tail": "BBC News, Los Angeles",
+    "date": "2010-06-25"
+  },
+  {
+    "head": "Peter Bowes",
+    "type": "employer",
+    "tail": "BBC",
+    "date": "2010-06-25"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "family",
+    "tail": "Family",
+    "date": "2010-06-26"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "child",
+    "tail": "George Michael",
+    "date": "2010-06-26"
+  },
+  {
+    "head": "George Michael",
+    "type": "father",
+    "tail": "Michael Jackson",
+    "date": "2010-06-26"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "child",
+    "tail": "Michael Jackson",
+    "date": "2010-06-26"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "father",
+    "tail": "Michael Jackson",
+    "date": "2010-06-26"
+  },
+  {
+    "head": "hotel",
+    "type": "located in the administrative territorial entity",
+    "tail": "Beverly Hills",
+    "date": "2010-06-26"
+  },
+  {
+    "head": "Beverly Hills",
+    "type": "instance of",
+    "tail": "hotel",
+    "date": "2010-06-26"
+  },
+  {
+    "head": "Beverly Hills",
+    "type": "located in the administrative territorial entity",
+    "tail": "Beverly Hills",
+    "date": "2010-06-26"
+  },
+  {
+    "head": "Michael Pastor",
+    "type": "position held",
+    "tail": "Judge",
+    "date": "2010-08-23"
+  },
+  {
+    "head": "Michael Pastor",
+    "type": "occupation",
+    "tail": "Judge",
+    "date": "2010-08-23"
+  },
+  {
+    "head": "Judge",
+    "type": "officeholder",
+    "tail": "Michael Pastor",
+    "date": "2010-08-23"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "mother",
+    "tail": "mother",
+    "date": "2010-09-15"
+  },
+  {
+    "head": "mother",
+    "type": "child",
+    "tail": "Michael Jackson",
+    "date": "2010-09-15"
+  },
+  {
+    "head": "Michael Jackson's mother",
+    "type": "significant event",
+    "tail": "sues",
+    "date": "2010-09-15"
+  },
+  {
+    "head": "trial",
+    "type": "has part",
+    "tail": "Opening statements",
+    "date": "2010-09-27"
+  },
+  {
+    "head": "Trial",
+    "type": "has part",
+    "tail": "Opening statements",
+    "date": "2010-09-27"
+  },
+  {
+    "head": "trial",
+    "type": "has part",
+    "tail": "opening statements",
+    "date": "2010-09-27"
+  },
+  {
+    "head": "Millennium Stadium",
+    "type": "owned by",
+    "tail": "Global Live Events",
+    "date": "2010-10-08"
+  },
+  {
+    "head": "Millennium Stadium",
+    "type": "operator",
+    "tail": "Global Live Events",
+    "date": "2010-10-08"
+  },
+  {
+    "head": "Millennium Stadium",
+    "type": "occupant",
+    "tail": "Global Live Events",
+    "date": "2010-10-08"
+  },
+  {
+    "head": "Millennium Stadium",
+    "type": "located in the administrative territorial entity",
+    "tail": "Cardiff",
+    "date": "2010-10-08"
+  },
+  {
+    "head": "Michael Forever",
+    "type": "mother",
+    "tail": "Katherine Jackson",
+    "date": "2010-10-08"
+  },
+  {
+    "head": "Katherine Jackson",
+    "type": "mother",
+    "tail": "Katherine",
+    "date": "2010-10-08"
+  },
+  {
+    "head": "Michael Forever concert",
+    "type": "location",
+    "tail": "Millennium Stadium",
+    "date": "2010-10-08"
+  },
+  {
+    "head": "Michael Forever",
+    "type": "location",
+    "tail": "Millennium Stadium",
+    "date": "2010-10-08"
+  },
+  {
+    "head": "Millennium Stadium",
+    "type": "occupant",
+    "tail": "Michael Forever",
+    "date": "2010-10-08"
+  },
+  {
+    "head": "medical board",
+    "type": "applies to jurisdiction",
+    "tail": "California",
+    "date": "2010-12-08"
+  },
+  {
+    "head": "California medical board",
+    "type": "field of work",
+    "tail": "medical licence",
+    "date": "2010-12-08"
+  },
+  {
+    "head": "medical board",
+    "type": "located in the administrative territorial entity",
+    "tail": "California",
+    "date": "2010-12-08"
+  },
+  {
+    "head": "2008 Summer Olympics",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2010-12-17"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2010-12-17"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "country",
+    "tail": "USA",
+    "date": "2010-12-17"
+  },
+  {
+    "head": "Christmas finale",
+    "type": "part of the series",
+    "tail": "Extras",
+    "date": "2010-12-25"
+  },
+  {
+    "head": "feature-length Christmas finale",
+    "type": "part of the series",
+    "tail": "Extras",
+    "date": "2010-12-25"
+  },
+  {
+    "head": "Christmas finale",
+    "type": "follows",
+    "tail": "Extras",
+    "date": "2010-12-25"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2010-12-29"
+  },
+  {
+    "head": "1968 Democratic National Convention",
+    "type": "point in time",
+    "tail": "1968",
+    "date": "2010-12-29"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "Secretary of State",
+    "date": "2010-12-29"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "position held",
+    "tail": "President",
+    "date": "2010-12-29"
+  },
+  {
+    "head": "2012 Summer Olympics",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2010-12-29"
+  },
+  {
+    "head": "George Orwell",
+    "type": "notable work",
+    "tail": "Nineteen Eighty-Four",
+    "date": "2010-12-29"
+  },
+  {
+    "head": "Nineteen Eighty-Four",
+    "type": "author",
+    "tail": "Orwell",
+    "date": "2010-12-29"
+  },
+  {
+    "head": "Frank Dileo",
+    "type": "occupation",
+    "tail": "personal assistant",
+    "date": "2011-01-04"
+  },
+  {
+    "head": "Michael Williams",
+    "type": "occupation",
+    "tail": "personal assistant",
+    "date": "2011-01-04"
+  },
+  {
+    "head": "David Walgren",
+    "type": "place of death",
+    "tail": "Los Angeles",
+    "date": "2011-01-04"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "physician",
+    "tail": "Conrad Murray",
+    "date": "2011-01-04"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "employer",
+    "tail": "Michael Jackson",
+    "date": "2011-01-04"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "medical condition treated",
+    "tail": "Conrad Murray",
+    "date": "2011-01-04"
+  },
+  {
+    "head": "Dr Conrad Murray",
+    "type": "date of death",
+    "tail": "June 2009",
+    "date": "2011-01-04"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "date of death",
+    "tail": "June 2009",
+    "date": "2011-01-04"
+  },
+  {
+    "head": "Dr Murray",
+    "type": "date of death",
+    "tail": "June 2009",
+    "date": "2011-01-04"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "medical condition treated",
+    "tail": "insomnia",
+    "date": "2011-01-04"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "field of work",
+    "tail": "insomnia",
+    "date": "2011-01-04"
+  },
+  {
+    "head": "Michael Jackson drug death",
+    "type": "participant",
+    "tail": "Alberto Alvarez",
+    "date": "2011-01-04"
+  },
+  {
+    "head": "Jackson propofol",
+    "type": "subject has role",
+    "tail": "anesthetic",
+    "date": "2011-01-04"
+  },
+  {
+    "head": "Jackson propofol",
+    "type": "instance of",
+    "tail": "anesthetic",
+    "date": "2011-01-04"
+  },
+  {
+    "head": "Michael Jackson drug death",
+    "type": "participant",
+    "tail": "Conrad Murray",
+    "date": "2011-01-04"
+  },
+  {
+    "head": "Dr Murray",
+    "type": "occupation",
+    "tail": "bodyguard",
+    "date": "2011-01-05"
+  },
+  {
+    "head": "Dr. Murray",
+    "type": "occupation",
+    "tail": "emergency physician",
+    "date": "2011-01-05"
+  },
+  {
+    "head": "Dr. Murray",
+    "type": "field of work",
+    "tail": "emergency room",
+    "date": "2011-01-05"
+  },
+  {
+    "head": "Richard Senneff",
+    "type": "occupation",
+    "tail": "paramedic",
+    "date": "2011-01-05"
+  },
+  {
+    "head": "Michael Jackson drug death",
+    "type": "facet of",
+    "tail": "Michael Jackson",
+    "date": "2011-01-05"
+  },
+  {
+    "head": "Jackson propofol",
+    "type": "subject has role",
+    "tail": "anesthetic",
+    "date": "2011-01-05"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "significant event",
+    "tail": "Michael Jackson drug death",
+    "date": "2011-01-05"
+  },
+  {
+    "head": "lidocaine",
+    "type": "subject has role",
+    "tail": "painkiller",
+    "date": "2011-01-06"
+  },
+  {
+    "head": "lidocaine",
+    "type": "subclass of",
+    "tail": "painkiller",
+    "date": "2011-01-06"
+  },
+  {
+    "head": "lidocaine",
+    "type": "instance of",
+    "tail": "painkiller",
+    "date": "2011-01-06"
+  },
+  {
+    "head": "lorazepam",
+    "type": "subject has role",
+    "tail": "sedative",
+    "date": "2011-01-06"
+  },
+  {
+    "head": "lorazepam",
+    "type": "instance of",
+    "tail": "sedative",
+    "date": "2011-01-06"
+  },
+  {
+    "head": "lorazepam",
+    "type": "subclass of",
+    "tail": "sedative",
+    "date": "2011-01-06"
+  },
+  {
+    "head": "death of a drug overdose",
+    "type": "participant",
+    "tail": "Conrad Murray",
+    "date": "2011-01-06"
+  },
+  {
+    "head": "Dr Conrad Murray",
+    "type": "occupation",
+    "tail": "emergency room doctor",
+    "date": "2011-01-06"
+  },
+  {
+    "head": "Dr Conrad Murray",
+    "type": "significant event",
+    "tail": "drug overdose",
+    "date": "2011-01-06"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "significant event",
+    "tail": "involuntary manslaughter",
+    "date": "2011-01-11"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "significant event",
+    "tail": "the day he died",
+    "date": "2011-01-11"
+  },
+  {
+    "head": "the day he died",
+    "type": "facet of",
+    "tail": "Michael Jackson",
+    "date": "2011-01-11"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "occupation",
+    "tail": "Dr",
+    "date": "2011-01-11"
+  },
+  {
+    "head": "Orlando Martinez",
+    "type": "occupation",
+    "tail": "detective",
+    "date": "2011-01-11"
+  },
+  {
+    "head": "Dr Conrad Murray",
+    "type": "field of work",
+    "tail": "sleep",
+    "date": "2011-01-11"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "physician",
+    "tail": "Conrad Murray",
+    "date": "2011-01-11"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "has part",
+    "tail": "Conrad Murray",
+    "date": "2011-01-11"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "employer",
+    "tail": "Michael Jackson",
+    "date": "2011-01-11"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "occupation",
+    "tail": "personal doctor",
+    "date": "2011-01-11"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "significant event",
+    "tail": "involuntary manslaughter",
+    "date": "2011-01-11"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "significant event",
+    "tail": "voluntary manslaughter",
+    "date": "2011-01-11"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "place of death",
+    "tail": "Los Angeles",
+    "date": "2011-01-11"
+  },
+  {
+    "head": "Dr Conrad Murray",
+    "type": "place of death",
+    "tail": "Los Angeles",
+    "date": "2011-01-11"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "occupation",
+    "tail": "manslaugher",
+    "date": "2011-01-11"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "instance of",
+    "tail": "manslaugher",
+    "date": "2011-01-11"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "significant event",
+    "tail": "involuntary manslaugher",
+    "date": "2011-01-11"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "significant event",
+    "tail": "sleep",
+    "date": "2011-01-11"
+  },
+  {
+    "head": "powerful anesthetic",
+    "type": "use",
+    "tail": "sleep",
+    "date": "2011-01-11"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "drug used for treatment",
+    "tail": "sleep",
+    "date": "2011-01-11"
+  },
+  {
+    "head": "Steven Gaydos",
+    "type": "employer",
+    "tail": "Variety Magazine",
+    "date": "2011-01-12"
+  },
+  {
+    "head": "Variety Magazine",
+    "type": "editor",
+    "tail": "Steven Gaydos",
+    "date": "2011-01-12"
+  },
+  {
+    "head": "Steven Gaydos",
+    "type": "occupation",
+    "tail": "executive editor",
+    "date": "2011-01-12"
+  },
+  {
+    "head": "World News for Schools",
+    "type": "number of episodes",
+    "tail": "12'",
+    "date": "2011-01-12"
+  },
+  {
+    "head": "World News for Schools",
+    "type": "number of episodes",
+    "tail": "12",
+    "date": "2011-01-12"
+  },
+  {
+    "head": "12'",
+    "type": "part of",
+    "tail": "World News for Schools",
+    "date": "2011-01-12"
+  },
+  {
+    "head": "World News for Schools",
+    "type": "production company",
+    "tail": "BBC",
+    "date": "2011-01-12"
+  },
+  {
+    "head": "BBC World News for Schools",
+    "type": "presenter",
+    "tail": "Leah",
+    "date": "2011-01-12"
+  },
+  {
+    "head": "Leah",
+    "type": "employer",
+    "tail": "BBC World News for Schools",
+    "date": "2011-01-12"
+  },
+  {
+    "head": "National Library of Australia",
+    "type": "located in the administrative territorial entity",
+    "tail": "Canberra",
+    "date": "2011-01-13"
+  },
+  {
+    "head": "New South Wales",
+    "type": "shares border with",
+    "tail": "Victoria",
+    "date": "2011-01-13"
+  },
+  {
+    "head": "Victoria",
+    "type": "shares border with",
+    "tail": "New South Wales",
+    "date": "2011-01-13"
+  },
+  {
+    "head": "National Museum of Natural History",
+    "type": "parent organization",
+    "tail": "Smithsonian Institution",
+    "date": "2011-01-13"
+  },
+  {
+    "head": "World News for Schools",
+    "type": "number of episodes",
+    "tail": "12'",
+    "date": "2011-01-13"
+  },
+  {
+    "head": "World News for Schools",
+    "type": "number of episodes",
+    "tail": "12",
+    "date": "2011-01-13"
+  },
+  {
+    "head": "12'",
+    "type": "part of",
+    "tail": "World News for Schools",
+    "date": "2011-01-13"
+  },
+  {
+    "head": "World News for Schools",
+    "type": "production company",
+    "tail": "BBC",
+    "date": "2011-01-13"
+  },
+  {
+    "head": "BBC World News for Schools",
+    "type": "presenter",
+    "tail": "Leah",
+    "date": "2011-01-13"
+  },
+  {
+    "head": "Leah",
+    "type": "employer",
+    "tail": "BBC World News for Schools",
+    "date": "2011-01-13"
+  },
+  {
+    "head": "Tomorrow",
+    "type": "point in time",
+    "tail": "Tomorrow",
+    "date": "2011-01-14"
+  },
+  {
+    "head": "Tomorrow",
+    "type": "followed by",
+    "tail": "We're back tomorrow",
+    "date": "2011-01-14"
+  },
+  {
+    "head": "We're back tomorrow",
+    "type": "follows",
+    "tail": "Tomorrow",
+    "date": "2011-01-14"
+  },
+  {
+    "head": "Dr Murray appears in court in Los Angeles 25 January 2011",
+    "type": "point in time",
+    "tail": "25 January 2011",
+    "date": "2011-01-25"
+  },
+  {
+    "head": "appears in court in Los Angeles 25 January 2011",
+    "type": "point in time",
+    "tail": "25 January 2011",
+    "date": "2011-01-25"
+  },
+  {
+    "head": "Dr Murray appears in court",
+    "type": "point in time",
+    "tail": "25 January 2011",
+    "date": "2011-01-25"
+  },
+  {
+    "head": "This Is It",
+    "type": "performer",
+    "tail": "Michael Jackson",
+    "date": "2011-02-03"
+  },
+  {
+    "head": "This Is It tour",
+    "type": "performer",
+    "tail": "Michael Jackson",
+    "date": "2011-02-03"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "physician",
+    "tail": "Conrad Murray",
+    "date": "2011-03-03"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "employer",
+    "tail": "Michael Jackson",
+    "date": "2011-03-03"
+  },
+  {
+    "head": "court date",
+    "type": "point in time",
+    "tail": "22 March 2011",
+    "date": "2011-03-22"
+  },
+  {
+    "head": "court date of 22 March 2011",
+    "type": "point in time",
+    "tail": "22 March 2011",
+    "date": "2011-03-22"
+  },
+  {
+    "head": "court date",
+    "type": "start time",
+    "tail": "22 March 2011",
+    "date": "2011-03-22"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2011-03-24"
+  },
+  {
+    "head": "Harvard University",
+    "type": "subsidiary",
+    "tail": "John F. Kennedy School of Government",
+    "date": "2011-03-24"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2011-03-24"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2011-03-24"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "position held",
+    "tail": "President",
+    "date": "2011-03-24"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2011-03-24"
+  },
+  {
+    "head": "2 May 2011",
+    "type": "point in time",
+    "tail": "2 May 2011",
+    "date": "2011-05-02"
+  },
+  {
+    "head": "2011",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2011-05-02"
+  },
+  {
+    "head": "2011",
+    "type": "point in time",
+    "tail": "2 May 2011",
+    "date": "2011-05-02"
+  },
+  {
+    "head": "Michael Jackson doctor Conrad Murray trial",
+    "type": "point in time",
+    "tail": "2010",
+    "date": "2011-05-02"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "physician",
+    "tail": "Conrad Murray",
+    "date": "2011-05-02"
+  },
+  {
+    "head": "Conrad Murray trial",
+    "type": "participant",
+    "tail": "Michael Jackson",
+    "date": "2011-05-02"
+  },
+  {
+    "head": "drug overdose death",
+    "type": "facet of",
+    "tail": "Michael Jackson",
+    "date": "2011-05-02"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "significant event",
+    "tail": "drug overdose death",
+    "date": "2011-05-02"
+  },
+  {
+    "head": "the doctor accused of causing the drug overdose death",
+    "type": "facet of",
+    "tail": "Michael Jackson",
+    "date": "2011-05-02"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "place of death",
+    "tail": "Los Angeles",
+    "date": "2011-05-02"
+  },
+  {
+    "head": "Dr Conrad Murray",
+    "type": "place of death",
+    "tail": "Los Angeles",
+    "date": "2011-05-02"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "occupation",
+    "tail": "Dr",
+    "date": "2011-05-02"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "date of death",
+    "tail": "25 June that year",
+    "date": "2011-06-25"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "place of death",
+    "tail": "Los Angeles",
+    "date": "2011-06-25"
+  },
+  {
+    "head": "Dr Conrad Murray",
+    "type": "date of death",
+    "tail": "25 June that year",
+    "date": "2011-06-25"
+  },
+  {
+    "head": "O2",
+    "type": "located in the administrative territorial entity",
+    "tail": "London",
+    "date": "2011-07-13"
+  },
+  {
+    "head": "O2",
+    "type": "location",
+    "tail": "London",
+    "date": "2011-07-13"
+  },
+  {
+    "head": "Is It",
+    "type": "location",
+    "tail": "O2",
+    "date": "2011-07-13"
+  },
+  {
+    "head": "Roger Lewis",
+    "type": "employer",
+    "tail": "Welsh Rugby Union",
+    "date": "2011-07-25"
+  },
+  {
+    "head": "Welsh Rugby Union",
+    "type": "chairperson",
+    "tail": "Roger Lewis",
+    "date": "2011-07-25"
+  },
+  {
+    "head": "Roger Lewis",
+    "type": "member of sports team",
+    "tail": "Welsh Rugby Union",
+    "date": "2011-07-25"
+  },
+  {
+    "head": "Michael Pastor",
+    "type": "position held",
+    "tail": "Judge",
+    "date": "2011-07-25"
+  },
+  {
+    "head": "Michael Pastor",
+    "type": "occupation",
+    "tail": "Judge",
+    "date": "2011-07-25"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "date of death",
+    "tail": "25 July 2011",
+    "date": "2011-07-25"
+  },
+  {
+    "head": "Jermaine",
+    "type": "sibling",
+    "tail": "Randy Jackson",
+    "date": "2011-07-25"
+  },
+  {
+    "head": "Randy Jackson",
+    "type": "sibling",
+    "tail": "Jermaine",
+    "date": "2011-07-25"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "sibling",
+    "tail": "Jermaine",
+    "date": "2011-07-25"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "sibling",
+    "tail": "Randy Jackson",
+    "date": "2011-07-25"
+  },
+  {
+    "head": "Jermaine",
+    "type": "sibling",
+    "tail": "Michael Jackson",
+    "date": "2011-07-25"
+  },
+  {
+    "head": "Randy Jackson",
+    "type": "sibling",
+    "tail": "Michael Jackson",
+    "date": "2011-07-25"
+  },
+  {
+    "head": "LRB",
+    "type": "country",
+    "tail": "UK",
+    "date": "2011-07-25"
+  },
+  {
+    "head": "-RRB-'",
+    "type": "country",
+    "tail": "UK",
+    "date": "2011-07-25"
+  },
+  {
+    "head": "-RRB-'",
+    "type": "instance of",
+    "tail": "directive",
+    "date": "2011-07-25"
+  },
+  {
+    "head": "Michael",
+    "type": "family",
+    "tail": "Jackson family",
+    "date": "2011-07-26"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "place of death",
+    "tail": "Los Angeles",
+    "date": "2011-07-26"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "family",
+    "tail": "Jackson family",
+    "date": "2011-07-26"
+  },
+  {
+    "head": "tribute concert",
+    "type": "performer",
+    "tail": "Michael Jackson",
+    "date": "2011-07-26"
+  },
+  {
+    "head": "tribute concert in Cardiff",
+    "type": "performer",
+    "tail": "Michael Jackson",
+    "date": "2011-07-26"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "genre",
+    "tail": "tribute concert",
+    "date": "2011-07-26"
+  },
+  {
+    "head": "2012 Summer Olympics",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2011-08-12"
+  },
+  {
+    "head": "2011",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2011-08-12"
+  },
+  {
+    "head": "2011 World Cup",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2011-08-12"
+  },
+  {
+    "head": "Smokey Robinson",
+    "type": "record label",
+    "tail": "Motown",
+    "date": "2011-08-12"
+  },
+  {
+    "head": "Christina Aguilera",
+    "type": "record label",
+    "tail": "Motown",
+    "date": "2011-08-12"
+  },
+  {
+    "head": "Cee Lo Green",
+    "type": "record label",
+    "tail": "Motown",
+    "date": "2011-08-12"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "occupation",
+    "tail": "Dr",
+    "date": "2011-08-12"
+  },
+  {
+    "head": "Dr Conrad Murray",
+    "type": "significant event",
+    "tail": "the singer's death",
+    "date": "2011-08-12"
+  },
+  {
+    "head": "the singer's death",
+    "type": "participant",
+    "tail": "Dr Conrad Murray",
+    "date": "2011-08-12"
+  },
+  {
+    "head": "LRB",
+    "type": "country",
+    "tail": "UK",
+    "date": "2011-08-23"
+  },
+  {
+    "head": "LRB",
+    "type": "applies to jurisdiction",
+    "tail": "UK",
+    "date": "2011-08-23"
+  },
+  {
+    "head": "RRB",
+    "type": "country",
+    "tail": "UK",
+    "date": "2011-08-23"
+  },
+  {
+    "head": "Jackson tribute gig",
+    "type": "performer",
+    "tail": "Beyonce",
+    "date": "2011-08-23"
+  },
+  {
+    "head": "Jackson tribute gig",
+    "type": "performer",
+    "tail": "Beyonc\u00e9",
+    "date": "2011-08-23"
+  },
+  {
+    "head": "Jackson tribute gig",
+    "type": "participant",
+    "tail": "Beyonce",
+    "date": "2011-08-23"
+  },
+  {
+    "head": "Jermaine",
+    "type": "sibling",
+    "tail": "Randy Jackson",
+    "date": "2011-08-24"
+  },
+  {
+    "head": "Randy Jackson",
+    "type": "sibling",
+    "tail": "Jermaine",
+    "date": "2011-08-24"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "sibling",
+    "tail": "Jermaine",
+    "date": "2011-08-24"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "sibling",
+    "tail": "Randy Jackson",
+    "date": "2011-08-24"
+  },
+  {
+    "head": "Jermaine",
+    "type": "sibling",
+    "tail": "Michael Jackson",
+    "date": "2011-08-24"
+  },
+  {
+    "head": "Randy Jackson",
+    "type": "sibling",
+    "tail": "Michael Jackson",
+    "date": "2011-08-24"
+  },
+  {
+    "head": "Dr Murray",
+    "type": "date of death",
+    "tail": "June 2009",
+    "date": "2011-08-29"
+  },
+  {
+    "head": "Dr Murray",
+    "type": "place of death",
+    "tail": "Los Angeles",
+    "date": "2011-08-29"
+  },
+  {
+    "head": "Edward Chernoff",
+    "type": "place of death",
+    "tail": "Los Angeles",
+    "date": "2011-08-29"
+  },
+  {
+    "head": "propofol",
+    "type": "instance of",
+    "tail": "drug",
+    "date": "2011-08-29"
+  },
+  {
+    "head": "addict",
+    "type": "uses",
+    "tail": "drug",
+    "date": "2011-08-29"
+  },
+  {
+    "head": "drug",
+    "type": "used by",
+    "tail": "addict",
+    "date": "2011-08-29"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "field of work",
+    "tail": "dermatologist",
+    "date": "2011-08-30"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "occupation",
+    "tail": "dermatologist",
+    "date": "2011-08-30"
+  },
+  {
+    "head": "the trial",
+    "type": "participant",
+    "tail": "Michael Jackson",
+    "date": "2011-08-30"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "place of death",
+    "tail": "London",
+    "date": "2011-08-30"
+  },
+  {
+    "head": "50-date run of comeback concerts",
+    "type": "performer",
+    "tail": "Michael Jackson",
+    "date": "2011-08-30"
+  },
+  {
+    "head": "his 50-date run of comeback concerts",
+    "type": "performer",
+    "tail": "Michael Jackson",
+    "date": "2011-08-30"
+  },
+  {
+    "head": "propofol",
+    "type": "instance of",
+    "tail": "drug",
+    "date": "2011-08-30"
+  },
+  {
+    "head": "addict",
+    "type": "uses",
+    "tail": "drug",
+    "date": "2011-08-30"
+  },
+  {
+    "head": "drug",
+    "type": "used by",
+    "tail": "addict",
+    "date": "2011-08-30"
+  },
+  {
+    "head": "Janet Jackson",
+    "type": "sibling",
+    "tail": "Michael Jackson",
+    "date": "2011-08-30"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "sibling",
+    "tail": "Janet Jackson",
+    "date": "2011-08-30"
+  },
+  {
+    "head": "Michael Jackson tribute",
+    "type": "performer",
+    "tail": "Michael Jackson",
+    "date": "2011-08-30"
+  },
+  {
+    "head": "trial",
+    "type": "has part",
+    "tail": "Jury selection",
+    "date": "2011-09-08"
+  },
+  {
+    "head": "Trial",
+    "type": "has part",
+    "tail": "Jury selection",
+    "date": "2011-09-08"
+  },
+  {
+    "head": "Jury selection",
+    "type": "followed by",
+    "tail": "opening arguments",
+    "date": "2011-09-08"
+  },
+  {
+    "head": "opening arguments",
+    "type": "follows",
+    "tail": "Jury selection",
+    "date": "2011-09-08"
+  },
+  {
+    "head": "The trial of Michael Jackson's doctor",
+    "type": "participant",
+    "tail": "Michael Jackson",
+    "date": "2011-09-08"
+  },
+  {
+    "head": "Trial of Michael Jackson's doctor",
+    "type": "participant",
+    "tail": "Michael Jackson",
+    "date": "2011-09-08"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "participant in",
+    "tail": "Trial of Michael Jackson's doctor",
+    "date": "2011-09-08"
+  },
+  {
+    "head": "Michael",
+    "type": "sibling",
+    "tail": "Jermaine Jackson",
+    "date": "2011-09-16"
+  },
+  {
+    "head": "Michael's death",
+    "type": "participant",
+    "tail": "Jermaine Jackson",
+    "date": "2011-09-16"
+  },
+  {
+    "head": "Michael's death",
+    "type": "performer",
+    "tail": "Jermaine Jackson",
+    "date": "2011-09-16"
+  },
+  {
+    "head": "Wales",
+    "type": "capital",
+    "tail": "Cardiff",
+    "date": "2011-09-20"
+  },
+  {
+    "head": "Cardiff",
+    "type": "capital of",
+    "tail": "Wales",
+    "date": "2011-09-20"
+  },
+  {
+    "head": "Michael Forever",
+    "type": "location of formation",
+    "tail": "Cardiff",
+    "date": "2011-09-20"
+  },
+  {
+    "head": "Michael Forever concert",
+    "type": "location",
+    "tail": "Cardiff",
+    "date": "2011-09-20"
+  },
+  {
+    "head": "Michael Forever",
+    "type": "location",
+    "tail": "Cardiff",
+    "date": "2011-09-20"
+  },
+  {
+    "head": "trial",
+    "type": "start time",
+    "tail": "Tuesday",
+    "date": "2011-09-20"
+  },
+  {
+    "head": "The trial",
+    "type": "start time",
+    "tail": "Tuesday",
+    "date": "2011-09-20"
+  },
+  {
+    "head": "Trial",
+    "type": "start time",
+    "tail": "Tuesday",
+    "date": "2011-09-20"
+  },
+  {
+    "head": "Dr Conrad Murray",
+    "type": "employer",
+    "tail": "Michael Jackson",
+    "date": "2011-09-23"
+  },
+  {
+    "head": "Dr Conrad Murray trial",
+    "type": "participant",
+    "tail": "Michael Jackson",
+    "date": "2011-09-23"
+  },
+  {
+    "head": "Dr Conrad Murray trial",
+    "type": "main subject",
+    "tail": "Michael Jackson",
+    "date": "2011-09-23"
+  },
+  {
+    "head": "Dr Conrad Murray",
+    "type": "employer",
+    "tail": "Michael Jackson",
+    "date": "2011-09-24"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "has part",
+    "tail": "Dr Conrad Murray",
+    "date": "2011-09-24"
+  },
+  {
+    "head": "Dr Conrad Murray trial",
+    "type": "participant",
+    "tail": "Michael Jackson",
+    "date": "2011-09-24"
+  },
+  {
+    "head": "men",
+    "type": "opposite of",
+    "tail": "women",
+    "date": "2011-09-24"
+  },
+  {
+    "head": "women",
+    "type": "opposite of",
+    "tail": "men",
+    "date": "2011-09-24"
+  },
+  {
+    "head": "2010 Commonwealth Games",
+    "type": "point in time",
+    "tail": "2010",
+    "date": "2011-09-24"
+  },
+  {
+    "head": "his death",
+    "type": "located in the administrative territorial entity",
+    "tail": "Los Angeles",
+    "date": "2011-09-24"
+  },
+  {
+    "head": "death in June 2009",
+    "type": "located in the administrative territorial entity",
+    "tail": "Los Angeles",
+    "date": "2011-09-24"
+  },
+  {
+    "head": "media coverage of his death",
+    "type": "point in time",
+    "tail": "June 2009",
+    "date": "2011-09-24"
+  },
+  {
+    "head": "O2 Arena",
+    "type": "located in the administrative territorial entity",
+    "tail": "London",
+    "date": "2011-09-27"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "notable work",
+    "tail": "London O2 Arena",
+    "date": "2011-09-27"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "home venue",
+    "tail": "O2 Arena",
+    "date": "2011-09-27"
+  },
+  {
+    "head": "his speech",
+    "type": "author",
+    "tail": "Ed Miliband",
+    "date": "2011-09-27"
+  },
+  {
+    "head": "his speech yesterday",
+    "type": "author",
+    "tail": "Ed Miliband",
+    "date": "2011-09-27"
+  },
+  {
+    "head": "his speech",
+    "type": "presenter",
+    "tail": "Ed Miliband",
+    "date": "2011-09-27"
+  },
+  {
+    "head": "Ed Chernoff",
+    "type": "occupation",
+    "tail": "defense lawyer",
+    "date": "2011-09-27"
+  },
+  {
+    "head": "defense lawyer",
+    "type": "opposite of",
+    "tail": "prosecutor",
+    "date": "2011-09-27"
+  },
+  {
+    "head": "prosecutor",
+    "type": "opposite of",
+    "tail": "defense lawyer",
+    "date": "2011-09-27"
+  },
+  {
+    "head": "Ed Chernoff",
+    "type": "position held",
+    "tail": "defense lawyer",
+    "date": "2011-09-27"
+  },
+  {
+    "head": "Jackson",
+    "type": "date of death",
+    "tail": "June 2009",
+    "date": "2011-09-27"
+  },
+  {
+    "head": "Jackson Jackson",
+    "type": "date of death",
+    "tail": "June 2009",
+    "date": "2011-09-27"
+  },
+  {
+    "head": "Jack Jackson",
+    "type": "date of death",
+    "tail": "June 2009",
+    "date": "2011-09-27"
+  },
+  {
+    "head": "Propofol",
+    "type": "subject has role",
+    "tail": "anesthetic",
+    "date": "2011-09-27"
+  },
+  {
+    "head": "Propofol",
+    "type": "instance of",
+    "tail": "anesthetic",
+    "date": "2011-09-27"
+  },
+  {
+    "head": "Propofol",
+    "type": "use",
+    "tail": "anesthetic",
+    "date": "2011-09-27"
+  },
+  {
+    "head": "Dr Conrad Murray",
+    "type": "employer",
+    "tail": "Michael Jackson",
+    "date": "2011-09-27"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "employer",
+    "tail": "Michael Jackson",
+    "date": "2011-09-27"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "physician",
+    "tail": "Dr Conrad Murray",
+    "date": "2011-09-27"
+  },
+  {
+    "head": "2009 election",
+    "type": "point in time",
+    "tail": "2009",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "2008 Commonwealth Games",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "2008 Summer Olympics",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "Propofol",
+    "type": "subject has role",
+    "tail": "sedative",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "Propofol",
+    "type": "subject has role",
+    "tail": "hospital sedative",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "sedative",
+    "type": "opposite of",
+    "tail": "anaesthetics",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "Propofol",
+    "type": "subject has role",
+    "tail": "anaesthetics",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "headquarters location",
+    "tail": "Athens",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "European Commission",
+    "type": "headquarters location",
+    "tail": "Athens",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "pulling out of discussions earlier this month",
+    "type": "participant",
+    "tail": "International Monetary Fund",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "Michael Jackson tribute concert",
+    "type": "presenter",
+    "tail": "Fearne Cotton",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "Fearne Cotton appears",
+    "type": "cast member",
+    "tail": "Fearne Cotton",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "Fearne Cotton appears with Michael Jackson",
+    "type": "cast member",
+    "tail": "Fearne Cotton",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "manslaughter",
+    "type": "different from",
+    "tail": "involuntary manslaughter",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "involuntary manslaughter",
+    "type": "subclass of",
+    "tail": "charges",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "involuntary manslaughter",
+    "type": "instance of",
+    "tail": "charges",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "bailout",
+    "type": "country",
+    "tail": "Greece",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "another bailout",
+    "type": "country",
+    "tail": "Greece",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "property tax",
+    "type": "country",
+    "tail": "Greece",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "amateur astronomers",
+    "type": "subclass of",
+    "tail": "discover",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "amateur astronomers",
+    "type": "field of work",
+    "tail": "discover",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "amateur astronomers",
+    "type": "field of this occupation",
+    "tail": "discover",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "discover",
+    "type": "practiced by",
+    "tail": "amateur astronomers",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "Jamie Foxx",
+    "type": "work location",
+    "tail": "Hollywood",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "Jamie Foxx",
+    "type": "notable work",
+    "tail": "BBC Radio 1",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "Michael Jackson's doctor goes on trial",
+    "type": "main subject",
+    "tail": "Michael Jackson",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "occupation",
+    "tail": "Dr",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "field of work",
+    "tail": "sleeping medicine",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "sleeping medicine",
+    "type": "discoverer or inventor",
+    "tail": "Conrad Murray",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "sibling",
+    "tail": "La Toya",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "La Toya",
+    "type": "sibling",
+    "tail": "Michael Jackson",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "Dr Murray",
+    "type": "date of death",
+    "tail": "June 2009",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "Jackson",
+    "type": "date of death",
+    "tail": "June 2009",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "death in June 2009",
+    "type": "point in time",
+    "tail": "June 2009",
+    "date": "2011-09-28"
+  },
+  {
+    "head": "Michael Jackson concert",
+    "type": "performer",
+    "tail": "La Toya",
+    "date": "2011-09-29"
+  },
+  {
+    "head": "Dr Conrad Murray",
+    "type": "significant event",
+    "tail": "involuntary manslaughter",
+    "date": "2011-09-29"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "significant event",
+    "tail": "involuntary manslaughter",
+    "date": "2011-09-29"
+  },
+  {
+    "head": "La Toya",
+    "type": "sibling",
+    "tail": "La Toya",
+    "date": "2011-09-29"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "sibling",
+    "tail": "La Toya",
+    "date": "2011-09-29"
+  },
+  {
+    "head": "La Toya",
+    "type": "sibling",
+    "tail": "Michael Jackson",
+    "date": "2011-09-29"
+  },
+  {
+    "head": "manslaughter",
+    "type": "different from",
+    "tail": "involuntary manslaughter",
+    "date": "2011-09-29"
+  },
+  {
+    "head": "involuntary manslaughter",
+    "type": "different from",
+    "tail": "manslaughter",
+    "date": "2011-09-29"
+  },
+  {
+    "head": "manslaughter",
+    "type": "subclass of",
+    "tail": "involuntary manslaughter",
+    "date": "2011-09-29"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "date of death",
+    "tail": "30 September 2011",
+    "date": "2011-09-30"
+  },
+  {
+    "head": "Help Michael Jackson",
+    "type": "publication date",
+    "tail": "30 September 2011",
+    "date": "2011-09-30"
+  },
+  {
+    "head": "Help Michael Jackson",
+    "type": "point in time",
+    "tail": "30 September 2011",
+    "date": "2011-09-30"
+  },
+  {
+    "head": "manslaughter",
+    "type": "different from",
+    "tail": "involuntary manslaughter",
+    "date": "2011-09-30"
+  },
+  {
+    "head": "involuntary manslaughter",
+    "type": "different from",
+    "tail": "manslaughter",
+    "date": "2011-09-30"
+  },
+  {
+    "head": "manslaughter",
+    "type": "subclass of",
+    "tail": "involuntary manslaughter",
+    "date": "2011-09-30"
+  },
+  {
+    "head": "Millennium Stadium",
+    "type": "located in the administrative territorial entity",
+    "tail": "Cardiff",
+    "date": "2011-10-01"
+  },
+  {
+    "head": "Saturday night's memorial concert in Cardiff",
+    "type": "location",
+    "tail": "Millennium Stadium",
+    "date": "2011-10-01"
+  },
+  {
+    "head": "Cardiff",
+    "type": "owner of",
+    "tail": "Millennium Stadium",
+    "date": "2011-10-01"
+  },
+  {
+    "head": "Saturday night's memorial concert in Cardiff",
+    "type": "location",
+    "tail": "Cardiff",
+    "date": "2011-10-01"
+  },
+  {
+    "head": "Dr Thao Nguyen",
+    "type": "field of work",
+    "tail": "cardiologist",
+    "date": "2011-10-04"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2011-10-04"
+  },
+  {
+    "head": "John F. Kennedy School of Medicine",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2011-10-04"
+  },
+  {
+    "head": "London",
+    "type": "capital of",
+    "tail": "England",
+    "date": "2011-10-04"
+  },
+  {
+    "head": "England",
+    "type": "capital",
+    "tail": "London",
+    "date": "2011-10-04"
+  },
+  {
+    "head": "London",
+    "type": "located in the administrative territorial entity",
+    "tail": "London",
+    "date": "2011-10-04"
+  },
+  {
+    "head": "trial",
+    "type": "location",
+    "tail": "Los Angeles",
+    "date": "2011-10-05"
+  },
+  {
+    "head": "trial",
+    "type": "located in the administrative territorial entity",
+    "tail": "Los Angeles",
+    "date": "2011-10-05"
+  },
+  {
+    "head": "trial",
+    "type": "headquarters location",
+    "tail": "Los Angeles",
+    "date": "2011-10-05"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "significant event",
+    "tail": "involuntary manslaughter of Jackson",
+    "date": "2011-10-05"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "significant event",
+    "tail": "involuntary manslaughter of Jackson",
+    "date": "2011-10-05"
+  },
+  {
+    "head": "involuntary manslaughter of Jackson",
+    "type": "participant",
+    "tail": "Conrad Murray",
+    "date": "2011-10-05"
+  },
+  {
+    "head": "6 October 2011",
+    "type": "point in time",
+    "tail": "6 October 2011",
+    "date": "2011-10-06"
+  },
+  {
+    "head": "2011",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2011-10-06"
+  },
+  {
+    "head": "2011",
+    "type": "point in time",
+    "tail": "6 October 2011",
+    "date": "2011-10-06"
+  },
+  {
+    "head": "This Is It",
+    "type": "performer",
+    "tail": "Michael Jackson",
+    "date": "2011-10-06"
+  },
+  {
+    "head": "This Is It tour",
+    "type": "performer",
+    "tail": "Michael Jackson",
+    "date": "2011-10-06"
+  },
+  {
+    "head": "JLS",
+    "type": "has part",
+    "tail": "Leona Lewis",
+    "date": "2011-10-06"
+  },
+  {
+    "head": "Leona Lewis",
+    "type": "member of",
+    "tail": "JLS",
+    "date": "2011-10-06"
+  },
+  {
+    "head": "Cee Lo Green",
+    "type": "member of",
+    "tail": "JLS",
+    "date": "2011-10-06"
+  },
+  {
+    "head": "JLS",
+    "type": "has part",
+    "tail": "Cee Lo Green",
+    "date": "2011-10-06"
+  },
+  {
+    "head": "Millennium Stadium",
+    "type": "area",
+    "tail": "10,000",
+    "date": "2011-10-06"
+  },
+  {
+    "head": "Millennium Stadium",
+    "type": "date of official opening",
+    "tail": "2000",
+    "date": "2011-10-06"
+  },
+  {
+    "head": "Millennium Stadium",
+    "type": "area",
+    "tail": "10",
+    "date": "2011-10-06"
+  },
+  {
+    "head": "propofol",
+    "type": "subject has role",
+    "tail": "anesthetic",
+    "date": "2011-10-06"
+  },
+  {
+    "head": "propofol",
+    "type": "instance of",
+    "tail": "anesthetic",
+    "date": "2011-10-06"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "drug used for treatment",
+    "tail": "propofol",
+    "date": "2011-10-06"
+  },
+  {
+    "head": "Dr Murray",
+    "type": "instance of",
+    "tail": "involuntary manslaughter",
+    "date": "2011-10-06"
+  },
+  {
+    "head": "manslaughter",
+    "type": "subclass of",
+    "tail": "involuntary manslaughter",
+    "date": "2011-10-06"
+  },
+  {
+    "head": "involuntary manslaughter",
+    "type": "instance of",
+    "tail": "charged",
+    "date": "2011-10-06"
+  },
+  {
+    "head": "Millennium Stadium",
+    "type": "located in the administrative territorial entity",
+    "tail": "Cardiff",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "Millennium Stadium",
+    "type": "located in the administrative territorial entity",
+    "tail": "Cardiff",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "Michael Forever tribute",
+    "type": "point in time",
+    "tail": "8 October",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "Michael Forever",
+    "type": "country of origin",
+    "tail": "US",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "Michael Forever",
+    "type": "instance of",
+    "tail": "tribute",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "Christina Aguilera",
+    "type": "member of",
+    "tail": "Black Eyed Peas",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "Millennium Stadium",
+    "type": "located in the administrative territorial entity",
+    "tail": "Los Angeles",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "Cee Lo Green",
+    "type": "member of",
+    "tail": "Black Eyed Peas",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "Aids Project",
+    "type": "located in the administrative territorial entity",
+    "tail": "Los Angeles",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "John Milton",
+    "type": "notable work",
+    "tail": "Paradise Lost",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "Paradise Lost",
+    "type": "author",
+    "tail": "John Milton",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "William Shakespeare",
+    "type": "notable work",
+    "tail": "Cymbeline",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "Cymbeline",
+    "type": "author",
+    "tail": "William Shakespeare",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "The Rolling Stones",
+    "type": "has part",
+    "tail": "Jimmy Page",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "Jimmy Page",
+    "type": "member of",
+    "tail": "The Rolling Stones",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "The Rolling Stones",
+    "type": "has part",
+    "tail": "Jimmy Jam",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "Jimmy Jam",
+    "type": "member of",
+    "tail": "The Rolling Stones",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "the night of 25 June",
+    "type": "point in time",
+    "tail": "8 October 2011",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "Dr Murray",
+    "type": "significant event",
+    "tail": "injected Jackson with several sedatives",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "injected Jackson with several sedatives",
+    "type": "point in time",
+    "tail": "8 October 2011",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "Dr Murray",
+    "type": "participant in",
+    "tail": "injected Jackson with several sedatives",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "injected Jackson with several sedatives",
+    "type": "participant",
+    "tail": "Dr Murray",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "Marlon",
+    "type": "sibling",
+    "tail": "Tito",
+    "date": "2011-10-11"
+  },
+  {
+    "head": "Marlon",
+    "type": "sibling",
+    "tail": "Jackie Jackson",
+    "date": "2011-10-11"
+  },
+  {
+    "head": "Marlon",
+    "type": "sibling",
+    "tail": "La Toya",
+    "date": "2011-10-11"
+  },
+  {
+    "head": "Tito",
+    "type": "sibling",
+    "tail": "Marlon",
+    "date": "2011-10-11"
+  },
+  {
+    "head": "Tito",
+    "type": "sibling",
+    "tail": "Jackie Jackson",
+    "date": "2011-10-11"
+  },
+  {
+    "head": "Tito",
+    "type": "sibling",
+    "tail": "La Toya",
+    "date": "2011-10-11"
+  },
+  {
+    "head": "Jackie Jackson",
+    "type": "sibling",
+    "tail": "Marlon",
+    "date": "2011-10-11"
+  },
+  {
+    "head": "Jackie Jackson",
+    "type": "sibling",
+    "tail": "Tito",
+    "date": "2011-10-11"
+  },
+  {
+    "head": "Jackie Jackson",
+    "type": "sibling",
+    "tail": "La Toya",
+    "date": "2011-10-11"
+  },
+  {
+    "head": "La Toya",
+    "type": "sibling",
+    "tail": "Marlon",
+    "date": "2011-10-11"
+  },
+  {
+    "head": "La Toya",
+    "type": "sibling",
+    "tail": "Tito",
+    "date": "2011-10-11"
+  },
+  {
+    "head": "La Toya",
+    "type": "sibling",
+    "tail": "Jackie Jackson",
+    "date": "2011-10-11"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "physician",
+    "tail": "Conrad Murray",
+    "date": "2011-10-11"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "drug used for treatment",
+    "tail": "propofol",
+    "date": "2011-10-11"
+  },
+  {
+    "head": "propofol",
+    "type": "instance of",
+    "tail": "drug",
+    "date": "2011-10-11"
+  },
+  {
+    "head": "Propofol",
+    "type": "subject has role",
+    "tail": "anesthetic",
+    "date": "2011-10-11"
+  },
+  {
+    "head": "propofol",
+    "type": "subject has role",
+    "tail": "anesthetic",
+    "date": "2011-10-11"
+  },
+  {
+    "head": "Propofol",
+    "type": "instance of",
+    "tail": "anesthetic",
+    "date": "2011-10-11"
+  },
+  {
+    "head": "Dr Murray",
+    "type": "date of death",
+    "tail": "12 October 2011",
+    "date": "2011-10-12"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2011-10-12"
+  },
+  {
+    "head": "Harvard University",
+    "type": "subsidiary",
+    "tail": "John F. Kennedy School of Government",
+    "date": "2011-10-12"
+  },
+  {
+    "head": "Insomnia",
+    "type": "drug used for treatment",
+    "tail": "propofol",
+    "date": "2011-10-12"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "medical condition treated",
+    "tail": "insomnia",
+    "date": "2011-10-12"
+  },
+  {
+    "head": "insomnia",
+    "type": "drug used for treatment",
+    "tail": "Michael Jackson",
+    "date": "2011-10-12"
+  },
+  {
+    "head": "Conrad Murray drops claim Jackson swallowed propofol",
+    "type": "author",
+    "tail": "Dr Conrad Murray",
+    "date": "2011-10-12"
+  },
+  {
+    "head": "Propofol",
+    "type": "subject has role",
+    "tail": "anesthetic",
+    "date": "2011-10-12"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "drug used for treatment",
+    "tail": "Propofol",
+    "date": "2011-10-12"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "uses",
+    "tail": "Propofol",
+    "date": "2011-10-12"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "employer",
+    "tail": "Michael Jackson",
+    "date": "2011-10-13"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "has part",
+    "tail": "Conrad Murray",
+    "date": "2011-10-13"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "employer",
+    "tail": "Conrad Murray",
+    "date": "2011-10-13"
+  },
+  {
+    "head": "2007",
+    "type": "point in time",
+    "tail": "2007",
+    "date": "2011-10-13"
+  },
+  {
+    "head": "2008",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2011-10-13"
+  },
+  {
+    "head": "2008 Super Bowl",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2011-10-13"
+  },
+  {
+    "head": "TV",
+    "type": "different from",
+    "tail": "internet",
+    "date": "2011-10-13"
+  },
+  {
+    "head": "TV",
+    "type": "part of",
+    "tail": "internet",
+    "date": "2011-10-13"
+  },
+  {
+    "head": "TV",
+    "type": "opposite of",
+    "tail": "internet",
+    "date": "2011-10-13"
+  },
+  {
+    "head": "insomnia",
+    "type": "different from",
+    "tail": "insomnia",
+    "date": "2011-10-18"
+  },
+  {
+    "head": "insomnia",
+    "type": "subclass of",
+    "tail": "insomnia",
+    "date": "2011-10-18"
+  },
+  {
+    "head": "propofol",
+    "type": "instance of",
+    "tail": "potent anesthetic",
+    "date": "2011-10-18"
+  },
+  {
+    "head": "Dr Steven Shafer",
+    "type": "different from",
+    "tail": "Dr Conrad Murray",
+    "date": "2011-10-18"
+  },
+  {
+    "head": "Dr Conrad Murray",
+    "type": "different from",
+    "tail": "Dr Steven Shafer",
+    "date": "2011-10-18"
+  },
+  {
+    "head": "Steven Shafer",
+    "type": "field of work",
+    "tail": "propofol",
+    "date": "2011-10-20"
+  },
+  {
+    "head": "Dr Steven Shafer",
+    "type": "field of work",
+    "tail": "propofol",
+    "date": "2011-10-20"
+  },
+  {
+    "head": "Steven Shafer",
+    "type": "occupation",
+    "tail": "Dr",
+    "date": "2011-10-20"
+  },
+  {
+    "head": "alternate theory",
+    "type": "main subject",
+    "tail": "how Jackson died",
+    "date": "2011-10-21"
+  },
+  {
+    "head": "alternate theory",
+    "type": "main subject",
+    "tail": "Jackson died",
+    "date": "2011-10-21"
+  },
+  {
+    "head": "alternate theory",
+    "type": "facet of",
+    "tail": "how Jackson died",
+    "date": "2011-10-21"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "employer",
+    "tail": "Michael Jackson",
+    "date": "2011-10-24"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "physician",
+    "tail": "Conrad Murray",
+    "date": "2011-10-24"
+  },
+  {
+    "head": "involuntary manslaughter",
+    "type": "subclass of",
+    "tail": "gross negligence",
+    "date": "2011-10-24"
+  },
+  {
+    "head": "manslaughter",
+    "type": "subclass of",
+    "tail": "gross negligence",
+    "date": "2011-10-24"
+  },
+  {
+    "head": "involuntary manslaughter",
+    "type": "subclass of",
+    "tail": "negligence",
+    "date": "2011-10-24"
+  },
+  {
+    "head": "nurse practitioner",
+    "type": "subclass of",
+    "tail": "doctor",
+    "date": "2011-10-24"
+  },
+  {
+    "head": "doctor",
+    "type": "different from",
+    "tail": "nurse practitioner",
+    "date": "2011-10-24"
+  },
+  {
+    "head": "nurse practitioner",
+    "type": "different from",
+    "tail": "doctor",
+    "date": "2011-10-24"
+  },
+  {
+    "head": "propofol",
+    "type": "subject has role",
+    "tail": "sedative",
+    "date": "2011-10-25"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "residence",
+    "tail": "Los Angeles",
+    "date": "2011-10-25"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "place of death",
+    "tail": "Los Angeles",
+    "date": "2011-10-25"
+  },
+  {
+    "head": "Diprivan",
+    "type": "instance of",
+    "tail": "propofol",
+    "date": "2011-10-25"
+  },
+  {
+    "head": "Diprivan",
+    "type": "subclass of",
+    "tail": "propofol",
+    "date": "2011-10-25"
+  },
+  {
+    "head": "Diprivan",
+    "type": "different from",
+    "tail": "propofol",
+    "date": "2011-10-25"
+  },
+  {
+    "head": "propofol",
+    "type": "different from",
+    "tail": "Diprivan",
+    "date": "2011-10-25"
+  },
+  {
+    "head": "2011",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2011-10-26"
+  },
+  {
+    "head": "26 October 2011",
+    "type": "point in time",
+    "tail": "26 October 2011",
+    "date": "2011-10-26"
+  },
+  {
+    "head": "2011",
+    "type": "point in time",
+    "tail": "26 October 2011",
+    "date": "2011-10-26"
+  },
+  {
+    "head": "Diprivan",
+    "type": "instance of",
+    "tail": "propofol",
+    "date": "2011-10-26"
+  },
+  {
+    "head": "Diprivan",
+    "type": "subclass of",
+    "tail": "propofol",
+    "date": "2011-10-26"
+  },
+  {
+    "head": "Diprivan",
+    "type": "said to be the same as",
+    "tail": "propofol",
+    "date": "2011-10-26"
+  },
+  {
+    "head": "propofol",
+    "type": "said to be the same as",
+    "tail": "Diprivan",
+    "date": "2011-10-26"
+  },
+  {
+    "head": "Dr Murray",
+    "type": "significant event",
+    "tail": "involuntary manslaughter",
+    "date": "2011-10-26"
+  },
+  {
+    "head": "manslaughter",
+    "type": "subclass of",
+    "tail": "involuntary",
+    "date": "2011-10-26"
+  },
+  {
+    "head": "Dr Murray",
+    "type": "instance of",
+    "tail": "involuntary manslaughter",
+    "date": "2011-10-26"
+  },
+  {
+    "head": "Dr Murray",
+    "type": "genre",
+    "tail": "pop superstar",
+    "date": "2011-10-27"
+  },
+  {
+    "head": "pop superstar",
+    "type": "influenced by",
+    "tail": "Dr Murray",
+    "date": "2011-10-27"
+  },
+  {
+    "head": "pop superstar",
+    "type": "has part",
+    "tail": "Dr Murray",
+    "date": "2011-10-27"
+  },
+  {
+    "head": "Conrad Murray trial",
+    "type": "end time",
+    "tail": "27 October 2011",
+    "date": "2011-10-27"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "date of death",
+    "tail": "27 October 2011",
+    "date": "2011-10-27"
+  },
+  {
+    "head": "Conrad Murray trial",
+    "type": "point in time",
+    "tail": "27 October 2011",
+    "date": "2011-10-27"
+  },
+  {
+    "head": "Dr Murray",
+    "type": "significant event",
+    "tail": "involuntary manslaughter",
+    "date": "2011-10-27"
+  },
+  {
+    "head": "manslaughter",
+    "type": "subclass of",
+    "tail": "involuntary",
+    "date": "2011-10-27"
+  },
+  {
+    "head": "Dr Murray",
+    "type": "instance of",
+    "tail": "involuntary manslaughter",
+    "date": "2011-10-27"
+  },
+  {
+    "head": "28 October 2011",
+    "type": "point in time",
+    "tail": "28 October 2011",
+    "date": "2011-10-28"
+  },
+  {
+    "head": "'28 October 2011",
+    "type": "point in time",
+    "tail": "28 October 2011",
+    "date": "2011-10-28"
+  },
+  {
+    "head": "'28 October 2011'",
+    "type": "point in time",
+    "tail": "28 October 2011",
+    "date": "2011-10-28"
+  },
+  {
+    "head": "trial over Michael Jackson's death",
+    "type": "participant",
+    "tail": "Dr Conrad Murray",
+    "date": "2011-10-31"
+  },
+  {
+    "head": "Conrad Murray decides not to give evidence",
+    "type": "part of",
+    "tail": "trial over Michael Jackson's death",
+    "date": "2011-10-31"
+  },
+  {
+    "head": "trial over Michael Jackson's death",
+    "type": "has part",
+    "tail": "Conrad Murray decides not to give evidence",
+    "date": "2011-10-31"
+  },
+  {
+    "head": "Steven Shafer",
+    "type": "field of work",
+    "tail": "propofol",
+    "date": "2011-11-01"
+  },
+  {
+    "head": "Dr Steven Shafer",
+    "type": "field of work",
+    "tail": "propofol",
+    "date": "2011-11-01"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2011-11-01"
+  },
+  {
+    "head": "trial over Michael Jackson's death",
+    "type": "end time",
+    "tail": "1 November 2011",
+    "date": "2011-11-01"
+  },
+  {
+    "head": "Michael Jackson's death",
+    "type": "participant",
+    "tail": "Dr Conrad Murray",
+    "date": "2011-11-01"
+  },
+  {
+    "head": "Dr Conrad Murray",
+    "type": "participant in",
+    "tail": "trial over Michael Jackson's death",
+    "date": "2011-11-01"
+  },
+  {
+    "head": "trial over Michael Jackson's death",
+    "type": "participant",
+    "tail": "Dr Conrad Murray",
+    "date": "2011-11-01"
+  },
+  {
+    "head": "Michael Pastor",
+    "type": "position held",
+    "tail": "Judge",
+    "date": "2011-11-01"
+  },
+  {
+    "head": "murder",
+    "type": "different from",
+    "tail": "manslaughter",
+    "date": "2011-11-01"
+  },
+  {
+    "head": "manslaughter",
+    "type": "different from",
+    "tail": "involuntary manslaughter",
+    "date": "2011-11-01"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2011-11-03"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2011-11-03"
+  },
+  {
+    "head": "John F. Kennedy assassination",
+    "type": "point in time",
+    "tail": "September 11, 2001",
+    "date": "2011-11-03"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "date of death",
+    "tail": "25 June 2009",
+    "date": "2011-11-03"
+  },
+  {
+    "head": "Michael Jackson died",
+    "type": "date of death",
+    "tail": "25 June 2009",
+    "date": "2011-11-03"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "date of death",
+    "tail": "25 June 2009",
+    "date": "2011-11-03"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "different from",
+    "tail": "Dr Murray",
+    "date": "2011-11-04"
+  },
+  {
+    "head": "Dr Murray",
+    "type": "different from",
+    "tail": "Conrad Murray",
+    "date": "2011-11-04"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "occupation",
+    "tail": "Dr",
+    "date": "2011-11-04"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "date of death",
+    "tail": "25 June 2009",
+    "date": "2011-11-04"
+  },
+  {
+    "head": "Michael Jackson died",
+    "type": "date of death",
+    "tail": "25 June 2009",
+    "date": "2011-11-04"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "date of death",
+    "tail": "25 June 2009",
+    "date": "2011-11-04"
+  },
+  {
+    "head": "Grenada",
+    "type": "instance of",
+    "tail": "poverty",
+    "date": "2011-11-04"
+  },
+  {
+    "head": "Dr Murray",
+    "type": "place of birth",
+    "tail": "Grenada",
+    "date": "2011-11-04"
+  },
+  {
+    "head": "Grenada",
+    "type": "diplomatic relation",
+    "tail": "US",
+    "date": "2011-11-04"
+  },
+  {
+    "head": "US",
+    "type": "diplomatic relation",
+    "tail": "Grenada",
+    "date": "2011-11-04"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "occupation",
+    "tail": "Dr",
+    "date": "2011-11-04"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "named after",
+    "tail": "Dr Conrad Murray",
+    "date": "2011-11-04"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "has part",
+    "tail": "Dr Conrad Murray",
+    "date": "2011-11-04"
+  },
+  {
+    "head": "Cocozza",
+    "type": "present in work",
+    "tail": "Saturday night show",
+    "date": "2011-11-05"
+  },
+  {
+    "head": "Last Weekend",
+    "type": "followed by",
+    "tail": "Saturday night",
+    "date": "2011-11-05"
+  },
+  {
+    "head": "Last Weekend",
+    "type": "part of the series",
+    "tail": "Saturday night show",
+    "date": "2011-11-05"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "employer",
+    "tail": "Michael Jackson",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "physician",
+    "tail": "Conrad Murray",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "Dr Conrad Murray",
+    "type": "employer",
+    "tail": "Michael Jackson",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "the day of the verdict",
+    "type": "point in time",
+    "tail": "7 November",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "the verdict",
+    "type": "point in time",
+    "tail": "7 November",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "the day of the verdict on 7 November",
+    "type": "point in time",
+    "tail": "7 November",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "2010 FIFA World Cup",
+    "type": "point in time",
+    "tail": "2010",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "2012 Summer Olympics",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "2011",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "death",
+    "type": "subclass of",
+    "tail": "overdose",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "trial",
+    "type": "has part",
+    "tail": "jury",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "jury",
+    "type": "part of",
+    "tail": "trial",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "death",
+    "type": "has cause",
+    "tail": "overdose",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "position held",
+    "tail": "President",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "significant event",
+    "tail": "involuntary manslaughter",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "Dr Conrad Murray",
+    "type": "significant event",
+    "tail": "involuntary manslaughter",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "David Willis",
+    "type": "employer",
+    "tail": "BBC News, Los Angeles",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "David Willis",
+    "type": "employer",
+    "tail": "BBC News",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "Michael Jackson died in June 2009",
+    "type": "has cause",
+    "tail": "propofol",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "significant event",
+    "tail": "his death",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "his death",
+    "type": "participant",
+    "tail": "Michael Jackson",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "his death",
+    "type": "facet of",
+    "tail": "Michael Jackson",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "Propofol",
+    "type": "subject has role",
+    "tail": "anesthetic",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "Propofol",
+    "type": "instance of",
+    "tail": "anesthetic",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "significant event",
+    "tail": "Propofol",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "died from an overdose of a sleeping drug",
+    "type": "point in time",
+    "tail": "June 2009",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "occupation",
+    "tail": "Dr",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "died from an overdose",
+    "type": "facet of",
+    "tail": "sleeping drug",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "the day before his death",
+    "type": "location",
+    "tail": "hospital",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "the day before his death",
+    "type": "place of death",
+    "tail": "hospital",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "the singer lying dead",
+    "type": "place of death",
+    "tail": "hospital",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "Propofol",
+    "type": "subject has role",
+    "tail": "anesthetic",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "Propofol",
+    "type": "instance of",
+    "tail": "anesthetic",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "Propofol",
+    "type": "use",
+    "tail": "anesthetic",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "jury room",
+    "type": "use",
+    "tail": "verdict",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "jury",
+    "type": "has effect",
+    "tail": "verdict",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "verdict",
+    "type": "used by",
+    "tail": "jury",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "verdict",
+    "type": "location",
+    "tail": "jury room",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "Help",
+    "type": "instance of",
+    "tail": "charity",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "Help",
+    "type": "part of",
+    "tail": "Help",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "Help'",
+    "type": "instance of",
+    "tail": "Help",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "sibling",
+    "tail": "Conrad Murray",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "sibling",
+    "tail": "Michael Jackson",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "significant event",
+    "tail": "involuntary manslaughter",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "relative",
+    "tail": "Conrad Murray",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "BBC News",
+    "type": "main subject",
+    "tail": "breaking news",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "BBC News",
+    "type": "instance of",
+    "tail": "breaking news",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "BBC News",
+    "type": "field of work",
+    "tail": "breaking news",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "Trevor McDonald",
+    "type": "award received",
+    "tail": "national treasure",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "Paul McKenna",
+    "type": "field of work",
+    "tail": "self-help",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "Paul McKenna",
+    "type": "award received",
+    "tail": "national treasure",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "participant in",
+    "tail": "Michael Jackson trial",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "Michael Jackson trial",
+    "type": "participant",
+    "tail": "Conrad Murray",
+    "date": "2011-11-07"
+  },
+  {
+    "head": "Propofol",
+    "type": "subject has role",
+    "tail": "sedative",
+    "date": "2011-11-08"
+  },
+  {
+    "head": "Propofol",
+    "type": "subject has role",
+    "tail": "hospital sedative",
+    "date": "2011-11-08"
+  },
+  {
+    "head": "Propofol",
+    "type": "subject has role",
+    "tail": "anaesthetics",
+    "date": "2011-11-08"
+  },
+  {
+    "head": "8 November 2011",
+    "type": "point in time",
+    "tail": "8 November 2011",
+    "date": "2011-11-08"
+  },
+  {
+    "head": "2008 Summer Olympics",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2011-11-08"
+  },
+  {
+    "head": "2011",
+    "type": "point in time",
+    "tail": "8 November 2011",
+    "date": "2011-11-08"
+  },
+  {
+    "head": "Los Angeles",
+    "type": "country",
+    "tail": "US",
+    "date": "2011-11-08"
+  },
+  {
+    "head": "Newsbeat",
+    "type": "headquarters location",
+    "tail": "Los Angeles",
+    "date": "2011-11-08"
+  },
+  {
+    "head": "Newsbeat US",
+    "type": "headquarters location",
+    "tail": "Los Angeles",
+    "date": "2011-11-08"
+  },
+  {
+    "head": "Umberto Bossi",
+    "type": "member of political party",
+    "tail": "Northern League",
+    "date": "2011-11-08"
+  },
+  {
+    "head": "Northern League",
+    "type": "chairperson",
+    "tail": "Umberto Bossi",
+    "date": "2011-11-08"
+  },
+  {
+    "head": "Silvio Berlusconi",
+    "type": "position held",
+    "tail": "Prime Minister",
+    "date": "2011-11-08"
+  },
+  {
+    "head": "Silvio Berlusconi",
+    "type": "position held",
+    "tail": "Italian Prime Minister",
+    "date": "2011-11-08"
+  },
+  {
+    "head": "Silvio Berlusconi",
+    "type": "position held",
+    "tail": "Prime Minister",
+    "date": "2011-11-08"
+  },
+  {
+    "head": "Italian Prime Minister",
+    "type": "officeholder",
+    "tail": "Silvio Berlusconi",
+    "date": "2011-11-08"
+  },
+  {
+    "head": "Propofol",
+    "type": "subject has role",
+    "tail": "anesthetic",
+    "date": "2011-11-08"
+  },
+  {
+    "head": "Propofol",
+    "type": "instance of",
+    "tail": "anesthetic",
+    "date": "2011-11-08"
+  },
+  {
+    "head": "Propofol",
+    "type": "use",
+    "tail": "anesthetic",
+    "date": "2011-11-08"
+  },
+  {
+    "head": "Propofol",
+    "type": "subject has role",
+    "tail": "anesthetic",
+    "date": "2011-11-08"
+  },
+  {
+    "head": "Propofol",
+    "type": "instance of",
+    "tail": "anesthetic",
+    "date": "2011-11-08"
+  },
+  {
+    "head": "Propofol",
+    "type": "use",
+    "tail": "anesthetic",
+    "date": "2011-11-08"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "sibling",
+    "tail": "Conrad Murray",
+    "date": "2011-11-08"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "sibling",
+    "tail": "Michael Jackson",
+    "date": "2011-11-08"
+  },
+  {
+    "head": "Conrad Murray",
+    "type": "significant event",
+    "tail": "involuntary manslaughter",
+    "date": "2011-11-08"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "relative",
+    "tail": "Conrad Murray",
+    "date": "2011-11-08"
+  },
+  {
+    "head": "Silvio Berlusconi",
+    "type": "position held",
+    "tail": "Italian PM",
+    "date": "2011-11-08"
+  },
+  {
+    "head": "Silvio Berlusconi",
+    "type": "position held",
+    "tail": "PM",
+    "date": "2011-11-08"
+  },
+  {
+    "head": "Italian PM",
+    "type": "officeholder",
+    "tail": "Silvio Berlusconi",
+    "date": "2011-11-08"
+  },
+  {
+    "head": "My Son Loved",
+    "type": "part of",
+    "tail": "The Songs",
+    "date": "2011-11-08"
+  },
+  {
+    "head": "Michael Jackson trial",
+    "type": "participant",
+    "tail": "Conrad Murray",
+    "date": "2011-11-08"
+  },
+  {
+    "head": "The Songs",
+    "type": "has part",
+    "tail": "My Son Loved",
+    "date": "2011-11-08"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "date of death",
+    "tail": "9 November 2011",
+    "date": "2011-11-09"
+  },
+  {
+    "head": "the circumstances surrounding the pop star's death",
+    "type": "facet of",
+    "tail": "Michael Jackson",
+    "date": "2011-11-09"
+  },
+  {
+    "head": "death",
+    "type": "facet of",
+    "tail": "Michael Jackson",
+    "date": "2011-11-09"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2011-11-09"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "spouse",
+    "tail": "Beyonc\u00e9",
+    "date": "2011-11-09"
+  },
+  {
+    "head": "Beyonc\u00e9",
+    "type": "spouse",
+    "tail": "Michael Jackson",
+    "date": "2011-11-09"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "spouse",
+    "tail": "Beyonc\u00e9 Knowles",
+    "date": "2011-11-09"
+  },
+  {
+    "head": "Beyonc\u00e9 Knowles",
+    "type": "spouse",
+    "tail": "Michael Jackson",
+    "date": "2011-11-09"
+  },
+  {
+    "head": "Who Killed Michael Jackson",
+    "type": "cast member",
+    "tail": "Dr Conrad Murray",
+    "date": "2011-11-10"
+  },
+  {
+    "head": "Who Killed Michael Jackson",
+    "type": "cast member",
+    "tail": "Conrad Murray",
+    "date": "2011-11-10"
+  },
+  {
+    "head": "Dr Conrad Murray",
+    "type": "significant event",
+    "tail": "involuntary manslaughter of Michael Jackson",
+    "date": "2011-11-10"
+  },
+  {
+    "head": "involuntary manslaughter of Michael Jackson",
+    "type": "participant",
+    "tail": "Dr Conrad Murray",
+    "date": "2011-11-10"
+  },
+  {
+    "head": "EastEnders",
+    "type": "country of origin",
+    "tail": "UK",
+    "date": "2011-11-10"
+  },
+  {
+    "head": "Coronation Street",
+    "type": "country of origin",
+    "tail": "UK",
+    "date": "2011-11-10"
+  },
+  {
+    "head": "EastEnders",
+    "type": "country",
+    "tail": "UK",
+    "date": "2011-11-10"
+  },
+  {
+    "head": "The Man",
+    "type": "original broadcaster",
+    "tail": "Channel 4",
+    "date": "2011-11-10"
+  },
+  {
+    "head": "Life's Too Short",
+    "type": "cast member",
+    "tail": "Ricky Gervais",
+    "date": "2011-11-10"
+  },
+  {
+    "head": "Life's Too Short",
+    "type": "cast member",
+    "tail": "Stephen Merchant",
+    "date": "2011-11-10"
+  },
+  {
+    "head": "Today",
+    "type": "presenter",
+    "tail": "Savannah Guthrie",
+    "date": "2011-11-11"
+  },
+  {
+    "head": "Savannah Guthrie",
+    "type": "employer",
+    "tail": "Today",
+    "date": "2011-11-11"
+  },
+  {
+    "head": "The Man",
+    "type": "original broadcaster",
+    "tail": "Channel 4",
+    "date": "2011-11-11"
+  },
+  {
+    "head": "Life's Too Short",
+    "type": "cast member",
+    "tail": "Ricky Gervais",
+    "date": "2011-11-11"
+  },
+  {
+    "head": "Life's Too Short",
+    "type": "cast member",
+    "tail": "Stephen Merchant",
+    "date": "2011-11-11"
+  },
+  {
+    "head": "King of Pop",
+    "type": "influenced by",
+    "tail": "Michael Jackson",
+    "date": "2011-11-29"
+  },
+  {
+    "head": "King of Pop",
+    "type": "facet of",
+    "tail": "Michael Jackson",
+    "date": "2011-11-29"
+  },
+  {
+    "head": "Michael Jackson",
+    "type": "occupation",
+    "tail": "King of Pop",
+    "date": "2011-11-29"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2011-11-30"
+  },
+  {
+    "head": "George Washington University",
+    "type": "located in the administrative territorial entity",
+    "tail": "Washington, D.C.",
+    "date": "2011-11-30"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2011-11-30"
+  },
+  {
+    "head": "Grenada",
+    "type": "located on terrain feature",
+    "tail": "Caribbean",
+    "date": "2011-11-30"
+  },
+  {
+    "head": "Dr Conrad Murray",
+    "type": "place of birth",
+    "tail": "Grenada",
+    "date": "2011-11-30"
+  },
+  {
+    "head": "LRB",
+    "type": "different from",
+    "tail": "LRB",
+    "date": "2011-11-30"
+  },
+  {
+    "head": "LRB",
+    "type": "followed by",
+    "tail": "LRB",
+    "date": "2011-11-30"
+  },
+  {
+    "head": "2008 Summer Olympics",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2011-11-30"
+  },
+  {
+    "head": "photo",
+    "type": "use",
+    "tail": "photo",
+    "date": "2011-11-30"
+  },
+  {
+    "head": "photo",
+    "type": "subclass of",
+    "tail": "photo",
+    "date": "2011-11-30"
+  }
+]

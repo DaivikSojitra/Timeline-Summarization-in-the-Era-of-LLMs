@@ -1,0 +1,8888 @@
+[
+  {
+    "head": "Miss Universe 2004",
+    "type": "point in time",
+    "tail": "2004",
+    "date": "2007-02-19"
+  },
+  {
+    "head": "John Edwards",
+    "type": "position held",
+    "tail": "President",
+    "date": "2007-02-19"
+  },
+  {
+    "head": "John Edwards",
+    "type": "position held",
+    "tail": "President of the United States",
+    "date": "2007-02-19"
+  },
+  {
+    "head": "Mr Sarkozy",
+    "type": "member of political party",
+    "tail": "UMP",
+    "date": "2007-02-21"
+  },
+  {
+    "head": "Sarkozy",
+    "type": "member of political party",
+    "tail": "UMP",
+    "date": "2007-02-21"
+  },
+  {
+    "head": "Mr Sarkozy",
+    "type": "member of political party",
+    "tail": "UMP party",
+    "date": "2007-02-21"
+  },
+  {
+    "head": "John Major",
+    "type": "position held",
+    "tail": "Prime Minister",
+    "date": "2007-02-22"
+  },
+  {
+    "head": "2008 election",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2007-02-22"
+  },
+  {
+    "head": "2010 election",
+    "type": "point in time",
+    "tail": "2010",
+    "date": "2007-02-22"
+  },
+  {
+    "head": "Laurent Fabius",
+    "type": "member of political party",
+    "tail": "Socialist",
+    "date": "2007-02-22"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "member of political party",
+    "tail": "Socialist",
+    "date": "2007-02-22"
+  },
+  {
+    "head": "elections",
+    "type": "country",
+    "tail": "France",
+    "date": "2007-04-22"
+  },
+  {
+    "head": "two - round elections",
+    "type": "country",
+    "tail": "France",
+    "date": "2007-04-22"
+  },
+  {
+    "head": "France",
+    "type": "significant event",
+    "tail": "elections",
+    "date": "2007-04-22"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "part of",
+    "tail": "World Bank",
+    "date": "2007-07-09"
+  },
+  {
+    "head": "World Bank",
+    "type": "has part",
+    "tail": "International Monetary Fund",
+    "date": "2007-07-09"
+  },
+  {
+    "head": "United Nations",
+    "type": "has part",
+    "tail": "General Assembly",
+    "date": "2007-07-09"
+  },
+  {
+    "head": "General Assembly",
+    "type": "part of",
+    "tail": "United Nations",
+    "date": "2007-07-09"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "part of",
+    "tail": "World Bank Group",
+    "date": "2007-07-09"
+  },
+  {
+    "head": "World Bank Group",
+    "type": "has part",
+    "tail": "International Monetary Fund",
+    "date": "2007-07-09"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "managing director of the IMF",
+    "date": "2007-07-09"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2007-07-09"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "managing director",
+    "date": "2007-07-09"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "part of",
+    "tail": "World Bank",
+    "date": "2007-07-09"
+  },
+  {
+    "head": "World Bank",
+    "type": "has part",
+    "tail": "International Monetary Fund",
+    "date": "2007-07-09"
+  },
+  {
+    "head": "United Nations",
+    "type": "has part",
+    "tail": "General Assembly",
+    "date": "2007-07-09"
+  },
+  {
+    "head": "General Assembly",
+    "type": "part of",
+    "tail": "United Nations",
+    "date": "2007-07-09"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "part of",
+    "tail": "World Bank Group",
+    "date": "2007-07-09"
+  },
+  {
+    "head": "World Bank Group",
+    "type": "has part",
+    "tail": "International Monetary Fund",
+    "date": "2007-07-09"
+  },
+  {
+    "head": "EU",
+    "type": "instance of",
+    "tail": "bloc",
+    "date": "2007-07-09"
+  },
+  {
+    "head": "Brexit",
+    "type": "participant",
+    "tail": "EU",
+    "date": "2007-07-09"
+  },
+  {
+    "head": "Britain versus Europe",
+    "type": "participant",
+    "tail": "EU",
+    "date": "2007-07-09"
+  },
+  {
+    "head": "Alistair Darling",
+    "type": "position held",
+    "tail": "chancellor",
+    "date": "2007-07-09"
+  },
+  {
+    "head": "chancellor",
+    "type": "officeholder",
+    "tail": "Alistair Darling",
+    "date": "2007-07-09"
+  },
+  {
+    "head": "Alistair Darling",
+    "type": "position held",
+    "tail": "new chancellor",
+    "date": "2007-07-09"
+  },
+  {
+    "head": "EU",
+    "type": "instance of",
+    "tail": "bloc",
+    "date": "2007-07-09"
+  },
+  {
+    "head": "Brexit",
+    "type": "participant",
+    "tail": "EU",
+    "date": "2007-07-09"
+  },
+  {
+    "head": "Britain versus Europe",
+    "type": "participant",
+    "tail": "EU",
+    "date": "2007-07-09"
+  },
+  {
+    "head": "Alistair Darling",
+    "type": "position held",
+    "tail": "chancellor",
+    "date": "2007-07-09"
+  },
+  {
+    "head": "chancellor",
+    "type": "officeholder",
+    "tail": "Alistair Darling",
+    "date": "2007-07-09"
+  },
+  {
+    "head": "Alistair Darling",
+    "type": "position held",
+    "tail": "new chancellor",
+    "date": "2007-07-09"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "managing director of the IMF",
+    "date": "2007-07-10"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2007-07-10"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "managing director",
+    "date": "2007-07-10"
+  },
+  {
+    "head": "Bretton Woods",
+    "type": "headquarters location",
+    "tail": "Washington",
+    "date": "2007-07-12"
+  },
+  {
+    "head": "Bretton Woods",
+    "type": "has part",
+    "tail": "World Bank",
+    "date": "2007-07-12"
+  },
+  {
+    "head": "World Bank",
+    "type": "part of",
+    "tail": "Bretton Woods",
+    "date": "2007-07-12"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "field of work",
+    "tail": "global economy",
+    "date": "2008-04-10"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "industry",
+    "tail": "global economy",
+    "date": "2008-04-10"
+  },
+  {
+    "head": "global economy",
+    "type": "authority",
+    "tail": "International Monetary Fund",
+    "date": "2008-04-10"
+  },
+  {
+    "head": "world economy",
+    "type": "has part",
+    "tail": "risks",
+    "date": "2008-04-10"
+  },
+  {
+    "head": "world economy",
+    "type": "instance of",
+    "tail": "risks",
+    "date": "2008-04-10"
+  },
+  {
+    "head": "World Bank",
+    "type": "subsidiary",
+    "tail": "World Economic Organization",
+    "date": "2008-04-10"
+  },
+  {
+    "head": "World Economic Organization",
+    "type": "parent organization",
+    "tail": "World Bank",
+    "date": "2008-04-10"
+  },
+  {
+    "head": "G7",
+    "type": "has part",
+    "tail": "finance ministers",
+    "date": "2008-04-11"
+  },
+  {
+    "head": "finance ministers",
+    "type": "part of",
+    "tail": "G7",
+    "date": "2008-04-11"
+  },
+  {
+    "head": "meeting of",
+    "type": "part of",
+    "tail": "G7",
+    "date": "2008-04-11"
+  },
+  {
+    "head": "meeting of",
+    "type": "part of",
+    "tail": "G7 finance ministers",
+    "date": "2008-04-11"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "headquarters location",
+    "tail": "Washington",
+    "date": "2008-04-11"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2008-04-11"
+  },
+  {
+    "head": "sub - prime crisis",
+    "type": "instance of",
+    "tail": "crisis",
+    "date": "2008-04-11"
+  },
+  {
+    "head": "sub - prime crisis",
+    "type": "organizer",
+    "tail": "IMF",
+    "date": "2008-04-11"
+  },
+  {
+    "head": "sub - prime crisis",
+    "type": "has part",
+    "tail": "sub - prime crisis",
+    "date": "2008-04-11"
+  },
+  {
+    "head": "sub - prime crisis",
+    "type": "part of",
+    "tail": "sub - prime crisis",
+    "date": "2008-04-11"
+  },
+  {
+    "head": "House of Representatives",
+    "type": "part of",
+    "tail": "US government",
+    "date": "2008-09-29"
+  },
+  {
+    "head": "US government",
+    "type": "has part",
+    "tail": "House of Representatives",
+    "date": "2008-09-29"
+  },
+  {
+    "head": "voted down",
+    "type": "participant",
+    "tail": "House of Representatives",
+    "date": "2008-09-29"
+  },
+  {
+    "head": "voted down the $ 700bn ( \u00a3 390bn) rescue plan",
+    "type": "participant",
+    "tail": "House of Representatives",
+    "date": "2008-09-29"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "managing director of the IMF",
+    "date": "2008-09-30"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2008-09-30"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "managing director",
+    "date": "2008-09-30"
+  },
+  {
+    "head": "campaign trail",
+    "type": "participant",
+    "tail": "Barack Obama",
+    "date": "2008-09-30"
+  },
+  {
+    "head": "campaign trail",
+    "type": "named after",
+    "tail": "Barack Obama",
+    "date": "2008-09-30"
+  },
+  {
+    "head": "the campaign trail",
+    "type": "participant",
+    "tail": "Barack Obama",
+    "date": "2008-09-30"
+  },
+  {
+    "head": "Strauss",
+    "type": "influenced by",
+    "tail": "Kahn",
+    "date": "2008-09-30"
+  },
+  {
+    "head": "Strauss",
+    "type": "influenced by",
+    "tail": "Strauss - Kahn",
+    "date": "2008-09-30"
+  },
+  {
+    "head": "Strauss",
+    "type": "student",
+    "tail": "Kahn",
+    "date": "2008-09-30"
+  },
+  {
+    "head": "Kahn",
+    "type": "student of",
+    "tail": "Strauss",
+    "date": "2008-09-30"
+  },
+  {
+    "head": "US Senate",
+    "type": "part of",
+    "tail": "lower house",
+    "date": "2008-10-01"
+  },
+  {
+    "head": "lower house",
+    "type": "has part",
+    "tail": "US Senate",
+    "date": "2008-10-01"
+  },
+  {
+    "head": "US Senate",
+    "type": "instance of",
+    "tail": "lower house",
+    "date": "2008-10-01"
+  },
+  {
+    "head": "Strauss",
+    "type": "influenced by",
+    "tail": "Kahn",
+    "date": "2008-10-01"
+  },
+  {
+    "head": "Strauss",
+    "type": "influenced by",
+    "tail": "Strauss - Kahn",
+    "date": "2008-10-01"
+  },
+  {
+    "head": "Strauss",
+    "type": "student",
+    "tail": "Kahn",
+    "date": "2008-10-01"
+  },
+  {
+    "head": "Kahn",
+    "type": "student of",
+    "tail": "Strauss",
+    "date": "2008-10-01"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "position held",
+    "tail": "President",
+    "date": "2008-10-02"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2008-10-02"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "position held",
+    "tail": "President of the United States",
+    "date": "2008-10-02"
+  },
+  {
+    "head": "credit crunch",
+    "type": "has cause",
+    "tail": "financial crisis",
+    "date": "2008-10-08"
+  },
+  {
+    "head": "credit crunch",
+    "type": "facet of",
+    "tail": "financial crisis",
+    "date": "2008-10-08"
+  },
+  {
+    "head": "credit crunch",
+    "type": "has effect",
+    "tail": "financial crisis",
+    "date": "2008-10-08"
+  },
+  {
+    "head": "Nicolas Sarkozy",
+    "type": "position held",
+    "tail": "French President",
+    "date": "2008-10-17"
+  },
+  {
+    "head": "Jos\u00e9 Manuel Barroso",
+    "type": "position held",
+    "tail": "European Commission president",
+    "date": "2008-10-17"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2008-10-17"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2008-10-17"
+  },
+  {
+    "head": "global financial crisis",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2008-10-17"
+  },
+  {
+    "head": "global financial crisis",
+    "type": "start time",
+    "tail": "2008",
+    "date": "2008-10-17"
+  },
+  {
+    "head": "global financial crisis",
+    "type": "has effect",
+    "tail": "helping countries to withstand the global financial crisis",
+    "date": "2008-10-17"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2008-10-18"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2008-10-18"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "International Monetary Fund",
+    "date": "2008-10-18"
+  },
+  {
+    "head": "France",
+    "type": "member of",
+    "tail": "IMF",
+    "date": "2008-10-18"
+  },
+  {
+    "head": "a brief affair with a married senior official",
+    "type": "participant",
+    "tail": "Strauss - Kahn",
+    "date": "2008-10-18"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "significant event",
+    "tail": "having a brief affair with a married senior official",
+    "date": "2008-10-18"
+  },
+  {
+    "head": "having a brief affair with a married senior official",
+    "type": "participant",
+    "tail": "Strauss - Kahn",
+    "date": "2008-10-18"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2008-10-18"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2008-10-18"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "occupation",
+    "tail": "managing director",
+    "date": "2008-10-25"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "managing director",
+    "date": "2008-10-25"
+  },
+  {
+    "head": "Dominique Strauss",
+    "type": "occupation",
+    "tail": "managing director",
+    "date": "2008-10-25"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "office held by head of the organization",
+    "tail": "head of the International Monetary Fund",
+    "date": "2008-10-26"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "office held by head of the organization",
+    "tail": "International Monetary Fund chief",
+    "date": "2008-10-26"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "office held by head of the organization",
+    "tail": "his job",
+    "date": "2008-10-26"
+  },
+  {
+    "head": "sexual harassment",
+    "type": "subclass of",
+    "tail": "abuse of authority",
+    "date": "2008-10-26"
+  },
+  {
+    "head": "sexual harassment",
+    "type": "different from",
+    "tail": "abuse of authority",
+    "date": "2008-10-26"
+  },
+  {
+    "head": "abuse of authority",
+    "type": "different from",
+    "tail": "sexual harassment",
+    "date": "2008-10-26"
+  },
+  {
+    "head": "Jean - Claude Trichet",
+    "type": "position held",
+    "tail": "president of the European Central Bank",
+    "date": "2008-12-15"
+  },
+  {
+    "head": "Jean - Claude Trichet",
+    "type": "employer",
+    "tail": "European Central Bank",
+    "date": "2008-12-15"
+  },
+  {
+    "head": "European Central Bank",
+    "type": "chairperson",
+    "tail": "Jean - Claude Trichet",
+    "date": "2008-12-15"
+  },
+  {
+    "head": "head of the International Monetary Fund",
+    "type": "facet of",
+    "tail": "global economic crisis",
+    "date": "2008-12-15"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "conflict",
+    "tail": "global economic crisis",
+    "date": "2008-12-15"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "significant event",
+    "tail": "global economic crisis",
+    "date": "2008-12-15"
+  },
+  {
+    "head": "eurozone",
+    "type": "continent",
+    "tail": "Europe",
+    "date": "2008-12-15"
+  },
+  {
+    "head": "eurozone",
+    "type": "has part",
+    "tail": "Germany",
+    "date": "2008-12-15"
+  },
+  {
+    "head": "Germany",
+    "type": "member of",
+    "tail": "eurozone",
+    "date": "2008-12-15"
+  },
+  {
+    "head": "eurozone",
+    "type": "has part",
+    "tail": "Italy",
+    "date": "2008-12-15"
+  },
+  {
+    "head": "Italy",
+    "type": "member of",
+    "tail": "eurozone",
+    "date": "2008-12-15"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "office held by head of the organization",
+    "tail": "head",
+    "date": "2008-12-21"
+  },
+  {
+    "head": "head",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2008-12-21"
+  },
+  {
+    "head": "head",
+    "type": "part of",
+    "tail": "International Monetary Fund",
+    "date": "2008-12-21"
+  },
+  {
+    "head": "G20",
+    "type": "headquarters location",
+    "tail": "Washington",
+    "date": "2008-12-21"
+  },
+  {
+    "head": "G20 nations",
+    "type": "headquarters location",
+    "tail": "Washington",
+    "date": "2008-12-21"
+  },
+  {
+    "head": "G20",
+    "type": "headquarters location",
+    "tail": "Washington last month",
+    "date": "2008-12-21"
+  },
+  {
+    "head": "2009",
+    "type": "point in time",
+    "tail": "2009",
+    "date": "2008-12-21"
+  },
+  {
+    "head": "economic growth forecasts for 2009",
+    "type": "point in time",
+    "tail": "2009",
+    "date": "2008-12-21"
+  },
+  {
+    "head": "economic growth",
+    "type": "point in time",
+    "tail": "2009",
+    "date": "2008-12-21"
+  },
+  {
+    "head": "recession",
+    "type": "has cause",
+    "tail": "deficit",
+    "date": "2008-12-22"
+  },
+  {
+    "head": "increasing deficit",
+    "type": "has effect",
+    "tail": "recession",
+    "date": "2008-12-22"
+  },
+  {
+    "head": "recession",
+    "type": "has cause",
+    "tail": "increasing deficit",
+    "date": "2008-12-22"
+  },
+  {
+    "head": "G20",
+    "type": "headquarters location",
+    "tail": "Washington",
+    "date": "2008-12-22"
+  },
+  {
+    "head": "G20 nations",
+    "type": "headquarters location",
+    "tail": "Washington",
+    "date": "2008-12-22"
+  },
+  {
+    "head": "G20",
+    "type": "headquarters location",
+    "tail": "Washington last month",
+    "date": "2008-12-22"
+  },
+  {
+    "head": "2009",
+    "type": "point in time",
+    "tail": "2009",
+    "date": "2008-12-22"
+  },
+  {
+    "head": "economic growth forecasts for 2009",
+    "type": "point in time",
+    "tail": "2009",
+    "date": "2008-12-22"
+  },
+  {
+    "head": "economic growth",
+    "type": "point in time",
+    "tail": "2009",
+    "date": "2008-12-22"
+  },
+  {
+    "head": "Latvia",
+    "type": "member of",
+    "tail": "IMF",
+    "date": "2008-12-25"
+  },
+  {
+    "head": "a bailout package",
+    "type": "country",
+    "tail": "Latvia",
+    "date": "2008-12-25"
+  },
+  {
+    "head": "bailout package",
+    "type": "country",
+    "tail": "Latvia",
+    "date": "2008-12-25"
+  },
+  {
+    "head": "2008",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2009-03-08"
+  },
+  {
+    "head": "in 2008",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2009-03-08"
+  },
+  {
+    "head": "China",
+    "type": "contains administrative territorial entity",
+    "tail": "Hong Kong",
+    "date": "2009-03-08"
+  },
+  {
+    "head": "Hong Kong",
+    "type": "country",
+    "tail": "China",
+    "date": "2009-03-08"
+  },
+  {
+    "head": "Warren Buffett",
+    "type": "occupation",
+    "tail": "investor",
+    "date": "2009-03-09"
+  },
+  {
+    "head": "Warren Buffett",
+    "type": "field of work",
+    "tail": "investor",
+    "date": "2009-03-09"
+  },
+  {
+    "head": "Warren Buffett",
+    "type": "significant event",
+    "tail": "Pearl Harbor",
+    "date": "2009-03-09"
+  },
+  {
+    "head": "Alistair Darling",
+    "type": "employer",
+    "tail": "Guardian",
+    "date": "2009-03-10"
+  },
+  {
+    "head": "Guardian",
+    "type": "editor",
+    "tail": "Alistair Darling",
+    "date": "2009-03-10"
+  },
+  {
+    "head": "Guardian",
+    "type": "owned by",
+    "tail": "Alistair Darling",
+    "date": "2009-03-10"
+  },
+  {
+    "head": "Great Recession",
+    "type": "has effect",
+    "tail": "global economy",
+    "date": "2009-03-10"
+  },
+  {
+    "head": "global economy",
+    "type": "has cause",
+    "tail": "Great Recession",
+    "date": "2009-03-10"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "managing director of the IMF",
+    "date": "2009-04-23"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "managing director",
+    "date": "2009-04-23"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2009-04-23"
+  },
+  {
+    "head": "banking crisis",
+    "type": "location",
+    "tail": "financial sector",
+    "date": "2009-04-23"
+  },
+  {
+    "head": "banking crisis",
+    "type": "has cause",
+    "tail": "financial sector",
+    "date": "2009-04-23"
+  },
+  {
+    "head": "past banking crisis",
+    "type": "facet of",
+    "tail": "financial sector",
+    "date": "2009-04-23"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "position held",
+    "tail": "President",
+    "date": "2009-04-25"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "position held",
+    "tail": "President of the United States",
+    "date": "2009-04-25"
+  },
+  {
+    "head": "Iraq",
+    "type": "diplomatic relation",
+    "tail": "Iran",
+    "date": "2009-04-25"
+  },
+  {
+    "head": "Iran",
+    "type": "diplomatic relation",
+    "tail": "Iraq",
+    "date": "2009-04-25"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2009-04-25"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2009-04-25"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "significant event",
+    "tail": "current financial crisis",
+    "date": "2009-06-15"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "field of work",
+    "tail": "world economy",
+    "date": "2009-06-15"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "conflict",
+    "tail": "current financial crisis",
+    "date": "2009-06-15"
+  },
+  {
+    "head": "Kazakhstan",
+    "type": "member of",
+    "tail": "G8",
+    "date": "2009-06-15"
+  },
+  {
+    "head": "G8",
+    "type": "has part",
+    "tail": "Kazakhstan",
+    "date": "2009-06-15"
+  },
+  {
+    "head": "Kazakhstan",
+    "type": "member of",
+    "tail": "G8 nations",
+    "date": "2009-06-15"
+  },
+  {
+    "head": "Kazakh prime minister",
+    "type": "officeholder",
+    "tail": "Karim Masimov",
+    "date": "2009-06-15"
+  },
+  {
+    "head": "Karim Masimov",
+    "type": "position held",
+    "tail": "Kazakh prime minister",
+    "date": "2009-06-15"
+  },
+  {
+    "head": "tax on foreign exchange inflows",
+    "type": "country",
+    "tail": "Brazil",
+    "date": "2009-10-20"
+  },
+  {
+    "head": "2% tax on foreign exchange inflows",
+    "type": "country",
+    "tail": "Brazil",
+    "date": "2009-10-20"
+  },
+  {
+    "head": "2% tax on foreign exchange inflows",
+    "type": "point in time",
+    "tail": "20 October Brazil",
+    "date": "2009-10-20"
+  },
+  {
+    "head": "international tax",
+    "type": "facet of",
+    "tail": "climate change",
+    "date": "2009-11-07"
+  },
+  {
+    "head": "Gordon Brown",
+    "type": "field of work",
+    "tail": "City dealing",
+    "date": "2009-11-07"
+  },
+  {
+    "head": "Gordon Brown",
+    "type": "notable work",
+    "tail": "international tax",
+    "date": "2009-11-07"
+  },
+  {
+    "head": "St Andrews",
+    "type": "located in the administrative territorial entity",
+    "tail": "Scotland",
+    "date": "2009-11-07"
+  },
+  {
+    "head": "G20 meeting",
+    "type": "location",
+    "tail": "St Andrews",
+    "date": "2009-11-07"
+  },
+  {
+    "head": "St Andrews",
+    "type": "capital of",
+    "tail": "Scotland",
+    "date": "2009-11-07"
+  },
+  {
+    "head": "Scotland",
+    "type": "capital",
+    "tail": "St Andrews",
+    "date": "2009-11-07"
+  },
+  {
+    "head": "October controls",
+    "type": "country",
+    "tail": "Brazil",
+    "date": "2009-11-18"
+  },
+  {
+    "head": "October controls",
+    "type": "applies to jurisdiction",
+    "tail": "Brazil",
+    "date": "2009-11-18"
+  },
+  {
+    "head": "October controls",
+    "type": "point in time",
+    "tail": "November 18, Brazil",
+    "date": "2009-11-18"
+  },
+  {
+    "head": "United Nations",
+    "type": "has part",
+    "tail": "General Assembly",
+    "date": "2009-11-23"
+  },
+  {
+    "head": "General Assembly",
+    "type": "part of",
+    "tail": "United Nations",
+    "date": "2009-11-23"
+  },
+  {
+    "head": "World Bank Group",
+    "type": "replaced by",
+    "tail": "World Bank Group II",
+    "date": "2009-11-23"
+  },
+  {
+    "head": "World Bank Group II",
+    "type": "replaces",
+    "tail": "World Bank Group",
+    "date": "2009-11-23"
+  },
+  {
+    "head": "World Bank Group",
+    "type": "parent organization",
+    "tail": "United Nations",
+    "date": "2009-11-23"
+  },
+  {
+    "head": "two - day stoppage",
+    "type": "point in time",
+    "tail": "Thursday",
+    "date": "2010-03-04"
+  },
+  {
+    "head": "two - day stoppage",
+    "type": "instance of",
+    "tail": "protest",
+    "date": "2010-03-04"
+  },
+  {
+    "head": "two - day stoppage",
+    "type": "instance of",
+    "tail": "strike",
+    "date": "2010-03-04"
+  },
+  {
+    "head": "Greece",
+    "type": "member of",
+    "tail": "International Monetary Fund",
+    "date": "2010-03-08"
+  },
+  {
+    "head": "debt crisis",
+    "type": "country",
+    "tail": "Greece",
+    "date": "2010-03-08"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "country",
+    "tail": "Greece",
+    "date": "2010-03-08"
+  },
+  {
+    "head": "Greece",
+    "type": "continent",
+    "tail": "Europe",
+    "date": "2010-03-08"
+  },
+  {
+    "head": "Reuters",
+    "type": "headquarters location",
+    "tail": "Nairobi",
+    "date": "2010-03-08"
+  },
+  {
+    "head": "Nairobi",
+    "type": "owned by",
+    "tail": "Reuters",
+    "date": "2010-03-08"
+  },
+  {
+    "head": "Barack Obama",
+    "type": "position held",
+    "tail": "President",
+    "date": "2010-03-09"
+  },
+  {
+    "head": "Barack Obama",
+    "type": "residence",
+    "tail": "White House",
+    "date": "2010-03-09"
+  },
+  {
+    "head": "Brussels",
+    "type": "continent",
+    "tail": "Europe",
+    "date": "2010-03-19"
+  },
+  {
+    "head": "European resolution authority",
+    "type": "headquarters location",
+    "tail": "Brussels",
+    "date": "2010-03-19"
+  },
+  {
+    "head": "Brussels",
+    "type": "part of",
+    "tail": "Europe",
+    "date": "2010-03-19"
+  },
+  {
+    "head": "European resolution authority",
+    "type": "applies to jurisdiction",
+    "tail": "European Union",
+    "date": "2010-03-19"
+  },
+  {
+    "head": "European resolution authority",
+    "type": "country",
+    "tail": "European Union",
+    "date": "2010-03-19"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "occupation",
+    "tail": "Managing director",
+    "date": "2010-03-19"
+  },
+  {
+    "head": "executive committee",
+    "type": "part of",
+    "tail": "IMF",
+    "date": "2010-06-10"
+  },
+  {
+    "head": "IMF",
+    "type": "has part",
+    "tail": "executive committee",
+    "date": "2010-06-10"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "part of",
+    "tail": "World Bank",
+    "date": "2010-06-10"
+  },
+  {
+    "head": "World Bank",
+    "type": "has part",
+    "tail": "International Monetary Fund",
+    "date": "2010-06-10"
+  },
+  {
+    "head": "Tapie affair",
+    "type": "location",
+    "tail": "Paris",
+    "date": "2010-06-10"
+  },
+  {
+    "head": "Tapie affair",
+    "type": "located in the administrative territorial entity",
+    "tail": "Paris",
+    "date": "2010-06-10"
+  },
+  {
+    "head": "Tapie affair",
+    "type": "headquarters location",
+    "tail": "Paris",
+    "date": "2010-06-10"
+  },
+  {
+    "head": "the vicious dispute over the detail is unresolved",
+    "type": "country",
+    "tail": "Greece",
+    "date": "2010-07-11"
+  },
+  {
+    "head": "crunch time for Greece",
+    "type": "facet of",
+    "tail": "new bailout",
+    "date": "2010-07-11"
+  },
+  {
+    "head": "crunch time for Greece",
+    "type": "has part",
+    "tail": "new bailout",
+    "date": "2010-07-11"
+  },
+  {
+    "head": "joint eurozone - IMF bailout",
+    "type": "country",
+    "tail": "Greece",
+    "date": "2010-07-15"
+  },
+  {
+    "head": "eurozone - IMF bailout",
+    "type": "country",
+    "tail": "Greece",
+    "date": "2010-07-15"
+  },
+  {
+    "head": "Greece",
+    "type": "member of",
+    "tail": "eurozone",
+    "date": "2010-07-15"
+  },
+  {
+    "head": "Greece",
+    "type": "member of",
+    "tail": "IMF",
+    "date": "2010-07-15"
+  },
+  {
+    "head": "UK coalition",
+    "type": "country",
+    "tail": "UK",
+    "date": "2010-09-13"
+  },
+  {
+    "head": "economic strategy",
+    "type": "country",
+    "tail": "UK",
+    "date": "2010-09-13"
+  },
+  {
+    "head": "economic strategy today",
+    "type": "country",
+    "tail": "UK",
+    "date": "2010-09-13"
+  },
+  {
+    "head": "2011 election",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2010-09-13"
+  },
+  {
+    "head": "John Major",
+    "type": "position held",
+    "tail": "Prime Minister",
+    "date": "2010-09-13"
+  },
+  {
+    "head": "John Bruton",
+    "type": "position held",
+    "tail": "Prime Minister",
+    "date": "2010-09-13"
+  },
+  {
+    "head": "Chen Jian",
+    "type": "country of citizenship",
+    "tail": "China",
+    "date": "2010-09-27"
+  },
+  {
+    "head": "Chen Jian",
+    "type": "position held",
+    "tail": "commerce vice - minister",
+    "date": "2010-09-27"
+  },
+  {
+    "head": "China",
+    "type": "diplomatic relation",
+    "tail": "US",
+    "date": "2010-09-27"
+  },
+  {
+    "head": "US",
+    "type": "diplomatic relation",
+    "tail": "China",
+    "date": "2010-09-27"
+  },
+  {
+    "head": "central bank governor",
+    "type": "country",
+    "tail": "Taiwan",
+    "date": "2010-09-30"
+  },
+  {
+    "head": "central bank governor",
+    "type": "applies to jurisdiction",
+    "tail": "Taiwan",
+    "date": "2010-09-30"
+  },
+  {
+    "head": "central bank",
+    "type": "country",
+    "tail": "Taiwan",
+    "date": "2010-09-30"
+  },
+  {
+    "head": "central bank governor",
+    "type": "country",
+    "tail": "Israel",
+    "date": "2010-10-03"
+  },
+  {
+    "head": "central bank",
+    "type": "country",
+    "tail": "Israel",
+    "date": "2010-10-03"
+  },
+  {
+    "head": "central bank governor",
+    "type": "applies to jurisdiction",
+    "tail": "Israel",
+    "date": "2010-10-03"
+  },
+  {
+    "head": "Robert Zoellick",
+    "type": "position held",
+    "tail": "World Bank president",
+    "date": "2010-10-04"
+  },
+  {
+    "head": "World Bank",
+    "type": "chairperson",
+    "tail": "Robert Zoellick",
+    "date": "2010-10-04"
+  },
+  {
+    "head": "World Bank president",
+    "type": "officeholder",
+    "tail": "Robert Zoellick",
+    "date": "2010-10-04"
+  },
+  {
+    "head": "Dominique Strauss",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2010-10-05"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "IMF managing director",
+    "date": "2010-10-05"
+  },
+  {
+    "head": "Dominique Strauss",
+    "type": "position held",
+    "tail": "IMF managing director",
+    "date": "2010-10-05"
+  },
+  {
+    "head": "eurozone finance ministers",
+    "type": "chairperson",
+    "tail": "Claude Juncker",
+    "date": "2010-10-05"
+  },
+  {
+    "head": "Jean - Claude Juncker",
+    "type": "position held",
+    "tail": "chairman of eurozone finance ministers",
+    "date": "2010-10-05"
+  },
+  {
+    "head": "Claude Juncker",
+    "type": "position held",
+    "tail": "chairman of eurozone finance ministers",
+    "date": "2010-10-05"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2010-10-05"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2010-10-05"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2010-10-05"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2010-10-05"
+  },
+  {
+    "head": "George Osborne",
+    "type": "employer",
+    "tail": "Treasury",
+    "date": "2010-10-06"
+  },
+  {
+    "head": "plan to tax banks \\'balance sheets",
+    "type": "author",
+    "tail": "George Osborne",
+    "date": "2010-10-06"
+  },
+  {
+    "head": "plan to tax banks \\' balance sheets",
+    "type": "author",
+    "tail": "George Osborne",
+    "date": "2010-10-06"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "managing director",
+    "date": "2010-10-06"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2010-10-06"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "occupation",
+    "tail": "managing director",
+    "date": "2010-10-06"
+  },
+  {
+    "head": "Algirdas \u0160emeta",
+    "type": "position held",
+    "tail": "EU tax commissioner",
+    "date": "2010-10-06"
+  },
+  {
+    "head": "Algirdas \u0160emeta",
+    "type": "position held",
+    "tail": "tax commissioner",
+    "date": "2010-10-06"
+  },
+  {
+    "head": "EU tax commissioner",
+    "type": "officeholder",
+    "tail": "Algirdas \u0160emeta",
+    "date": "2010-10-06"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2010-10-07"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2010-10-07"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "managing director",
+    "date": "2010-10-07"
+  },
+  {
+    "head": "Algirdas \u0160emeta",
+    "type": "position held",
+    "tail": "EU tax commissioner",
+    "date": "2010-10-07"
+  },
+  {
+    "head": "Algirdas \u0160emeta",
+    "type": "position held",
+    "tail": "tax commissioner",
+    "date": "2010-10-07"
+  },
+  {
+    "head": "EU tax commissioner",
+    "type": "officeholder",
+    "tail": "Algirdas \u0160emeta",
+    "date": "2010-10-07"
+  },
+  {
+    "head": "Obama",
+    "type": "position held",
+    "tail": "President",
+    "date": "2010-10-15"
+  },
+  {
+    "head": "unilaterally imposing American tariffs on Chinese imports",
+    "type": "instance of",
+    "tail": "currency manipulator",
+    "date": "2010-10-15"
+  },
+  {
+    "head": "unilaterally imposing American tariffs on Chinese imports",
+    "type": "country",
+    "tail": "China",
+    "date": "2010-10-15"
+  },
+  {
+    "head": "mid-1970s",
+    "type": "point in time",
+    "tail": "mid-1970",
+    "date": "2010-10-16"
+  },
+  {
+    "head": "early 1990s",
+    "type": "point in time",
+    "tail": "early 1990",
+    "date": "2010-10-16"
+  },
+  {
+    "head": "early 1990s",
+    "type": "point in time",
+    "tail": "1990",
+    "date": "2010-10-16"
+  },
+  {
+    "head": "John Milton",
+    "type": "notable work",
+    "tail": "Paradise Lost",
+    "date": "2010-10-16"
+  },
+  {
+    "head": "Paradise Lost",
+    "type": "author",
+    "tail": "John Milton",
+    "date": "2010-10-16"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2010-10-16"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "Secretary of Defense",
+    "date": "2010-10-16"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "instance of",
+    "tail": "diplomats",
+    "date": "2010-10-16"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "instance of",
+    "tail": "diplomat",
+    "date": "2010-10-16"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "instance of",
+    "tail": "supreme financial diplomat",
+    "date": "2010-10-16"
+  },
+  {
+    "head": "financial final communiques",
+    "type": "subclass of",
+    "tail": "compromises",
+    "date": "2010-10-16"
+  },
+  {
+    "head": "final communique",
+    "type": "subclass of",
+    "tail": "opaque language",
+    "date": "2010-10-16"
+  },
+  {
+    "head": "financial final communiques",
+    "type": "subclass of",
+    "tail": "opaque language",
+    "date": "2010-10-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "IMF managing director",
+    "date": "2010-10-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "managing director",
+    "date": "2010-10-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2010-10-16"
+  },
+  {
+    "head": "the week before",
+    "type": "followed by",
+    "tail": "last Tuesday",
+    "date": "2010-11-30"
+  },
+  {
+    "head": "last Tuesday",
+    "type": "point in time",
+    "tail": "last Tuesday",
+    "date": "2010-11-30"
+  },
+  {
+    "head": "the week before",
+    "type": "followed by",
+    "tail": "the week leading up to last Tuesday",
+    "date": "2010-11-30"
+  },
+  {
+    "head": "European Central Bank",
+    "type": "subsidiary",
+    "tail": "Bank of Austria",
+    "date": "2010-12-05"
+  },
+  {
+    "head": "Bank of Austria",
+    "type": "part of",
+    "tail": "European Central Bank",
+    "date": "2010-12-05"
+  },
+  {
+    "head": "European Central Bank",
+    "type": "parent organization",
+    "tail": "European Commission",
+    "date": "2010-12-05"
+  },
+  {
+    "head": "European Central Bank",
+    "type": "has part",
+    "tail": "Bank of Austria",
+    "date": "2010-12-05"
+  },
+  {
+    "head": "rescue fund",
+    "type": "creator",
+    "tail": "ECB",
+    "date": "2010-12-06"
+  },
+  {
+    "head": "rescue fund",
+    "type": "parent organization",
+    "tail": "ECB",
+    "date": "2010-12-06"
+  },
+  {
+    "head": "eurozone",
+    "type": "contains administrative territorial entity",
+    "tail": "Brussels",
+    "date": "2010-12-06"
+  },
+  {
+    "head": "Germany",
+    "type": "member of",
+    "tail": "eurozone",
+    "date": "2010-12-06"
+  },
+  {
+    "head": "eurozone",
+    "type": "has part",
+    "tail": "Germany",
+    "date": "2010-12-06"
+  },
+  {
+    "head": "European Central Bank",
+    "type": "applies to jurisdiction",
+    "tail": "eurozone",
+    "date": "2010-12-06"
+  },
+  {
+    "head": "EU finance ministers",
+    "type": "headquarters location",
+    "tail": "Brussels",
+    "date": "2010-12-07"
+  },
+  {
+    "head": "EU",
+    "type": "contains administrative territorial entity",
+    "tail": "Brussels",
+    "date": "2010-12-07"
+  },
+  {
+    "head": "Brussels",
+    "type": "part of",
+    "tail": "EU",
+    "date": "2010-12-07"
+  },
+  {
+    "head": "Bestseller",
+    "type": "facet of",
+    "tail": "Christmas",
+    "date": "2010-12-25"
+  },
+  {
+    "head": "Bestseller",
+    "type": "is a list of",
+    "tail": "bestseller",
+    "date": "2010-12-25"
+  },
+  {
+    "head": "Christmas bestseller",
+    "type": "subclass of",
+    "tail": "bestseller",
+    "date": "2010-12-25"
+  },
+  {
+    "head": "National Institute for Economic and Social Research",
+    "type": "country",
+    "tail": "Britain",
+    "date": "2011-01-31"
+  },
+  {
+    "head": "2008 Summer Olympics",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2011-01-31"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "part of",
+    "tail": "World Bank",
+    "date": "2011-01-31"
+  },
+  {
+    "head": "World Bank",
+    "type": "has part",
+    "tail": "International Monetary Fund",
+    "date": "2011-01-31"
+  },
+  {
+    "head": "Bank of England",
+    "type": "instance of",
+    "tail": "central bank",
+    "date": "2011-02-01"
+  },
+  {
+    "head": "Bank of England",
+    "type": "country",
+    "tail": "UK",
+    "date": "2011-02-01"
+  },
+  {
+    "head": "Bank of England",
+    "type": "replaced by",
+    "tail": "Bank of England of London",
+    "date": "2011-02-01"
+  },
+  {
+    "head": "Bank of England of London",
+    "type": "replaces",
+    "tail": "Bank of England",
+    "date": "2011-02-01"
+  },
+  {
+    "head": "Nicolas Sarkozy",
+    "type": "candidacy in election",
+    "tail": "presidential election this spring",
+    "date": "2011-02-21"
+  },
+  {
+    "head": "presidential election this spring",
+    "type": "candidate",
+    "tail": "Nicolas Sarkozy",
+    "date": "2011-02-21"
+  },
+  {
+    "head": "Nicolas Sarkozy",
+    "type": "candidacy in election",
+    "tail": "presidential election",
+    "date": "2011-02-21"
+  },
+  {
+    "head": "presidential election",
+    "type": "candidate",
+    "tail": "Nicolas Sarkozy",
+    "date": "2011-02-21"
+  },
+  {
+    "head": "Sarkozy",
+    "type": "member of political party",
+    "tail": "Union for a Popular Movement",
+    "date": "2011-03-20"
+  },
+  {
+    "head": "National Front",
+    "type": "political ideology",
+    "tail": "far - right",
+    "date": "2011-03-20"
+  },
+  {
+    "head": "Left Front",
+    "type": "chairperson",
+    "tail": "Jean - Luc M\u00e9lenchon",
+    "date": "2011-03-20"
+  },
+  {
+    "head": "Jean - Luc M\u00e9lenchon",
+    "type": "member of political party",
+    "tail": "Left Front",
+    "date": "2011-03-20"
+  },
+  {
+    "head": "Jean - Luc M\u00e9lenchon",
+    "type": "member of political party",
+    "tail": "Socialist",
+    "date": "2011-03-20"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "work location",
+    "tail": "Washington",
+    "date": "2011-04-04"
+  },
+  {
+    "head": "Dominique Strauss",
+    "type": "spouse",
+    "tail": "Kahn",
+    "date": "2011-04-04"
+  },
+  {
+    "head": "Kahn",
+    "type": "spouse",
+    "tail": "Dominique Strauss",
+    "date": "2011-04-04"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "residence",
+    "tail": "Washington",
+    "date": "2011-04-04"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "field of work",
+    "tail": "global economy",
+    "date": "2011-04-04"
+  },
+  {
+    "head": "global economy",
+    "type": "authority",
+    "tail": "International Monetary Fund",
+    "date": "2011-04-04"
+  },
+  {
+    "head": "head of the International Monetary Fund",
+    "type": "field of work",
+    "tail": "global economy",
+    "date": "2011-04-04"
+  },
+  {
+    "head": "global economic lake",
+    "type": "has part",
+    "tail": "black swan",
+    "date": "2011-04-04"
+  },
+  {
+    "head": "economic lake",
+    "type": "basin country",
+    "tail": "global",
+    "date": "2011-04-04"
+  },
+  {
+    "head": "economic lake",
+    "type": "country",
+    "tail": "global",
+    "date": "2011-04-04"
+  },
+  {
+    "head": "German finance minister",
+    "type": "officeholder",
+    "tail": "Greek equivalent",
+    "date": "2011-04-14"
+  },
+  {
+    "head": "Greek equivalent",
+    "type": "office held by head of the organization",
+    "tail": "German finance minister",
+    "date": "2011-04-14"
+  },
+  {
+    "head": "Greek equivalent",
+    "type": "office held by head of government",
+    "tail": "German finance minister",
+    "date": "2011-04-14"
+  },
+  {
+    "head": "Today programme",
+    "type": "original broadcaster",
+    "tail": "BBC Radio 4",
+    "date": "2011-04-19"
+  },
+  {
+    "head": "Today",
+    "type": "original broadcaster",
+    "tail": "BBC Radio 4",
+    "date": "2011-04-19"
+  },
+  {
+    "head": "Today programme",
+    "type": "production company",
+    "tail": "BBC",
+    "date": "2011-04-19"
+  },
+  {
+    "head": "David Blanchflower",
+    "type": "employer",
+    "tail": "Bank of England",
+    "date": "2011-04-19"
+  },
+  {
+    "head": "Gordon Brown",
+    "type": "position held",
+    "tail": "managing director of the International Monetary Fund",
+    "date": "2011-04-19"
+  },
+  {
+    "head": "Bank of England",
+    "type": "has part",
+    "tail": "monetary policy committee",
+    "date": "2011-04-19"
+  },
+  {
+    "head": "monetary policy committee",
+    "type": "part of",
+    "tail": "Bank of England",
+    "date": "2011-04-19"
+  },
+  {
+    "head": "Brown",
+    "type": "position held",
+    "tail": "top job at the IMF",
+    "date": "2011-04-19"
+  },
+  {
+    "head": "Brown",
+    "type": "position held",
+    "tail": "top job",
+    "date": "2011-04-19"
+  },
+  {
+    "head": "top job",
+    "type": "part of",
+    "tail": "IMF",
+    "date": "2011-04-19"
+  },
+  {
+    "head": "French",
+    "type": "diplomatic relation",
+    "tail": "Luxembourg",
+    "date": "2011-05-06"
+  },
+  {
+    "head": "French",
+    "type": "diplomatic relation",
+    "tail": "German",
+    "date": "2011-05-06"
+  },
+  {
+    "head": "German",
+    "type": "diplomatic relation",
+    "tail": "French",
+    "date": "2011-05-06"
+  },
+  {
+    "head": "French",
+    "type": "diplomatic relation",
+    "tail": "Spanish",
+    "date": "2011-05-06"
+  },
+  {
+    "head": "French",
+    "type": "diplomatic relation",
+    "tail": "Italian",
+    "date": "2011-05-06"
+  },
+  {
+    "head": "German",
+    "type": "diplomatic relation",
+    "tail": "Spanish",
+    "date": "2011-05-06"
+  },
+  {
+    "head": "German",
+    "type": "diplomatic relation",
+    "tail": "Italian",
+    "date": "2011-05-06"
+  },
+  {
+    "head": "Spanish",
+    "type": "diplomatic relation",
+    "tail": "French",
+    "date": "2011-05-06"
+  },
+  {
+    "head": "Spanish",
+    "type": "diplomatic relation",
+    "tail": "German",
+    "date": "2011-05-06"
+  },
+  {
+    "head": "Spanish",
+    "type": "diplomatic relation",
+    "tail": "Italian",
+    "date": "2011-05-06"
+  },
+  {
+    "head": "Italian",
+    "type": "diplomatic relation",
+    "tail": "French",
+    "date": "2011-05-06"
+  },
+  {
+    "head": "Italian",
+    "type": "diplomatic relation",
+    "tail": "German",
+    "date": "2011-05-06"
+  },
+  {
+    "head": "Italian",
+    "type": "diplomatic relation",
+    "tail": "Spanish",
+    "date": "2011-05-06"
+  },
+  {
+    "head": "Fran\u00e7ois Hollande",
+    "type": "member of political party",
+    "tail": "Socialist",
+    "date": "2011-05-06"
+  },
+  {
+    "head": "Sarkozy",
+    "type": "member of political party",
+    "tail": "rightwing",
+    "date": "2011-05-06"
+  },
+  {
+    "head": "Sarkozy",
+    "type": "political ideology",
+    "tail": "rightwing",
+    "date": "2011-05-06"
+  },
+  {
+    "head": "Fran\u00e7ois Mitterrand",
+    "type": "candidacy in election",
+    "tail": "1981 election victory",
+    "date": "2011-05-09"
+  },
+  {
+    "head": "1981 election victory",
+    "type": "successful candidate",
+    "tail": "Fran\u00e7ois Mitterrand",
+    "date": "2011-05-09"
+  },
+  {
+    "head": "Fran\u00e7ois Mitterrand",
+    "type": "candidacy in election",
+    "tail": "1981 election",
+    "date": "2011-05-09"
+  },
+  {
+    "head": "1981 election",
+    "type": "successful candidate",
+    "tail": "Fran\u00e7ois Mitterrand",
+    "date": "2011-05-09"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-09"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "candidacy in election",
+    "tail": "2012",
+    "date": "2011-05-09"
+  },
+  {
+    "head": "2012",
+    "type": "candidate",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-05-09"
+  },
+  {
+    "head": "Les Gerard",
+    "type": "said to be the same as",
+    "tail": "Razzy awards",
+    "date": "2011-05-10"
+  },
+  {
+    "head": "Razzy awards",
+    "type": "said to be the same as",
+    "tail": "Les Gerard",
+    "date": "2011-05-10"
+  },
+  {
+    "head": "Les Gerard",
+    "type": "instance of",
+    "tail": "Razzy awards",
+    "date": "2011-05-10"
+  },
+  {
+    "head": "Les Gerard",
+    "type": "named after",
+    "tail": "Razzy awards",
+    "date": "2011-05-10"
+  },
+  {
+    "head": "amended on 11 May 2011",
+    "type": "publication date",
+    "tail": "11 May 2011",
+    "date": "2011-05-11"
+  },
+  {
+    "head": "amended",
+    "type": "publication date",
+    "tail": "11 May 2011",
+    "date": "2011-05-11"
+  },
+  {
+    "head": "This article was amended on 11 May 2011",
+    "type": "publication date",
+    "tail": "11 May 2011",
+    "date": "2011-05-11"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2011-05-12"
+  },
+  {
+    "head": "US",
+    "type": "capital",
+    "tail": "capital",
+    "date": "2011-05-12"
+  },
+  {
+    "head": "capital",
+    "type": "capital of",
+    "tail": "US",
+    "date": "2011-05-12"
+  },
+  {
+    "head": "capital",
+    "type": "country",
+    "tail": "US",
+    "date": "2011-05-12"
+  },
+  {
+    "head": "Air France",
+    "type": "location of formation",
+    "tail": "Paris",
+    "date": "2011-05-13"
+  },
+  {
+    "head": "Air France",
+    "type": "airline hub",
+    "tail": "Paris",
+    "date": "2011-05-13"
+  },
+  {
+    "head": "first - class cabin",
+    "type": "operator",
+    "tail": "Air France",
+    "date": "2011-05-13"
+  },
+  {
+    "head": "Al Jazeera English",
+    "type": "country",
+    "tail": "Qatar",
+    "date": "2011-05-13"
+  },
+  {
+    "head": "Al Jazeera English",
+    "type": "language used",
+    "tail": "English",
+    "date": "2011-05-13"
+  },
+  {
+    "head": "Al Jazeera English",
+    "type": "country",
+    "tail": "United States",
+    "date": "2011-05-13"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "country of citizenship",
+    "tail": "French",
+    "date": "2011-05-13"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "work location",
+    "tail": "French",
+    "date": "2011-05-13"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "candidacy in election",
+    "tail": "French voters",
+    "date": "2011-05-13"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-13"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-05-13"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "residence",
+    "tail": "Elys\u00e9e Palace",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "attempted rape",
+    "type": "subclass of",
+    "tail": "criminal sexual act",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "attempted rape",
+    "type": "instance of",
+    "tail": "criminal sexual act",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "murder",
+    "type": "has parts of the class",
+    "tail": "attempted rape",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "Sofitel",
+    "type": "located in the administrative territorial entity",
+    "tail": "Manhattan",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "Sofitel",
+    "type": "headquarters location",
+    "tail": "Manhattan",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "Sofitel hotel",
+    "type": "located in the administrative territorial entity",
+    "tail": "Manhattan",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "Sofitel",
+    "type": "location",
+    "tail": "midtown Manhattan",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "midtown",
+    "type": "located in the administrative territorial entity",
+    "tail": "Manhattan",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "Sofitel",
+    "type": "location of formation",
+    "tail": "midtown Manhattan",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "JFK airport",
+    "type": "located in the administrative territorial entity",
+    "tail": "Manhattan",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "JFK airport",
+    "type": "place served by transport hub",
+    "tail": "Manhattan",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "JFK",
+    "type": "located in the administrative territorial entity",
+    "tail": "Manhattan",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "Sofitel",
+    "type": "located in the administrative territorial entity",
+    "tail": "Manhattan",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "midtown Manhattan",
+    "type": "located in the administrative territorial entity",
+    "tail": "Manhattan",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "attempted rape",
+    "type": "subclass of",
+    "tail": "sexual assault",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "New York",
+    "type": "country",
+    "tail": "United States",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "United States",
+    "type": "contains administrative territorial entity",
+    "tail": "New York",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "New York",
+    "type": "country",
+    "tail": "America",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "America",
+    "type": "contains administrative territorial entity",
+    "tail": "New York",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "hotel suite",
+    "type": "located in the administrative territorial entity",
+    "tail": "New York",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "New York",
+    "type": "twinned administrative body",
+    "tail": "London",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "London",
+    "type": "twinned administrative body",
+    "tail": "New York",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "New York",
+    "type": "instance of",
+    "tail": "hotel",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "candidacy in election",
+    "tail": "French presidential race",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "French presidential race",
+    "type": "candidate",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "Sofitel",
+    "type": "headquarters location",
+    "tail": "New York",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "Port Authority of New York",
+    "type": "applies to jurisdiction",
+    "tail": "Manhattan",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "Port Authority of New York",
+    "type": "headquarters location",
+    "tail": "New York",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "Air France",
+    "type": "location of formation",
+    "tail": "Paris",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "Air France",
+    "type": "airline hub",
+    "tail": "Paris",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "Air France",
+    "type": "airline hub",
+    "tail": "JFK airport",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "Times Square",
+    "type": "located in the administrative territorial entity",
+    "tail": "Manhattan",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "Theatre district",
+    "type": "located in the administrative territorial entity",
+    "tail": "Manhattan",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "Sofitel New York",
+    "type": "located in the administrative territorial entity",
+    "tail": "Manhattan",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "the alleged assault",
+    "type": "participant",
+    "tail": "hotel maid",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "the alleged assault",
+    "type": "facet of",
+    "tail": "hotel maid",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "the alleged assault on the hotel maid",
+    "type": "instance of",
+    "tail": "sex attack",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "significant event",
+    "tail": "sexually assaulting and attempting to rape a room maid in a New York hotel",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "sexually assaulting and attempting to rape a room maid in a New York hotel",
+    "type": "participant",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "significant event",
+    "tail": "sexually assaulting and attempting to rape a room maid",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "sexually assaulting and attempting to rape a room maid",
+    "type": "participant",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-05-14"
+  },
+  {
+    "head": "Paul Browne",
+    "type": "employer",
+    "tail": "NYPD",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "New York Yankees",
+    "type": "league",
+    "tail": "Major League Baseball",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "New York City Police Department",
+    "type": "applies to jurisdiction",
+    "tail": "New York City",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "position held",
+    "tail": "head of the IMF",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "IMF",
+    "type": "chairperson",
+    "tail": "Strauss - Kahn",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Nicolas Sarkozy",
+    "type": "position held",
+    "tail": "French president",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "the IMF",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "debt crisis",
+    "type": "location",
+    "tail": "Europe",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "German chancellor",
+    "type": "officeholder",
+    "tail": "Angela Merkel",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Angela Merkel",
+    "type": "position held",
+    "tail": "German chancellor",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Anne Mansouret",
+    "type": "member of political party",
+    "tail": "Socialist",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Anne Mansouret",
+    "type": "member of political party",
+    "tail": "Socialist councillor",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Anne Mansouret",
+    "type": "child",
+    "tail": "Tristane Banon",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Tristane Banon",
+    "type": "mother",
+    "tail": "Anne Mansouret",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Times Square",
+    "type": "located in the administrative territorial entity",
+    "tail": "Manhattan",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Anne Mansouret",
+    "type": "member of political party",
+    "tail": "Socialist",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Anne Mansouret",
+    "type": "member of political party",
+    "tail": "Socialist councillor",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "JFK airport",
+    "type": "place served by transport hub",
+    "tail": "New York",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "JFK airport",
+    "type": "located in the administrative territorial entity",
+    "tail": "New York",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "JFK",
+    "type": "place served by transport hub",
+    "tail": "New York",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "IMF",
+    "type": "office held by head of the organization",
+    "tail": "head",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "head",
+    "type": "part of",
+    "tail": "IMF",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "managing director",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "managing director",
+    "type": "part of",
+    "tail": "IMF",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "alleged attack on a chambermaid",
+    "type": "location",
+    "tail": "New York",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Air France",
+    "type": "location of formation",
+    "tail": "Paris",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Air France",
+    "type": "airline hub",
+    "tail": "Paris",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Air France",
+    "type": "airline hub",
+    "tail": "JFK airport",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Dominique Strauss",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "IMF chief",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "significant event",
+    "tail": "sexually assaulting and attempting to rape a room maid in a New York hotel",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "sexually assaulting and attempting to rape a room maid in a New York hotel",
+    "type": "participant",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "significant event",
+    "tail": "sexually assaulting and attempting to rape a room maid",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "IMF",
+    "type": "chairperson",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "the IMF",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "president of France",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Dominique Strauss",
+    "type": "position held",
+    "tail": "president of France",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Dominique Strauss-Kahn",
+    "type": "position held",
+    "tail": "president of France",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "criminal court",
+    "type": "located in the administrative territorial entity",
+    "tail": "Manhattan",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "Manhattan criminal court",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Manhattan criminal court",
+    "type": "applies to jurisdiction",
+    "tail": "Manhattan",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Lib\u00e9ration",
+    "type": "headquarters location",
+    "tail": "Paris",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Lib\u00e9ration",
+    "type": "place of publication",
+    "tail": "Paris",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "work location",
+    "tail": "Paris",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "significant event",
+    "tail": "sexually assaulting and attempting to rape a maid",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Air France",
+    "type": "location of formation",
+    "tail": "Paris",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Air France",
+    "type": "airline hub",
+    "tail": "JFK airport",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Nemat Shafik",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "European debt crisis",
+    "type": "country",
+    "tail": "Greece",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "headquarters location",
+    "tail": "London",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Greece",
+    "type": "member of",
+    "tail": "EU",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "EU",
+    "type": "contains administrative territorial entity",
+    "tail": "Greece",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "EU",
+    "type": "has part",
+    "tail": "Greece",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "significant event",
+    "tail": "sexual assault charges in New York",
+    "date": "2011-05-15"
+  },
+  {
+    "head": "EU finance ministers meeting",
+    "type": "main subject",
+    "tail": "Portuguese situation",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "EU finance ministers meeting",
+    "type": "country",
+    "tail": "Portuguese",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "EU finance ministers meeting",
+    "type": "facet of",
+    "tail": "Portuguese situation",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "euro",
+    "type": "opposite of",
+    "tail": "dollar",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "dollar",
+    "type": "opposite of",
+    "tail": "euro",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "euro",
+    "type": "opposite of",
+    "tail": "sterling",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "sterling",
+    "type": "opposite of",
+    "tail": "euro",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Brussels",
+    "type": "twinned administrative body",
+    "tail": "Paris",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Brussels",
+    "type": "country",
+    "tail": "France",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "France",
+    "type": "contains administrative territorial entity",
+    "tail": "Brussels",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Brussels",
+    "type": "located in the administrative territorial entity",
+    "tail": "France",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "EU ministers",
+    "type": "headquarters location",
+    "tail": "Brussels",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "EU",
+    "type": "contains administrative territorial entity",
+    "tail": "Brussels",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Brussels",
+    "type": "located in the administrative territorial entity",
+    "tail": "EU",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Strauss - Kahn arrest",
+    "type": "participant",
+    "tail": "George Osborne",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Strauss - Kahn arrest",
+    "type": "cast member",
+    "tail": "George Osborne",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "George Osborne",
+    "type": "significant event",
+    "tail": "Strauss - Kahn arrest",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Anne Mansouret",
+    "type": "member of political party",
+    "tail": "socialist",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Anne Mansouret",
+    "type": "candidacy in election",
+    "tail": "presidential primaries",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "presidential primaries",
+    "type": "candidate",
+    "tail": "Anne Mansouret",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Rikers Island",
+    "type": "located in the administrative territorial entity",
+    "tail": "New York",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Rikers Island",
+    "type": "instance of",
+    "tail": "penal complex",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Benjamin Brafman",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Anne Mansouret",
+    "type": "member of political party",
+    "tail": "Socialist",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Benjamin Brafman",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Rikers Island",
+    "type": "instance of",
+    "tail": "prison",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Rikers Island",
+    "type": "located in the administrative territorial entity",
+    "tail": "New York",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Rikers Island prison",
+    "type": "located in the administrative territorial entity",
+    "tail": "New York",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "country of citizenship",
+    "tail": "French",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "instance of",
+    "tail": "sexually assaulted",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "significant event",
+    "tail": "sexually assaulted",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "member of political party",
+    "tail": "Socialist party",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Strauss - Kahn family",
+    "type": "member of political party",
+    "tail": "Socialist party",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Strauss",
+    "type": "family",
+    "tail": "Kahn",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "IMF",
+    "type": "chairperson",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "the IMF",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "president of France",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Dominique Strauss",
+    "type": "position held",
+    "tail": "president of France",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Dominique Strauss-Kahn",
+    "type": "position held",
+    "tail": "president of France",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "uncertainty",
+    "type": "subclass of",
+    "tail": "risk",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "uncertainty",
+    "type": "has part",
+    "tail": "risk",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "the arrest of the IMF chief",
+    "type": "has effect",
+    "tail": "uncertainty",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Ben Brafman",
+    "type": "occupation",
+    "tail": "defence lawyers",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "defence lawyers",
+    "type": "has part",
+    "tail": "Ben Brafman",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Ben Brafman",
+    "type": "part of",
+    "tail": "defence lawyers",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Ben Brafman",
+    "type": "occupation",
+    "tail": "defence lawyer",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "criminal court",
+    "type": "located in the administrative territorial entity",
+    "tail": "Manhattan",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "Manhattan criminal court",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Manhattan criminal court",
+    "type": "applies to jurisdiction",
+    "tail": "Manhattan",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Lib\u00e9ration",
+    "type": "headquarters location",
+    "tail": "Paris",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Lib\u00e9ration",
+    "type": "place of publication",
+    "tail": "Paris",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "work location",
+    "tail": "Paris",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "significant event",
+    "tail": "sexually assaulting and attempting to rape a maid",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Air France",
+    "type": "location of formation",
+    "tail": "Paris",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Air France",
+    "type": "airline hub",
+    "tail": "JFK airport",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "place of death",
+    "tail": "New York police station",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "work location",
+    "tail": "New York",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "residence",
+    "tail": "New York police station",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "euro",
+    "type": "start time",
+    "tail": "1999",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "euro",
+    "type": "inception",
+    "tail": "1999",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "US legal system",
+    "type": "country",
+    "tail": "US",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "US",
+    "type": "significant event",
+    "tail": "European debt crisis",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "US",
+    "type": "participant in",
+    "tail": "European debt crisis",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "European debt crisis",
+    "type": "participant",
+    "tail": "US",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "significant event",
+    "tail": "allegations",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "The allegations",
+    "type": "participant",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "The allegations against Dominique Strauss - Kahn",
+    "type": "country",
+    "tail": "British",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "candidacy in election",
+    "tail": "French presidential hopeful",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "French presidential hopeful",
+    "type": "candidate",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Greek drama",
+    "type": "participant",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "potential tilt",
+    "type": "office contested",
+    "tail": "French presidency",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Greek drama",
+    "type": "cast member",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "place of death",
+    "tail": "prison cell",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "residence",
+    "tail": "prison cell",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "instance of",
+    "tail": "prison cell",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "work location",
+    "tail": "New York",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "place of death",
+    "tail": "New York",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "residence",
+    "tail": "New York",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Rikers Island",
+    "type": "located in the administrative territorial entity",
+    "tail": "New York",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Sarkozy",
+    "type": "candidacy in election",
+    "tail": "2012",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "2012",
+    "type": "candidate",
+    "tail": "Sarkozy",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "2012",
+    "type": "successful candidate",
+    "tail": "Sarkozy",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Monica Lewinsky",
+    "type": "significant event",
+    "tail": "Strauss - Kahn scandal",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Strauss - Kahn scandal",
+    "type": "country",
+    "tail": "France",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Monica Lewinsky",
+    "type": "notable work",
+    "tail": "Strauss - Kahn scandal",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "residence",
+    "tail": "Rikers Island",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-05-16"
+  },
+  {
+    "head": "primary race",
+    "type": "participant",
+    "tail": "The Socialists",
+    "date": "2011-05-17"
+  },
+  {
+    "head": "primary race",
+    "type": "participant",
+    "tail": "Socialists",
+    "date": "2011-05-17"
+  },
+  {
+    "head": "primary race to choose a candidate",
+    "type": "participant",
+    "tail": "The Socialists",
+    "date": "2011-05-17"
+  },
+  {
+    "head": "Tim Geithner",
+    "type": "position held",
+    "tail": "US treasury secretary",
+    "date": "2011-05-17"
+  },
+  {
+    "head": "Tim Geithner",
+    "type": "position held",
+    "tail": "treasury secretary",
+    "date": "2011-05-17"
+  },
+  {
+    "head": "Tim Geithner",
+    "type": "position held",
+    "tail": "Treasury secretary",
+    "date": "2011-05-17"
+  },
+  {
+    "head": "sexual assault",
+    "type": "subclass of",
+    "tail": "transgression",
+    "date": "2011-05-17"
+  },
+  {
+    "head": "sexual assault",
+    "type": "instance of",
+    "tail": "transgression",
+    "date": "2011-05-17"
+  },
+  {
+    "head": "employer",
+    "type": "different from",
+    "tail": "worker",
+    "date": "2011-05-17"
+  },
+  {
+    "head": "worker",
+    "type": "different from",
+    "tail": "employer",
+    "date": "2011-05-17"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-17"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-05-17"
+  },
+  {
+    "head": "Timothy Geithner",
+    "type": "position held",
+    "tail": "US treasury secretary",
+    "date": "2011-05-17"
+  },
+  {
+    "head": "Timothy Geithner",
+    "type": "position held",
+    "tail": "treasury secretary",
+    "date": "2011-05-17"
+  },
+  {
+    "head": "Timothy Geithner",
+    "type": "position held",
+    "tail": "Treasury secretary",
+    "date": "2011-05-17"
+  },
+  {
+    "head": "Dervi\u015f",
+    "type": "position held",
+    "tail": "Turkish finance minister",
+    "date": "2011-05-18"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "significant event",
+    "tail": "allegations of sexual assault",
+    "date": "2011-05-18"
+  },
+  {
+    "head": "Turkish finance minister",
+    "type": "country",
+    "tail": "Turkish",
+    "date": "2011-05-18"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2011-05-18"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "IMF chief",
+    "date": "2011-05-18"
+  },
+  {
+    "head": "Dominique Strauss",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2011-05-18"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "managing director of the International Monetary Fund",
+    "date": "2011-05-18"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-18"
+  },
+  {
+    "head": "Brazil",
+    "type": "member of",
+    "tail": "G20",
+    "date": "2011-05-18"
+  },
+  {
+    "head": "Guido Mantega",
+    "type": "country of citizenship",
+    "tail": "Brazil",
+    "date": "2011-05-18"
+  },
+  {
+    "head": "Guido Mantega",
+    "type": "employer",
+    "tail": "Brazil",
+    "date": "2011-05-18"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-18"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "managing director of the International Monetary Fund",
+    "date": "2011-05-18"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "managing director",
+    "date": "2011-05-18"
+  },
+  {
+    "head": "murder",
+    "type": "different from",
+    "tail": "assault",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "assault",
+    "type": "different from",
+    "tail": "murder",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Jane Martinson",
+    "type": "field of work",
+    "tail": "murder",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Jean - Claude Trichet",
+    "type": "position held",
+    "tail": "president of the European Central Bank",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Jean - Claude Trichet",
+    "type": "employer",
+    "tail": "European Central Bank",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Jean - Claude Trichet",
+    "type": "position held",
+    "tail": "president",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "house arrest",
+    "type": "subclass of",
+    "tail": "bail",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "House arrest",
+    "type": "subclass of",
+    "tail": "bail",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "occupation",
+    "tail": "house arrest",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "attempted rape",
+    "type": "subclass of",
+    "tail": "sexual assault",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "rape",
+    "type": "subclass of",
+    "tail": "sexual assault",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "sexual assault",
+    "type": "has parts of the class",
+    "tail": "attempted rape",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Grand Jury",
+    "type": "subclass of",
+    "tail": "Jury",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "member of",
+    "tail": "Grand Jury",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "has part",
+    "tail": "Grand Jury",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "2013 election",
+    "type": "point in time",
+    "tail": "2013",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "2013",
+    "type": "point in time",
+    "tail": "2013",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "2012 election",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "attempted to rape",
+    "type": "participant",
+    "tail": "Strauss - Kahn",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "attempted to rape a hotel chambermaid",
+    "type": "participant",
+    "tail": "Strauss - Kahn",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "significant event",
+    "tail": "attempted to rape a hotel chambermaid",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "member of",
+    "tail": "IMF",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "employer",
+    "tail": "the IMF",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "2012 election",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Deauville",
+    "type": "country",
+    "tail": "French",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "G8 economic summit",
+    "type": "location",
+    "tail": "Deauville",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Barack Obama",
+    "type": "participant in",
+    "tail": "G8",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "IMF chief",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "member of",
+    "tail": "IMF",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "residence",
+    "tail": "Manhattan",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "headquarters location",
+    "tail": "Manhattan",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "work location",
+    "tail": "Manhattan",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "managing director of the International Monetary Fund",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "managing director",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Sofitel Hotel",
+    "type": "located in the administrative territorial entity",
+    "tail": "Manhattan",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Sofitel",
+    "type": "located in the administrative territorial entity",
+    "tail": "Manhattan",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "the Sofitel Hotel",
+    "type": "located in the administrative territorial entity",
+    "tail": "Manhattan",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "place of death",
+    "tail": "Rikers Island prison",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Dominique Strauss",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Dominique Strauss",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "China",
+    "type": "diplomatic relation",
+    "tail": "Brazil",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Brazil",
+    "type": "diplomatic relation",
+    "tail": "China",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "IMF",
+    "type": "inception",
+    "tail": "1945",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Brazil",
+    "type": "member of",
+    "tail": "G20",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Guido Mantega",
+    "type": "country of citizenship",
+    "tail": "Brazil",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Guido Mantega",
+    "type": "employer",
+    "tail": "Brazil",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "field of work",
+    "tail": "eurozone",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "movement",
+    "tail": "eurozone",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "member of",
+    "tail": "eurozone",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Greece",
+    "type": "member of",
+    "tail": "eurozone",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "eurozone",
+    "type": "has part",
+    "tail": "Greece",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "\u20ac 110bn ( \u00a3 95bn) bailout",
+    "type": "country",
+    "tail": "Greece",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "\u20ac 110bn ( \u00a3 95bn) bailout of Greece",
+    "type": "participant",
+    "tail": "Angela Merkel",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "managing director of the International Monetary Fund",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Rikers Island",
+    "type": "located in the administrative territorial entity",
+    "tail": "New York",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "position held",
+    "tail": "President",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "2009",
+    "type": "point in time",
+    "tail": "2009",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "George Washington University",
+    "type": "located in the administrative territorial entity",
+    "tail": "Washington, D.C.",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "managing director of the International Monetary Fund",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "managing director",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "head of the International Monetary Fund",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Rikers Island",
+    "type": "located in the administrative territorial entity",
+    "tail": "New York",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Rikers Island prison",
+    "type": "located in the administrative territorial entity",
+    "tail": "New York",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Rikers Island",
+    "type": "instance of",
+    "tail": "prison",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Gra\u00e7a Machel",
+    "type": "spouse",
+    "tail": "Nelson Mandela",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Nelson Mandela",
+    "type": "spouse",
+    "tail": "Gra\u00e7a Machel",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Nelson Mandela",
+    "type": "employer",
+    "tail": "United Nations",
+    "date": "2011-05-19"
+  },
+  {
+    "head": "Gordon Brown",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-20"
+  },
+  {
+    "head": "South Africa",
+    "type": "member of",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-20"
+  },
+  {
+    "head": "Christine Lagarde",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-20"
+  },
+  {
+    "head": "Rikers Island",
+    "type": "instance of",
+    "tail": "prison",
+    "date": "2011-05-20"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-20"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Christine Lagarde",
+    "date": "2011-05-20"
+  },
+  {
+    "head": "Bristol Plaza",
+    "type": "located in the administrative territorial entity",
+    "tail": "Manhattan",
+    "date": "2011-05-20"
+  },
+  {
+    "head": "upper east side",
+    "type": "located in the administrative territorial entity",
+    "tail": "Manhattan",
+    "date": "2011-05-20"
+  },
+  {
+    "head": "Strauss - Kahn case",
+    "type": "main subject",
+    "tail": "impunity",
+    "date": "2011-05-20"
+  },
+  {
+    "head": "Strauss - Kahn case",
+    "type": "main subject",
+    "tail": "culture of impunity",
+    "date": "2011-05-20"
+  },
+  {
+    "head": "sexual assault",
+    "type": "subclass of",
+    "tail": "harassment",
+    "date": "2011-05-20"
+  },
+  {
+    "head": "L'Orfeo de la Habana",
+    "type": "country",
+    "tail": "Cuba",
+    "date": "2011-05-21"
+  },
+  {
+    "head": "L'Orfeo de la Habana",
+    "type": "country of origin",
+    "tail": "Cuba",
+    "date": "2011-05-21"
+  },
+  {
+    "head": "L'Orfeo de la Habana",
+    "type": "country",
+    "tail": "Venezuela",
+    "date": "2011-05-21"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-22"
+  },
+  {
+    "head": "Australia",
+    "type": "diplomatic relation",
+    "tail": "South Africa",
+    "date": "2011-05-22"
+  },
+  {
+    "head": "South Africa",
+    "type": "diplomatic relation",
+    "tail": "Australia",
+    "date": "2011-05-22"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "significant event",
+    "tail": "sexual assault",
+    "date": "2011-05-22"
+  },
+  {
+    "head": "Trevor Manuel",
+    "type": "country of citizenship",
+    "tail": "South Africa",
+    "date": "2011-05-22"
+  },
+  {
+    "head": "Christine Lagarde",
+    "type": "position held",
+    "tail": "French economy minister",
+    "date": "2011-05-22"
+  },
+  {
+    "head": "Christine Lagarde",
+    "type": "country of citizenship",
+    "tail": "French",
+    "date": "2011-05-22"
+  },
+  {
+    "head": "Switzerland",
+    "type": "continent",
+    "tail": "Europe",
+    "date": "2011-05-22"
+  },
+  {
+    "head": "Manuel",
+    "type": "country of citizenship",
+    "tail": "South Africa",
+    "date": "2011-05-22"
+  },
+  {
+    "head": "Switzerland",
+    "type": "member of",
+    "tail": "European",
+    "date": "2011-05-22"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-22"
+  },
+  {
+    "head": "Jos\u00e9 Manuel Barroso",
+    "type": "position held",
+    "tail": "European commission",
+    "date": "2011-05-22"
+  },
+  {
+    "head": "Jos\u00e9 Manuel Barroso",
+    "type": "employer",
+    "tail": "European commission",
+    "date": "2011-05-22"
+  },
+  {
+    "head": "Germany",
+    "type": "head of government",
+    "tail": "Angela Merkel",
+    "date": "2011-05-22"
+  },
+  {
+    "head": "France",
+    "type": "head of government",
+    "tail": "Nicolas Sarkozy",
+    "date": "2011-05-22"
+  },
+  {
+    "head": "Angela Merkel",
+    "type": "country of citizenship",
+    "tail": "Germany",
+    "date": "2011-05-22"
+  },
+  {
+    "head": "Nicolas Sarkozy",
+    "type": "country of citizenship",
+    "tail": "France",
+    "date": "2011-05-22"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "work location",
+    "tail": "New York",
+    "date": "2011-05-23"
+  },
+  {
+    "head": "Paris",
+    "type": "country",
+    "tail": "French",
+    "date": "2011-05-23"
+  },
+  {
+    "head": "French",
+    "type": "capital",
+    "tail": "Paris",
+    "date": "2011-05-23"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-23"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "president of France",
+    "date": "2011-05-23"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "next president of France",
+    "date": "2011-05-23"
+  },
+  {
+    "head": "St. Petersburg",
+    "type": "country",
+    "tail": "Russia",
+    "date": "2011-05-23"
+  },
+  {
+    "head": "Russia",
+    "type": "contains administrative territorial entity",
+    "tail": "St. Petersburg",
+    "date": "2011-05-23"
+  },
+  {
+    "head": "Russia",
+    "type": "capital",
+    "tail": "St. Petersburg",
+    "date": "2011-05-23"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "child",
+    "tail": "Dominique Strauss-Kahn",
+    "date": "2011-05-23"
+  },
+  {
+    "head": "Dominique Strauss-Kahn",
+    "type": "father",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-05-23"
+  },
+  {
+    "head": "Paris",
+    "type": "country",
+    "tail": "France",
+    "date": "2011-05-25"
+  },
+  {
+    "head": "France",
+    "type": "capital",
+    "tail": "Paris",
+    "date": "2011-05-25"
+  },
+  {
+    "head": "French presidential election",
+    "type": "candidate",
+    "tail": "Fran\u00e7ois Hollande",
+    "date": "2011-05-25"
+  },
+  {
+    "head": "Fran\u00e7ois Hollande",
+    "type": "candidacy in election",
+    "tail": "French presidential election",
+    "date": "2011-05-25"
+  },
+  {
+    "head": "G8 summit",
+    "type": "location",
+    "tail": "Deauville",
+    "date": "2011-05-26"
+  },
+  {
+    "head": "Deauville",
+    "type": "located in or next to body of water",
+    "tail": "Channel",
+    "date": "2011-05-26"
+  },
+  {
+    "head": "G8 summit",
+    "type": "located in the administrative territorial entity",
+    "tail": "Deauville",
+    "date": "2011-05-26"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-26"
+  },
+  {
+    "head": "Dominique Strauss - Kahn?",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-26"
+  },
+  {
+    "head": "Gordon Brown",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-05-26"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2011-05-26"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "Secretary of State",
+    "date": "2011-05-26"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2011-05-26"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2011-05-26"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "IMF chief",
+    "date": "2011-05-26"
+  },
+  {
+    "head": "Claude Chabrol",
+    "type": "country of citizenship",
+    "tail": "French",
+    "date": "2011-05-26"
+  },
+  {
+    "head": "Pigalle pissoir",
+    "type": "cast member",
+    "tail": "Yves Montand",
+    "date": "2011-05-26"
+  },
+  {
+    "head": "Pigalle pissoir.",
+    "type": "cast member",
+    "tail": "Yves Montand",
+    "date": "2011-05-26"
+  },
+  {
+    "head": "Pigalle pissoir",
+    "type": "cast member",
+    "tail": "Lino Ventura",
+    "date": "2011-05-26"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "position held",
+    "tail": "President",
+    "date": "2011-05-30"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2011-05-30"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "position held",
+    "tail": "President of the United States",
+    "date": "2011-05-30"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2011-06-01"
+  },
+  {
+    "head": "2012 Summer Olympics",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2011-06-01"
+  },
+  {
+    "head": "Harvard University",
+    "type": "subsidiary",
+    "tail": "John F. Kennedy School of Government",
+    "date": "2011-06-01"
+  },
+  {
+    "head": "Marrakech",
+    "type": "country",
+    "tail": "Morocco",
+    "date": "2011-06-01"
+  },
+  {
+    "head": "Morocco",
+    "type": "capital",
+    "tail": "Marrakech",
+    "date": "2011-06-01"
+  },
+  {
+    "head": "Luc Ferry",
+    "type": "position held",
+    "tail": "education minister",
+    "date": "2011-06-01"
+  },
+  {
+    "head": "former prime minister",
+    "type": "position held",
+    "tail": "minister",
+    "date": "2011-06-01"
+  },
+  {
+    "head": "government",
+    "type": "has part",
+    "tail": "prime minister",
+    "date": "2011-06-01"
+  },
+  {
+    "head": "prime minister",
+    "type": "part of",
+    "tail": "government",
+    "date": "2011-06-01"
+  },
+  {
+    "head": "prime minister",
+    "type": "subclass of",
+    "tail": "minister",
+    "date": "2011-06-01"
+  },
+  {
+    "head": "women speaking out",
+    "type": "facet of",
+    "tail": "violence",
+    "date": "2011-06-03"
+  },
+  {
+    "head": "women speaking out",
+    "type": "subclass of",
+    "tail": "violence",
+    "date": "2011-06-03"
+  },
+  {
+    "head": "Women's March on Washington",
+    "type": "followed by",
+    "tail": "Women's March on Washington",
+    "date": "2011-06-03"
+  },
+  {
+    "head": "Women's March on Washington",
+    "type": "follows",
+    "tail": "Women's March on Washington",
+    "date": "2011-06-03"
+  },
+  {
+    "head": "Germany",
+    "type": "continent",
+    "tail": "Europe",
+    "date": "2011-06-03"
+  },
+  {
+    "head": "Britain",
+    "type": "continent",
+    "tail": "Europe",
+    "date": "2011-06-03"
+  },
+  {
+    "head": "World Bank Group",
+    "type": "replaced by",
+    "tail": "World Bank Group II",
+    "date": "2011-06-03"
+  },
+  {
+    "head": "World Bank Group II",
+    "type": "replaces",
+    "tail": "World Bank Group",
+    "date": "2011-06-03"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "part of",
+    "tail": "World Bank",
+    "date": "2011-06-03"
+  },
+  {
+    "head": "World Bank",
+    "type": "has part",
+    "tail": "International Monetary Fund",
+    "date": "2011-06-03"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "part of",
+    "tail": "World Bank Group",
+    "date": "2011-06-03"
+  },
+  {
+    "head": "World Bank Group",
+    "type": "has part",
+    "tail": "International Monetary Fund",
+    "date": "2011-06-03"
+  },
+  {
+    "head": "Christine Lagarde",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-06-03"
+  },
+  {
+    "head": "Christine Lagarde",
+    "type": "position held",
+    "tail": "managing director of the International Monetary Fund",
+    "date": "2011-06-03"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Christine Lagarde",
+    "date": "2011-06-03"
+  },
+  {
+    "head": "NBA season",
+    "type": "end time",
+    "tail": "28 June 2011",
+    "date": "2011-06-05"
+  },
+  {
+    "head": "2011",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2011-06-05"
+  },
+  {
+    "head": "NBA",
+    "type": "headquarters location",
+    "tail": "Miami",
+    "date": "2011-06-05"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2011-06-06"
+  },
+  {
+    "head": "Harvard University",
+    "type": "subsidiary",
+    "tail": "John F. Kennedy School of Government",
+    "date": "2011-06-06"
+  },
+  {
+    "head": "Al Jazeera English",
+    "type": "language used",
+    "tail": "English",
+    "date": "2011-06-06"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "hotel",
+    "date": "2011-06-06"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "work location",
+    "tail": "hotel",
+    "date": "2011-06-06"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "occupation",
+    "tail": "hotel chambermaids",
+    "date": "2011-06-06"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-06-06"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "managing director of the IMF",
+    "date": "2011-06-06"
+  },
+  {
+    "head": "Agust\u00edn Carstens",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-06-07"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Agust\u00edn Carstens",
+    "date": "2011-06-07"
+  },
+  {
+    "head": "Russia",
+    "type": "diplomatic relation",
+    "tail": "United States",
+    "date": "2011-06-07"
+  },
+  {
+    "head": "United States",
+    "type": "diplomatic relation",
+    "tail": "Russia",
+    "date": "2011-06-07"
+  },
+  {
+    "head": "United Nations",
+    "type": "has part",
+    "tail": "General Assembly",
+    "date": "2011-06-07"
+  },
+  {
+    "head": "General Assembly",
+    "type": "part of",
+    "tail": "United Nations",
+    "date": "2011-06-07"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-06-07"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "managing director of the IMF",
+    "date": "2011-06-07"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "part of",
+    "tail": "World Bank Group",
+    "date": "2011-06-07"
+  },
+  {
+    "head": "World Bank Group",
+    "type": "has part",
+    "tail": "International Monetary Fund",
+    "date": "2011-06-07"
+  },
+  {
+    "head": "World Bank Group",
+    "type": "replaced by",
+    "tail": "World Bank Group II",
+    "date": "2011-06-07"
+  },
+  {
+    "head": "World Bank Group II",
+    "type": "replaces",
+    "tail": "World Bank Group",
+    "date": "2011-06-07"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "part of",
+    "tail": "World Bank",
+    "date": "2011-06-07"
+  },
+  {
+    "head": "World Bank",
+    "type": "has part",
+    "tail": "International Monetary Fund",
+    "date": "2011-06-07"
+  },
+  {
+    "head": "LeBron James",
+    "type": "member of sports team",
+    "tail": "Miami",
+    "date": "2011-06-10"
+  },
+  {
+    "head": "LeBron James",
+    "type": "residence",
+    "tail": "Miami",
+    "date": "2011-06-10"
+  },
+  {
+    "head": "Miami",
+    "type": "named after",
+    "tail": "LeBron James",
+    "date": "2011-06-10"
+  },
+  {
+    "head": "Socialist party",
+    "type": "political ideology",
+    "tail": "Socialist",
+    "date": "2011-06-15"
+  },
+  {
+    "head": "Socialist party",
+    "type": "political ideology",
+    "tail": "Socialist party",
+    "date": "2011-06-15"
+  },
+  {
+    "head": "Socialist party",
+    "type": "part of",
+    "tail": "Socialist party",
+    "date": "2011-06-15"
+  },
+  {
+    "head": "euro",
+    "type": "significant event",
+    "tail": "currency crisis",
+    "date": "2011-06-15"
+  },
+  {
+    "head": "currency crisis",
+    "type": "facet of",
+    "tail": "euro",
+    "date": "2011-06-15"
+  },
+  {
+    "head": "attempted rape of a chambermaid",
+    "type": "located in the administrative territorial entity",
+    "tail": "Manhattan",
+    "date": "2011-06-15"
+  },
+  {
+    "head": "rape of a chambermaid",
+    "type": "participant",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-06-15"
+  },
+  {
+    "head": "rape of a chambermaid by Dominique Strauss - Kahn",
+    "type": "located in the administrative territorial entity",
+    "tail": "Manhattan",
+    "date": "2011-06-15"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "parent organization",
+    "tail": "International Monetary Fund",
+    "date": "2011-06-16"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "authority",
+    "tail": "International Monetary Fund",
+    "date": "2011-06-16"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "part of",
+    "tail": "International Monetary Fund",
+    "date": "2011-06-16"
+  },
+  {
+    "head": "euro",
+    "type": "significant event",
+    "tail": "currency crisis",
+    "date": "2011-06-16"
+  },
+  {
+    "head": "rape of a chambermaid",
+    "type": "participant",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-06-16"
+  },
+  {
+    "head": "rape of a chambermaid by Dominique Strauss - Kahn",
+    "type": "located in the administrative territorial entity",
+    "tail": "Manhattan",
+    "date": "2011-06-16"
+  },
+  {
+    "head": "Nicolas Sarkozy",
+    "type": "position held",
+    "tail": "French president",
+    "date": "2011-06-17"
+  },
+  {
+    "head": "German chancellor",
+    "type": "officeholder",
+    "tail": "Angela Merkel",
+    "date": "2011-06-17"
+  },
+  {
+    "head": "Angela Merkel",
+    "type": "position held",
+    "tail": "German chancellor",
+    "date": "2011-06-17"
+  },
+  {
+    "head": "Socialist party primaries",
+    "type": "country",
+    "tail": "French",
+    "date": "2011-06-21"
+  },
+  {
+    "head": "French Socialist party primaries",
+    "type": "point in time",
+    "tail": "2018",
+    "date": "2011-06-21"
+  },
+  {
+    "head": "primaries",
+    "type": "organizer",
+    "tail": "French Socialist party",
+    "date": "2011-06-21"
+  },
+  {
+    "head": "Sarkozy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2011-06-27"
+  },
+  {
+    "head": "Sarkozy",
+    "type": "position held",
+    "tail": "President of France",
+    "date": "2011-06-27"
+  },
+  {
+    "head": "Jacques Chirac",
+    "type": "position held",
+    "tail": "President of France",
+    "date": "2011-06-27"
+  },
+  {
+    "head": "Socialists",
+    "type": "headquarters location",
+    "tail": "Paris",
+    "date": "2011-06-28"
+  },
+  {
+    "head": "Socialists",
+    "type": "location of formation",
+    "tail": "Paris",
+    "date": "2011-06-28"
+  },
+  {
+    "head": "Socialists' race to chose a candidate",
+    "type": "start time",
+    "tail": "28 June",
+    "date": "2011-06-28"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "member of political party",
+    "tail": "French Socialists",
+    "date": "2011-07-01"
+  },
+  {
+    "head": "New York",
+    "type": "located in the administrative territorial entity",
+    "tail": "New York",
+    "date": "2011-07-01"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "work location",
+    "tail": "New York",
+    "date": "2011-07-01"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "office held by head of the organization",
+    "tail": "chief",
+    "date": "2011-07-01"
+  },
+  {
+    "head": "his hotel maid accuser",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-07-01"
+  },
+  {
+    "head": "chief",
+    "type": "part of",
+    "tail": "International Monetary Fund",
+    "date": "2011-07-01"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "The New York Times",
+    "date": "2011-07-01"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "place of birth",
+    "tail": "Guinea",
+    "date": "2011-07-01"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "country of citizenship",
+    "tail": "Guinean",
+    "date": "2011-07-01"
+  },
+  {
+    "head": "The New York Times",
+    "type": "located in the administrative territorial entity",
+    "tail": "Manhattan",
+    "date": "2011-07-01"
+  },
+  {
+    "head": "The New York Times",
+    "type": "place of publication",
+    "tail": "Manhattan",
+    "date": "2011-07-01"
+  },
+  {
+    "head": "The New York Times",
+    "type": "place of publication",
+    "tail": "New York",
+    "date": "2011-07-01"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-07-01"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Strauss - Kahn",
+    "date": "2011-07-01"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "office held by head of the organization",
+    "tail": "head",
+    "date": "2011-07-01"
+  },
+  {
+    "head": "New York prosecution case",
+    "type": "participant",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-07-01"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "significant event",
+    "tail": "New York prosecution case",
+    "date": "2011-07-01"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "significant event",
+    "tail": "New York prosecution case for alleged sexual assault",
+    "date": "2011-07-01"
+  },
+  {
+    "head": "Kenneth Thompson",
+    "type": "employer",
+    "tail": "Sofitel New York",
+    "date": "2011-07-01"
+  },
+  {
+    "head": "Kenneth Thompson",
+    "type": "residence",
+    "tail": "Sofitel New York",
+    "date": "2011-07-01"
+  },
+  {
+    "head": "suite 2806",
+    "type": "part of",
+    "tail": "Sofitel New York",
+    "date": "2011-07-01"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-07-01"
+  },
+  {
+    "head": "Dominique Strauss-Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-07-01"
+  },
+  {
+    "head": "Dominique Strauss",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-07-01"
+  },
+  {
+    "head": "Nicolas Sarkozy",
+    "type": "candidacy in election",
+    "tail": "presidential race next year",
+    "date": "2011-07-01"
+  },
+  {
+    "head": "presidential race next year",
+    "type": "candidate",
+    "tail": "Nicolas Sarkozy",
+    "date": "2011-07-01"
+  },
+  {
+    "head": "Nicolas Sarkozy",
+    "type": "candidacy in election",
+    "tail": "presidential race",
+    "date": "2011-07-01"
+  },
+  {
+    "head": "presidential race",
+    "type": "candidate",
+    "tail": "Nicolas Sarkozy",
+    "date": "2011-07-01"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "candidacy in election",
+    "tail": "presidential race next year",
+    "date": "2011-07-01"
+  },
+  {
+    "head": "presidential race next year",
+    "type": "candidate",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-07-01"
+  },
+  {
+    "head": "2012 presidential election",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2011-07-01"
+  },
+  {
+    "head": "allegedly attempting to rape a New York hotel maid in May",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2011-07-01"
+  },
+  {
+    "head": "arrested for allegedly attempting to rape a New York hotel maid in May",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2011-07-01"
+  },
+  {
+    "head": "feminist",
+    "type": "subclass of",
+    "tail": "women's rights",
+    "date": "2011-07-03"
+  },
+  {
+    "head": "feminist",
+    "type": "facet of",
+    "tail": "women's rights",
+    "date": "2011-07-03"
+  },
+  {
+    "head": "feminist groups",
+    "type": "field of work",
+    "tail": "women's rights",
+    "date": "2011-07-03"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2011-07-03"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "IMF chief",
+    "date": "2011-07-03"
+  },
+  {
+    "head": "French presidential election",
+    "type": "candidate",
+    "tail": "Fran\u00e7ois Fillon",
+    "date": "2011-07-04"
+  },
+  {
+    "head": "Fran\u00e7ois Fillon",
+    "type": "candidacy in election",
+    "tail": "French presidential election",
+    "date": "2011-07-04"
+  },
+  {
+    "head": "French presidential election",
+    "type": "candidate",
+    "tail": "Fran\u00e7ois Hollande",
+    "date": "2011-07-04"
+  },
+  {
+    "head": "Fran\u00e7ois Hollande",
+    "type": "candidacy in election",
+    "tail": "French presidential election",
+    "date": "2011-07-04"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "member of political party",
+    "tail": "Socialist party",
+    "date": "2011-07-04"
+  },
+  {
+    "head": "Socialist party",
+    "type": "country",
+    "tail": "France",
+    "date": "2011-07-04"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "member of political party",
+    "tail": "Socialist",
+    "date": "2011-07-04"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "candidacy in election",
+    "tail": "French presidential race",
+    "date": "2011-07-04"
+  },
+  {
+    "head": "French presidential race",
+    "type": "candidate",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-07-04"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "member of political party",
+    "tail": "Socialist party",
+    "date": "2011-07-04"
+  },
+  {
+    "head": "Christine Lagarde",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2011-07-05"
+  },
+  {
+    "head": "Christine Lagarde",
+    "type": "employer",
+    "tail": "The IMF",
+    "date": "2011-07-05"
+  },
+  {
+    "head": "IMF",
+    "type": "chairperson",
+    "tail": "Christine Lagarde",
+    "date": "2011-07-05"
+  },
+  {
+    "head": "Nicolas Sarkozy",
+    "type": "candidacy in election",
+    "tail": "2012 presidential election",
+    "date": "2011-07-05"
+  },
+  {
+    "head": "2012 presidential election",
+    "type": "candidate",
+    "tail": "Nicolas Sarkozy",
+    "date": "2011-07-05"
+  },
+  {
+    "head": "2012 presidential election",
+    "type": "successful candidate",
+    "tail": "Nicolas Sarkozy",
+    "date": "2011-07-05"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-07-05"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "managing director",
+    "date": "2011-07-05"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2011-07-05"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "head of the IMF",
+    "date": "2011-07-05"
+  },
+  {
+    "head": "attempted rape case",
+    "type": "participant",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-07-05"
+  },
+  {
+    "head": "Sofitel",
+    "type": "instance of",
+    "tail": "hotel",
+    "date": "2011-07-05"
+  },
+  {
+    "head": "sex work",
+    "type": "practiced by",
+    "tail": "maid",
+    "date": "2011-07-05"
+  },
+  {
+    "head": "maid",
+    "type": "field of this occupation",
+    "tail": "sex work",
+    "date": "2011-07-05"
+  },
+  {
+    "head": "Sofitel",
+    "type": "located in the administrative territorial entity",
+    "tail": "New York",
+    "date": "2011-07-05"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2011-07-06"
+  },
+  {
+    "head": "New York Yankees",
+    "type": "league",
+    "tail": "Major League Baseball",
+    "date": "2011-07-06"
+  },
+  {
+    "head": "New York Yankees",
+    "type": "league",
+    "tail": "MLB",
+    "date": "2011-07-06"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "instance of",
+    "tail": "criminal case",
+    "date": "2011-07-06"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "instance of",
+    "tail": "American justice system",
+    "date": "2011-07-06"
+  },
+  {
+    "head": "special prosecutor",
+    "type": "subclass of",
+    "tail": "prosecutor",
+    "date": "2011-07-06"
+  },
+  {
+    "head": "Strauss - Kahn case",
+    "type": "instance of",
+    "tail": "special prosecutor",
+    "date": "2011-07-06"
+  },
+  {
+    "head": "Strauss - Kahn case",
+    "type": "has part",
+    "tail": "special prosecutor",
+    "date": "2011-07-06"
+  },
+  {
+    "head": "special prosecutor",
+    "type": "part of",
+    "tail": "Strauss - Kahn case",
+    "date": "2011-07-06"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2011-07-13"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2011-07-13"
+  },
+  {
+    "head": "Harvard University",
+    "type": "subsidiary",
+    "tail": "John F. Kennedy School of Government",
+    "date": "2011-07-13"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2011-07-13"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "position held",
+    "tail": "President",
+    "date": "2011-07-13"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "member of political party",
+    "tail": "Republican",
+    "date": "2011-07-13"
+  },
+  {
+    "head": "French presidential",
+    "type": "candidate",
+    "tail": "Fran\u00e7ois Hollande",
+    "date": "2011-07-18"
+  },
+  {
+    "head": "Fran\u00e7ois Hollande",
+    "type": "candidacy in election",
+    "tail": "French presidential",
+    "date": "2011-07-18"
+  },
+  {
+    "head": "Fran\u00e7ois Hollande",
+    "type": "position held",
+    "tail": "President of France",
+    "date": "2011-07-18"
+  },
+  {
+    "head": "Strauss - Kahn case",
+    "type": "instance of",
+    "tail": "court date",
+    "date": "2011-07-18"
+  },
+  {
+    "head": "Strauss - Kahn case",
+    "type": "end time",
+    "tail": "18 July",
+    "date": "2011-07-18"
+  },
+  {
+    "head": "Strauss - Kahn case",
+    "type": "point in time",
+    "tail": "18 July",
+    "date": "2011-07-18"
+  },
+  {
+    "head": "2007 election",
+    "type": "point in time",
+    "tail": "2007",
+    "date": "2011-07-18"
+  },
+  {
+    "head": "2012 election",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2011-07-18"
+  },
+  {
+    "head": "2007",
+    "type": "point in time",
+    "tail": "2007",
+    "date": "2011-07-18"
+  },
+  {
+    "head": "Strauss",
+    "type": "sibling",
+    "tail": "Kahn",
+    "date": "2011-07-25"
+  },
+  {
+    "head": "Kahn",
+    "type": "sibling",
+    "tail": "Strauss",
+    "date": "2011-07-25"
+  },
+  {
+    "head": "Strauss",
+    "type": "spouse",
+    "tail": "Kahn",
+    "date": "2011-07-25"
+  },
+  {
+    "head": "Kahn",
+    "type": "spouse",
+    "tail": "Strauss",
+    "date": "2011-07-25"
+  },
+  {
+    "head": "Nafissatou Diallo",
+    "type": "country of citizenship",
+    "tail": "Guinea",
+    "date": "2011-07-27"
+  },
+  {
+    "head": "Nafissatou Diallo",
+    "type": "place of birth",
+    "tail": "Guinea",
+    "date": "2011-07-27"
+  },
+  {
+    "head": "Kenneth Thompson",
+    "type": "employer",
+    "tail": "Nafissatou Diallo",
+    "date": "2011-07-27"
+  },
+  {
+    "head": "Nafissatou Diallo",
+    "type": "employer",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-07-27"
+  },
+  {
+    "head": "Nafissatou Diallo",
+    "type": "main subject",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-07-27"
+  },
+  {
+    "head": "Nafissatou Diallo",
+    "type": "participant in",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-07-27"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "participant",
+    "tail": "Nafissatou Diallo",
+    "date": "2011-07-27"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2011-07-27"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2011-07-27"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "significant event",
+    "tail": "assassinated",
+    "date": "2011-07-27"
+  },
+  {
+    "head": "Al Jazeera English",
+    "type": "country",
+    "tail": "Qatar",
+    "date": "2011-07-28"
+  },
+  {
+    "head": "Al Jazeera English",
+    "type": "headquarters location",
+    "tail": "London",
+    "date": "2011-07-28"
+  },
+  {
+    "head": "Al Jazeera English",
+    "type": "country",
+    "tail": "United Kingdom",
+    "date": "2011-07-28"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "occupation",
+    "tail": "hotel maid",
+    "date": "2011-07-28"
+  },
+  {
+    "head": "Dominique Strauss",
+    "type": "occupation",
+    "tail": "hotel maid",
+    "date": "2011-07-28"
+  },
+  {
+    "head": "hotel maid",
+    "type": "employer",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-07-28"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2011-07-28"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2011-07-28"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "significant event",
+    "tail": "assassinated",
+    "date": "2011-07-28"
+  },
+  {
+    "head": "amended on 29 July 2011",
+    "type": "publication date",
+    "tail": "29 July 2011",
+    "date": "2011-07-29"
+  },
+  {
+    "head": "The",
+    "type": "publication date",
+    "tail": "29 July 2011",
+    "date": "2011-07-29"
+  },
+  {
+    "head": "This article was amended on 29 July 2011",
+    "type": "publication date",
+    "tail": "29 July 2011",
+    "date": "2011-07-29"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "has part",
+    "tail": "Nafissatou Diallo",
+    "date": "2011-08-15"
+  },
+  {
+    "head": "Nafissatou Diallo",
+    "type": "part of",
+    "tail": "Strauss - Kahn",
+    "date": "2011-08-15"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "participant",
+    "tail": "Nafissatou Diallo",
+    "date": "2011-08-15"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-08-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "International Monetary Fund director",
+    "date": "2011-08-16"
+  },
+  {
+    "head": "Dominique Strauss-Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-08-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "member of political party",
+    "tail": "French Socialists",
+    "date": "2011-08-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "significant event",
+    "tail": "sexual assault against him in New York",
+    "date": "2011-08-16"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "significant event",
+    "tail": "charges of sexual assault against him in New York",
+    "date": "2011-08-16"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "position held",
+    "tail": "President",
+    "date": "2011-08-22"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "position held",
+    "tail": "President",
+    "date": "2011-08-22"
+  },
+  {
+    "head": "George Washington University",
+    "type": "located in the administrative territorial entity",
+    "tail": "Washington, D.C.",
+    "date": "2011-08-22"
+  },
+  {
+    "head": "Nafissatou Diallo",
+    "type": "occupation",
+    "tail": "hotel maid",
+    "date": "2011-08-22"
+  },
+  {
+    "head": "head of the IMF",
+    "type": "officeholder",
+    "tail": "Nafissatou Diallo",
+    "date": "2011-08-22"
+  },
+  {
+    "head": "Nafissatou Diallo",
+    "type": "position held",
+    "tail": "head of the IMF",
+    "date": "2011-08-22"
+  },
+  {
+    "head": "district attorney",
+    "type": "applies to jurisdiction",
+    "tail": "Manhattan",
+    "date": "2011-08-22"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "Manhattan district attorney",
+    "date": "2011-08-22"
+  },
+  {
+    "head": "Nafissatou Diallo",
+    "type": "position held",
+    "tail": "Manhattan district attorney",
+    "date": "2011-08-22"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "member of political party",
+    "tail": "French Socialist party",
+    "date": "2011-08-22"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "member of political party",
+    "tail": "Socialist party",
+    "date": "2011-08-22"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "significant event",
+    "tail": "sexual assault",
+    "date": "2011-08-22"
+  },
+  {
+    "head": "Cyrus Vance",
+    "type": "position held",
+    "tail": "district attorney",
+    "date": "2011-08-22"
+  },
+  {
+    "head": "State Supreme Court",
+    "type": "part of",
+    "tail": "State Supreme Court in Manhattan",
+    "date": "2011-08-22"
+  },
+  {
+    "head": "State Supreme Court in Manhattan",
+    "type": "located in the administrative territorial entity",
+    "tail": "New York",
+    "date": "2011-08-22"
+  },
+  {
+    "head": "State Supreme Court",
+    "type": "located in the administrative territorial entity",
+    "tail": "Manhattan",
+    "date": "2011-08-22"
+  },
+  {
+    "head": "State Supreme Court in Manhattan",
+    "type": "located in the administrative territorial entity",
+    "tail": "Manhattan",
+    "date": "2011-08-22"
+  },
+  {
+    "head": "journalist",
+    "type": "subclass of",
+    "tail": "writer",
+    "date": "2011-08-22"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "instance of",
+    "tail": "rape",
+    "date": "2011-08-22"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "significant event",
+    "tail": "rape",
+    "date": "2011-08-22"
+  },
+  {
+    "head": "West Village",
+    "type": "located in the administrative territorial entity",
+    "tail": "Manhattan",
+    "date": "2011-08-23"
+  },
+  {
+    "head": "L'Artusi",
+    "type": "located in the administrative territorial entity",
+    "tail": "Manhattan",
+    "date": "2011-08-23"
+  },
+  {
+    "head": "L'Artusi",
+    "type": "location",
+    "tail": "West Village",
+    "date": "2011-08-23"
+  },
+  {
+    "head": "Cyrus Vance",
+    "type": "position held",
+    "tail": "district attorney",
+    "date": "2011-08-23"
+  },
+  {
+    "head": "State Supreme Court in Manhattan",
+    "type": "located in the administrative territorial entity",
+    "tail": "Manhattan",
+    "date": "2011-08-23"
+  },
+  {
+    "head": "State Supreme Court",
+    "type": "has part",
+    "tail": "State Supreme Court in Manhattan",
+    "date": "2011-08-23"
+  },
+  {
+    "head": "State Supreme Court in Manhattan",
+    "type": "part of",
+    "tail": "State Supreme Court",
+    "date": "2011-08-23"
+  },
+  {
+    "head": "State Supreme Court",
+    "type": "located in the administrative territorial entity",
+    "tail": "Manhattan",
+    "date": "2011-08-23"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "instance of",
+    "tail": "rape",
+    "date": "2011-08-23"
+  },
+  {
+    "head": "journalist",
+    "type": "subclass of",
+    "tail": "writer",
+    "date": "2011-08-23"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "significant event",
+    "tail": "rape",
+    "date": "2011-08-23"
+  },
+  {
+    "head": "Strauss",
+    "type": "child",
+    "tail": "Camille",
+    "date": "2011-08-23"
+  },
+  {
+    "head": "Camille",
+    "type": "father",
+    "tail": "Strauss",
+    "date": "2011-08-23"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "child",
+    "tail": "Camille",
+    "date": "2011-08-23"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "significant event",
+    "tail": "rape case",
+    "date": "2011-08-23"
+  },
+  {
+    "head": "rape case",
+    "type": "participant",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-08-23"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "significant event",
+    "tail": "rape case against",
+    "date": "2011-08-23"
+  },
+  {
+    "head": "next president of France",
+    "type": "country",
+    "tail": "France",
+    "date": "2011-08-23"
+  },
+  {
+    "head": "next president of France in 2012",
+    "type": "country",
+    "tail": "France",
+    "date": "2011-08-23"
+  },
+  {
+    "head": "France",
+    "type": "office held by head of government",
+    "tail": "president of France",
+    "date": "2011-08-23"
+  },
+  {
+    "head": "president of France",
+    "type": "country",
+    "tail": "France",
+    "date": "2011-08-23"
+  },
+  {
+    "head": "Fran\u00e7ois Bayrou",
+    "type": "position held",
+    "tail": "Prime Minister",
+    "date": "2011-08-25"
+  },
+  {
+    "head": "Fran\u00e7ois Bayrou",
+    "type": "member of political party",
+    "tail": "Socialist",
+    "date": "2011-08-25"
+  },
+  {
+    "head": "Fran\u00e7ois Bayrou",
+    "type": "position held",
+    "tail": "Prime Minister of France",
+    "date": "2011-08-25"
+  },
+  {
+    "head": "Socialist primary race",
+    "type": "office contested",
+    "tail": "presidential candidate",
+    "date": "2011-08-26"
+  },
+  {
+    "head": "presidential candidate",
+    "type": "part of",
+    "tail": "Socialist primary race",
+    "date": "2011-08-26"
+  },
+  {
+    "head": "presidential candidate",
+    "type": "participant in",
+    "tail": "Socialist primary race",
+    "date": "2011-08-26"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "member of political party",
+    "tail": "Socialist party",
+    "date": "2011-08-26"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "member of political party",
+    "tail": "French Socialist party",
+    "date": "2011-08-26"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "member of political party",
+    "tail": "Socialist",
+    "date": "2011-08-26"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "work location",
+    "tail": "Paris",
+    "date": "2011-09-04"
+  },
+  {
+    "head": "Paris",
+    "type": "twinned administrative body",
+    "tail": "New York",
+    "date": "2011-09-04"
+  },
+  {
+    "head": "New York",
+    "type": "twinned administrative body",
+    "tail": "Paris",
+    "date": "2011-09-04"
+  },
+  {
+    "head": "Air France",
+    "type": "airline hub",
+    "tail": "Charles de Gaulle airport",
+    "date": "2011-09-04"
+  },
+  {
+    "head": "Air France",
+    "type": "airline hub",
+    "tail": "Charles de Gaulle",
+    "date": "2011-09-04"
+  },
+  {
+    "head": "Charles de Gaulle airport",
+    "type": "operator",
+    "tail": "Air France",
+    "date": "2011-09-04"
+  },
+  {
+    "head": "president",
+    "type": "country",
+    "tail": "France",
+    "date": "2011-09-04"
+  },
+  {
+    "head": "next president",
+    "type": "country",
+    "tail": "France",
+    "date": "2011-09-04"
+  },
+  {
+    "head": "president",
+    "type": "applies to jurisdiction",
+    "tail": "France",
+    "date": "2011-09-04"
+  },
+  {
+    "head": "the sex charges were dropped",
+    "type": "main subject",
+    "tail": "maid",
+    "date": "2011-09-04"
+  },
+  {
+    "head": "the sex charges were dropped",
+    "type": "facet of",
+    "tail": "maid",
+    "date": "2011-09-04"
+  },
+  {
+    "head": "the sex charges were dropped",
+    "type": "main subject",
+    "tail": "maid who was found to have lied in her immigration application to the United States",
+    "date": "2011-09-04"
+  },
+  {
+    "head": "Dominique Strauss",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2011-09-05"
+  },
+  {
+    "head": "Dominique Strauss",
+    "type": "position held",
+    "tail": "head of the IMF",
+    "date": "2011-09-05"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2011-09-05"
+  },
+  {
+    "head": "Tristane Banon",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2011-09-12"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "office held by head of the organization",
+    "tail": "head",
+    "date": "2011-09-12"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "office held by head of the organization",
+    "tail": "former head",
+    "date": "2011-09-12"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "instance of",
+    "tail": "chimpanzee",
+    "date": "2011-09-12"
+  },
+  {
+    "head": "Strauss",
+    "type": "spouse",
+    "tail": "Kahn",
+    "date": "2011-09-12"
+  },
+  {
+    "head": "Kahn",
+    "type": "spouse",
+    "tail": "Strauss",
+    "date": "2011-09-12"
+  },
+  {
+    "head": "Strauss",
+    "type": "sibling",
+    "tail": "Kahn",
+    "date": "2011-09-12"
+  },
+  {
+    "head": "Kahn",
+    "type": "sibling",
+    "tail": "Strauss",
+    "date": "2011-09-12"
+  },
+  {
+    "head": "Jean",
+    "type": "sibling",
+    "tail": "Claude Juncker",
+    "date": "2011-09-15"
+  },
+  {
+    "head": "Claude Juncker",
+    "type": "sibling",
+    "tail": "Jean",
+    "date": "2011-09-15"
+  },
+  {
+    "head": "Claude Juncker",
+    "type": "father",
+    "tail": "Jean",
+    "date": "2011-09-15"
+  },
+  {
+    "head": "Yoshihiko Noda",
+    "type": "position held",
+    "tail": "Japanese finance minister",
+    "date": "2011-09-17"
+  },
+  {
+    "head": "Yoshihiko Noda",
+    "type": "position held",
+    "tail": "finance minister",
+    "date": "2011-09-17"
+  },
+  {
+    "head": "Yoshihiko Noda",
+    "type": "country of citizenship",
+    "tail": "Japan",
+    "date": "2011-09-17"
+  },
+  {
+    "head": "justice ministry",
+    "type": "country",
+    "tail": "France",
+    "date": "2011-09-17"
+  },
+  {
+    "head": "violence against women",
+    "type": "country",
+    "tail": "France",
+    "date": "2011-09-17"
+  },
+  {
+    "head": "Justice ministry",
+    "type": "country",
+    "tail": "France",
+    "date": "2011-09-17"
+  },
+  {
+    "head": "attempted rape",
+    "type": "subclass of",
+    "tail": "attempted rape",
+    "date": "2011-09-17"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "significant event",
+    "tail": "attempted rape",
+    "date": "2011-09-17"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "instance of",
+    "tail": "attempted rape",
+    "date": "2011-09-17"
+  },
+  {
+    "head": "George Orwell",
+    "type": "notable work",
+    "tail": "Nineteen Eighty-Four",
+    "date": "2011-09-17"
+  },
+  {
+    "head": "Nineteen Eighty-Four",
+    "type": "author",
+    "tail": "Orwell",
+    "date": "2011-09-17"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "position held",
+    "tail": "President",
+    "date": "2011-09-17"
+  },
+  {
+    "head": "New York",
+    "type": "country",
+    "tail": "America",
+    "date": "2011-09-17"
+  },
+  {
+    "head": "Nafissatou Diallo",
+    "type": "country of citizenship",
+    "tail": "Guinea",
+    "date": "2011-09-17"
+  },
+  {
+    "head": "Nafissatou Diallo",
+    "type": "place of birth",
+    "tail": "Guinea",
+    "date": "2011-09-17"
+  },
+  {
+    "head": "Guinea",
+    "type": "head of state",
+    "tail": "Nafissatou Diallo",
+    "date": "2011-09-17"
+  },
+  {
+    "head": "United States",
+    "type": "diplomatic relation",
+    "tail": "French",
+    "date": "2011-09-18"
+  },
+  {
+    "head": "United States",
+    "type": "diplomatic relation",
+    "tail": "France",
+    "date": "2011-09-18"
+  },
+  {
+    "head": "United States",
+    "type": "instance of",
+    "tail": "civil case",
+    "date": "2011-09-18"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2011-09-18"
+  },
+  {
+    "head": "New York",
+    "type": "country",
+    "tail": "America",
+    "date": "2011-09-18"
+  },
+  {
+    "head": "America",
+    "type": "contains administrative territorial entity",
+    "tail": "New York",
+    "date": "2011-09-18"
+  },
+  {
+    "head": "presidential candidate",
+    "type": "country",
+    "tail": "French",
+    "date": "2011-09-26"
+  },
+  {
+    "head": "French presidential candidate",
+    "type": "participant",
+    "tail": "Douglas McKeon",
+    "date": "2011-09-26"
+  },
+  {
+    "head": "French presidential candidate",
+    "type": "member of",
+    "tail": "Douglas McKeon",
+    "date": "2011-09-26"
+  },
+  {
+    "head": "Guido Mantega",
+    "type": "position held",
+    "tail": "finance minister",
+    "date": "2011-09-27"
+  },
+  {
+    "head": "finance minister",
+    "type": "officeholder",
+    "tail": "Guido Mantega",
+    "date": "2011-09-27"
+  },
+  {
+    "head": "Guido Mantega",
+    "type": "country of citizenship",
+    "tail": "Brazil",
+    "date": "2011-09-27"
+  },
+  {
+    "head": "Henrique Meirelles",
+    "type": "position held",
+    "tail": "central bank governor",
+    "date": "2011-09-29"
+  },
+  {
+    "head": "Henrique Meirelles",
+    "type": "country of citizenship",
+    "tail": "Brazil",
+    "date": "2011-09-29"
+  },
+  {
+    "head": "central bank governor",
+    "type": "officeholder",
+    "tail": "Henrique Meirelles",
+    "date": "2011-09-29"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "William Shakespeare",
+    "type": "notable work",
+    "tail": "Cymbeline",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "Cymbeline",
+    "type": "author",
+    "tail": "William Shakespeare",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "date of death",
+    "tail": "September 11, 2001",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "English",
+    "type": "subclass of",
+    "tail": "Political commentators",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "John Major",
+    "type": "position held",
+    "tail": "Prime Minister",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "English",
+    "type": "facet of",
+    "tail": "Political",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "member of political party",
+    "tail": "French Socialist party",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "member of political party",
+    "tail": "French Socialist",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "Nicolas Sarkozy",
+    "type": "position held",
+    "tail": "president",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "Nicolas Sarkozy",
+    "type": "position held",
+    "tail": "unpopular rightwing president",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "Nicolas Sarkozy",
+    "type": "member of political party",
+    "tail": "rightwing",
+    "date": "2011-10-08"
+  },
+  {
+    "head": "October 9 vote",
+    "type": "office contested",
+    "tail": "president",
+    "date": "2011-10-09"
+  },
+  {
+    "head": "October 9 vote",
+    "type": "country",
+    "tail": "France",
+    "date": "2011-10-09"
+  },
+  {
+    "head": "October 9 vote to chose its candidate for president",
+    "type": "point in time",
+    "tail": "October 9",
+    "date": "2011-10-09"
+  },
+  {
+    "head": "English",
+    "type": "subclass of",
+    "tail": "Political commentators",
+    "date": "2011-10-09"
+  },
+  {
+    "head": "John Major",
+    "type": "position held",
+    "tail": "Prime Minister",
+    "date": "2011-10-09"
+  },
+  {
+    "head": "English",
+    "type": "facet of",
+    "tail": "Political",
+    "date": "2011-10-09"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "member of political party",
+    "tail": "French Socialist party",
+    "date": "2011-10-09"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2011-10-09"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "member of political party",
+    "tail": "French Socialist",
+    "date": "2011-10-09"
+  },
+  {
+    "head": "Nicolas Sarkozy",
+    "type": "position held",
+    "tail": "president",
+    "date": "2011-10-09"
+  },
+  {
+    "head": "Nicolas Sarkozy",
+    "type": "position held",
+    "tail": "unpopular rightwing president",
+    "date": "2011-10-09"
+  },
+  {
+    "head": "Nicolas Sarkozy",
+    "type": "member of political party",
+    "tail": "rightwing",
+    "date": "2011-10-09"
+  },
+  {
+    "head": "Socialist party",
+    "type": "number of participants",
+    "tail": "2.5 million",
+    "date": "2011-10-10"
+  },
+  {
+    "head": "Socialist party",
+    "type": "population",
+    "tail": "2.5 million",
+    "date": "2011-10-10"
+  },
+  {
+    "head": "2011",
+    "type": "point in time",
+    "tail": "10 October 2011",
+    "date": "2011-10-10"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2011-10-13"
+  },
+  {
+    "head": "2012 Democratic National Convention",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2011-10-13"
+  },
+  {
+    "head": "2012 Summer Olympics",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2011-10-13"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "country of citizenship",
+    "tail": "French",
+    "date": "2011-10-13"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "significant event",
+    "tail": "attempting to rape her",
+    "date": "2011-10-13"
+  },
+  {
+    "head": "attempting to rape her",
+    "type": "participant",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-10-13"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "significant event",
+    "tail": "attempting to rape",
+    "date": "2011-10-13"
+  },
+  {
+    "head": "attempting to rape",
+    "type": "participant",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2011-10-13"
+  },
+  {
+    "head": "Al Jazeera English",
+    "type": "country",
+    "tail": "Qatar",
+    "date": "2011-11-11"
+  },
+  {
+    "head": "Al Jazeera English",
+    "type": "language used",
+    "tail": "English",
+    "date": "2011-11-11"
+  },
+  {
+    "head": "Supreme Court of Justice",
+    "type": "part of",
+    "tail": "Federal District Court",
+    "date": "2011-11-11"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2011-11-11"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "head of the IMF",
+    "date": "2011-11-11"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "the IMF",
+    "date": "2011-11-11"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2011-11-12"
+  },
+  {
+    "head": "Kahn",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2011-11-12"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "member of",
+    "tail": "IMF",
+    "date": "2011-11-12"
+  },
+  {
+    "head": "Nafissatou Diallo",
+    "type": "point in time",
+    "tail": "14 May 2011",
+    "date": "2011-11-26"
+  },
+  {
+    "head": "Dominique Strauss - Khan affair",
+    "type": "point in time",
+    "tail": "14 May 2011",
+    "date": "2011-11-26"
+  },
+  {
+    "head": "Dominique Strauss - Khan affair",
+    "type": "start time",
+    "tail": "14 May 2011",
+    "date": "2011-11-26"
+  },
+  {
+    "head": "Sarko",
+    "type": "member of political party",
+    "tail": "UMP",
+    "date": "2011-11-28"
+  },
+  {
+    "head": "UMP",
+    "type": "chairperson",
+    "tail": "Sarko",
+    "date": "2011-11-28"
+  },
+  {
+    "head": "Sarko \\'s",
+    "type": "member of political party",
+    "tail": "UMP",
+    "date": "2011-11-28"
+  },
+  {
+    "head": "Last Day",
+    "type": "number of episodes",
+    "tail": "4:44",
+    "date": "2011-12-26"
+  },
+  {
+    "head": "Last Day",
+    "type": "length",
+    "tail": "4:44",
+    "date": "2011-12-26"
+  },
+  {
+    "head": "Last Day",
+    "type": "has part",
+    "tail": "4:44 Last Day",
+    "date": "2011-12-26"
+  },
+  {
+    "head": "Strauss",
+    "type": "influenced by",
+    "tail": "Kahn",
+    "date": "2011-12-27"
+  },
+  {
+    "head": "Strauss",
+    "type": "student",
+    "tail": "Kahn",
+    "date": "2011-12-27"
+  },
+  {
+    "head": "Kahn",
+    "type": "student of",
+    "tail": "Strauss",
+    "date": "2011-12-27"
+  },
+  {
+    "head": "1980s",
+    "type": "point in time",
+    "tail": "1980",
+    "date": "2012-01-15"
+  },
+  {
+    "head": "French TV",
+    "type": "subclass of",
+    "tail": "TV",
+    "date": "2012-01-15"
+  },
+  {
+    "head": "French TV",
+    "type": "product or material produced",
+    "tail": "TV",
+    "date": "2012-01-15"
+  },
+  {
+    "head": "Elle",
+    "type": "country of origin",
+    "tail": "French",
+    "date": "2012-01-18"
+  },
+  {
+    "head": "Elle",
+    "type": "country",
+    "tail": "French",
+    "date": "2012-01-18"
+  },
+  {
+    "head": "Elle",
+    "type": "language of work or name",
+    "tail": "French",
+    "date": "2012-01-18"
+  },
+  {
+    "head": "Anne Sinclair",
+    "type": "spouse",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2012-01-18"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "spouse",
+    "tail": "Anne Sinclair",
+    "date": "2012-01-18"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2012-01-18"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "head of the IMF",
+    "date": "2012-01-18"
+  },
+  {
+    "head": "4:44 Last Day on Earth",
+    "type": "cast member",
+    "tail": "Willem Dafoe",
+    "date": "2012-02-05"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "creator",
+    "tail": "Abel Ferrara",
+    "date": "2012-02-05"
+  },
+  {
+    "head": "Last Day on Earth",
+    "type": "cast member",
+    "tail": "Willem Dafoe",
+    "date": "2012-02-05"
+  },
+  {
+    "head": "planning",
+    "type": "facet of",
+    "tail": "building",
+    "date": "2012-02-07"
+  },
+  {
+    "head": "building on contaminated land",
+    "type": "subclass of",
+    "tail": "planning",
+    "date": "2012-02-07"
+  },
+  {
+    "head": "planning",
+    "type": "part of",
+    "tail": "building process",
+    "date": "2012-02-07"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2012-02-14"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2012-02-14"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "country",
+    "tail": "France",
+    "date": "2012-02-21"
+  },
+  {
+    "head": "socialist",
+    "type": "member of",
+    "tail": "International Monetary Fund",
+    "date": "2012-02-21"
+  },
+  {
+    "head": "socialist",
+    "type": "country",
+    "tail": "France",
+    "date": "2012-02-21"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "president of France",
+    "date": "2012-02-21"
+  },
+  {
+    "head": "Dominique Strauss",
+    "type": "position held",
+    "tail": "president of France",
+    "date": "2012-02-21"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "position held",
+    "tail": "president of France",
+    "date": "2012-02-21"
+  },
+  {
+    "head": "sexually assaulting a New York hotel maid",
+    "type": "point in time",
+    "tail": "May 2011",
+    "date": "2012-02-21"
+  },
+  {
+    "head": "sexually assaulting",
+    "type": "point in time",
+    "tail": "May 2011",
+    "date": "2012-02-21"
+  },
+  {
+    "head": "sexually assaulting a New York hotel maid",
+    "type": "start time",
+    "tail": "May 2011",
+    "date": "2012-02-21"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2012-02-21"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2012-02-21"
+  },
+  {
+    "head": "Paris",
+    "type": "twinned administrative body",
+    "tail": "Washington",
+    "date": "2012-02-21"
+  },
+  {
+    "head": "Washington",
+    "type": "twinned administrative body",
+    "tail": "Paris",
+    "date": "2012-02-21"
+  },
+  {
+    "head": "prostitutes",
+    "type": "use",
+    "tail": "orgies",
+    "date": "2012-02-21"
+  },
+  {
+    "head": "Women's March on Washington",
+    "type": "followed by",
+    "tail": "Women's March on Washington",
+    "date": "2012-03-08"
+  },
+  {
+    "head": "Women's March on Washington",
+    "type": "follows",
+    "tail": "Women's March on Washington",
+    "date": "2012-03-08"
+  },
+  {
+    "head": "Women's March",
+    "type": "part of",
+    "tail": "Women's March on Washington",
+    "date": "2012-03-08"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2012-03-09"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "significant event",
+    "tail": "sexually assaulted a New York hotel maid",
+    "date": "2012-03-09"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2012-03-09"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2012-03-09"
+  },
+  {
+    "head": "Dominique Strauss",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2012-03-09"
+  },
+  {
+    "head": "French presidential hopeful",
+    "type": "number of participants",
+    "tail": "62",
+    "date": "2012-03-09"
+  },
+  {
+    "head": "French presidential hopeful",
+    "type": "age",
+    "tail": "62",
+    "date": "2012-03-09"
+  },
+  {
+    "head": "former French presidential hopeful",
+    "type": "field of work",
+    "tail": "European economy",
+    "date": "2012-03-09"
+  },
+  {
+    "head": "Nafissatou Diallo",
+    "type": "occupation",
+    "tail": "maid",
+    "date": "2012-03-09"
+  },
+  {
+    "head": "free speech",
+    "type": "has part",
+    "tail": "right to free speech",
+    "date": "2012-03-09"
+  },
+  {
+    "head": "Women's Campaign",
+    "type": "part of",
+    "tail": "university student union",
+    "date": "2012-03-09"
+  },
+  {
+    "head": "Women's Campaign",
+    "type": "affiliation",
+    "tail": "university student union",
+    "date": "2012-03-09"
+  },
+  {
+    "head": "racism",
+    "type": "opposite of",
+    "tail": "misogyny",
+    "date": "2012-03-09"
+  },
+  {
+    "head": "misogyny",
+    "type": "different from",
+    "tail": "racism",
+    "date": "2012-03-09"
+  },
+  {
+    "head": "racism",
+    "type": "different from",
+    "tail": "misogyny",
+    "date": "2012-03-09"
+  },
+  {
+    "head": "misogyny",
+    "type": "opposite of",
+    "tail": "racism",
+    "date": "2012-03-09"
+  },
+  {
+    "head": "Strauss - Kahn's visit to Cambridge",
+    "type": "main subject",
+    "tail": "sexual assault",
+    "date": "2012-03-10"
+  },
+  {
+    "head": "Strauss",
+    "type": "influenced by",
+    "tail": "Kahn",
+    "date": "2012-03-10"
+  },
+  {
+    "head": "Strauss - Kahn's visit to Cambridge",
+    "type": "instance of",
+    "tail": "sexual assault",
+    "date": "2012-03-10"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "country of citizenship",
+    "tail": "French",
+    "date": "2012-03-14"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "French prosecutors",
+    "date": "2012-03-14"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "instance of",
+    "tail": "rape charge",
+    "date": "2012-03-14"
+  },
+  {
+    "head": "amended on 14 and 19 March 2012",
+    "type": "publication date",
+    "tail": "19 March 2012",
+    "date": "2012-03-14"
+  },
+  {
+    "head": "amended",
+    "type": "publication date",
+    "tail": "19 March 2012",
+    "date": "2012-03-14"
+  },
+  {
+    "head": "amended on 14 and 19 March 2012",
+    "type": "point in time",
+    "tail": "19 March 2012",
+    "date": "2012-03-14"
+  },
+  {
+    "head": "civil case",
+    "type": "location",
+    "tail": "New York",
+    "date": "2012-03-21"
+  },
+  {
+    "head": "civil case",
+    "type": "located in the administrative territorial entity",
+    "tail": "New York",
+    "date": "2012-03-21"
+  },
+  {
+    "head": "civil case",
+    "type": "headquarters location",
+    "tail": "New York",
+    "date": "2012-03-21"
+  },
+  {
+    "head": "prostitutes",
+    "type": "use",
+    "tail": "prostitutes",
+    "date": "2012-03-21"
+  },
+  {
+    "head": "prostitutes",
+    "type": "field of this occupation",
+    "tail": "prostitutes",
+    "date": "2012-03-21"
+  },
+  {
+    "head": "prostitutes",
+    "type": "practiced by",
+    "tail": "prostitutes",
+    "date": "2012-03-21"
+  },
+  {
+    "head": "Lille",
+    "type": "country",
+    "tail": "French",
+    "date": "2012-03-26"
+  },
+  {
+    "head": "French",
+    "type": "capital",
+    "tail": "Lille",
+    "date": "2012-03-26"
+  },
+  {
+    "head": "Lille",
+    "type": "instance of",
+    "tail": "French city",
+    "date": "2012-03-26"
+  },
+  {
+    "head": "Lille",
+    "type": "country",
+    "tail": "French",
+    "date": "2012-03-26"
+  },
+  {
+    "head": "Lille",
+    "type": "instance of",
+    "tail": "French city",
+    "date": "2012-03-26"
+  },
+  {
+    "head": "French",
+    "type": "capital",
+    "tail": "Lille",
+    "date": "2012-03-26"
+  },
+  {
+    "head": "Le Mans",
+    "type": "country",
+    "tail": "France",
+    "date": "2012-03-26"
+  },
+  {
+    "head": "French presidential election",
+    "type": "candidate",
+    "tail": "Emmanuel Macron",
+    "date": "2012-03-26"
+  },
+  {
+    "head": "Emmanuel Macron",
+    "type": "candidacy in election",
+    "tail": "French presidential election",
+    "date": "2012-03-26"
+  },
+  {
+    "head": "French presidential election",
+    "type": "candidate",
+    "tail": "Fran\u00e7ois Fillon",
+    "date": "2012-03-26"
+  },
+  {
+    "head": "Fran\u00e7ois Fillon",
+    "type": "candidacy in election",
+    "tail": "French presidential election",
+    "date": "2012-03-26"
+  },
+  {
+    "head": "Bronx supreme court",
+    "type": "applies to jurisdiction",
+    "tail": "Bronx",
+    "date": "2012-03-28"
+  },
+  {
+    "head": "Nafissatou Diallo",
+    "type": "place of death",
+    "tail": "Bronx",
+    "date": "2012-03-28"
+  },
+  {
+    "head": "Bronx supreme court",
+    "type": "located in the administrative territorial entity",
+    "tail": "Bronx",
+    "date": "2012-03-28"
+  },
+  {
+    "head": "Singapore",
+    "type": "twinned administrative body",
+    "tail": "Washington, DC",
+    "date": "2012-03-29"
+  },
+  {
+    "head": "Washington, DC",
+    "type": "twinned administrative body",
+    "tail": "Singapore",
+    "date": "2012-03-29"
+  },
+  {
+    "head": "Cinnamon Gardens",
+    "type": "located in the administrative territorial entity",
+    "tail": "Colombo",
+    "date": "2012-03-29"
+  },
+  {
+    "head": "French",
+    "type": "part of",
+    "tail": "global politics",
+    "date": "2012-04-13"
+  },
+  {
+    "head": "French",
+    "type": "member of",
+    "tail": "global politics",
+    "date": "2012-04-13"
+  },
+  {
+    "head": "French",
+    "type": "continent",
+    "tail": "global politics",
+    "date": "2012-04-13"
+  },
+  {
+    "head": "Edward Jay Epstein",
+    "type": "field of work",
+    "tail": "investigative journalist",
+    "date": "2012-04-13"
+  },
+  {
+    "head": "Edward Jay Epstein",
+    "type": "occupation",
+    "tail": "investigative journalist",
+    "date": "2012-04-13"
+  },
+  {
+    "head": "Edward Jay Epstein",
+    "type": "work location",
+    "tail": "Paris",
+    "date": "2012-04-13"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2012-04-13"
+  },
+  {
+    "head": "Harvard University",
+    "type": "subsidiary",
+    "tail": "John F. Kennedy School of Government",
+    "date": "2012-04-13"
+  },
+  {
+    "head": "John Strauss - Kahn",
+    "type": "award received",
+    "tail": "Nobel Peace Prize",
+    "date": "2012-04-13"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "located in the administrative territorial entity",
+    "tail": "Manhattan",
+    "date": "2012-04-24"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "headquarters location",
+    "tail": "Manhattan",
+    "date": "2012-04-24"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "location",
+    "tail": "Manhattan",
+    "date": "2012-04-24"
+  },
+  {
+    "head": "his downfall",
+    "type": "location",
+    "tail": "Sofitel",
+    "date": "2012-04-27"
+  },
+  {
+    "head": "his downfall",
+    "type": "location",
+    "tail": "Sofitel hotel",
+    "date": "2012-04-27"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "residence",
+    "tail": "Sofitel",
+    "date": "2012-04-27"
+  },
+  {
+    "head": "Nicolas Sarkozy",
+    "type": "position held",
+    "tail": "French president",
+    "date": "2012-04-27"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2012-04-27"
+  },
+  {
+    "head": "Berlin",
+    "type": "head of government",
+    "tail": "Angela Merkel",
+    "date": "2012-04-28"
+  },
+  {
+    "head": "German chancellor",
+    "type": "officeholder",
+    "tail": "Angela Merkel",
+    "date": "2012-04-28"
+  },
+  {
+    "head": "Angela Merkel",
+    "type": "position held",
+    "tail": "German chancellor",
+    "date": "2012-04-28"
+  },
+  {
+    "head": "Berlin",
+    "type": "office held by head of government",
+    "tail": "German chancellor",
+    "date": "2012-04-28"
+  },
+  {
+    "head": "Nicolas Sarkozy",
+    "type": "position held",
+    "tail": "French president",
+    "date": "2012-04-28"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2012-04-28"
+  },
+  {
+    "head": "Clermont",
+    "type": "located in the administrative territorial entity",
+    "tail": "Ferrand",
+    "date": "2012-04-28"
+  },
+  {
+    "head": "Ferrand",
+    "type": "capital",
+    "tail": "Clermont",
+    "date": "2012-04-28"
+  },
+  {
+    "head": "Clermont - Ferrand",
+    "type": "instance of",
+    "tail": "city",
+    "date": "2012-04-28"
+  },
+  {
+    "head": "Nicolas Sarkozy",
+    "type": "member of political party",
+    "tail": "rightwing party",
+    "date": "2012-04-28"
+  },
+  {
+    "head": "Clermont",
+    "type": "located in the administrative territorial entity",
+    "tail": "Ferrand",
+    "date": "2012-04-28"
+  },
+  {
+    "head": "Ferrand",
+    "type": "capital",
+    "tail": "Clermont",
+    "date": "2012-04-28"
+  },
+  {
+    "head": "Nicolas Sarkozy",
+    "type": "member of political party",
+    "tail": "rightwing party",
+    "date": "2012-04-29"
+  },
+  {
+    "head": "rightwing party",
+    "type": "chairperson",
+    "tail": "Nicolas Sarkozy",
+    "date": "2012-04-29"
+  },
+  {
+    "head": "Nicolas Sarkozy",
+    "type": "member of political party",
+    "tail": "rightwing",
+    "date": "2012-04-29"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "candidacy in election",
+    "tail": "French presidential contender",
+    "date": "2012-04-30"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "candidacy in election",
+    "tail": "French presidential",
+    "date": "2012-04-30"
+  },
+  {
+    "head": "Dominique Strauss - Kahn sexually assaulted her",
+    "type": "located in the administrative territorial entity",
+    "tail": "New York",
+    "date": "2012-04-30"
+  },
+  {
+    "head": "New York Post",
+    "type": "instance of",
+    "tail": "newspaper",
+    "date": "2012-04-30"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "position held",
+    "tail": "President",
+    "date": "2012-04-30"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "member of political party",
+    "tail": "Republican",
+    "date": "2012-04-30"
+  },
+  {
+    "head": "Al-Qaeda",
+    "type": "country",
+    "tail": "Libya",
+    "date": "2012-05-01"
+  },
+  {
+    "head": "Albright-Knox College",
+    "type": "located in the administrative territorial entity",
+    "tail": "London",
+    "date": "2012-05-01"
+  },
+  {
+    "head": "Albright-Knox College",
+    "type": "part of",
+    "tail": "University of Oxford",
+    "date": "2012-05-01"
+  },
+  {
+    "head": "Douglas McKeon",
+    "type": "position held",
+    "tail": "Bronx state supreme court",
+    "date": "2012-05-01"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "candidacy in election",
+    "tail": "French presidential contender",
+    "date": "2012-05-01"
+  },
+  {
+    "head": "Douglas McKeon",
+    "type": "employer",
+    "tail": "Bronx state supreme court",
+    "date": "2012-05-01"
+  },
+  {
+    "head": "New York Post",
+    "type": "instance of",
+    "tail": "newspaper",
+    "date": "2012-05-01"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "position held",
+    "tail": "President",
+    "date": "2012-05-01"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "member of political party",
+    "tail": "Republican",
+    "date": "2012-05-01"
+  },
+  {
+    "head": "Fran\u00e7ois Hollande",
+    "type": "member of political party",
+    "tail": "Socialist",
+    "date": "2012-05-06"
+  },
+  {
+    "head": "Fran\u00e7ois Hollande",
+    "type": "position held",
+    "tail": "French presidency",
+    "date": "2012-05-06"
+  },
+  {
+    "head": "French presidency",
+    "type": "officeholder",
+    "tail": "Fran\u00e7ois Hollande",
+    "date": "2012-05-06"
+  },
+  {
+    "head": "special victims unit",
+    "type": "located in the administrative territorial entity",
+    "tail": "Manhattan",
+    "date": "2012-05-14"
+  },
+  {
+    "head": "special victims unit",
+    "type": "applies to jurisdiction",
+    "tail": "Manhattan",
+    "date": "2012-05-14"
+  },
+  {
+    "head": "Special Victims Unit",
+    "type": "applies to jurisdiction",
+    "tail": "Manhattan",
+    "date": "2012-05-14"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2012-05-15"
+  },
+  {
+    "head": "John F. Kennedy",
+    "type": "significant event",
+    "tail": "assassinated",
+    "date": "2012-05-15"
+  },
+  {
+    "head": "Harvard University",
+    "type": "subsidiary",
+    "tail": "John F. Kennedy School of Government",
+    "date": "2012-05-15"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2012-05-22"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "member of",
+    "tail": "IMF",
+    "date": "2012-05-22"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2012-05-22"
+  },
+  {
+    "head": "Christine Lagarde",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2012-05-25"
+  },
+  {
+    "head": "Christine Lagarde",
+    "type": "position held",
+    "tail": "IMF boss",
+    "date": "2012-05-25"
+  },
+  {
+    "head": "IMF",
+    "type": "chairperson",
+    "tail": "Christine Lagarde",
+    "date": "2012-05-25"
+  },
+  {
+    "head": "French prosecution service",
+    "type": "country",
+    "tail": "France",
+    "date": "2012-10-02"
+  },
+  {
+    "head": "French",
+    "type": "subsidiary",
+    "tail": "prosecution service",
+    "date": "2012-10-02"
+  },
+  {
+    "head": "prosecution service",
+    "type": "parent organization",
+    "tail": "French",
+    "date": "2012-10-02"
+  },
+  {
+    "head": "French prosecution service",
+    "type": "applies to jurisdiction",
+    "tail": "France",
+    "date": "2012-10-02"
+  },
+  {
+    "head": "Sofitel",
+    "type": "located in the administrative territorial entity",
+    "tail": "Manhattan",
+    "date": "2012-12-10"
+  },
+  {
+    "head": "Sofitel",
+    "type": "headquarters location",
+    "tail": "Manhattan",
+    "date": "2012-12-10"
+  },
+  {
+    "head": "Sofitel",
+    "type": "location of formation",
+    "tail": "Manhattan",
+    "date": "2012-12-10"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2012-12-10"
+  },
+  {
+    "head": "Dominique Strauss",
+    "type": "employer",
+    "tail": "IMF",
+    "date": "2012-12-10"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "IMF chief",
+    "date": "2012-12-10"
+  },
+  {
+    "head": "attempted rape",
+    "type": "located in the administrative territorial entity",
+    "tail": "New York",
+    "date": "2012-12-10"
+  },
+  {
+    "head": "French president",
+    "type": "applies to jurisdiction",
+    "tail": "New York",
+    "date": "2012-12-10"
+  },
+  {
+    "head": "a lengthy New York court battle",
+    "type": "main subject",
+    "tail": "attempted rape",
+    "date": "2012-12-10"
+  },
+  {
+    "head": "Supreme Court",
+    "type": "country",
+    "tail": "Australia",
+    "date": "2012-12-19"
+  },
+  {
+    "head": "Supreme Court of Australia",
+    "type": "located in the administrative territorial entity",
+    "tail": "Canberra",
+    "date": "2012-12-19"
+  },
+  {
+    "head": "Supreme Court of Australia",
+    "type": "headquarters location",
+    "tail": "Canberra",
+    "date": "2012-12-19"
+  },
+  {
+    "head": "Beauty and Beast",
+    "type": "has part",
+    "tail": "Belle et B\u00eate",
+    "date": "2013-02-20"
+  },
+  {
+    "head": "Beauty",
+    "type": "spouse",
+    "tail": "Beast",
+    "date": "2013-02-20"
+  },
+  {
+    "head": "Beast",
+    "type": "spouse",
+    "tail": "Beauty",
+    "date": "2013-02-20"
+  },
+  {
+    "head": "Belle et B\u00eate",
+    "type": "part of the series",
+    "tail": "Beauty and Beast",
+    "date": "2013-02-20"
+  },
+  {
+    "head": "Next episode",
+    "type": "publication date",
+    "tail": "Wednesday",
+    "date": "2013-02-20"
+  },
+  {
+    "head": "next episode",
+    "type": "publication date",
+    "tail": "Wednesday",
+    "date": "2013-02-20"
+  },
+  {
+    "head": "Next episode",
+    "type": "part of the series",
+    "tail": "Wednesday",
+    "date": "2013-02-20"
+  },
+  {
+    "head": "2012 Summer Olympics",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2013-02-20"
+  },
+  {
+    "head": "2011",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2013-02-20"
+  },
+  {
+    "head": "2012 Winter Olympics",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2013-02-20"
+  },
+  {
+    "head": "Le Nouvel Observateur",
+    "type": "instance of",
+    "tail": "news magazine",
+    "date": "2013-02-21"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "end time",
+    "tail": "August 2012",
+    "date": "2013-02-21"
+  },
+  {
+    "head": "Le Nouvel Observateur",
+    "type": "political ideology",
+    "tail": "left - of - centre",
+    "date": "2013-02-21"
+  },
+  {
+    "head": "Marcela Iacub",
+    "type": "spouse",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2013-02-21"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "spouse",
+    "tail": "Marcela Iacub",
+    "date": "2013-02-21"
+  },
+  {
+    "head": "Une liaison dangereuse",
+    "type": "published in",
+    "tail": "Lib\u00e9ration",
+    "date": "2013-02-22"
+  },
+  {
+    "head": "Une liaison dangereuse",
+    "type": "publisher",
+    "tail": "Lib\u00e9ration",
+    "date": "2013-02-22"
+  },
+  {
+    "head": "Une liaison dangereuse",
+    "type": "conferred by",
+    "tail": "Lib\u00e9ration",
+    "date": "2013-02-22"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "significant event",
+    "tail": "scandal",
+    "date": "2013-02-22"
+  },
+  {
+    "head": "scandal",
+    "type": "participant",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2013-02-22"
+  },
+  {
+    "head": "another scandal",
+    "type": "participant",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2013-02-22"
+  },
+  {
+    "head": "Marcela Iacub",
+    "type": "spouse",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2013-02-22"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "spouse",
+    "tail": "Marcela Iacub",
+    "date": "2013-02-22"
+  },
+  {
+    "head": "Palais de Justice",
+    "type": "location",
+    "tail": "Paris",
+    "date": "2013-02-26"
+  },
+  {
+    "head": "Palais de Justice",
+    "type": "located in the administrative territorial entity",
+    "tail": "Paris",
+    "date": "2013-02-26"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "work location",
+    "tail": "Paris",
+    "date": "2013-02-26"
+  },
+  {
+    "head": "Central European Time",
+    "type": "point in time",
+    "tail": "19.30",
+    "date": "2013-02-26"
+  },
+  {
+    "head": "Central European Time",
+    "type": "area",
+    "tail": "19",
+    "date": "2013-02-26"
+  },
+  {
+    "head": "Central European Time",
+    "type": "point in time",
+    "tail": "19",
+    "date": "2013-02-26"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "notable work",
+    "tail": "kiss - and - tell",
+    "date": "2013-02-26"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "field of work",
+    "tail": "kiss - and - tell",
+    "date": "2013-02-26"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "notable work",
+    "tail": "kiss - and - tell book",
+    "date": "2013-02-26"
+  },
+  {
+    "head": "kiss - and - tell book",
+    "type": "author",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2013-02-26"
+  },
+  {
+    "head": "French",
+    "type": "member of",
+    "tail": "International Monetary Fund",
+    "date": "2013-02-26"
+  },
+  {
+    "head": "sex scandal",
+    "type": "location",
+    "tail": "New York",
+    "date": "2013-02-26"
+  },
+  {
+    "head": "sex scandal in New York",
+    "type": "participant",
+    "tail": "International Monetary Fund",
+    "date": "2013-02-26"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2013-02-26"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2013-02-26"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "position held",
+    "tail": "International Monetary Fund",
+    "date": "2013-02-26"
+  },
+  {
+    "head": "bylines",
+    "type": "part of",
+    "tail": "article",
+    "date": "2013-03-01"
+  },
+  {
+    "head": "bylines",
+    "type": "part of",
+    "tail": "bylines",
+    "date": "2013-03-01"
+  },
+  {
+    "head": "bylines",
+    "type": "different from",
+    "tail": "bylines",
+    "date": "2013-03-01"
+  },
+  {
+    "head": "Henri Leclerc",
+    "type": "employer",
+    "tail": "Strauss Kahn",
+    "date": "2013-07-26"
+  },
+  {
+    "head": "Strauss Kahn",
+    "type": "participant in",
+    "tail": "tribunal",
+    "date": "2013-07-26"
+  },
+  {
+    "head": "Strauss Kahn",
+    "type": "member of",
+    "tail": "tribunal",
+    "date": "2013-07-26"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2013-07-26"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "member of political party",
+    "tail": "Socialist",
+    "date": "2013-07-26"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2013-07-26"
+  },
+  {
+    "head": "George Arzt",
+    "type": "member of political party",
+    "tail": "Republican party",
+    "date": "2013-09-11"
+  },
+  {
+    "head": "George Arzt",
+    "type": "member of political party",
+    "tail": "Republican",
+    "date": "2013-09-11"
+  },
+  {
+    "head": "general election",
+    "type": "candidate",
+    "tail": "George Arzt",
+    "date": "2013-09-11"
+  },
+  {
+    "head": "Republican",
+    "type": "instance of",
+    "tail": "party",
+    "date": "2013-09-11"
+  },
+  {
+    "head": "Republican party",
+    "type": "different from",
+    "tail": "GOP",
+    "date": "2013-09-11"
+  },
+  {
+    "head": "GOP",
+    "type": "different from",
+    "tail": "Republican party",
+    "date": "2013-09-11"
+  },
+  {
+    "head": "Republican party",
+    "type": "part of",
+    "tail": "GOP",
+    "date": "2013-09-11"
+  },
+  {
+    "head": "GOP",
+    "type": "has part",
+    "tail": "Republican party",
+    "date": "2013-09-11"
+  },
+  {
+    "head": "Nafissatou Diallo",
+    "type": "occupation",
+    "tail": "hotel maid",
+    "date": "2014-05-13"
+  },
+  {
+    "head": "Nafissatou Diallo",
+    "type": "significant event",
+    "tail": "attempted rape",
+    "date": "2014-05-13"
+  },
+  {
+    "head": "Nafissatou Diallo",
+    "type": "place of death",
+    "tail": "New York",
+    "date": "2014-05-13"
+  },
+  {
+    "head": "Nafissatou Diallo",
+    "type": "significant event",
+    "tail": "attempted rape",
+    "date": "2014-05-13"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "work location",
+    "tail": "New York",
+    "date": "2014-05-13"
+  },
+  {
+    "head": "Nafissatou Diallo",
+    "type": "place of death",
+    "tail": "New York",
+    "date": "2014-05-13"
+  },
+  {
+    "head": "Hotel Carlton",
+    "type": "located in the administrative territorial entity",
+    "tail": "Lille",
+    "date": "2015-02-01"
+  },
+  {
+    "head": "palais de justice",
+    "type": "located in the administrative territorial entity",
+    "tail": "Lille",
+    "date": "2015-02-01"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2015-02-01"
+  },
+  {
+    "head": "Lille",
+    "type": "country",
+    "tail": "France",
+    "date": "2015-02-01"
+  },
+  {
+    "head": "Dominique Strauss",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2015-02-01"
+  },
+  {
+    "head": "Washington",
+    "type": "country",
+    "tail": "US",
+    "date": "2015-02-01"
+  },
+  {
+    "head": "US",
+    "type": "capital",
+    "tail": "Washington",
+    "date": "2015-02-01"
+  },
+  {
+    "head": "2009",
+    "type": "point in time",
+    "tail": "2009",
+    "date": "2015-02-01"
+  },
+  {
+    "head": "2011",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2015-02-01"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "instance of",
+    "tail": "soir\u00e9e",
+    "date": "2015-02-01"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2015-02-01"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2015-02-01"
+  },
+  {
+    "head": "Dominique Strauss",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2015-02-01"
+  },
+  {
+    "head": "pimping",
+    "type": "uses",
+    "tail": "prostitutes",
+    "date": "2015-02-01"
+  },
+  {
+    "head": "prostitutes",
+    "type": "field of this occupation",
+    "tail": "pimping",
+    "date": "2015-02-01"
+  },
+  {
+    "head": "pimping",
+    "type": "practiced by",
+    "tail": "prostitutes",
+    "date": "2015-02-01"
+  },
+  {
+    "head": "Kahn",
+    "type": "influenced by",
+    "tail": "Strauss",
+    "date": "2015-02-01"
+  },
+  {
+    "head": "Kahn",
+    "type": "father",
+    "tail": "Strauss",
+    "date": "2015-02-01"
+  },
+  {
+    "head": "Kahn",
+    "type": "creator",
+    "tail": "Strauss",
+    "date": "2015-02-01"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "office held by head of the organization",
+    "tail": "head",
+    "date": "2015-02-02"
+  },
+  {
+    "head": "former head of the International Monetary Fund",
+    "type": "significant event",
+    "tail": "go on trial",
+    "date": "2015-02-02"
+  },
+  {
+    "head": "former head of the International Monetary Fund",
+    "type": "significant event",
+    "tail": "prox\u00e9n\u00e9tisme aggrav\u00e9",
+    "date": "2015-02-02"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2015-02-02"
+  },
+  {
+    "head": "Lille",
+    "type": "country",
+    "tail": "France",
+    "date": "2015-02-02"
+  },
+  {
+    "head": "Dominique Strauss",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2015-02-02"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2015-02-02"
+  },
+  {
+    "head": "Lille",
+    "type": "country",
+    "tail": "France",
+    "date": "2015-02-02"
+  },
+  {
+    "head": "Dominique Strauss",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2015-02-02"
+  },
+  {
+    "head": "Washington",
+    "type": "country",
+    "tail": "US",
+    "date": "2015-02-02"
+  },
+  {
+    "head": "US",
+    "type": "capital",
+    "tail": "Washington",
+    "date": "2015-02-02"
+  },
+  {
+    "head": "2009",
+    "type": "point in time",
+    "tail": "2009",
+    "date": "2015-02-02"
+  },
+  {
+    "head": "2011",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2015-02-02"
+  },
+  {
+    "head": "Strauss - Kahn",
+    "type": "instance of",
+    "tail": "soir\u00e9e",
+    "date": "2015-02-02"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2015-02-02"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2015-02-02"
+  },
+  {
+    "head": "Dominique Strauss",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2015-02-02"
+  },
+  {
+    "head": "pimping",
+    "type": "uses",
+    "tail": "prostitutes",
+    "date": "2015-02-02"
+  },
+  {
+    "head": "prostitutes",
+    "type": "field of this occupation",
+    "tail": "pimping",
+    "date": "2015-02-02"
+  },
+  {
+    "head": "pimping",
+    "type": "practiced by",
+    "tail": "prostitutes",
+    "date": "2015-02-02"
+  },
+  {
+    "head": "Kahn",
+    "type": "influenced by",
+    "tail": "Strauss",
+    "date": "2015-02-02"
+  },
+  {
+    "head": "Kahn",
+    "type": "father",
+    "tail": "Strauss",
+    "date": "2015-02-02"
+  },
+  {
+    "head": "Kahn",
+    "type": "creator",
+    "tail": "Strauss",
+    "date": "2015-02-02"
+  },
+  {
+    "head": "Uber",
+    "type": "location of formation",
+    "tail": "Boston",
+    "date": "2015-02-08"
+  },
+  {
+    "head": "first assault",
+    "type": "point in time",
+    "tail": "8 February 2015",
+    "date": "2015-02-08"
+  },
+  {
+    "head": "First assault",
+    "type": "point in time",
+    "tail": "8 February 2015",
+    "date": "2015-02-08"
+  },
+  {
+    "head": "Albright-Knox College",
+    "type": "located in the administrative territorial entity",
+    "tail": "New York City",
+    "date": "2015-02-10"
+  },
+  {
+    "head": "Albright-Knox College",
+    "type": "located in the administrative territorial entity",
+    "tail": "London",
+    "date": "2015-02-10"
+  },
+  {
+    "head": "Albright-Knox College",
+    "type": "part of",
+    "tail": "University of Pennsylvania",
+    "date": "2015-02-10"
+  },
+  {
+    "head": "John F. Kennedy School of Government",
+    "type": "part of",
+    "tail": "Harvard University",
+    "date": "2015-02-10"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "position held",
+    "tail": "President",
+    "date": "2015-02-10"
+  },
+  {
+    "head": "George Orwell",
+    "type": "notable work",
+    "tail": "Nineteen Eighty-Four",
+    "date": "2015-02-10"
+  },
+  {
+    "head": "Nineteen Eighty-Four",
+    "type": "author",
+    "tail": "George Orwell",
+    "date": "2015-02-10"
+  },
+  {
+    "head": "film",
+    "type": "director",
+    "tail": "Ferrara",
+    "date": "2015-03-27"
+  },
+  {
+    "head": "film",
+    "type": "director",
+    "tail": "Ferrari",
+    "date": "2015-03-27"
+  },
+  {
+    "head": "film",
+    "type": "producer",
+    "tail": "Ferrari",
+    "date": "2015-03-27"
+  },
+  {
+    "head": "2008 Summer Olympics",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2015-06-12"
+  },
+  {
+    "head": "2008 FIFA World Cup",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2015-06-12"
+  },
+  {
+    "head": "2009 FIFA World Cup",
+    "type": "point in time",
+    "tail": "2009",
+    "date": "2015-06-12"
+  },
+  {
+    "head": "television news",
+    "type": "country",
+    "tail": "French",
+    "date": "2015-06-12"
+  },
+  {
+    "head": "French television news",
+    "type": "instance of",
+    "tail": "reports",
+    "date": "2015-06-12"
+  },
+  {
+    "head": "television news",
+    "type": "country of origin",
+    "tail": "French",
+    "date": "2015-06-12"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "employer",
+    "tail": "International Monetary Fund",
+    "date": "2015-06-12"
+  },
+  {
+    "head": "International Monetary Fund",
+    "type": "chairperson",
+    "tail": "Dominique Strauss - Kahn",
+    "date": "2015-06-12"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "occupation",
+    "tail": "pimping",
+    "date": "2015-06-12"
+  },
+  {
+    "head": "Dominique Strauss - Kahn",
+    "type": "country of citizenship",
+    "tail": "France",
+    "date": "2015-06-12"
+  },
+  {
+    "head": "Dominique Strauss",
+    "type": "occupation",
+    "tail": "pimping",
+    "date": "2015-06-12"
+  },
+  {
+    "head": "sex workers",
+    "type": "uses",
+    "tail": "mattress",
+    "date": "2015-06-12"
+  },
+  {
+    "head": "mattress",
+    "type": "used by",
+    "tail": "sex workers",
+    "date": "2015-06-12"
+  },
+  {
+    "head": "sex worker",
+    "type": "uses",
+    "tail": "mattress",
+    "date": "2015-06-12"
+  },
+  {
+    "head": "mattress",
+    "type": "used by",
+    "tail": "sex worker",
+    "date": "2015-06-12"
+  },
+  {
+    "head": "Jane Doe 2",
+    "type": "point in time",
+    "tail": "9 August 2015",
+    "date": "2015-08-09"
+  },
+  {
+    "head": "Jane Doe 2",
+    "type": "date of death",
+    "tail": "9 August 2015",
+    "date": "2015-08-09"
+  },
+  {
+    "head": "Jane Doe 2",
+    "type": "place of death",
+    "tail": "Charleston",
+    "date": "2015-08-09"
+  },
+  {
+    "head": "Uber",
+    "type": "significant event",
+    "tail": "sexual assault",
+    "date": "2015-10-08"
+  },
+  {
+    "head": "Uber",
+    "type": "industry",
+    "tail": "sexual assault",
+    "date": "2015-10-08"
+  },
+  {
+    "head": "Uber",
+    "type": "facet of",
+    "tail": "sexual assault",
+    "date": "2015-10-08"
+  },
+  {
+    "head": "Uber",
+    "type": "instance of",
+    "tail": "driver",
+    "date": "2015-10-08"
+  },
+  {
+    "head": "Uber",
+    "type": "instance of",
+    "tail": "drivers",
+    "date": "2015-10-08"
+  },
+  {
+    "head": "Uber",
+    "type": "has part",
+    "tail": "driver",
+    "date": "2015-10-08"
+  },
+  {
+    "head": "MSMB Capital Management",
+    "type": "instance of",
+    "tail": "hedge fund",
+    "date": "2016-01-27"
+  },
+  {
+    "head": "MSMB Capital Management",
+    "type": "industry",
+    "tail": "hedge fund",
+    "date": "2016-01-27"
+  },
+  {
+    "head": "Retrophin",
+    "type": "industry",
+    "tail": "biopharmaceutical",
+    "date": "2016-01-27"
+  },
+  {
+    "head": "Daraprim",
+    "type": "medical condition treated",
+    "tail": "Aids",
+    "date": "2016-01-28"
+  },
+  {
+    "head": "Aids",
+    "type": "drug used for treatment",
+    "tail": "Daraprim",
+    "date": "2016-01-28"
+  },
+  {
+    "head": "Daraprim",
+    "type": "medical condition treated",
+    "tail": "cancer",
+    "date": "2016-01-28"
+  },
+  {
+    "head": "cancer",
+    "type": "drug used for treatment",
+    "tail": "Daraprim",
+    "date": "2016-01-28"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "position held",
+    "tail": "President",
+    "date": "2016-02-02"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "position held",
+    "tail": "President of the United States",
+    "date": "2016-02-02"
+  },
+  {
+    "head": "George W. Bush",
+    "type": "position held",
+    "tail": "Secretary of Defense",
+    "date": "2016-02-02"
+  },
+  {
+    "head": "Ben Brafman",
+    "type": "employer",
+    "tail": "Jay Z",
+    "date": "2016-02-03"
+  },
+  {
+    "head": "Ben Brafman",
+    "type": "work location",
+    "tail": "New York",
+    "date": "2016-02-03"
+  },
+  {
+    "head": "Mafia boss",
+    "type": "located in the administrative territorial entity",
+    "tail": "New York",
+    "date": "2016-02-03"
+  },
+  {
+    "head": "2009 election",
+    "type": "point in time",
+    "tail": "2009",
+    "date": "2016-05-09"
+  },
+  {
+    "head": "2008 election",
+    "type": "point in time",
+    "tail": "2008",
+    "date": "2016-05-09"
+  },
+  {
+    "head": "2011 election",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2016-05-09"
+  },
+  {
+    "head": "Deputy Speaker",
+    "type": "subclass of",
+    "tail": "speaker",
+    "date": "2016-05-09"
+  },
+  {
+    "head": "deputy speaker",
+    "type": "subclass of",
+    "tail": "speaker",
+    "date": "2016-05-09"
+  },
+  {
+    "head": "2009 election",
+    "type": "point in time",
+    "tail": "2009",
+    "date": "2016-05-09"
+  },
+  {
+    "head": "2015 election",
+    "type": "point in time",
+    "tail": "2015",
+    "date": "2016-05-09"
+  },
+  {
+    "head": "election",
+    "type": "point in time",
+    "tail": "2014",
+    "date": "2016-05-09"
+  },
+  {
+    "head": "election",
+    "type": "candidate",
+    "tail": "Greens",
+    "date": "2016-05-09"
+  },
+  {
+    "head": "Denis Baupin",
+    "type": "member of political party",
+    "tail": "Europe \u00c9cologie Les Verts",
+    "date": "2016-05-10"
+  },
+  {
+    "head": "Europe \u00c9cologie Les Verts",
+    "type": "chairperson",
+    "tail": "Denis Baupin",
+    "date": "2016-05-10"
+  },
+  {
+    "head": "An End the Omert\u00e0 petition",
+    "type": "published in",
+    "tail": "Lib\u00e9ration",
+    "date": "2016-05-10"
+  },
+  {
+    "head": "Dominique Strauss - Kahn scandal",
+    "type": "country",
+    "tail": "French",
+    "date": "2016-05-10"
+  },
+  {
+    "head": "Dominique Strauss - Kahn scandal",
+    "type": "instance of",
+    "tail": "sexual harassment of women in politics",
+    "date": "2016-05-10"
+  },
+  {
+    "head": "Dominique Strauss - Kahn scandal",
+    "type": "facet of",
+    "tail": "sexual harassment of women in politics",
+    "date": "2016-05-10"
+  },
+  {
+    "head": "2015 election",
+    "type": "point in time",
+    "tail": "2015",
+    "date": "2016-05-10"
+  },
+  {
+    "head": "election",
+    "type": "point in time",
+    "tail": "2014",
+    "date": "2016-05-10"
+  },
+  {
+    "head": "election",
+    "type": "candidate",
+    "tail": "Greens",
+    "date": "2016-05-10"
+  },
+  {
+    "head": "2011 election",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2016-07-05"
+  },
+  {
+    "head": "2012 election",
+    "type": "point in time",
+    "tail": "2012",
+    "date": "2016-07-05"
+  },
+  {
+    "head": "2011 general election",
+    "type": "point in time",
+    "tail": "2011",
+    "date": "2016-07-05"
+  }
+]

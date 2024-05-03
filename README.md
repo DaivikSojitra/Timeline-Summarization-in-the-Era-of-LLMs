@@ -1,4 +1,4 @@
-# TImeline-Summarization-in-the-Era-of-LLMs
+# Timeline-Summarization-in-the-Era-of-LLMs
 
 ## Dataset
 for each approach their used dataset can be found in respective folders. For benchmarking dataset can be found [here](https://drive.google.com/drive/folders/1gDAF5QZyCWnF_hYKbxIzOyjT6MSkbQXu?usp=sharing).
