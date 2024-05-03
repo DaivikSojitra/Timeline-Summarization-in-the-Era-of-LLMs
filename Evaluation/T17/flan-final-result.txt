@@ -1,0 +1,288 @@
+Date results: ,"{'precision': 0.4272300469483568, 'recall': 0.7711864406779662, 'f_score': 0.5498489425981873}"
+Final precison Score : ,0.4272300469483568
+Final recall Score : ,0.7711864406779662
+Final f1 Score : ,0.5498489425981873
+Date results: ,"{'precision': 1.0, 'recall': 0.5, 'f_score': 0.6666666666666666}"
+Final precison Score : ,0.7136150234741784
+Final recall Score : ,0.6355932203389831
+Final f1 Score : ,0.608257804632427
+Date results: ,"{'precision': 0.32, 'recall': 0.7384615384615385, 'f_score': 0.44651162790697674}"
+Final precison Score : ,0.5824100156494523
+Final recall Score : ,0.6698826597131682
+Final f1 Score : ,0.5543424123906102
+Date results: ,"{'precision': 0.1625, 'recall': 0.6190476190476191, 'f_score': 0.25742574257425743}"
+Final precison Score : ,0.4774325117370892
+Final recall Score : ,0.657173899546781
+Final f1 Score : ,0.480113244936522
+Date results: ,"{'precision': 0.42857142857142855, 'recall': 0.5454545454545454, 'f_score': 0.4799999999999999}"
+Final precison Score : ,0.46766029510395707
+Final recall Score : ,0.6348300287283338
+Final f1 Score : ,0.4800905959492176
+Date results: ,"{'precision': 0.46303501945525294, 'recall': 0.7677419354838709, 'f_score': 0.5776699029126214}"
+Final precison Score : ,0.46688941582917304
+Final recall Score : ,0.65698201318759
+Final f1 Score : ,0.4963538137764516
+Date results: ,"{'precision': 0.22510822510822512, 'recall': 0.8813559322033898, 'f_score': 0.3586206896551724}"
+Final precison Score : ,0.4323492457261805
+Final recall Score : ,0.6890354301898471
+Final f1 Score : ,0.4766776531876974
+Date results: ,"{'precision': 0.34951456310679613, 'recall': 0.9473684210526315, 'f_score': 0.5106382978723405}"
+Final precison Score : ,0.4219949103987575
+Final recall Score : ,0.7213270540476951
+Final f1 Score : ,0.48092273377327777
+Date results: ,"{'precision': 0.18095238095238095, 'recall': 0.8837209302325582, 'f_score': 0.30039525691699603}"
+Final precison Score : ,0.39521240712693784
+Final recall Score : ,0.7393708180682355
+Final f1 Score : ,0.4608641252336909
+Date results: ,"{'precision': 0.5972222222222222, 'recall': 0.7288135593220338, 'f_score': 0.6564885496183206}"
+Final precison Score : ,0.5972222222222222
+Final recall Score : ,0.7288135593220338
+Final f1 Score : ,0.6564885496183206
+Date results: ,"{'precision': 1.0, 'recall': 0.7, 'f_score': 0.8235294117647058}"
+Final precison Score : ,0.7986111111111112
+Final recall Score : ,0.714406779661017
+Final f1 Score : ,0.7400089806915132
+Date results: ,"{'precision': 0.32, 'recall': 0.7384615384615385, 'f_score': 0.44651162790697674}"
+Final precison Score : ,0.6390740740740741
+Final recall Score : ,0.7224250325945241
+Final f1 Score : ,0.6421765297633344
+Date results: ,"{'precision': 0.21176470588235294, 'recall': 0.8571428571428571, 'f_score': 0.33962264150943394}"
+Final precison Score : ,0.5322467320261438
+Final recall Score : ,0.7561044887316073
+Final f1 Score : ,0.5665380576998593
+Date results: ,"{'precision': 0.55, 'recall': 1.0, 'f_score': 0.7096774193548387}"
+Final precison Score : ,0.5357973856209151
+Final recall Score : ,0.8048835909852858
+Final f1 Score : ,0.5951659300308552
+Date results: ,"{'precision': 0.5133333333333333, 'recall': 0.4967741935483871, 'f_score': 0.5049180327868853}"
+Final precison Score : ,0.532053376906318
+Final recall Score : ,0.7535320247458027
+Final f1 Score : ,0.5801246138235269
+Date results: ,"{'precision': 0.25170068027210885, 'recall': 0.6271186440677966, 'f_score': 0.3592233009708738}"
+Final precison Score : ,0.4920029916728596
+Final recall Score : ,0.7354729703632304
+Final f1 Score : ,0.548567283416005
+Date results: ,"{'precision': 0.34951456310679613, 'recall': 0.9473684210526315, 'f_score': 0.5106382978723405}"
+Final precison Score : ,0.4741919381021017
+Final recall Score : ,0.7619599016994055
+Final f1 Score : ,0.543826160223047
+Date results: ,"{'precision': 0.20666666666666667, 'recall': 0.36046511627906974, 'f_score': 0.2627118644067797}"
+Final precison Score : ,0.4444669079426089
+Final recall Score : ,0.7173493699860349
+Final f1 Score : ,0.5125912384656839
+Date results: ,"{'precision': 0.5573770491803278, 'recall': 0.576271186440678, 'f_score': 0.5666666666666667}"
+Final precison Score : ,0.5573770491803278
+Final recall Score : ,0.576271186440678
+Final f1 Score : ,0.5666666666666667
+Date results: ,"{'precision': 1.0, 'recall': 0.4, 'f_score': 0.5714285714285715}"
+Final precison Score : ,0.7786885245901639
+Final recall Score : ,0.488135593220339
+Final f1 Score : ,0.569047619047619
+Date results: ,"{'precision': 0.32, 'recall': 0.7384615384615385, 'f_score': 0.44651162790697674}"
+Final precison Score : ,0.6257923497267759
+Final recall Score : ,0.5715775749674055
+Final f1 Score : ,0.5282022886674049
+Date results: ,"{'precision': 0.1625, 'recall': 0.6190476190476191, 'f_score': 0.25742574257425743}"
+Final precison Score : ,0.509969262295082
+Final recall Score : ,0.5834450859874589
+Final f1 Score : ,0.4605081521441181
+Date results: ,"{'precision': 0.3333333333333333, 'recall': 0.36363636363636365, 'f_score': 0.34782608695652173}"
+Final precison Score : ,0.4746420765027322
+Final recall Score : ,0.5394833415172399
+Final f1 Score : ,0.4379717391065988
+Date results: ,"{'precision': 0.5133333333333333, 'recall': 0.4967741935483871, 'f_score': 0.5049180327868853}"
+Final precison Score : ,0.4810906193078324
+Final recall Score : ,0.5323651501890977
+Final f1 Score : ,0.4491294547199799
+Date results: ,"{'precision': 0.24647887323943662, 'recall': 0.5932203389830508, 'f_score': 0.34825870646766166}"
+Final precison Score : ,0.44757465558377585
+Final recall Score : ,0.5410587485882339
+Final f1 Score : ,0.43471934782679156
+Date results: ,"{'precision': 0.34951456310679613, 'recall': 0.9473684210526315, 'f_score': 0.5106382978723405}"
+Final precison Score : ,0.4353171440241534
+Final recall Score : ,0.5918474576462835
+Final f1 Score : ,0.4442092165824852
+Date results: ,"{'precision': 0.20666666666666667, 'recall': 0.36046511627906974, 'f_score': 0.2627118644067797}"
+Final precison Score : ,0.4099115354288771
+Final recall Score : ,0.5661383086054821
+Final f1 Score : ,0.4240428441185179
+Date results: ,"{'precision': 0.35714285714285715, 'recall': 0.5508474576271186, 'f_score': 0.43333333333333335}"
+Final precison Score : ,0.35714285714285715
+Final recall Score : ,0.5508474576271186
+Final f1 Score : ,0.43333333333333335
+Date results: ,"{'precision': 1.0, 'recall': 0.15, 'f_score': 0.2608695652173913}"
+Final precison Score : ,0.6785714285714286
+Final recall Score : ,0.3504237288135593
+Final f1 Score : ,0.34710144927536235
+Date results: ,"{'precision': 0.32, 'recall': 0.7384615384615385, 'f_score': 0.44651162790697674}"
+Final precison Score : ,0.559047619047619
+Final recall Score : ,0.4797696653628857
+Final f1 Score : ,0.38023817548590044
+Date results: ,"{'precision': 0.13846153846153847, 'recall': 0.42857142857142855, 'f_score': 0.20930232558139533}"
+Final precison Score : ,0.4539010989010989
+Final recall Score : ,0.46697010616502144
+Final f1 Score : ,0.3375042130097742
+Date results: ,"{'precision': 0.0, 'recall': 0.0, 'f_score': 0}"
+Final precison Score : ,0.36312087912087915
+Final recall Score : ,0.3735760849320171
+Final f1 Score : ,0.27000337040781935
+Date results: ,"{'precision': 0.46303501945525294, 'recall': 0.7677419354838709, 'f_score': 0.5776699029126214}"
+Final precison Score : ,0.37977323584327477
+Final recall Score : ,0.4392703933573261
+Final f1 Score : ,0.32128112582528634
+Date results: ,"{'precision': 0.20398009950248755, 'recall': 0.6949152542372882, 'f_score': 0.31538461538461543}"
+Final precison Score : ,0.35465993065173373
+Final recall Score : ,0.47579108776874923
+Final f1 Score : ,0.3204387671909048
+Date results: ,"{'precision': 0.34951456310679613, 'recall': 0.9473684210526315, 'f_score': 0.5106382978723405}"
+Final precison Score : ,0.3540167597086165
+Final recall Score : ,0.5347382544292345
+Final f1 Score : ,0.34421370852608424
+Date results: ,"{'precision': 0.18095238095238095, 'recall': 0.8837209302325582, 'f_score': 0.30039525691699603}"
+Final precison Score : ,0.33478738429125704
+Final recall Score : ,0.5735141072962705
+Final f1 Score : ,0.33934499168063004
+Date results: ,"{'precision': 0.6133333333333333, 'recall': 0.7796610169491526, 'f_score': 0.6865671641791045}"
+Final precison Score : ,0.6133333333333333
+Final recall Score : ,0.7796610169491526
+Final f1 Score : ,0.6865671641791045
+Date results: ,"{'precision': 1.0, 'recall': 1.0, 'f_score': 1.0}"
+Final precison Score : ,0.8066666666666666
+Final recall Score : ,0.8898305084745763
+Final f1 Score : ,0.8432835820895522
+Date results: ,"{'precision': 0.32, 'recall': 0.7384615384615385, 'f_score': 0.44651162790697674}"
+Final precison Score : ,0.6444444444444444
+Final recall Score : ,0.839374185136897
+Final f1 Score : ,0.7110262640286937
+Date results: ,"{'precision': 0.22093023255813954, 'recall': 0.9047619047619048, 'f_score': 0.35514018691588783}"
+Final precison Score : ,0.5385658914728682
+Final recall Score : ,0.855721115043149
+Final f1 Score : ,0.6220547447504923
+Date results: ,"{'precision': 0.55, 'recall': 1.0, 'f_score': 0.7096774193548387}"
+Final precison Score : ,0.5408527131782945
+Final recall Score : ,0.8845768920345192
+Final f1 Score : ,0.6395792796713615
+Date results: ,"{'precision': 0.5133333333333333, 'recall': 0.4967741935483871, 'f_score': 0.5049180327868853}"
+Final precison Score : ,0.536266149870801
+Final recall Score : ,0.8199431089534972
+Final f1 Score : ,0.6171357385239489
+Date results: ,"{'precision': 0.26, 'recall': 0.6610169491525424, 'f_score': 0.37320574162679426}"
+Final precison Score : ,0.49679955703211515
+Final recall Score : ,0.797239371839075
+Final f1 Score : ,0.5822885961100697
+Date results: ,"{'precision': 0.34951456310679613, 'recall': 0.9473684210526315, 'f_score': 0.5106382978723405}"
+Final precison Score : ,0.4783889327914503
+Final recall Score : ,0.8160055029907696
+Final f1 Score : ,0.5733323088303535
+Date results: ,"{'precision': 0.20666666666666667, 'recall': 0.36046511627906974, 'f_score': 0.2627118644067797}"
+Final precison Score : ,0.4481975698886966
+Final recall Score : ,0.7653899044672474
+Final f1 Score : ,0.5388189261166231
+Date results: ,"{'precision': 0.609271523178808, 'recall': 0.7796610169491526, 'f_score': 0.6840148698884758}"
+Final precison Score : ,0.609271523178808
+Final recall Score : ,0.7796610169491526
+Final f1 Score : ,0.6840148698884758
+Date results: ,"{'precision': 0.9523809523809523, 'recall': 1.0, 'f_score': 0.975609756097561}"
+Final precison Score : ,0.7808262377798801
+Final recall Score : ,0.8898305084745763
+Final f1 Score : ,0.8298123129930184
+Date results: ,"{'precision': 0.31788079470198677, 'recall': 0.7384615384615385, 'f_score': 0.4444444444444445}"
+Final precison Score : ,0.626511090087249
+Final recall Score : ,0.839374185136897
+Final f1 Score : ,0.7013563568101604
+Date results: ,"{'precision': 0.21839080459770116, 'recall': 0.9047619047619048, 'f_score': 0.3518518518518519}"
+Final precison Score : ,0.5244810187148621
+Final recall Score : ,0.855721115043149
+Final f1 Score : ,0.6139802305705833
+Date results: ,"{'precision': 0.5238095238095238, 'recall': 1.0, 'f_score': 0.6875000000000001}"
+Final precison Score : ,0.5243467197337944
+Final recall Score : ,0.8845768920345192
+Final f1 Score : ,0.6286841844564667
+Date results: ,"{'precision': 0.5099337748344371, 'recall': 0.4967741935483871, 'f_score': 0.5032679738562092}"
+Final precison Score : ,0.5219445622505682
+Final recall Score : ,0.8199431089534972
+Final f1 Score : ,0.6077814826897571
+Date results: ,"{'precision': 0.2582781456953642, 'recall': 0.6610169491525424, 'f_score': 0.37142857142857144}"
+Final precison Score : ,0.4842779313141105
+Final recall Score : ,0.797239371839075
+Final f1 Score : ,0.5740167810810163
+Date results: ,"{'precision': 0.34615384615384615, 'recall': 0.9473684210526315, 'f_score': 0.5070422535211268}"
+Final precison Score : ,0.46701242066907744
+Final recall Score : ,0.8160055029907696
+Final f1 Score : ,0.5656449651360301
+Date results: ,"{'precision': 0.2052980132450331, 'recall': 0.36046511627906974, 'f_score': 0.2616033755274262}"
+Final precison Score : ,0.4379330420664059
+Final recall Score : ,0.7653899044672474
+Final f1 Score : ,0.5318625662906297
+Date results: ,"{'precision': 0.4708333333333333, 'recall': 0.9576271186440678, 'f_score': 0.6312849162011174}"
+Final precison Score : ,0.4708333333333333
+Final recall Score : ,0.9576271186440678
+Final f1 Score : ,0.6312849162011174
+Date results: ,"{'precision': 0.9523809523809523, 'recall': 1.0, 'f_score': 0.975609756097561}"
+Final precison Score : ,0.7116071428571429
+Final recall Score : ,0.978813559322034
+Final f1 Score : ,0.8034473361493392
+Date results: ,"{'precision': 0.31788079470198677, 'recall': 0.7384615384615385, 'f_score': 0.4444444444444445}"
+Final precison Score : ,0.5803650268054241
+Final recall Score : ,0.8986962190352021
+Final f1 Score : ,0.683779705581041
+Date results: ,"{'precision': 0.21839080459770116, 'recall': 0.9047619047619048, 'f_score': 0.3518518518518519}"
+Final precison Score : ,0.4898714712534934
+Final recall Score : ,0.9002126404668778
+Final f1 Score : ,0.6007977421487437
+Date results: ,"{'precision': 0.5238095238095238, 'recall': 1.0, 'f_score': 0.6875000000000001}"
+Final precison Score : ,0.4966590817646995
+Final recall Score : ,0.9201701123735022
+Final f1 Score : ,0.6181381937189949
+Date results: ,"{'precision': 0.46124031007751937, 'recall': 0.7677419354838709, 'f_score': 0.5762711864406779}"
+Final precison Score : ,0.49075595315016945
+Final recall Score : ,0.8947654162252303
+Final f1 Score : ,0.6111603591726088
+Date results: ,"{'precision': 0.2375, 'recall': 0.9661016949152542, 'f_score': 0.3812709030100334}"
+Final precison Score : ,0.4545765312715738
+Final recall Score : ,0.904956313180948
+Final f1 Score : ,0.5783190082922409
+Date results: ,"{'precision': 0.34615384615384615, 'recall': 0.9473684210526315, 'f_score': 0.5070422535211268}"
+Final precison Score : ,0.44102369563185784
+Final recall Score : ,0.9102578266649085
+Final f1 Score : ,0.5694094139458517
+Date results: ,"{'precision': 0.18052256532066507, 'recall': 0.8837209302325582, 'f_score': 0.2998027613412229}"
+Final precison Score : ,0.4120791255972809
+Final recall Score : ,0.9073092826168695
+Final f1 Score : ,0.539453119212004
+Date results: ,"{'precision': 0.47280334728033474, 'recall': 0.9576271186440678, 'f_score': 0.6330532212885155}"
+Final precison Score : ,0.47280334728033474
+Final recall Score : ,0.9576271186440678
+Final f1 Score : ,0.6330532212885155
+Date results: ,"{'precision': 1.0, 'recall': 1.0, 'f_score': 1.0}"
+Final precison Score : ,0.7364016736401674
+Final recall Score : ,0.978813559322034
+Final f1 Score : ,0.8165266106442577
+Date results: ,"{'precision': 0.32, 'recall': 0.7384615384615385, 'f_score': 0.44651162790697674}"
+Final precison Score : ,0.5976011157601115
+Final recall Score : ,0.8986962190352021
+Final f1 Score : ,0.6931882830651641
+Date results: ,"{'precision': 0.22093023255813954, 'recall': 0.9047619047619048, 'f_score': 0.35514018691588783}"
+Final precison Score : ,0.5034333949596186
+Final recall Score : ,0.9002126404668778
+Final f1 Score : ,0.6086762590278451
+Date results: ,"{'precision': 0.55, 'recall': 1.0, 'f_score': 0.7096774193548387}"
+Final precison Score : ,0.5127467159676948
+Final recall Score : ,0.9201701123735022
+Final f1 Score : ,0.6288764910932437
+Date results: ,"{'precision': 0.46303501945525294, 'recall': 0.7677419354838709, 'f_score': 0.5776699029126214}"
+Final precison Score : ,0.5044614332156212
+Final recall Score : ,0.8947654162252303
+Final f1 Score : ,0.6203420597298067
+Date results: ,"{'precision': 0.2384937238493724, 'recall': 0.9661016949152542, 'f_score': 0.3825503355704698}"
+Final precison Score : ,0.46646604616329995
+Final recall Score : ,0.904956313180948
+Final f1 Score : ,0.58637181342133
+Date results: ,"{'precision': 0.34951456310679613, 'recall': 0.9473684210526315, 'f_score': 0.5106382978723405}"
+Final precison Score : ,0.45184711078123696
+Final recall Score : ,0.9102578266649085
+Final f1 Score : ,0.5769051239777063
+Date results: ,"{'precision': 0.18095238095238095, 'recall': 0.8837209302325582, 'f_score': 0.30039525691699603}"
+Final precison Score : ,0.42174769635580855
+Final recall Score : ,0.9073092826168695
+Final f1 Score : ,0.5461818054154052

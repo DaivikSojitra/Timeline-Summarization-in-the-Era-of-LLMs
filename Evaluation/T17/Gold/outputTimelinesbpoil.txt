@@ -1,0 +1,573 @@
+2010-04-20
+"['An explosion aboard the Deepwater Horizon drilling rig in the Gulf of Mexico , 52 miles -LRB- 84km -RRB- south-east of Venice , Louisiana , kills 11 workers .', 'Operator Transocean , under contract for BP , says it had no warning of trouble ahead of the blast .', 'The rig was drilling in about 5,000 ft -LRB- 1,525 m -RRB- of water , pushing the boundaries of deepwater drilling technology .']"
+--------------------------------
+2010-04-22
+"['The Deepwater Horizon sinks to the bottom of the Gulf after burning for 36 hours , raising concerns of a catastrophic oil spill .', 'A Coast Guard official says the Macondo well , which the rig had been drilling , could be releasing up to 8,000 barrels of oil per day .']"
+--------------------------------
+2010-04-23
+"['The Coast Guard says it had no indication that oil was leaking from the well 5,000 ft below the surface of the Gulf .']"
+--------------------------------
+2010-04-26
+"['In a reverse , officials reveal the well is leaking an estimated 1,000 barrels of oil per day and warn of environmental disaster .', 'Meanwhile , BP sends undersea robots to the wellhead in an unsuccessful effort to activate the blowout preventer , a piece of heavy kit mounted on top of the well to stem the flow of oil .']"
+--------------------------------
+2010-04-28
+['The US Coast Guard warns the oil leak could become the worst oil spill in US history .']
+--------------------------------
+2010-04-29
+"['The US Coast Guard sets fire to patches of spilled oil in an effort to prevent the slick from reaching the vulnerable Louisiana coastal wetlands .', ""President Barack Obama pledges `` every single available resource '' , including the military , to help in the response effort .""]"
+--------------------------------
+2010-04-30
+"['Oil from the leaking well begins washing ashore in Louisiana .', 'Soon fragile coastal wetlands are inundated with thick , brown mud .', ""President Barack Obama 's administration bans oil drilling in new areas off the US coast pending investigations into the cause of the BP spill ."", 'Before the spill , Mr Obama had said he would allow new offshore drilling .']"
+--------------------------------
+2010-05-02
+"['President Obama makes his first trip to the Gulf Coast and says BP is responsible for the leak and for paying for its clean-up .', ""`` We 're dealing with a massive and potentially unprecedented environmental disaster , '' he says ."", '`` The oil that is still leaking from the well could seriously damage the economy and the environment of our Gulf states .', 'And it could extend for a long time .', ""It could jeopardise the livelihoods of thousands of Americans who call this place home . ''""]"
+--------------------------------
+2010-05-08
+"[""BP 's effort to place a giant metal box atop the leaking well to contain the spill fails when ice crystals accumulate inside the box and engineers are forced to remove it ."", ""Meanwhile , officials revise the estimate of the leak 's rate upward to 5,000 barrels per day .""]"
+--------------------------------
+2010-05-10
+"[""BP officials weigh shoving debris , including golf balls and rubber tyres , into the leaking wellhead , a maneuver known as the `` junk shot '' ."", ""They also ready a `` top hat '' - a metal dome - to be placed over the leak ."", 'Meanwhile , BP reveals the oil spill has cost the company $ 350m -LRB- ¬ # 233m -RRB- so far .']"
+--------------------------------
+2010-05-11
+"['At a series of congressional hearings , BP , Transocean and Halliburton , the three companies involved in the Deepwater Horizon drilling operations , all blame each other for the disaster .']"
+--------------------------------
+2010-05-14
+"['Researchers who have analyzed underwater video from the leak site estimate as many as 70,000 barrels of oil are leaking into the Gulf per day , with a margin of error of plus or minus 20 % , significantly higher than earlier estimates .', 'BP tries to thread a tube into the broken wellhead in an effort to collect some of the leaking oil in surface ships .', ""Meanwhile , President Obama condemns the `` ridiculous spectacle '' of the companies trading blame while oil spews from the well .""]"
+--------------------------------
+2010-05-19
+"[""Oceanographers say oil from the leak has entered an ocean current - the `` loop current '' - that could carry it towards Florida and potentially up the US east coast .""]"
+--------------------------------
+2010-05-26
+"[""BP prepares to plug the leaking well with heavy drilling mud , a procedure called a `` top kill '' ."", 'The attempt is declared a failure three days later .']"
+--------------------------------
+2010-05-28
+"[""Obama visits the Gulf Coast again and declares `` the buck stops with me '' .""]"
+--------------------------------
+2010-05-30
+"[""Carol Browner , President Barack Obama 's adviser on energy policy , says the spill is the worst environmental disaster in US history , worse even than the 1989 Exxon Valdez spill in Alaska .""]"
+--------------------------------
+2010-06-02
+['The US announces a criminal inquiry into the BP oil spill .']
+--------------------------------
+2010-06-04
+"[""BP places a cap , called the `` lower marine riser package '' , atop the leaking wellhead ."", 'The cap allows the company to pipe much of the oil and gas leaking from the well to ships on the surface .', 'President Obama takes a third trip to the region .']"
+--------------------------------
+2010-06-08
+"['Adm Thad Allen , the commander of the US response , says clean-up of the oil-stricken Gulf could take years .', ""Meanwhile , President Obama says he has been consulting with experts so he can learn `` whose ass to kick '' in the matter ."", 'The US government says underwater oil plumes have traveled as far as 40 miles from the site of the leaking well .']"
+--------------------------------
+2010-06-10
+"['The US Geological Survey estimates the oil flow at as many as 40,000 barrels per day before a cap was put on the well on 3 June .', 'BP announces it is collecting 15,800 barrels per day from the well .']"
+--------------------------------
+2010-06-12
+"['Responding to complaints in the British media of an anti-British tone to his remarks , President Barack Obama tells UK Prime Minister David Cameron that his criticism of BP has nothing to do with national identity .']"
+--------------------------------
+2010-06-14
+['President Obama makes a fourth trip to the gulf .']
+--------------------------------
+2010-06-15
+"[""President Obama addresses the nation from the Oval Office , vowing , `` We will make BP pay for the damage their company has caused . ''""]"
+--------------------------------
+2010-06-17
+['BP announces it will place $ 20bn in a fund to compensate victims of the oil spill and says it will not pay a shareholder dividend this year .']
+--------------------------------
+2010-06-18
+"['BP chief executive Tony Hayward receives a tongue-lashing at a hearing in the US Congress .', ""Henry Waxman , chairman of the House Committee on Energy and Commerce , says BP 's `` complacency '' before the 20 April rig explosion was `` astonishing '' .""]"
+--------------------------------
+2010-06-22
+"[""A federal judge blocks the Obama administration 's six-month moratorium on deepwater oil drilling in the Gulf of Mexico , saying the ban can not be justified ."", 'The administration quickly issues another moratorium with revised terms .', 'Meanwhile , BP hands day-to-day control of the response to Bob Dudley , replacing Chief Executive Tony Hayward , who had been widely criticised for his insensitive remarks on the spill .']"
+--------------------------------
+2010-07-05
+"['BP says the oil spill response has cost the company $ 3.12 bn -LRB- ¬ # 2bn -RRB- , including the cost of containing the spill and cleaning up the oil , and the cost of drilling relief wells .', 'The figure also includes $ 147m paid out in compensation to some of those affected by the spill .']"
+--------------------------------
+2010-07-06
+"['Oil from the spill reaches Texas , meaning it has affected all five US Gulf Coast states .', 'But officials said it was unclear if the oil had drifted hundreds of kilometres from the leak site to the Texas shore , or had fallen from ships taking part in the clean-up operation .']"
+--------------------------------
+2010-07-10
+"['BP begins a bid to place a tighter-fitting cap atop the leaking wellhead .', 'The company warns that oil will flow freely while the caps are being exchanged , but says it has brought in 400 oil-skimming ships to deal with the increased flow .']"
+--------------------------------
+2010-07-14
+"['Adm Thad Allen says a relief well , which officials and BP have said is the only way permanently to plug the well , has come within 5ft -LRB- 1.5 m -RRB- of the leaking well bore .']"
+--------------------------------
+2010-07-15
+"['With the new cap in place , BP says it has temporarily shut off the oil flow in order to test the integrity of the well .', ""President Barack Obama hails `` a positive sign '' .""]"
+--------------------------------
+2010-07-19
+"[""Adm Allen tells BP he is concerned about a `` detected seep '' on the sea floor near the well and other `` undetermined anomalies '' ."", 'He said that if methane was found to be seeping from the sea floor , oil might also be leaking .']"
+--------------------------------
+2010-07-22
+"['Dozens of vessels , including the rig drilling a relief well to permanently block the damaged well , are ordered to leave the site as Tropical Storm Bonnie approaches .', 'BP warns that the final operation to plug the well could be delayed by up to two weeks by the storm .', 'The capped well is to remain unmonitored for several days .', ""Meanwhile , BP says it has been given permission to prepare for a `` static kill '' - pumping mud into the top of the well through the new cap - a step viewed as an intermediate measure ."", 'The firm would need final approval from the US to carry it out .']"
+--------------------------------
+2010-07-25
+"[""Ships involved in BP 's effort to secure the blown-out oil well prepare to resume work after a tropical storm in the Gulf of Mexico weakened ."", 'Coast Guard chief Adm Thad Allen says the storm put back efforts to drill a relief well by seven to 10 days .']"
+--------------------------------
+2010-07-26
+"[""The BBC reveals that 53-year old BP chief executive Tony Hayward will receive a year 's salary plus benefits , together worth more than ¬ # 1m , when he steps down ."", 'He will also be entitled to draw an annual pension of ¬ # 600,000 once he reaches the age of 55 .']"
+--------------------------------
+2010-07-27
+"['Mr Hayward will leave his post by October BP confirms that chief executive Tony Hayward will leave his post by mutual agreement in October , but he is likely to retain a position in the company .', 'BP plans to nominate him as a non-executive director of its Russian joint venture , TNK-BP .', ""Mr Hayward 's American colleague , Bob Dudley , who has taken charge of the clean-up operation , will replace him ."", ""Meanwhile , the oil giant 's second quarter earnings are published , showing losses of $ 17bn for the three months between April and June - a UK record ."", 'The company says it has set aside $ 32.2 bn -LRB- ¬ # 20.8 bn -RRB- to cover the costs linked to the Gulf of Mexico spill .']"
+--------------------------------
+2010-07-28
+"['US scientists say the oil from the well has cleared from the sea surface faster than expected , 100 days after the disaster began .']"
+--------------------------------
+2010-08-02
+"['The US Environmental Protection Agency says in a study the dispersant used after the spill is no more toxic than oil alone .', 'There had been concerns raised by congressional investigators that dispersant may have been more widely used than the government ordered .']"
+--------------------------------
+2010-08-03
+"['The US government says the oil spill is officially the biggest leak ever , with 4.9 million barrels of oil leaked before the well was capped last month .', 'Scientists said only a fifth of the leaking oil - around 800,000 barrels - was captured during the clean-up operation .']"
+--------------------------------
+2010-08-04
+"['The US government says three-quarters of the oil spilled in the Gulf has been cleaned up or broken down by natural forces .', ""Meanwhile , BP reports `` encouraging '' progress with the `` static kill '' operation to plug the well with mud and seal it with cement .""]"
+--------------------------------
+2010-08-09
+"['BP announces that the total cost to it of the oil spill so far has reached $ 6.1 bn -LRB- ¬ # 3.8 bn -RRB- .', 'The total includes the cost of the spill response , containment , relief well drilling , and cementing up of the damaged well .', 'It also includes grants to the Gulf states hit by the spill and $ 319m paid out in compensation to some of those affected by the spill .']"
+--------------------------------
+2010-08-16
+"[""The US announces that future applications for deepwater offshore drilling will require an environmental assessment , ending a practice that allowed BP 's Deepwater Horizon rig to drill with little scrutiny ."", ""The White House said decision-making must be `` fully informed '' by knowledge of any potential environmental consequences .""]"
+--------------------------------
+2010-08-19
+"['A study published in a leading scientific journal confirms the presence of a toxic chemical residue one kilometre below the surface of the Gulf of Mexico , but says it amounts to just 0.1 % of the total amount spilled .']"
+--------------------------------
+2010-09-03
+"['The blowout preventer that failed to stop the explosion on the Deepwater Horizon rig is removed from the stricken Gulf of Mexico oil well by BP .', 'The 300-ton device will be examined as part of the inquiry into the leak of 206m gallons of oil into the Gulf .', 'Meanwhile , the cost of the oil spill has risen to $ 8bn -LRB- ¬ # 5.2 bn -RRB- , BP says - a rise of some $ 2bn in the past month alone .']"
+--------------------------------
+2010-09-05
+"[""Thad Allen , the US coastguard official overseeing the clean-up operation , says the BP oil well at the center of the leak poses `` no further risk '' to the environment , despite the final stages of an operation to pump concrete into a relief well remaining unfinished .""]"
+--------------------------------
+2010-09-08
+"['In its own internal report into the Gulf of Mexico oil spill - the first to be published since the disaster - BP spreads the blame for the 11 April explosion and resulting leak .', 'In a 193-page report BP accepts responsibility in part for the disaster , but also blames other companies working on the well .']"
+--------------------------------
+2010-09-17
+['BP pumps cement to seal the damaged well after it was intercepted by a relief well .']
+--------------------------------
+2010-09-19
+"[""The ruptured well is finally sealed and `` effectively dead '' , says the top US federal official overseeing the disaster , Coast Guard Adm Thad Allen .""]"
+--------------------------------
+2010-04-20
+"['Government responds to late-night report that the offshore drilling rig Deepwater Horizon had exploded and was on fire .', 'The rig was located 45 miles southeast of Venice , La. , in the Gulf of Mexico .']"
+--------------------------------
+2010-04-21
+"['Several Coast Guard rescue helicopters and a rescue plane respond to the site , searching for 11 missing workers .', ""Interior Department 's No. 2 official , David Hayes , goes down to New Orleans ; Minerals Management Service -LRB- MMS -RRB- and Coast Guard establish operations centers near site of explosion .""]"
+--------------------------------
+2010-04-22
+"['Deepwater Horizon oil rig sinks .', 'Search-and-rescue operations includes 17 missions ‚ Äî 12 by air and five in the water .', 'National Response Team is activated .', 'Organization of 16 federal departments and agencies including the White House , Coast Guard , the departments of Defense , Homeland Security and Interior , and Environmental Protection Agency , among others .', 'President Barack Obama convenes an Oval Office meeting to discuss ongoing response efforts .', 'Remotely Operated Vehicle -LRB- ROV -RRB- with camera goes under water , confirms no visible oil flow from the well .', 'Chemical dispersants , intended to break up the oil slick , are readied .']"
+--------------------------------
+2010-04-23
+"['Authorities conduct 28 search-and-rescue operations covering about 5,300 square miles .', 'At 5 p.m. , the Coast Guard suspends the search for the missing 11 .', 'Rig is found upside down about quarter-mile from the blowout preventer .', 'Oil sheen is reported , no apparent leak discovered .', ""Homeland Security risk analysis says incident `` poses a negligible risk to regional oil supply markets and will not cause significant national economic impacts . ''"", ""White House press secretary Robert Gibbs is asked whether the incident might affect Obama 's plans to expand offshore drilling ."", ""`` I do n't honestly think it opens up a whole new series of questions , because , you know , in all honesty I doubt this is the first accident that has happened and I doubt it will be the last , '' Gibbs says .""]"
+--------------------------------
+2010-04-24
+"[""Homeland Security report on critical infrastructure says problem has `` no near-term impact to regional or national crude oil or natural gas supplies . ''"", 'Oil is found leaking from the well for the first time ; pressure and rate of release are unknown .']"
+--------------------------------
+2010-04-25
+"['20 more vessels and 500 responders deployed .', 'Oil leak is estimated at 1,000 barrels a day -LRB- 42,000 gallons -RRB- .', 'Homeland Security report says estimated discharge rate could reach 64,000 to 110,000 barrels of oil per day if were to completely blow out .', 'Five missions disperse about 13,000 gallons of chemical dispersants .', ""Homeland Security report : `` Current NOAA -LRB- National Oceanic and Atmospheric Administration -RRB- oil trajectories predict no oil threat to shoreline within next 72 hours . ''""]"
+--------------------------------
+2010-04-26
+"['Interior Secretary Ken Salazar instructs MMS to physically inspect all deepwater rigs within two weeks , followed by physical inspections of all deepwater platforms .', '10 missions disperse roughly 15,000 additional gallons of dispersants , and 21,000 feet of containment boom are placed at the spill site .', 'Homeland Security reports that attempts to activate blowout preventer valve through ROV are ineffective due to hydraulic leak on the valve .', 'Interior Department begins planning for alternative interventions if the ROV valve procedure continues to be unsuccessful .']"
+--------------------------------
+2010-04-27
+"['49 response vehicles are deployed ‚ Äî including barges , tugs , skimmers and recovery vessels Departments of Homeland Security and Interior announce joint investigation into spill , with investigators from MMS and Coast Guard .', ""Top administration officials ‚ Äî including Homeland Security Secretary Janet Napolitano , Salazar , White House senior adviser Valerie Jarrett and White House energy adviser Carol Browner ‚ Äî meet with BP 's chief executive , Tony Hayward , and other company executives ."", 'MMS approves plan for two relief wells .', ""Homeland Infrastructure and Risk Analysis Center -LRB- DHS -RRB- reports , `` marine ecology may be significantly more impacted than originally estimated based on more accurate -LRB- oil -RRB- release rate . ''"", ""Report also says : `` Release of crude oil , natural gas and diesel fuel poses a high risk of environmental contamination in the Gulf of Mexico . ''"", 'Obama , on a Midwest tour , visits a wind energy plant in Iowa and talks about the need to transition from fossil fuels to green energy .', ""He does n't mention the oil spill .""]"
+--------------------------------
+2010-04-28
+"[""BP 's attempts to repair hydraulic leak on the blowout preventer valve unsuccessful Homeland Security report projects that based on drift calculations , oil may reach shoreline late Friday or early Saturday ."", 'Controlled burn conducted .', 'An additional 42,000 gallons of dispersants are used .', 'A third oil leak is discovered , and the Coast Guard revises estimates of the leak from 1,000 to 5,000 barrels of oil a day .', 'At the White House , the bad news is discussed at a hastily called meeting in the Situation Room .', ""Obama is called and briefed on Air Force One , though the subject does n't come up during a discussion the president has with his traveling press pool a short time later ."", 'The Coast Guard holds a late evening briefing in Louisiana to update the media on the developments .']"
+--------------------------------
+2010-04-29
+"[""Napolitano declares disaster a `` spill of national significance '' Napolitano , EPA Administrator Lisa Jackson and other officials hold news briefing at White House with Gibbs ."", ""Napolitano says declaration builds on efforts `` already under way from Day One . ''"", 'Obama talks about spill in the Rose Garden , his first public comments on the issue .', 'Obama orders Salazar to complete report on safety measures for offshore drilling within 30 days , says no new leases will go forward without needed safeguards .', 'Salazar meets with oil and gas executives .']"
+--------------------------------
+2010-04-30
+"['Obama sends Napolitano , Salazar and other top officials to Gulf Coast .', 'Defense Secretary Robert Gates approves request for two C-130 planes to respond to incident .']"
+--------------------------------
+2010-05-01
+"['Napolitano names the Coast Guard commandant , Adm. Thad Allen , point man for the response .']"
+--------------------------------
+2010-05-02
+"['Obama visits the Gulf to inspect response operations An additional 30 vessels and 1,000 responders are deployed to Gulf Coast']"
+--------------------------------
+2010-04-20
+"['Explosion and fire on the BP-licensed Transocean drilling rig Deepwater Horizon in the Gulf of Mexico .', 'Eleven people are reported missing and approximately 17 injured .', 'A blowout preventer , intended to prevent release of crude oil , failed to activate .', 'Deepwater Horizon oil rig fire leaves 11 missing']"
+--------------------------------
+2010-04-22
+"['Deepwater Horizon rig sinks in 5,000 ft of water .', 'Reports of a five-mile-long oil slick .', 'Search-and-rescue operations by the US National Response Team begin .']"
+--------------------------------
+2010-04-23
+"['The US coast guard suspends the search for missing workers , who are all presumed dead .', 'The rig is found upside down about a quarter-mile from the blowout preventer .', ""A homeland security department risk analysis says the incident `` poses a negligible risk to regional oil supply markets and will not cause significant national economic impacts '' ."", ""White House press secretary Robert Gibbs says : `` I doubt this is the first accident that has happened and I doubt it will be the last . ''"", 'Deepwater Horizon clean-up workers fight to prevent disaster']"
+--------------------------------
+2010-04-24
+"['Oil is found to be leaking from the well .', ""A homeland security report on critical infrastructure says the problem has `` no near-term impact to regional or national crude oil or natural gas supplies . ''""]"
+--------------------------------
+2010-04-25
+"['US coast guard remote underwater cameras report the well is leaking 1,000 barrels of crude oil per day -LRB- bpd -RRB- .', 'It approves a plan for remote underwater vehicles to activate a blowout preventer and stop the leak .', 'Underwater robots try to seal well']"
+--------------------------------
+2010-04-26
+"[""BP 's shares fall 2 % amid fears that the cost of cleanup and legal claims will hit the London-based company hard ."", 'Roughly 15,000 gallons of dispersants and 21,000 ft of containment boom are placed at the spill site .']"
+--------------------------------
+2010-04-27
+"['The US departments of interior and homeland security announce plans for a joint investigation of the explosion and fire .', 'The coast guard announces it will set fire to the leaking crude to slow the spread of oil in the Gulf .', 'Oil spill to be set on fire to save US coast Minerals Management Service -LRB- MMS -RRB- approves a plan for two relief wells .', ""The homeland department 's infrastructure and risk analysis center reports : `` Release of crude oil , natural gas and diesel fuel poses a high risk of environmental contamination in the Gulf of Mexico . ''"", 'BP reports a rise in profits , due in large part to oil price increases , as shares rise again .', 'BP profits jump after oil price rise In pictures : fire on the Deepwater Horizon oil rig']"
+--------------------------------
+2010-04-28
+"['The coast guard says the flow of oil is 5,000 bpd , five times greater than first estimated , after a third leak is discovered .', ""Gulf oil spill ` five times ' larger than estimated Controlled burns begin on the giant oil slick ."", ""BP 's attempts to repair a hydraulic leak on the blowout preventer valve are unsuccessful .""]"
+--------------------------------
+2010-04-29
+"['President Obama talks about the spill at the White House , his first public comments on the issue .', ""He pledges `` every single available resource '' , including the US military , to contain the spreading spill , and also says BP is responsible for the cleanup ."", ""Louisiana declares a state of emergency due to the threat to the state 's natural resources , as the oil slick approaches land ."", ""Deepwater Horizon oil slick to hit US coast within hours Oil spill approaches Gulf coast , threatening economy and environment BP 's shares plummet as the crisis continues .""]"
+--------------------------------
+2010-04-30
+"['An Obama aide says no drilling will be allowed in new areas until the cause of the Deepwater Horizon accident is established .', 'US bans new drilling in Gulf of Mexico The US justice department announces that a team of lawyers is monitoring the spill .', 'Safety inspections of all 30 deepwater drilling rigs and 47 deepwater production platforms are ordered .', 'BP chairman Tony Hayward says the company will take full responsibility for the spill , paying for all legitimate claims and the cost for the cleanup .', 'Conservationists warn of impending disaster for wildlife in the area of the spill .', ""Conservationists warn of ` true catastrophe ' for wildlife Interactive graphic : species under threat""]"
+--------------------------------
+2010-05-01
+['The coast guard announces the leak will affect the Gulf shore .']
+--------------------------------
+2010-05-02
+"['US officials close areas affected by the spill to fishing for an initial period of 10 days .', 'Obama visits the Gulf coast to see cleanup efforts first hand .', ""Barack Obama flies to Louisiana as BP 's Deepwater Horizon oil spill spreads BP starts to drill a relief well alongside the failed well ."", 'An additional 30 vessels and 1,000 responders are deployed to the Gulf coast .', ""BP 's efforts to contain the leak""]"
+--------------------------------
+2010-05-04
+"['BP executives face Congress in a closed session , as the White House backs a Senate proposal to increase the limit on liability payouts from $ 75m to $ 10bn -LRB- ¬ # 6.5 bn -RRB- for the cost of a spill .', 'Deepwater Horizon oil spill sparks calls for $ 10bn levy on BP and drilling ban']"
+--------------------------------
+2010-05-05
+"['BP successfully attaches a valve to the end of the broken drilling pipe at the Macondo well in a bid to end the flow of oil into the US Gulf .', 'BP says one of the three leaks has been shut off by capping a valve , but that would not reduce the amount of oil gushing out .', 'Officials conduct controlled burns to remove oil from the open water .', 'BP stems one of three Deepwater Horizon oil leaks , US coast guard says The White House attempts to limit the political fallout by documenting actions taken since the leak began .', 'Obama attempts to limit political fallout In pictures : Deepwater Horizon oil spill closes in on US coastline']"
+--------------------------------
+2010-05-06
+"['BP confirms the arrival of three huge containment domes designed to collect much of the 5,000 bpd leaking into the US Gulf from the Macondo blowout .', 'Containment dome reaches Gulf oil spill scene The department of justice asks Transocean to preserve evidence in connection with the explosion and sinking of the rig .', 'Toxic pink oily seawater washes ashore on the Chandeleur Islands off the Louisiana coast , an important nesting and breeding area for many bird species .', 'Hayward tells the BBC that the blowout preventer owned by Transocean was at fault for the leak .', ""BP , he said , `` will be judged not on the basis of an accident that , you know , frankly was not our accident '' ."", 'Analysts put the cost of the spill for BP at ¬ # 15bn .', ""BP ` facing ¬ # 15bn loss ' over Gulf of Mexico oil spill""]"
+--------------------------------
+2010-05-07
+"['BP engineers use undersea robots to move the containment chamber over the larger of the two remaining leaks on the seabed .', 'This containment method has never before been attempted at such a depth .', 'Efforts to close valves on a failed blowout preventer with underwater robots are abandoned .', 'Deepwater team attempts to put 100-tonne box over blown-out oil well Video recreation of cofferdam method A fishing ban for federal waters off the Gulf is extended to 17 May .']"
+--------------------------------
+2010-05-08
+"[""BP 's containment dome hits a snag when a buildup of crystallised gas forces engineers to postpone efforts to place the chamber over the oil leak and draw the oil to the surface ."", 'Quick fix dashed as BP tower fails to contain oil A BP report blames the explosion on a methane bubble .', 'Blast triggered by methane bubble , report shows Tar balls suspected to come from the leak wash up along a half-mile stretch of Dauphin Island , Alabama .']"
+--------------------------------
+2010-05-09
+"[""BP says it might try to plug the undersea leak by pumping materials such as shredded tyres and golf balls into the well at high pressure , a method called a `` junk shot '' ."", 'Plugging the leak']"
+--------------------------------
+2010-05-10
+"[""BP announces plans to place a small containment dome , known as a `` top hat '' , over the blown-out well to funnel oil to the surface , as Hayward holds a press conference ."", 'BP press conference live']"
+--------------------------------
+2010-05-11
+"['At a hearing before the Senate committee on energy and natural resources , representatives of the three oil companies involved in the Deepwater drilling blame each other for the accident .', ""Halliburton , which cemented BP 's well , claims to have met BP 's stated requirements for the task and cites the failure of Transocean 's blowout preventer ."", ""Transocean 's CEO says the blowout preventer was successfully tested a week before the accident ; he also blames BP and Halliburton for the inadequate cementing believed to have led to the explosion ."", ""BP 's president says that Transocean , as owner\\/operator of the drilling rig , is responsible for safety ."", 'Gulf oil spill hearing - as it happened']"
+--------------------------------
+2010-05-12
+"['After the failure of the four-storey-high dome to draw oil from the major leak , BP lowers a five-foot-high dome to attempt to cover the smaller leak .', 'The congressional hearing is told BP , Halliburton and Transocean ignored safety warnings in the hours before the Deepwater explosion .', 'Firms ignored warning signs before blast , inquiry hears']"
+--------------------------------
+2010-05-13
+"['Steve Wereley , a researcher at Purdue University , tells the press he believes the well is leaking 70,000 bpd .', 'BP releases underwater footage of the effort to stem the leak .', ""First underwater video footage of oil leak The New York Times reports that `` a half-dozen current and former agency scientists '' for the Minerals Management Service -LRB- MMS -RRB- claim they were `` regularly pressured by agency officials to change the findings of their internal studies if they predicted that an accident was likely to occur or if wildlife might be harmed '' ."", 'The article states that the MMS has allowed hundreds of drilling projects without obtaining legally required permits .', 'US said to allow drilling without needed permits']"
+--------------------------------
+2010-05-14
+"['BP plans to insert a 4in-tube into the ruptured 21in riser pipe that would take the oil to the surface .', 'If that fails , they will use the small containment dome that has already been lowered .', 'Both methods are intended to reduce , not to stop , the leak .', 'BP using undersea robots to try to plug Gulf oil leak BP boss admits job on the line over Gulf oil spill Obama complains : `` I did not appreciate what I considered to be a ridiculous spectacle during the congressional hearings into this matter .', ""You had executives of BP and Transocean and Halliburton falling over each other to point the finger of blame at somebody else ‚ Ä ¶ it is pretty clear that the system failed , and it failed badly . ''""]"
+--------------------------------
+2010-05-16
+"['The tube begins to draw oil to the surface .', 'The volume of oil traveling through the tube is gradually increased to avoid the hydrate formation that doomed the large containment dome .', 'Submerged oil plumes suggest gulf spill is worse than BP claims']"
+--------------------------------
+2010-05-18
+"['Obama plans to establish an independent commission to investigate the oil leak , according to an anonymous administration official .', 'As the spill continues to spread , the no fishing zone is doubled to 19 % of the Gulf waters .', 'Atlantic coast now under threat as current spreads Gulf oil slick']"
+--------------------------------
+2010-05-20
+"['BP reports that the amount of oil drawn off by the tube has increased to 5,000 bpd .', 'Given that BP had previously estimated the entire leak at 5,000 bpd and the tube only draws off a fraction of the spill , the leak must be much larger than previously estimated .', 'Experts testifying at the congressional hearing put the figure at 20,000-100 ,000 barrels per day .', ""How big is the slick from BP 's Deepwater Horizon ?""]"
+--------------------------------
+2010-05-24
+"['The tube inserted into the leaking pipe captures much less oil than expected .', 'BP admits Deepwater rescue is capturing less oil']"
+--------------------------------
+2010-05-26
+"['BP pumps thousands of barrels of mud into the well in an attempt to plug the leak .', 'The process , known as top kill , fails to overcome the flow of oil .', ""A White House leak shows Obama ended a briefing with the terse command : `` Plug the damn hole . ''"", ""White House leak reveals Barack Obama 's reaction to news of oil spill""]"
+--------------------------------
+2010-05-30
+"[""Hayward causes outrage after telling reporters , `` There 's no one who wants this over more than I do ."", ""I would like my life back . ''"", ""BP 's clumsy response to oil spill threatens to make a bad situation worse""]"
+--------------------------------
+2010-06-01
+"['US launches a criminal investigation into the oil spill .', 'BP could face ban as US launches criminal investigation']"
+--------------------------------
+2010-06-02
+"['Titanic director James Cameron assists the clean-up process .', 'James Cameron enters fight against oil spill']"
+--------------------------------
+2010-06-03
+"['BP begins an advertising campaign in the US aimed at boosting opinion .', 'Hayward features in the first .', ""America 's toughest job : fronting BP 's television commercials BP faces political flack over its decision to pay out more than $ 10bn -LRB- ¬ # 6.8 bn -RRB- in dividends to shareholders , despite the deepening crisis ."", 'BP to go ahead with $ 10bn shareholder payout']"
+--------------------------------
+2010-06-04
+"['Attempts to place a cap over the valves that were meant to prevent the rig from leaking show signs of success .', 'BP shares top risers as engineers assess latest oil spill operation']"
+--------------------------------
+2010-06-06
+"['BP announces the containment cap is capturing 10,000 barrels of oil a day ; approximately half the total amount being leaked .', ""BP capturing ' 10,000 barrels of oil ' a day from Gulf of Mexico""]"
+--------------------------------
+2010-06-07
+"['The widows of two of the oil rig workers give testimony before a congressional committee .', 'Deepwater Horizon widow asks : how do I tell my children their father is dead ?']"
+--------------------------------
+2010-06-08
+"[""In an interview on NBC Obama says he would have sacked BP 's chief executive if he had been working for him ."", ""` If he was working for me I 'd sack him ' ‚ Äì Obama turns up heat on BP boss""]"
+--------------------------------
+2010-06-11
+"[""David Cameron calls BP 's chairman , Carl-Henric Svanberg , to a meeting at Downing Street to discuss the oil disaster ."", 'David Cameron caught between Tory right and Obama']"
+--------------------------------
+2010-06-12
+"['Scientists double their estimate of the scale of the spill to 40,000 barrels a day .', 'Scale of BP oil leak revised up to 40,000 barrels a day']"
+--------------------------------
+2010-06-14
+"['Obama compares the BP oil spill to 9\\/11 .', 'Barack Obama compares oil spill to 9\\/11']"
+--------------------------------
+2010-06-15
+"[""Fitch ratings agency cuts BP 's credit rating as the cost of the spill continues to escalate ."", 'BP credit rating slashed as oil spill costs mount']"
+--------------------------------
+2010-06-16
+"['BP agrees to a $ 20bn -LRB- ¬ # 13.5 bn -RRB- downpayment towards compensation for victims of the oil spill .', ""Barack Obama 's pound of flesh : $ 20bn compensation and no BP dividends Actor Kevin Costner provides the clean-up operation with oil-water separation machines he developed with his brother ."", ""Kevin Costner 's oil-water separation machines help with clean-up""]"
+--------------------------------
+2010-06-17
+"[""Hayward is accused by members of the US Congress of `` stonewalling '' after failing to answer a series of questions about the spill 's causes ."", 'Tony Hayward stonewalls Congress']"
+--------------------------------
+2010-06-18
+"[""BP 's credit rating is downgraded by Moody 's after expressing concern at the escalating cost of the cleanup and the potential cost of litigation claims ."", ""BP credit rating downgraded after Tony Hayward 's grilling by Congress""]"
+--------------------------------
+2010-06-19
+"[""One of BP 's partners , Anadarko Petroleum , refuses to accept any responsibility for the Deepwater Horizon explosion despite owning a quarter of the well ."", ""Its chief executive , Jim Hackett , says BP 's actions probably amounted to `` gross negligence or wilful misconduct '' ."", ""BP oil spill caused by ` negligence or misconduct ' , says drilling partner""]"
+--------------------------------
+2010-06-20
+"['Photographs of Hayward attending a yacht race on the Isle of Wight with his son cause anger in the US .', ""BP chief 's weekend sailing trip stokes anger at oil company""]"
+--------------------------------
+2010-06-21
+"['A Deepwater Horizon worker claims that the oil rig was leaking several weeks before it exploded .', 'Deepwater Horizon worker claims oil rig leaking weeks before explosion']"
+--------------------------------
+2010-06-22
+"['Hayward fails to make an appearance at a gathering of the oil industry on the same day that control of the oil disaster passes to American Bob Dudley .', ""Greenpeace protesters storm the stage during his replacement 's speech ."", ""BP 's beleaguered Tony Hayward disappears from view Protesters disrupt BP speech as Tony Hayward pulls out""]"
+--------------------------------
+2010-06-23
+"[""An accident puts BP 's oil cap out of action , allowing oil to flow unhindered for several hours ."", 'Gulf oil spill flow increases after accident forces BP to remove cap']"
+--------------------------------
+2010-06-25
+"['BP shares hit a 14-year low of 304p after the clean-up bill reaches $ 2.35 bn .', 'BP share slide as oil spill bill climbs to $ 2.35 bn']"
+--------------------------------
+2010-06-28
+"[""Russia 's top energy official says he expects Hayward to step down soon ."", 'BP denies he is close to resigning .', ""Tony Hayward set to step down , Russian official claims The Guardian publishes a letter from 171 artists , critics and writers complaining about BP 's sponsorship of Tate Britain ."", ""Curators , crude oil and an outdated cultural mix Protesters disrupt Tate Britain 's party celebrating 10 years of BP sponsorship , throwing molasses over the steps of the gallery ."", 'Art activists take on the Tate crowd over BP']"
+--------------------------------
+2010-06-30
+"[""Hurricane Alex causes heavy seas , disrupting BP 's clean-up efforts ."", 'First hurricane of season hits BP oil spill clean-up']"
+--------------------------------
+2010-07-05
+"['BP announces the cost of the oil spill has now risen to over $ 3bn .', 'The company asks its partners , Anadarko and Mitsui Oil Exploration , to contribute almost $ 400m .', 'BP asks oil spill partners to pay $ 400m']"
+--------------------------------
+2010-07-06
+"[""BP 's share price rises as speculation mounts that the company is looking for international investors ."", 'BP shares rise on hopes of international rescue']"
+--------------------------------
+2010-07-07
+"[""There are more than 27,000 abandoned oil wells in the Gulf of Mexico from a host of companies including BP , according to an investigation by Associated Press , which describes the area as ` an environmental minefield that has been ignored for decades ' ."", 'Some of them date back to the 1940s .', 'State officials estimate that tens of thousands of them are badly sealed .', ""Abandoned oil wells make Gulf of Mexico ` environmental minefield '""]"
+--------------------------------
+2010-07-09
+"[""A US appeals court rejects the federal government 's effort to restore an offshore deepwater drilling moratorium , opening the door to resumed drilling in the Gulf of Mexico while the legal fight continues ."", 'The same appeals court is expected to hear arguments on the merits of the moratorium case in late August or early September .', 'US appeals court opens door to new drilling in Gulf of Mexico']"
+--------------------------------
+2010-07-11
+"['BP begin their latest attempt to seal the leak .', 'Robots remove a leaking cap from the well , to allow a replacement containment system to be installed .', 'BP begins new operation to seal off leaking Deepwater Horizon well']"
+--------------------------------
+2010-07-12
+"['With the latest attempt to stem the leak reportedly going well , BP shares rise .', ""BP shares rise as Deepwater Horizon well repairs progress ` as planned ' A commission appointed by Obama to uncover the cause of the oil spill is told of `` friction '' between BP and Transocean , the operator of the Deepwater Horizon ."", ""Barack Obama 's investigation hears of ` friction '""]"
+--------------------------------
+2010-07-13
+"['BP successfully installs a new , more tightly fitting containment cap on the ruptured wellhead .', 'The next step is to test the internal pressure in the well to establish whether the flow has been stopped .', ""New cap ` successfully installed ' on leaking well""]"
+--------------------------------
+2010-07-15
+"['Hillary Clinton pledges to looks into claims BP lobbied for the release of the Lockerbie bomber .', 'BP faces Lockerbie allegations BP stops the flow of oil for the first time in 87 days , raising hopes that it could be sealed off for good .', 'The company says it will have to monitor the cap for 48 hours before it can be sure it will hold .', 'BP stops oil leak in Gulf of Mexico for first time since April']"
+--------------------------------
+2010-07-19
+"['Fears about the new cap are raised after engineers detect seepage and a possible methane gas leak on the seabed .', ""Admiral Thad Allen , who is in charge of the US government 's response , has written to BP demanding answers to `` undetermined anomalies at the wellhead '' ."", 'BP has yet to respond .', 'Shares in BP fall more than 5 % on the news .', 'BP oil cap may not have stopped leak BP shares lead FTSE 100 lower on new spill worries David Cameron agrees to meet four US senators to discuss concerns that BP lobbied the British government ahead of the decision to release the Lockerbie bomber , Abdelbaset al-Megrahi , last year .', 'The prime minister , who is embarking on a US visit , had previously stated that his schedule was too full to include a meeting .', ""Cameron to discuss Megrahi 's release with US senators""]"
+--------------------------------
+2010-07-20
+"['Allen grants BP a further 24 hours to test the new containment cap , but warns that the government may insist on reopening the well if concerns over seepage intensify .', 'US gives BP 24 hours to monitor capped oil well']"
+--------------------------------
+2010-07-21
+"['BP admits to using Photoshop to exaggerate the level of activity at the Gulf oil spill command center .', ""The picture , posted on the company 's website , shows staff monitoring 10 giant video screens ."", 'In reality , three of the screens were blank .', 'BP admits using Photoshop to exaggerate oil spill command center activity David Cameron warns US legislators not to single out BP over oil damages .', 'In an interview on ABC television he argues : `` Would it be right to have legislation that independently targets BP rather than other companies ?', ""I do n't think that would be right ... Would it be right to say that BP has to pay compensation for damages that were nothing to do directly with the spill ?"", ""I do n't think that would be right '' Do n't single out BP over oil damages , David Cameron warns US""]"
+--------------------------------
+2010-07-23
+"['It is revealed that the Deepwater Horizon alarms were switched off at the time of the explosion to allow workers to sleep undisturbed .', ""Deepwater Horizon alarms were switched off ` to help workers sleep '""]"
+--------------------------------
+2010-07-25
+"['As the storm passes , crews return to the site in order to finish work on relief wells before the hurricane season starts .', 'Efforts to plug BP oil leak resume after storm passes']"
+--------------------------------
+2010-07-26
+"['The BP chief executive , Tony Hayward , is to leave the company , to be replaced by Bob Dudley , a BP veteran overseeing the clean-up .', 'Tony Hayward to quit BP']"
+--------------------------------
+2010-07-27
+"['Greenpeace activists close 46 BP garages in central London in a move to force the company to become greener .', ""Safety switches at the pumps were stolen in order to close them down , action that BP called `` childish and irresponsible '' ."", 'BP petrol stations have pumps closed by Greenpeace activists']"
+--------------------------------
+2010-07-28
+"['Tony Hayward points out that he will be too busy to attend a Senate hearing .', ""He told journalists : `` I have got a busy week -LRB- in the office -RRB- '' ."", 'BP said it would send another representative to testify at the hearing .', ""Tony Hayward 's parting shot : ` I 'm too busy to attend Senate hearing ' ''""]"
+--------------------------------
+2010-07-29
+"['Shell refuses to rule out pursuing BP for damages .', 'It suffered a $ 56m -LRB- ¬ # 36m -RRB- loss because of the moratorium on drilling in the US imposed in the wake of the disaster .', 'Shell could pursue BP for Gulf damages']"
+--------------------------------
+2010-08-01
+"['BP offers one-off lump sum payments to claimants who waive their right to sue the company in an attempt to stem the tide of compensation claims arising from the Gulf oil spill .', 'BP offers one-off payouts to stem Gulf oil spill lawsuits']"
+--------------------------------
+2010-08-02
+"[""BP will attempt to stem the flow of oil with a ` static kill ' in the next 24 hours ."", 'The procedure involves pumping heavy drilling mud and cement into the well .', ""BP ` static kill ' due in next 24 hours""]"
+--------------------------------
+2010-08-03
+"['A whistleblower group reveals scientists within the US Environmental Protection Agency raised concerns with superiors over a chemical dispersant approved for use in the Gulf .', 'BP sprayed almost 2m gallons of Corexit on the slick and at the leak site on the seabed .', ""Obama administration 's scientists admit alarm over chemicals Texan oil company Anadarko Petroleum , which owns 25 % of the Macondo well , is expected to reveal it has been billed $ 1bn -LRB- ¬ # 630m -RRB- by BP so far for its share of cleaning up the oil spill ."", 'Japanese company Mitsui , which owns 10 % , has been billed $ 480m .', 'BP charges well partner Anadarko $ 1bn for its share of oil spill clean up']"
+--------------------------------
+2010-08-04
+"[""BP says the ` static kill ' attempt to stop the oil leak has been successful , though more mud may still have to be pumped into the well to close it permanently ."", ""BP says ` static kill ' has successfully plugged oil well Legislation introduced into the Senate by Democrats to cap oil spill compensation claims at $ 75m has been stopped because there was n't enough support from within the party ."", ""Oil spill damages legislation thwarted in Senate by Democrats BP says the ` static kill ' attempt to stop the oil leak has been successful , though more mud may still have to be pumped into the well to close it permanently ."", 'BP oil spill mostly cleaned up , says US The US government announces that the majority of oil from the BP spill has been cleaned up .', 'BP oil spill mostly cleaned up , says US']"
+--------------------------------
+2010-08-05
+"['The White House is accused of spinning a report about the amount of oil cleaned up from the Gulf Oil spill .', 'Experts labeled their estimation that the vast majority of the oil had been removed as far too optimistic .', 'Gulf oil spill : White House accused of spinning report BP pumps cement into the blown-out well to permanently seal the leak .', 'BP pumps cement into blown-out oil well to seal it for good']"
+--------------------------------
+2010-08-06
+"['BP suggests it may return for oil to the , recently leaking , Macondo well .', ""Obama 's administration responds by saying such a decision would have to be made by well licensing authorities , rather than BP ."", 'The exchange is the latest in an ongoing struggle between BP and the US government .', 'BP risks Obama row by hinting it may return to stricken oil well']"
+--------------------------------
+2010-08-11
+"['BP suspends drilling of relief well to allow a tropical storm , believed to be heading for the Gulf of Mexico , to pass .', 'Tropical storm forces BP to halt relief well drilling']"
+--------------------------------
+2010-08-15
+"['Barack Obama goes for a swim with his daughter in the Gulf sea .', 'BP oil spill : Barack Obama dives into safety debate with Gulf of Mexico swim It is revealed that BP has yet to update its oil spill emergency plan more than three months after the Deepwater Horizon rig exploded .', 'Errors include the identification of the sea walrus as an animal in need of protection , despite there being none in the Gulf , and the listing of a wildlife expert who died four years before the plan was approved .', 'BP yet to update emergency plan three months after Deepwater Horizon spill']"
+--------------------------------
+2010-08-16
+"['The Obama administration calls for environmental reviews for all new deepwater oil drilling .', 'The announcement comes after a report revealed that BP received environmental exemptions based on outdated data .', 'US government calls for new laws to halt repeat of deepwater oil spill']"
+--------------------------------
+2010-08-19
+"['Bill Lehr , a senior scientist at the NOAA , disputes White House claims that the worst of the oil spill is over , claiming that three-quarters of the oil remains in the Gulf environment .', 'Under questioning at a Congress committee hearing , Lehr contradicted an earlier report in which he had stated that most of the oil had been cleaned up .', 'US scientist retracts assurances over success of cleanup']"
+--------------------------------
+2010-08-25
+"[""BP 's poor reputation , following the Gulf of Mexico oil spill , forces it to pull out of a bid to drill in the Arctic ."", 'BP frozen out of Arctic oil drilling race']"
+--------------------------------
+2010-08-26
+"[""BP 's share price begins to rise after a positive investment report from Credit Suisse ."", 'BP boosted as FTSE 100 recovers from seven week low']"
+--------------------------------
+2010-09-03
+"['BP announces it is a fortnight away from permanently sealing the Deepwater Horizon oil well leak .', ""BP : Deepwater Horizon oil well will be permanently sealed ` in two weeks '""]"
+--------------------------------
+2010-09-07
+"[""The world 's smallest seahorse faces extinction following the BP oil spill ."", ""The Zoological Society of London 's seahorse team warns that the destruction of so much of the dwarf seahorses ' habitat could lead to a dangerous drop in population levels ."", ""World 's smallest seahorse faces extinction after BP oil spill""]"
+--------------------------------
+2010-09-08
+"['BP releases its own report into the Deepwater oil spill , in which it accepts some responsibility for the disaster , but claims that other companies must bear some of the blame .', 'BP oil spill report ‚ Äì as it happened The company recognizes its failure to spot warning signs hours before the explosion .', 'Gulf oil disaster : BP admits missing warning signs hours before blast']"
+--------------------------------
+2010-09-16
+"[""BP falls out of a major marketing consultancy 's list of the top 100 brands ."", ""The fallout from the Deepwater Horizon spill led to BP being left off Interbrand 's index for the first time in 11 years ."", 'BP falls out of index of top 100 brands after Deepwater Horizon oil spill']"
+--------------------------------
+2010-09-19
+"['BP finally seals off the ruptured well .', ""Five months after Deepwater Horizon blew , a cement plug leaves it `` effectively dead '' ."", ""Five months after BP oil rig disaster , US government declares well ` dead '""]"
+--------------------------------
+2010-09-20
+"[""BP 's clean-up costs following the explosion of Deepwater Horizon nears $ 10bn -LRB- ¬ # 6.4 bn -RRB- BP oil spill cost hits nearly $ 10bn The day after it is confirmed that the leaking well has been successfully and permanently plugged , shares in BP rise by 8p ."", ""The US campaign group Public Citizen also calls off its boycott of BP , and some analysts predict that the company 's legal costs could be well below the ¬ # 13bn it has set aside ."", ""Gulf oil spill : investors cheered as fears over BP 's future dissipate""]"
+--------------------------------
+2010-09-23
+"['Scientists estimate that a total of 4.4 m barrels of oil were released into the Gulf of Mexico during the nearly three months the well leaked .', 'BP spill released 4.4 m barrels of oil into the ocean , study finds']"
+--------------------------------
+2010-09-28
+"[""A Whitehouse commission appointed to investigate the spill criticises the government for under-estimating the spill 's seriousness ."", 'Barack Obama under fire for grossly underestimating Gulf oil spill']"
+--------------------------------
+2010-10-01
+"['Bob Dudley takes over as chief executive of BP following the departure of Tony Hayward .', ""Dudley : the quiet American restoring oil firm 's fortunes""]"
+--------------------------------
+2010-10-07
+"['White House report finds that government scientists were blocked by Obama administration from reporting the full extent of BP oil spill in the early stages .', ""White House blocked and put spin on scientists ' warnings""]"
+--------------------------------
+2010-10-10
+"['BP announces that its external safety ombudsman , put in place after the fatal explosion at its Texas City refinery in 2005 , will stop taking complaints after June 2011 .', 'BP plans to close its US safety watchdog']"
+--------------------------------
+2010-10-12
+"[""The Obama administration 's six-month moratorium on new deepwater drilling operations ends ."", 'Environmental groups express concern over the decision , while supporters of offshore drilling dismiss the announcement , arguing that the moratorium is effectively still in place due to continuing uncertainty over new drilling regulations .', 'US drops oil drilling moratorium']"
+--------------------------------
+2010-10-29
+"['BP and Halliburton accused of not taking proper measures which could have prevented Deepwater Horizon explosion .', 'BP and Halliburton knew of Gulf oil well cement flaws']"
+--------------------------------
+2010-11-02
+"['BP increases the estimated total cost of the oil spill to $ 40bn , $ 7.7 bn more than previously expected .', 'BP oil spill costs to hit $ 40bn']"
+--------------------------------
+2010-11-09
+"['Chair of US commission is scathing about the safety regime on board the Deepwater Horizon .', 'US oil spill inquiry chief slams BP']"
+--------------------------------
+2010-11-11
+"[""Ex-BP boss says when oil spill hit , BP was forced to make up disaster response as it went along Tony Hayward : Public saw us as ` fumbling and incompetent '""]"
+--------------------------------
+2010-11-12
+"[""Greenland wants upfront payment to cover major oil spills in wake of BP 's Gulf of Mexico disaster Greenland wants $ 2bn bond from oil firms keen to drill in its Arctic waters""]"
+--------------------------------
+2010-11-24
+"[""Ken Feinberg expects to pay out only $ 2.3 bn in emergency claims over Gulf of Mexico oil spill from $ 20bn fund Half of BP oill spill damages claims ` inadequate ' , says payout chief""]"
+--------------------------------
+2010-11-25
+"[""Tar balls discovered in shrimping net seven months after BP 's Deepwater Horizon oil spill Section of Gulf of Mexico closed to shrimpers after tar balls found""]"
+--------------------------------
+2010-12-15
+"['The US government files a suit against BP and several of its partners in the Gulf of Mexico oil disaster .', 'The action , which could potentially cost BP billions in legal costs , accuses the company of violating safety regulations and seeks unlimited damages to cover the cost of cleaning up the oil , losses suffered by local businesses and harm caused to the environment .', 'United States sues BP over Gulf oil disaster']"
+--------------------------------
+2010-12-16
+"['A US embassy cable released by Wikileaks reveals that , 18 months before the Deepwater Horizon disaster , BP suffered a similar blowout in Azerbaijan .', 'BP suffered blowout on Azerbaijan gas platform']"
+--------------------------------
+2011-01-06
+"['The White House oil commission concludes that the oil spill in the Gulf of Mexico was the result of systematic management failure at BP , Transocean and Halliburton .', ""BP cost-cutting blamed for ` avoidable ' Deepwater Horizon oil spill""]"
+--------------------------------
+2010-04-20
+"['An explosion and fire on the BP-operated drilling rig Deepwater Horizon kills 11 workers .', 'Thousands of gallons of oil begin gushing into the Gulf of Mexico from the blown-out well .']"
+--------------------------------
+2010-04-29
+"[""President Barack Obama makes his first public statement about `` the worsening oil spill . ''"", ""He pledges `` every single available resource '' to contain the slick , including Pentagon assistance if necessary .""]"
+--------------------------------
+2010-05-14
+"[""Then-BP CEO Tony Hayward tells reporters that the amount of oil spilled is relatively small given the Gulf of Mexico 's size ."", ""`` The Gulf of Mexico is a very big ocean , '' he says ."", ""`` The amount of volume of oil and dispersant we are putting into it is tiny in relation to the total water volume . ''""]"
+--------------------------------
+2010-05-28
+"[""Hayward says the `` top kill '' effort to plug the well is progressing as planned and had a 60 to 70 percent chance of success , the same odds he gave before the maneuver ."", 'The next day the company announces that the effort failed .']"
+--------------------------------
+2010-05-30
+"[""Hayward , who is British , shocks Gulf residents when he says `` I 'd like my life back . ''"", ""He also disputes scientists ' claims that there are large plumes of oil under the surface of the Gulf .""]"
+--------------------------------
+2010-06-16
+['BP agrees to put $ 20 billion into an escrow fund to settle economic injury claims by fishermen and various Gulf industries .']
+--------------------------------
+2010-06-22
+"[""A federal judge strikes down the Obama administration 's six-month ban on deepwater drilling in the Gulf , saying the government rashly concluded that other rigs could be in immediate danger .""]"
+--------------------------------
+2010-07-01
+"['Based on the high end of government estimates , the spill surpasses the 140 million gallon mark .', 'That eclipses the 1979 Ixtoc disaster in the Gulf and means the BP spill now ranks as the biggest offshore oil spill during peacetime .']"
+--------------------------------
+2010-07-15
+"['After 85 days , BP manages to stanch the leak with a massive cap .', 'The cap holds until a more permanent solution is put into place .']"
+--------------------------------
+2010-07-26
+"['BP says Hayward will step down on Oct. 1 and be succeeded by American Robert Dudley .', 'BP said it planned to recommend Hayward for a non-executive board position at its joint venture in Russia .']"
+--------------------------------
+2010-09-19
+['Federal officials say the well has been sealed for good after workers drill a relief well into the damaged one and insert a permanent cement plug .']
+--------------------------------
+2010-10-12
+"[""Obama 's administration lifts the six-month moratorium on deep water oil drilling in the Gulf ."", 'Interior Secretary Ken Salazar says new rules imposed after the BP spill have strengthened safety measures .']"
+--------------------------------
+2010-12-15
+"['The Justice Department files suit against BP and eight other companies over the accident , asking they be held liable for removal costs and damages caused by the explosion and spill .']"
+--------------------------------
+2011-01-12
+['The 380-page report from government-appointed National Oil Spill Commission finds that time - and money-saving decisions created an unreasonable amount of risk that triggered the Deepwater Horizon explosion .']
+--------------------------------
+2012-03-02
+"['A few days before the trial was to begin , BP and lawyers for the plaintiffs in a trial over the 2010 oil spill reach a settlement .', 'Tens of thousands of people waiting for money from a fund being managed by Ken Feinberg , the Gulf Coast Claims Facility , can take what the settlement offers them or opt out and make a claim directly to a BP-run entity .', ""They can sue if they do n't like what they get from that fund .""]"
+--------------------------------
+2012-11-15
+"['BP agrees to pay $ 4.5 billion in a settlement with the U.S. government over the massive 2010 oil spill and to plead guilty to felony counts related to the deaths of 11 workers and lying to Congress .', 'The figure includes nearly $ 1.3 billion in criminal fines ‚ Äî the largest such penalty ever ‚ Äî along with payments to several government entities .', 'Two BP well site leaders are charged with manslaughter , and a former executive is charged with lying to authorities .']"
+--------------------------------
+2010-04-20
+"['Deepwater Horizon drilling rig explodes about 42 miles off Louisiana , killing 11 men .']"
+--------------------------------
+2010-04-22
+"['The rig , having burned and been showered with water during firefighting efforts , sinks .', ""The force of the sinking breaks off the rig 's drillpipe , allowing oil to spew out into the gulf .""]"
+--------------------------------
+2010-05-02
+['The federal government closes 3 percent of federal waters in the gulf to fishing .']
+--------------------------------
+2010-05-06
+"[""BP tries to stop the spill by lowering a 98-ton `` containment dome '' over the leak ."", 'The effort eventually fails , as crystallized gases cause the containment dome to become unexpectedly buoyant .']"
+--------------------------------
+2010-05-26
+"[""BP begins `` top kill '' attempt , shooting mud down the drillpipe in an attempt to clog the leaking well ."", 'After several days , the effort is abandoned .']"
+--------------------------------
+2010-05-27
+['President Obama announces a six-month moratorium on new deepwater drilling in the gulf .']
+--------------------------------
+2010-06-02
+"[""37 percent of federal waters in the gulf are closed to fishing , the largest extent of the summer 's closures .""]"
+--------------------------------
+2010-07-15
+"['The well is finally closed .', ""BP closes the last valves on a tight-fitting `` containment cap , '' and the well stops leaking after 87 days ."", 'The government estimates that 4.9 million barrels -LRB- 205.8 million gallons -RRB- leaked , 19 times the size of the Exxon Valdez spill .']"
+--------------------------------
+2010-09-17
+"[""BP begins `` bottom kill , '' a final injection of cement at the well 's base that rendered it physically incapable of spilling another drop .""]"
+--------------------------------
+2010-10-01
+"[""Tony Hayward , BP 's chief executive when the spill began , steps down ."", ""Hayward had come under criticism for verbal gaffes during the spill , including a statement that `` I would like my life back . ''""]"
+--------------------------------
+2010-10-12
+"['Obama lifts the moratorium on deep-water drilling ahead of schedule , pledging stricter oversight of safety on rigs .']"
+--------------------------------
+2010-10-15
+"['The government re-opens nearly 7,000 square miles of federal waters to fishing , the ninth re-opening since the leak was capped .', 'Only 7 percent of federal waters in the gulf remain closed to fishing .']"
+--------------------------------
